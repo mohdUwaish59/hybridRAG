@@ -1,3 +1,4 @@
 # Ignore all virtualenv folders with names like 'something-env'
 **/*-env/
 .env
+**/.env

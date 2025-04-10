@@ -99,9 +99,9 @@ def main():
 
     # Step 4: Save Knowledge Graph to Neo4j Aura
     neo4j_service = Neo4jService(
-        uri="neo4j+s://76617872.databases.neo4j.io",
+        uri=os.getenv("NEO4J_URI"),
         username="neo4j",
-        password="8YOnIGe-iYHAX0u_C5qTH8eo9_lm5tkiA2eFCdLYmlg"
+        password=os.getenv("NEO4J_PASSWORD"),
     )
     try:
         neo4j_service.save_triplets(all_triplets)

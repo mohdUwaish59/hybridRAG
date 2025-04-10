@@ -1,7 +1,7 @@
 # main.py - Main pipeline for graph retrieval and context formatting
 from services.neo4j_service import Neo4jService
 from utils.logger import get_logger
-
+import os
 logger = get_logger("Main Pipeline")
 
 def main():
@@ -9,9 +9,9 @@ def main():
 
     # Initialize Neo4j service
     neo4j_service = Neo4jService(
-        uri="neo4j+s://76617872.databases.neo4j.io",
+        uri=os.getenv("NEO4J_URI"),
         username="neo4j",
-        password="8YOnIGe-iYHAX0u_C5qTH8eo9_lm5tkiA2eFCdLYmlg"
+        password=os.getenv("NEO4J_PASSWORD"),
     )
     
     try:

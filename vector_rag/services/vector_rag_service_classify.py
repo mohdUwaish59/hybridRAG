@@ -15,7 +15,7 @@ from typing import List
 import logging
 from config import CHROMADB_DIRECTORY, COLLECTION_NAME, OPENAI_API_KEY, CLASSIFICATION_MODEL_PATH, OPENAI_API_KEY
 
-OPENAI_API_KEY = "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"# Set up logging
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logger = logging.getLogger("VectorService")
 
