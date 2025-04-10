@@ -19,7 +19,7 @@ The system dynamically selects retrieval strategies based on query classificatio
 
 ## System Architecture
 
-![HybridRAG System Architecture](assets/Flowcharts - hybrid-rag (2).jpg)
+![HybridRAG System Architecture](assets/hybrid.jpg)
 
 ## Installation
 
