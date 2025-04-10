@@ -8,6 +8,9 @@ HybridRAG is an advanced Retrieval-Augmented Generation system designed specific
 
 The system dynamically selects retrieval strategies based on query classification, enabling more precise and context-aware responses across a spectrum of query types, from explicit fact retrieval to complex reasoning tasks.
 
+## Working Demo
+
+**Try it out:** [Live Demo](https://georag-app.streamlit.app/)
 ## Key Features
 
 - **Query Classification**: Automatically categorizes queries into Explicit Facts, Implicit Reasoning, Hidden Rationale, or Interpretable Rationale to optimize retrieval strategy
