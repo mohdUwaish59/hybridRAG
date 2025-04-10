@@ -2,8 +2,6 @@
 
 ## Text Information Extraction System for Georock Research Papers
 
-![HybridRAG System](https://imgur.com/placeholder/400/200)
-
 ## Overview
 
 HybridRAG is an advanced Retrieval-Augmented Generation system designed specifically for extracting and reasoning with geochemical information from scientific literature. By integrating vector-based semantic retrieval with graph-based structured knowledge extraction, HybridRAG significantly improves the accuracy, relevance, and reasoning capabilities of information retrieval from complex scientific texts.
@@ -21,7 +19,7 @@ The system dynamically selects retrieval strategies based on query classificatio
 
 ## System Architecture
 
-![HybridRAG System Architecture](./assets/hybrid.png)
+![HybridRAG System Architecture](assets/hybrid.png)
 
 ## Installation
 
