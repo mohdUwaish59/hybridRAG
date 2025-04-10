@@ -21,36 +21,7 @@ The system dynamically selects retrieval strategies based on query classificatio
 
 ## System Architecture
 
-```
-                       ┌───────────────────┐
-                       │   User Query      │
-                       └─────────┬─────────┘
-                                 │
-                       ┌─────────▼─────────┐
-                       │ Query Classification│
-                       └─────────┬─────────┘
-                                 │
-              ┌─────────────────┴───────────────┐
-              │                                 │
-    ┌─────────▼─────────┐           ┌──────────▼───────────┐
-    │    VectorRAG      │           │      GraphRAG        │
-    │ Semantic Retrieval │           │ Structured Retrieval │
-    └─────────┬─────────┘           └──────────┬───────────┘
-              │                                │
-              └─────────────┬─────────────────┘
-                            │
-                ┌───────────▼─────────────┐
-                │  Context Fusion         │
-                └───────────┬─────────────┘
-                            │
-                ┌───────────▼─────────────┐
-                │ Response Generation     │
-                └───────────┬─────────────┘
-                            │
-                ┌───────────▼─────────────┐
-                │      Response          │
-                └───────────────────────┘
-```
+![HybridRAG System Architecture](./assets/hybrid.png)
 
 ## Installation
 
@@ -74,18 +45,7 @@ docker run -p 7474:7474 -p 7687:7687 -e NEO4J_AUTH=neo4j/password neo4j:latest
 ## Requirements
 
 ```
-langchain>=0.0.267
-openai>=1.3.0
-neo4j>=5.11.0
-chromadb>=0.4.15
-grobid-client>=0.8.0
-spacy>=3.7.0
-sentence-transformers>=2.2.2
-faiss-cpu>=1.7.4
-matplotlib>=3.7.2
-scikit-learn>=1.3.0
-transformers>=4.34.0
-ragas>=0.0.18
+pip install -r requirements.txt
 ```
 
 ## Data Preprocessing
@@ -106,35 +66,7 @@ python src/preprocessing/generate_embeddings.py --input_dir /path/to/chunks --ou
 python src/graph/build_knowledge_graph.py --input_dir /path/to/chunks --neo4j_uri bolt://localhost:7687
 ```
 
-## Usage
 
-### Basic Query Interface
-
-```python
-from hybrid_rag import HybridRAG
-
-# Initialize the system
-system = HybridRAG(
-    vector_db_path="path/to/chroma_db",
-    neo4j_uri="bolt://localhost:7687",
-    neo4j_user="neo4j",
-    neo4j_password="password",
-    model_name="gpt-4"
-)
-
-# Query the system
-response = system.query("What factors influence uranium isotope fractionation in sedimentary environments?")
-print(response)
-```
-
-### Running the Web Interface
-
-```bash
-# Start the web interface
-python app.py --host 0.0.0.0 --port 8000
-```
-
-Then open your browser and navigate to `http://localhost:8000`
 
 ## Query Examples
 
@@ -194,73 +126,6 @@ HybridRAG outperforms the baseline RAG system in:
 
 For detailed performance metrics, see the [evaluation report](docs/evaluation_report.md).
 
-## Project Structure
-
-```
-HybridRAG/
-│
-├── src/
-│   ├── preprocessing/
-│   │   ├── extract_text.py
-│   │   ├── clean_and_chunk.py
-│   │   └── generate_embeddings.py
-│   │
-│   ├── classification/
-│   │   ├── query_classifier.py
-│   │   └── train_classifier.py
-│   │
-│   ├── vector_rag/
-│   │   ├── embedding_utils.py
-│   │   └── vector_retriever.py
-│   │
-│   ├── graph_rag/
-│   │   ├── entity_extraction.py
-│   │   ├── triplet_formation.py
-│   │   └── graph_retriever.py
-│   │
-│   ├── hybrid_rag/
-│   │   ├── context_merger.py
-│   │   └── response_generator.py
-│   │
-│   └── evaluation/
-│       ├── evaluate.py
-│       └── metrics.py
-│
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   ├── embeddings/
-│   └── knowledge_graph/
-│
-├── models/
-│   ├── classifier/
-│   └── saved_models/
-│
-├── notebooks/
-│   ├── data_exploration.ipynb
-│   ├── model_training.ipynb
-│   └── evaluation_analysis.ipynb
-│
-├── app/
-│   ├── static/
-│   ├── templates/
-│   └── app.py
-│
-├── docs/
-│   ├── evaluation_report.md
-│   └── api_documentation.md
-│
-├── tests/
-│   ├── test_preprocessing.py
-│   ├── test_classification.py
-│   ├── test_vector_rag.py
-│   ├── test_graph_rag.py
-│   └── test_hybrid_rag.py
-│
-├── requirements.txt
-├── setup.py
-└── README.md
-```
 
 ## Future Work
 
