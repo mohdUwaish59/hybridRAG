@@ -1,0 +1,2842 @@
+{
+    "metadata": {
+        "title": "Evidence for a broadly distributed Samoan-plume signature in the northern Lau and North Fiji Basins",
+        "abstract": "Geochemical enrichment of lavas in the northern Lau Basin may reflect the influx of Samoanplume mantle into the region. We report major and trace element abundances and He-Sr-Nd-Hf-Pbisotopic measurements for 23 submarine volcanic glasses covering 10 locations in the northern Lau and North Fiji Basins, and for three samples from Wallis Island, which lies between Samoa and the Lau Basin. These data extend the western limit of geochemical observations in the Basins and improve the resolution of North-South variations in isotopic ratios. The Samoan hot spot track runs along the length of the northern trace of the Lau and North Fiji Basins. We find evidence for a Samoan-plume component in lavas as far West as South Pandora Ridge (SPR), North Fiji Basin. Isotopic signatures in SPR samples are similar to those found in Samoan Upolu shield lavas, but show a slight shift toward MORB-like compositions. We explain the origin of the enriched signatures by a model in which Samoan-plume material and ambient depleted mantle undergo decompression melting during upwelling after transiting from beneath the thick Pacific lithosphere to beneath the thin lithosphere in the northern Lau and North Fiji Basins. Other lavas found in the region with highly depleted isotopic signatures may represent isolated pockets of depleted mantle in the basins that evaded this enrichment process. We further find that mixing between the two components in our model, a variably degassed high-3 He/ 4 He Samoan component and depleted MORB, can explain the diversity among geochemical data from the northern Lau Basin.",
+        "authors": [
+            {
+                "name": "AllisonAPrice",
+                "affiliation": [
+                    {
+                        "department": "Department of Earth Science",
+                        "institution": "University of California",
+                        "address": {
+                            "settlement": "Santa Barbara",
+                            "region": "California",
+                            "postcode": "93106"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "MatthewGJackson",
+                "affiliation": [
+                    {
+                        "department": "Department of Earth Science",
+                        "institution": "University of California",
+                        "address": {
+                            "settlement": "Santa Barbara",
+                            "region": "California",
+                            "postcode": "93106"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "JanneBlichert-Toft",
+                "affiliation": [
+                    {
+                        "department": null,
+                        "institution": "Ecole Normale Sup eriere de Lyon and Universit e Claude",
+                        "address": {
+                            "settlement": "Lyon",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "PaulSHall",
+                "affiliation": [
+                    {
+                        "department": "Department of Earth and Environment",
+                        "institution": "Boston University",
+                        "address": {
+                            "settlement": "Boston",
+                            "region": "Massachusetts",
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "JohnMSinton",
+                "affiliation": [
+                    {
+                        "department": "School of Earth Ocean Science and Technology",
+                        "institution": "University of Hawaii at Manoa",
+                        "address": {
+                            "settlement": "Honolulu",
+                            "region": "Hawaii",
+                            "postcode": null
+                        }
+                    },
+                    {
+                        "department": "He [Poreda",
+                        "institution": null,
+                        "address": {
+                            "settlement": null,
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "MarkDKurz",
+                "affiliation": [
+                    {
+                        "department": "Department of Marine Chemistry",
+                        "institution": "Woods Hole Oceanographic Institution",
+                        "address": {
+                            "settlement": "Massachusetts",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "JerzyBlusztajn",
+                "affiliation": [
+                    {
+                        "department": "Department of Marine Geology and Geophysics",
+                        "institution": "Woods Hole Oceanographic Institution",
+                        "address": {
+                            "settlement": null,
+                            "region": "Massachusetts",
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "J.-MAuzende",
+                "affiliation": []
+            },
+            {
+                "name": "BPelletier",
+                "affiliation": []
+            },
+            {
+                "name": "J.-PEissen",
+                "affiliation": []
+            },
+            {
+                "name": "JJBecker",
+                "affiliation": []
+            },
+            {
+                "name": "GBegg",
+                "affiliation": []
+            },
+            {
+                "name": "DRGray",
+                "affiliation": []
+            },
+            {
+                "name": "MBevis",
+                "affiliation": []
+            },
+            {
+                "name": "JBlichert-Toft",
+                "affiliation": []
+            },
+            {
+                "name": "CChauvel",
+                "affiliation": []
+            },
+            {
+                "name": "FAlbare",
+                "affiliation": []
+            },
+            {
+                "name": "De",
+                "affiliation": []
+            },
+            {
+                "name": "TMBrocher",
+                "affiliation": []
+            },
+            {
+                "name": "SCalmant",
+                "affiliation": []
+            },
+            {
+                "name": "BPelletier",
+                "affiliation": []
+            },
+            {
+                "name": "PLebellegard",
+                "affiliation": []
+            },
+            {
+                "name": "MBevis",
+                "affiliation": []
+            },
+            {
+                "name": "FWTaylor",
+                "affiliation": []
+            },
+            {
+                "name": "DAPhillips",
+                "affiliation": []
+            },
+            {
+                "name": "JCaulfield",
+                "affiliation": []
+            },
+            {
+                "name": "STurner",
+                "affiliation": []
+            },
+            {
+                "name": "ISmith",
+                "affiliation": []
+            },
+            {
+                "name": "LBCooper",
+                "affiliation": []
+            },
+            {
+                "name": "GAJenner",
+                "affiliation": []
+            },
+            {
+                "name": "AJCrawford",
+                "affiliation": []
+            },
+            {
+                "name": "SMeffre",
+                "affiliation": []
+            },
+            {
+                "name": "PASymonds",
+                "affiliation": []
+            },
+            {
+                "name": "RADuncan",
+                "affiliation": []
+            },
+            {
+                "name": "SEscrig",
+                "affiliation": []
+            },
+            {
+                "name": "A",
+                "affiliation": []
+            },
+            {
+                "name": "SLGoldstein",
+                "affiliation": []
+            },
+            {
+                "name": "CHLangmuir",
+                "affiliation": []
+            },
+            {
+                "name": "PJMichael",
+                "affiliation": []
+            },
+            {
+                "name": "SEscrig",
+                "affiliation": []
+            },
+            {
+                "name": "A",
+                "affiliation": []
+            },
+            {
+                "name": "CHLangmuir",
+                "affiliation": []
+            },
+            {
+                "name": "PJMichael",
+                "affiliation": []
+            },
+            {
+                "name": "RJArculus",
+                "affiliation": []
+            },
+            {
+                "name": "AEwart",
+                "affiliation": []
+            },
+            {
+                "name": "KDCollerson",
+                "affiliation": []
+            },
+            {
+                "name": "MRegelous",
+                "affiliation": []
+            },
+            {
+                "name": "JIWendt",
+                "affiliation": []
+            },
+            {
+                "name": "YNiu",
+                "affiliation": []
+            },
+            {
+                "name": "TJFalloon",
+                "affiliation": []
+            },
+            {
+                "name": "KAFarley",
+                "affiliation": []
+            },
+            {
+                "name": "JNatland",
+                "affiliation": []
+            },
+            {
+                "name": "HCraig",
+                "affiliation": []
+            },
+            {
+                "name": "AGale",
+                "affiliation": []
+            },
+            {
+                "name": "CADalton",
+                "affiliation": []
+            },
+            {
+                "name": "CHLangmuir",
+                "affiliation": []
+            },
+            {
+                "name": "YSu",
+                "affiliation": []
+            },
+            {
+                "name": "J.-GSchilling",
+                "affiliation": []
+            },
+            {
+                "name": "JEGeorgen",
+                "affiliation": []
+            },
+            {
+                "name": "MDKurz",
+                "affiliation": []
+            },
+            {
+                "name": "HJ BDick",
+                "affiliation": []
+            },
+            {
+                "name": "JLin",
+                "affiliation": []
+            },
+            {
+                "name": "DGiardini",
+                "affiliation": []
+            },
+            {
+                "name": "JHWoodhouse",
+                "affiliation": []
+            },
+            {
+                "name": "JBGill",
+                "affiliation": []
+            },
+            {
+                "name": "JBGill",
+                "affiliation": []
+            },
+            {
+                "name": "PMWhelan",
+                "affiliation": []
+            },
+            {
+                "name": "JBGill",
+                "affiliation": []
+            },
+            {
+                "name": "PMWhelan",
+                "affiliation": []
+            },
+            {
+                "name": "HMGonnermann",
+                "affiliation": []
+            },
+            {
+                "name": "SMukhopadhyay",
+                "affiliation": []
+            },
+            {
+                "name": "RGovers",
+                "affiliation": []
+            },
+            {
+                "name": "MJ RWortel",
+                "affiliation": []
+            },
+            {
+                "name": "AGrzesczyk",
+                "affiliation": []
+            },
+            {
+                "name": "CLefevre",
+                "affiliation": []
+            },
+            {
+                "name": "MMonzier",
+                "affiliation": []
+            },
+            {
+                "name": "J.-PEissen",
+                "affiliation": []
+            },
+            {
+                "name": "JDupont",
+                "affiliation": []
+            },
+            {
+                "name": "PMaillet",
+                "affiliation": []
+            },
+            {
+                "name": "DHahm",
+                "affiliation": []
+            },
+            {
+                "name": "DRHilton",
+                "affiliation": []
+            },
+            {
+                "name": "PRCastillo",
+                "affiliation": []
+            },
+            {
+                "name": "JWHawkins",
+                "affiliation": []
+            },
+            {
+                "name": "BBHanan",
+                "affiliation": []
+            },
+            {
+                "name": "EHHauri",
+                "affiliation": []
+            },
+            {
+                "name": "SHart",
+                "affiliation": []
+            },
+            {
+                "name": "SHart",
+                "affiliation": []
+            },
+            {
+                "name": "MCoetzee",
+                "affiliation": []
+            },
+            {
+                "name": "RWorkman",
+                "affiliation": []
+            },
+            {
+                "name": "JBlusztajn",
+                "affiliation": []
+            },
+            {
+                "name": "KJohnson",
+                "affiliation": []
+            },
+            {
+                "name": "JSinton",
+                "affiliation": []
+            },
+            {
+                "name": "BSteinberger",
+                "affiliation": []
+            },
+            {
+                "name": "JHawkins",
+                "affiliation": []
+            },
+            {
+                "name": "EKHauri",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "JWHawkins",
+                "affiliation": []
+            },
+            {
+                "name": "JNatland",
+                "affiliation": []
+            },
+            {
+                "name": "JHergt",
+                "affiliation": []
+            },
+            {
+                "name": "JWoodhead",
+                "affiliation": []
+            },
+            {
+                "name": "DRHilton",
+                "affiliation": []
+            },
+            {
+                "name": "KHammerschmidt",
+                "affiliation": []
+            },
+            {
+                "name": "GLoock",
+                "affiliation": []
+            },
+            {
+                "name": "HFriedrichsen",
+                "affiliation": []
+            },
+            {
+                "name": "AWHofmann",
+                "affiliation": []
+            },
+            {
+                "name": "MHonda",
+                "affiliation": []
+            },
+            {
+                "name": "DBPatterson",
+                "affiliation": []
+            },
+            {
+                "name": "IMcdougall",
+                "affiliation": []
+            },
+            {
+                "name": "TJFalloon",
+                "affiliation": []
+            },
+            {
+                "name": "MGJackson",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "NShimizu",
+                "affiliation": []
+            },
+            {
+                "name": "JSBlusztajn",
+                "affiliation": []
+            },
+            {
+                "name": "MGJackson",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "AA PKoppers",
+                "affiliation": []
+            },
+            {
+                "name": "HStaudigel",
+                "affiliation": []
+            },
+            {
+                "name": "JKonter",
+                "affiliation": []
+            },
+            {
+                "name": "JBlusztajn",
+                "affiliation": []
+            },
+            {
+                "name": "MKurz",
+                "affiliation": []
+            },
+            {
+                "name": "JARussell",
+                "affiliation": []
+            },
+            {
+                "name": "MGJackson",
+                "affiliation": []
+            },
+            {
+                "name": "MKurz",
+                "affiliation": []
+            },
+            {
+                "name": "SHart",
+                "affiliation": []
+            },
+            {
+                "name": "RKWorkman",
+                "affiliation": []
+            },
+            {
+                "name": "MGJackson",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "JGKonter",
+                "affiliation": []
+            },
+            {
+                "name": "AA PKoppers",
+                "affiliation": []
+            },
+            {
+                "name": "HStaudigel",
+                "affiliation": []
+            },
+            {
+                "name": "MDKurz",
+                "affiliation": []
+            },
+            {
+                "name": "JBlusztajn",
+                "affiliation": []
+            },
+            {
+                "name": "JMSinton",
+                "affiliation": []
+            },
+            {
+                "name": "FEJenner",
+                "affiliation": []
+            },
+            {
+                "name": "RJArculus",
+                "affiliation": []
+            },
+            {
+                "name": "JAMavrogenes",
+                "affiliation": []
+            },
+            {
+                "name": "NJDyriw",
+                "affiliation": []
+            },
+            {
+                "name": "ONebel",
+                "affiliation": []
+            },
+            {
+                "name": "EHHauri",
+                "affiliation": []
+            },
+            {
+                "name": "KT MJohnson",
+                "affiliation": []
+            },
+            {
+                "name": "JMSinton",
+                "affiliation": []
+            },
+            {
+                "name": "KT MJohnson",
+                "affiliation": []
+            },
+            {
+                "name": "JMSinton",
+                "affiliation": []
+            },
+            {
+                "name": "RCPrice",
+                "affiliation": []
+            },
+            {
+                "name": "KAKelley",
+                "affiliation": []
+            },
+            {
+                "name": "TPlank",
+                "affiliation": []
+            },
+            {
+                "name": "TLGrove",
+                "affiliation": []
+            },
+            {
+                "name": "EMStolper",
+                "affiliation": []
+            },
+            {
+                "name": "SNewman",
+                "affiliation": []
+            },
+            {
+                "name": "EHauri",
+                "affiliation": []
+            },
+            {
+                "name": "JGKonter",
+                "affiliation": []
+            },
+            {
+                "name": "MGJackson",
+                "affiliation": []
+            },
+            {
+                "name": "AA PKoppers",
+                "affiliation": []
+            },
+            {
+                "name": "JARussell",
+                "affiliation": []
+            },
+            {
+                "name": "MGJackson",
+                "affiliation": []
+            },
+            {
+                "name": "JKonter",
+                "affiliation": []
+            },
+            {
+                "name": "HStaudigel",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "AA PKoppers",
+                "affiliation": []
+            },
+            {
+                "name": "JARussell",
+                "affiliation": []
+            },
+            {
+                "name": "JRoberts",
+                "affiliation": []
+            },
+            {
+                "name": "MGJackson",
+                "affiliation": []
+            },
+            {
+                "name": "JKonter",
+                "affiliation": []
+            },
+            {
+                "name": "DJWright",
+                "affiliation": []
+            },
+            {
+                "name": "HStaudigel",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            },
+            {
+                "name": "ALPrice",
+                "affiliation": []
+            },
+            {
+                "name": "V C",
+                "affiliation": []
+            },
+            {
+                "name": "CHLangmuir",
+                "affiliation": []
+            },
+            {
+                "name": "A",
+                "affiliation": []
+            },
+            {
+                "name": "SEscrig",
+                "affiliation": []
+            },
+            {
+                "name": "SWParman",
+                "affiliation": []
+            },
+            {
+                "name": "LeBas",
+                "affiliation": []
+            },
+            {
+                "name": "MJ",
+                "affiliation": []
+            },
+            {
+                "name": "RWLe Maitre",
+                "affiliation": []
+            },
+            {
+                "name": "AStreckeisen",
+                "affiliation": []
+            },
+            {
+                "name": "BZanettin",
+                "affiliation": []
+            },
+            {
+                "name": "JELupton",
+                "affiliation": []
+            },
+            {
+                "name": "RJArculus",
+                "affiliation": []
+            },
+            {
+                "name": "RRGreene",
+                "affiliation": []
+            },
+            {
+                "name": "LJEvans",
+                "affiliation": []
+            },
+            {
+                "name": "CIGoddard",
+                "affiliation": []
+            },
+            {
+                "name": "JELupton",
+                "affiliation": []
+            },
+            {
+                "name": "RJArculus",
+                "affiliation": []
+            },
+            {
+                "name": "FEJenner",
+                "affiliation": []
+            },
+            {
+                "name": "RRGreene",
+                "affiliation": []
+            },
+            {
+                "name": "MLLytle",
+                "affiliation": []
+            },
+            {
+                "name": "KAKelley",
+                "affiliation": []
+            },
+            {
+                "name": "EHHauri",
+                "affiliation": []
+            },
+            {
+                "name": "JBGill",
+                "affiliation": []
+            },
+            {
+                "name": "DPapia",
+                "affiliation": []
+            },
+            {
+                "name": "RJArculus",
+                "affiliation": []
+            },
+            {
+                "name": "GAMacdonald",
+                "affiliation": []
+            },
+            {
+                "name": "TKatsura",
+                "affiliation": []
+            },
+            {
+                "name": "CGMacpherson",
+                "affiliation": []
+            },
+            {
+                "name": "DRHilton",
+                "affiliation": []
+            },
+            {
+                "name": "JMSinton",
+                "affiliation": []
+            },
+            {
+                "name": "RJPoreda",
+                "affiliation": []
+            },
+            {
+                "name": "HCraig",
+                "affiliation": []
+            },
+            {
+                "name": "WFMcdonough",
+                "affiliation": []
+            },
+            {
+                "name": "S.-SSun",
+                "affiliation": []
+            },
+            {
+                "name": "IMcdougall",
+                "affiliation": []
+            },
+            {
+                "name": "DWMillen",
+                "affiliation": []
+            },
+            {
+                "name": "MWHamburger",
+                "affiliation": []
+            },
+            {
+                "name": "JHNatland",
+                "affiliation": []
+            },
+            {
+                "name": "JHNatland",
+                "affiliation": []
+            },
+            {
+                "name": "JHNatland",
+                "affiliation": []
+            },
+            {
+                "name": "DLTurner",
+                "affiliation": []
+            },
+            {
+                "name": "YNishio",
+                "affiliation": []
+            },
+            {
+                "name": "SSasaki",
+                "affiliation": []
+            },
+            {
+                "name": "TGamo",
+                "affiliation": []
+            },
+            {
+                "name": "HHiyagon",
+                "affiliation": []
+            },
+            {
+                "name": "YSano",
+                "affiliation": []
+            },
+            {
+                "name": "JAPearce",
+                "affiliation": []
+            },
+            {
+                "name": "PEBaker",
+                "affiliation": []
+            },
+            {
+                "name": "PHarvey",
+                "affiliation": []
+            },
+            {
+                "name": "IWLuff",
+                "affiliation": []
+            },
+            {
+                "name": "JAPearce",
+                "affiliation": []
+            },
+            {
+                "name": "PDKempton",
+                "affiliation": []
+            },
+            {
+                "name": "JBGill",
+                "affiliation": []
+            },
+            {
+                "name": "MKPeto",
+                "affiliation": []
+            },
+            {
+                "name": "SMukhopadhyay",
+                "affiliation": []
+            },
+            {
+                "name": "KAKelley",
+                "affiliation": []
+            },
+            {
+                "name": "BPelletier",
+                "affiliation": []
+            },
+            {
+                "name": "J.-MAuzende",
+                "affiliation": []
+            },
+            {
+                "name": "RJPoreda",
+                "affiliation": []
+            },
+            {
+                "name": "HCraig",
+                "affiliation": []
+            },
+            {
+                "name": "RCPrice",
+                "affiliation": []
+            },
+            {
+                "name": "LWKroenke",
+                "affiliation": []
+            },
+            {
+                "name": "RCPrice",
+                "affiliation": []
+            },
+            {
+                "name": "PMaillet",
+                "affiliation": []
+            },
+            {
+                "name": "IMcdougall",
+                "affiliation": []
+            },
+            {
+                "name": "JDupont",
+                "affiliation": []
+            },
+            {
+                "name": "MRegelous",
+                "affiliation": []
+            },
+            {
+                "name": "STurner",
+                "affiliation": []
+            },
+            {
+                "name": "TJFalloon",
+                "affiliation": []
+            },
+            {
+                "name": "PTaylor",
+                "affiliation": []
+            },
+            {
+                "name": "JGamble",
+                "affiliation": []
+            },
+            {
+                "name": "TGreen",
+                "affiliation": []
+            },
+            {
+                "name": "VJ MSalters",
+                "affiliation": []
+            },
+            {
+                "name": "SMallick",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "CELangmuir",
+                "affiliation": []
+            },
+            {
+                "name": "AStracke",
+                "affiliation": []
+            },
+            {
+                "name": "AMShaw",
+                "affiliation": []
+            },
+            {
+                "name": "DRHilton",
+                "affiliation": []
+            },
+            {
+                "name": "CGMacpherson",
+                "affiliation": []
+            },
+            {
+                "name": "JMSinton",
+                "affiliation": []
+            },
+            {
+                "name": "JMSinton",
+                "affiliation": []
+            },
+            {
+                "name": "KT MJohnson",
+                "affiliation": []
+            },
+            {
+                "name": "RCPrice",
+                "affiliation": []
+            },
+            {
+                "name": "JMSinton",
+                "affiliation": []
+            },
+            {
+                "name": "RCPrice",
+                "affiliation": []
+            },
+            {
+                "name": "KT MJohnson",
+                "affiliation": []
+            },
+            {
+                "name": "HStaudigel",
+                "affiliation": []
+            },
+            {
+                "name": "AZindler",
+                "affiliation": []
+            },
+            {
+                "name": "NHSleep",
+                "affiliation": []
+            },
+            {
+                "name": "GPSmith",
+                "affiliation": []
+            },
+            {
+                "name": "DAWiens",
+                "affiliation": []
+            },
+            {
+                "name": "KMFischer",
+                "affiliation": []
+            },
+            {
+                "name": "LMDorman",
+                "affiliation": []
+            },
+            {
+                "name": "SCWebb",
+                "affiliation": []
+            },
+            {
+                "name": "JAHildebrand",
+                "affiliation": []
+            },
+            {
+                "name": "FMStuart",
+                "affiliation": []
+            },
+            {
+                "name": "SLass-Evans",
+                "affiliation": []
+            },
+            {
+                "name": "JGFitton",
+                "affiliation": []
+            },
+            {
+                "name": "RMEllam",
+                "affiliation": []
+            },
+            {
+                "name": "YSu",
+                "affiliation": []
+            },
+            {
+                "name": "CHLangmuir",
+                "affiliation": []
+            },
+            {
+                "name": "LTian",
+                "affiliation": []
+            },
+            {
+                "name": "PRCastillo",
+                "affiliation": []
+            },
+            {
+                "name": "JWHawkins",
+                "affiliation": []
+            },
+            {
+                "name": "DRHilton",
+                "affiliation": []
+            },
+            {
+                "name": "BBHanan",
+                "affiliation": []
+            },
+            {
+                "name": "AJPietruszka",
+                "affiliation": []
+            },
+            {
+                "name": "LTian",
+                "affiliation": []
+            },
+            {
+                "name": "PRCastillo",
+                "affiliation": []
+            },
+            {
+                "name": "DRHilton",
+                "affiliation": []
+            },
+            {
+                "name": "JWHawkins",
+                "affiliation": []
+            },
+            {
+                "name": "BBHanan",
+                "affiliation": []
+            },
+            {
+                "name": "AJPietruszka",
+                "affiliation": []
+            },
+            {
+                "name": "WTodt",
+                "affiliation": []
+            },
+            {
+                "name": "RACliff",
+                "affiliation": []
+            },
+            {
+                "name": "AHanser",
+                "affiliation": []
+            },
+            {
+                "name": "AWHofmann",
+                "affiliation": []
+            },
+            {
+                "name": "STurner",
+                "affiliation": []
+            },
+            {
+                "name": "CHawkesworth",
+                "affiliation": []
+            },
+            {
+                "name": "STurner",
+                "affiliation": []
+            },
+            {
+                "name": "JCaulfield",
+                "affiliation": []
+            },
+            {
+                "name": "TRushmer",
+                "affiliation": []
+            },
+            {
+                "name": "MTurner",
+                "affiliation": []
+            },
+            {
+                "name": "SCronin",
+                "affiliation": []
+            },
+            {
+                "name": "ISmith",
+                "affiliation": []
+            },
+            {
+                "name": "HHandley",
+                "affiliation": []
+            },
+            {
+                "name": "AMVolpe",
+                "affiliation": []
+            },
+            {
+                "name": "JDMacdougall",
+                "affiliation": []
+            },
+            {
+                "name": "JWHawkins",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            },
+            {
+                "name": "ALPrice",
+                "affiliation": []
+            },
+            {
+                "name": "V C",
+                "affiliation": []
+            },
+            {
+                "name": "DWeis",
+                "affiliation": []
+            },
+            {
+                "name": "BKieffer",
+                "affiliation": []
+            },
+            {
+                "name": "CMaerschalk",
+                "affiliation": []
+            },
+            {
+                "name": "JBarling",
+                "affiliation": []
+            },
+            {
+                "name": "JJong",
+                "affiliation": []
+            },
+            {
+                "name": "GWilliams",
+                "affiliation": []
+            },
+            {
+                "name": "DHanano",
+                "affiliation": []
+            },
+            {
+                "name": "WPretorius",
+                "affiliation": []
+            },
+            {
+                "name": "NMattiellie",
+                "affiliation": []
+            },
+            {
+                "name": "JScoates",
+                "affiliation": []
+            },
+            {
+                "name": "AGoolaerts",
+                "affiliation": []
+            },
+            {
+                "name": "RFriedman",
+                "affiliation": []
+            },
+            {
+                "name": "JMahoney",
+                "affiliation": []
+            },
+            {
+                "name": "JIWendt",
+                "affiliation": []
+            },
+            {
+                "name": "MRegelous",
+                "affiliation": []
+            },
+            {
+                "name": "KDCollerson",
+                "affiliation": []
+            },
+            {
+                "name": "AEwart",
+                "affiliation": []
+            },
+            {
+                "name": "WMWhite",
+                "affiliation": []
+            },
+            {
+                "name": "DWoodhall",
+                "affiliation": []
+            },
+            {
+                "name": "RKWorkman",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "RKWorkman",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "MGJackson",
+                "affiliation": []
+            },
+            {
+                "name": "MRegelous",
+                "affiliation": []
+            },
+            {
+                "name": "KAFarley",
+                "affiliation": []
+            },
+            {
+                "name": "JBlusztajn",
+                "affiliation": []
+            },
+            {
+                "name": "MKurz",
+                "affiliation": []
+            },
+            {
+                "name": "HStaudigel",
+                "affiliation": []
+            },
+            {
+                "name": "EWright",
+                "affiliation": []
+            },
+            {
+                "name": "WMWhite",
+                "affiliation": []
+            },
+            {
+                "name": "CYYan",
+                "affiliation": []
+            },
+            {
+                "name": "LWKroenke",
+                "affiliation": []
+            },
+            {
+                "name": "AZindler",
+                "affiliation": []
+            },
+            {
+                "name": "SHart",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            }
+        ],
+        "publication_date": "2014",
+        "funder": [
+            "National Science FoundationNSF",
+            "Agence Nationale de la RechercheANR"
+        ]
+    },
+    "sections": {
+        "Introduction": "Introduction\nUnderstanding how the upper mantle flows beneath the oceanic lithosphere is critical to deciphering mantle melting, the movement of tectonic plates, and the distribution and long-term evolution of geochemical reservoirs in the shallow mantle. The direction and rate of mantle flow is difficult to constrain, but spatial variations in the isotope geochemistry of oceanic lavas may provide hints for certain mantle flow patterns as well as the distribution of geochemical reservoirs in the mantle over time [e.g.,\nZindler and Hart, 1986;\nHofmann, 1997;\nWhite, 2010]\n.\nOwing to the juxtaposition of the Tonga Trench and the Samoan hot spot (Figure\n1\n), the Lau and North Fiji Basins provide a unique environment for the study of upper mantle flow around a subducting slab\n[Hart et al., 2004]\n. A wealth of both geochemical and geophysical evidence suggests that material from the Samoan hot spot is leaking southward into the adjacent Lau Basin, making this area ideal for mapping mantle flow on a regional scale [e.g.,\nGiardini and Woodhouse, 1986;\nVolpe et al., 1988;\nGill and Whelan, 1989b;\nPoreda and Craig, 1992;\nPearce et al., 1995;\nEwart et al., 1998;\nTurner and Hawkesworth, 1998;\nSmith et al., 2001;\nLupton et al., 2009;\nEscrig et al., 2012]\n. First, the Samoan hot spot has various distinctive geochemical fingerprints (including high 3 He/ 4 He [up to 33.8 Ra, or ratio to the atmospheric value of 1.38 3 10 26 ,\nJackson et al., 2007a]\nor high 87 Sr/ 86 Sr [up to 0.72163,\nJackson et al., 2007b\nJackson et al., , 2009]]\n), which are readily recognizable from the isotopically distinct ambient mantle (e.g., low 3 He/ 4 He (8 Ra, ratio to atmosphere) and unradiogenic 87 Sr/ 86 Sr) present beneath the Lau Basin [e.g.,\nWright and White, 1987;\nVolpe et al., 1988;\nFarley et al., 1992;\nPoreda and Craig, 1992;\nTurner and Hawkesworth, 1998;\nWorkman et al., 2004;\nKelley et al., 2006;\nLangmuir et al., 2006;\nFalloon et al., 2007;\nJackson et al., 2007a\nJackson et al., , 2007b;;\nEscrig et al., 2009\nEscrig et al., , 2012]]\n. Map of the study region with locations of the samples analyzed in this study. Abbreviations: FSC, Futuna Spreading Center; NWLSC, Northwest Lau Spreading Center; PegR, Peggy Ridge; N, Niua fo'ou; MTJ, Mangatolu (King's) Triple Junction; NELSC, Northeast Lau Spreading Center; FRSC, Fonualei Rift and Spreading Center; LETZ, Lau Extensional Transform Zone; CLSC, Central Lau Spreading Center; ELSC, Eastern Lau Spreading Center. Base map was created using GeoMapApp (\nhttp://www.geomapapp.org\n) with topographic and bathymetric data from SRTM_PLUS\n(Becker et al., 2009, v. 5\n.0)\nGeochemistry, Geophysics, Geosystems 10.1002/2013GC005061\nthe Lau and North Fiji Basins. If Samoan-plume mantle material has ponded and spread both laterally and to the south, its presence would be detected in the basins further to the west.\nHere, we use a combination of geochemical data from northern Lau and North Fiji Basin lavas to constrain the spatial distribution of Samoan mantle source material in the region. Broadening the field area of geochemically characterized lavas to the west helps define the western boundary of Samoan-plume material influence. We present new Sr, Nd, Pb, Hf, and He-isotopic data, together with major and trace element concentrations, on samples from 11 locations along a swath covering the northern region of the Lau and North Fiji Basins, as well as Wallis Island (see supporting information for analytical methods and discussion). The new data suggest that the influence of the Samoan plume extends into the North Fiji Basin (at least 1400 km west of the current location of the youngest active Samoan volcano, Vailulu'u;\nHart et al. [2000]\n).",
+        "Geologic Setting": "Geologic Setting\nThe Samoan archipelago is an age progressive group of volcanic islands constituting a hot spot track [e.g.,\nDuncan, 1985;\nHart et al., 2004;\nKoppers et al., 2008;\nMcDougall, 2010;\nKoppers et al., 2011]\n. The origin of volcanism in Samoa is complicated by its proximity to the northern terminus of the Tonga Trench, located just over 100 km south of the Samoan island of Savai'i. Lithospheric cracking caused by tectonic stresses related to the nearby trench was suggested to enhance melting and melt extraction at Samoa, and this model is in part supported by the observation that Savai'i Island has been completely resurfaced with a veneer of young (<1 Ma) rejuvenated lavas [e.g.,\nHawkins and Natland, 1975;\nNatland and Turner, 1985;\nNatland, 2003;\nKonter and Jackson, 2012]\n. However, geochronological data for lavas recovered from the deep submarine flanks of Savai'i indicate a 5.0 Ma eruption age, at which time the Tonga Trench was positioned 1400 km to the west of Savai'i and well out-of-range to influence shield-building volcanism at the island\n[Koppers et al., 2008]\n. While this early volcanism at Savai'i was not triggered by tectonic stresses, rejuvenated volcanism on Savai'i during the past 1 Ma, as well as on Wallis Island and Lalla Rookh seamount, may have been enhanced by tectonic stresses from the trench\n[Price and Kroenke, 1991;\nHart et al., 2004;\nKonter and Jackson, 2012]\n.\nThe trace of the Samoan hot spot, which is anchored by Vailulu'u seamount in the east, runs parallel to the northern border of the Lau and North Fiji Basins, and is separated from these basins by the Vitiaz Lineament (Figures\n1\nand\n2\n). The Lau and North Fiji Basins are located between the Pacific and Indo-Australian plates. The region is flanked by two subduction zones that face each other and form the Tonga Trench by the westward subduction of the Pacific plate, and the Vanuatu Trench by subduction of the Indo-Australian plate under the North Fiji Basin. Due to trench rollback, the northern terminus of the Tonga Trench is moving eastward at 170 mm/yr, while the Pacific plate is moving westward at 70 mm/yr, resulting in a total convergence rate that is the fastest on Earth, at 240 mm/yr\n[Bevis et al., 1995]\n. North of this terminus, the Pacific plate tears\n[Millen and Hamburger, 1998;\nGovers and Wortel, 2005]\nand, instead of subducting into the trench, the Pacific plate continues to the west. This tearing is thought to generate the stresses that give rise to abundant rejuvenated volcanism in Samoa\n[Konter and Jackson, 2012]\n. To the south of the terminus, the Pacific plate subducts into the Tonga Trench, resulting in the opening of a ''slab window'' which allows Samoan mantle to flow southward into the shallow mantle in the Lau Basin [e.g.,\nTurner and Hawkesworth, 1998;\nFigure 2\n]. This slab window may have begun opening at 4.5 Ma, when the terminus was located further to the west, just south of Alexa seamount\n[Hart et al., 2004]\n. If so, material from the Samoan hot spot may have been advected into these basins for the past 4.5 Ma.\nThe Vitiaz Lineament marks the boundary between the old (100 Ma) Pacific lithosphere and the young (<5 Ma) lithosphere of the Lau and North Fiji Basins\n[Brocher, 1985;\nPelletier and Auzende, 1996]\n.\nHart et al. [2004]\nsuggested that the segment of the Vitiaz Lineament east of 180 W was formed by the propagation of the tear in the Pacific plate, while the Tonga Trench swept eastward toward the active end of the Samoan hot spot over the last 4-5 Ma (Figure\n2\n). However, the entire length of the Vitiaz Lineament has also been suggested to be a pre-Tongan ''fossil'' subduction zone marking the location of subduction of the Pacific plate under the Australian plate until 12 Ma, at which time the Ontong-Java plateau collided with the trench, halting subduction along the Vitiaz Lineament [e.g.,\nBrocher, 1985;\nYan and Kroenke, 1993;\nAuzende et al., 1995;\nPelletier and Auzende, 1996;\nPearce et al., 2007]\n. If so, the high density of islands and seamounts to the south of the Vitiaz Lineament may be the product of arc volcanism. Nonetheless, at least three volcanoes along the southern border of the Vitiaz Lineament-Rotuma Island, Manatu seamount, Geochemistry, Geophysics, Geosystems 10.1002/2013GC005061\nand Futuna Island-host lavas with ages that postdate Vitiaz Lineament subduction (all ages are Quaternary to 4.9 Ma)\n[Duncan, 1985;\nWoodhall, 1987]\n. Furthermore, Rotuma lacks arc-like geochemical characteristics\n[Hart et al., 2004]\nand we show that Manatu and young Futuna lavas from this study also appear to lack arc-like affinities (section 3). Geochemistry, Geophysics, Geosystems 10.1002/2013GC005061",
+        "Present Day": "Present Day\nPrior to subduction cessation, the Vitiaz Trench marked a continuous subduction zone from the Solomons to Tonga, with west to southwest subduction of the Pacific plate under the Indian lithosphere. The Vitiaz Trench was composed of the older pieces of the Tonga-Fiji-Vanuatu and Solomon arcs [e.g.,\nGill, 1984;\nGill and Whelan, 1989b;\nBegg and Gray, 2002;\nCrawford et al., 2003;\nPearce et al., 2007]\n. When subduction ceased along the Vitiaz Trench, the boundary is thought to have become a transform [e.g.,\nPelletier and Auzende, 1996]\nand the remnant slab detached. However, GPS data from Rotuma and Futuna Islands-both located just south of the Vitiaz Lineament-show that they are moving with the Pacific plate\n[Calmant et al., 2003]\n, indicating that little or no transform motion along the Vitiaz Lineament is occurring at present\n[Hart et al., 2004]\n. The Vitiaz Lineament, therefore, may be a fossil boundary and any transcurrent motion between the Australian and Pacific plates occurs south of the boundary along transform faults in the Lau Basin\n[Hart et al., 2004]\n.",
+        "Previous Geochemical Work in the Northern Lau Basin": "Previous Geochemical Work in the Northern Lau Basin\nSeveral previous studies have shown that quaternary volcanism with signatures similar to ocean island basalts (OIB) is pervasive throughout the Lau and North Fiji Basins, but the origins, and possible relationships with Samoa remain unknown.\nGill and\nWhelan [1989a, 1989b]\nshowed that Fijian lavas became OIBlike by 3 Ma.\nPoreda and Craig [1992]\nwere the first to show elevated 3 He/ 4 He isotopes at Rochambeau Bank, in the northwest Lau Basin. These Samoan-like signatures were used to suggest the mixing of a Samoan component with ambient depleted mantle.\nHonda et al. [1993]\nreported moderately low 3 He/ 4 He in the Eastern and Central Lau Spreading Centers as well as the Mangatolu Triple Junction. Using this information,\nTurner and Hawkesworth [1998]\nrefined the hypothesis of\nPoreda and Craig [1992]\nand suggested a model that included a ''finger-like'' intrusion of Samoan mantle material into the northern Lau Basin. More recently,\nLupton et al. [2009]\nfound that many locations within the northern Lau Basin have high 3 He/ 4 He, but that these values do not clearly correlate with ridge configuration or latitude, although the highest 3 He/ 4 He values do cluster in the northernmost region of the Lau Basin. Further studies by Lupton et al.\n[2012],\nHahm et al. [2012]\n, and\nPeto et al. [2013]\nshow that Ne-isotopes correlate with He isotopes, supporting the hypothesis of a Samoan-plume influence in the region. Working on the same samples as\nLupton et al. [2009]\n,\nJenner et al. [2012]\nfound enrichment of Cu and Ag in lavas from the Northwest and Central Lau Spreading Centers and Rochambeau Rifts, and argued that the data may require a different high-Cu source, as Samoan lavas and MORB do not have high-Cu abundances. Nonetheless, the study argues for the presence of a Samoan plume component in the region. Isotopic, major element, and volatile data were added by\nLytle et al. [2012]\n, who suggested the possibility of a second unidentified mantle plume to the west of the Northwest Lau Spreading Center.\nTian et al. [2008\nTian et al. [ , 2011] ]\nprovided new Sr-Nd isotope and trace element data from Rochambeau Bank, Peggy Ridge, Mangatolu Triple Junction, Niuafou'ou, and both the Central and Eastern Lau Spreading Centers, while\nHahm et al. [2012]\nanalyzed volatiles and noble gases in these samples. Their data provide evidence of influence for both subduction-related and OIB components. Despite the number of studies conducted in the Lau Basin, there is little data from the North Fiji Basin.\nHere, we provide a full suite of major and trace element and isotopic data for samples recovered from the northern Lau and North Fiji Basin (Figure\n1\n). We use these data to assess the mantle sources in the region.",
+        "Sample Locations and Descriptions": "Sample Locations and Descriptions\nThe locations for all new samples presented in this study are shown in Figure\n1\nand presented in Table\n1\n. The 26 basaltic submarine dredge samples recovered from the northwestern Lau and North Fiji Basins and Wallis Island were obtained from three dredging expeditions: two legs of the R/V Kana Keoki cruise KK820316 in 1982\n[Sinton et al., 1985;\nJohnson et al., 1986;\nSinton et al., 1993]\n; cruise 35/3 of the German research vessel R/V Sonne in 1985\n[Johnson and Sinton, 1990]\n; the ALIA 2005 cruise aboard the R/V Kilo Moana\n[Jackson et al., 2007b;\nKoppers et al., 2008;\nJackson et al., 2010;\nKoppers et al., 2011]\n. The dredge sites are divided into three regions across the Lau and North Fiji Basins and two sample localities at Wallis Island.",
+        "Dredges in the North Fiji Basin": "Dredges in the North Fiji Basin\nWe examine samples from four different dredge sites in the North Fiji Basin.\nSinton [1990]\n. Ages are estimated by the age of onset of regional spreading. Major elements were measured by a fully automated Cameca three spectrometer wavelength dispersive microprobe (EMP) at the Hawaii Institute of Geophysics.\n1993]. Dredge 21 was recovered 100 km south of SPR on a west-northwest striking ridge. The single sample from this dredge is a nearly aphyric pillow fragment with a brown weathered surface and a thin Mn crust\n[Sinton et al., 1993]\n. A fourth dredge (dredge 16) was made further to the south in the North Fiji Basin on a southeast facing, 1000 m escarpment, located near the North Fiji Basin triple junction. The two samples from dredge 16 are olivine-phyric, plagioclase microphyric pillow basalts with thin, 1 mm Mn crusts.",
+        "Dredges North of Fiji": "Dredges North of Fiji\nSamples from seven different dredge sites in the region north of the Fijian Islands are divided geographically into two groups. The first group consists of four different dredges made in a tightly clustered region (within 10 km) 100 km north of Viti Levu, Fiji. These dredges sampled the spreading centers in the area. All samples are extremely fresh and therefore likely to be quite young in age\n[Johnson and Sinton, 1990]\n.\nThe second group consists of two different dredges made in close proximity 300 km north of Viti Levu, Fiji (sample 231-1A and dredge 13). Dredge 231 was made on the Southern Central Ridge, North Fiji Basin\n[Johnson and Sinton, 1990]\n. Dredge 13 was made about 15-20 km inside a pseudofault in what may be a now-defunct part of a propagating rift system\n[Brocher, 1985]\n. Dredge 13 was composed of pillow fragments with 2 mm Mn crusts\n[Sinton et al., 1993]\n.",
+        "Dredges in the Northern Lau Basin": "Dredges in the Northern Lau Basin\nWe analyzed samples from three different dredge sites in the northern Lau Basin: Manatu Seamount (dredge 126), Futuna Island (dredge 6), and the region just to the northeast of Peggy Ridge (dredge 5). Two different samples from different dredge sites at Manatu have been dated at 1.8 Ma\n[Duncan, 1985;\nSinton et al., 1985]\nand 4.36 Ma\n[Koppers et al., 2011]\n, while the single sample from Futuna has an age of 4.9 Ma\n[Duncan, 1985]\n. The samples dredged northeast of Peggy Ridge are relatively old (1.4 Ma)\n[Duncan, 1985]\nand therefore were collected outside the region of active extrusion\n[Sinton et al., 1985]\n.",
+        "Wallis Island": "Wallis Island\nWe analyzed samples from two different dredge sites (dredges 127 and 4). All of the Wallis dredge samples are extremely fresh and likely as young as subaerial lavas from Wallis Island (0.08-0.8 Ma)\n[Duncan, 1985;\nPrice and Kroenke, 1991]\n.",
+        "Results": "Results",
+        "Major Element Geochemistry": "Major Element Geochemistry\nThe samples examined in this study range from basaltic to basaltic andesite in composition (Figure\n3\n). The alkali-tholeiite division\n[Macdonald and Katsura, 1964]\nshows that only the Wallis Island samples are alkalic. This is expected if Wallis Island and Samoa share a genetic relationship (see section 4.4), as almost all lavas associated with the Samoan hot spot are alkali basalts\n[Natland and Turner, 1985;\nWorkman et al., 2004;\nJackson et al., 2010]\n. Both dredges of SPR yielded glasses that are near the alkali tholeiite division. Because SPR is anchored on the northeast by Rotuma Island, which is host to alkali volcanics\n[Woodhall, 1987]\n, it is not surprising that SPR basalts are transitional in composition.\nAll other lavas examined in this study plot within the tholeiitic field in Figure\n3\n.",
+        "Trace Element Geochemistry": "Trace Element Geochemistry\nThe lavas examined in this study exhibit a wide range of trace element abundances. We show these variations in primitive mantle-normalized plots (spidergrams) (Figure\n4\nand Table\n3\n).\nThe only true alkali basalts from this study, all from Wallis Island,\nBas et al. [1986]\n. The alkali-tholeiite line is from\nMacdonald and Katsura [1964]\n. Symbols are the same as in Figure\n1\n.\nGeochemistry, Geophysics, Geosystems 10.1002/2013GC005061 have the highest overall concentrations of the most incompatible trace elements. The shape of the spidergrams for the three Wallis Island samples are broadly similar, but sample 4-1 from the KK820316 cruise has higher concentrations of incompatible elements than samples 127-05 and 127-11 from the ALIA 2005 cruise (Table\n2\nand\nFigure 4\n). Sample 4-1 has lower whole rock MgO (5.95 wt. %) than samples 127-05 and 127-11 (whole rock MgO is 13.01 and 11.43 wt. %, respectively). Additionally, trace element measurements of both glass and whole rock powder from sample 127-05 show a whole rock pattern which is shifted to lower normalized concentrations than the glass for all elements, except for U, K, and Pb. The slight enrichment of these elements in the whole rock may be explained by the fact that they are mobile and become enriched in altered portions of the whole rock, but not in fresh glass.\nWallis Island lies downstream of the Samoan hot spot, but a genetic relationship between the two remains uncertain\n[Price et al., 1991;\nJackson et al., 2010]\nas Wallis Island lavas are 0.08-0.8 Ma (Table\n1\n), too young to fit the Samoan hot spot age progression\n[Koppers et al., 2011]\n. If Wallis Island lavas are Samoan, they must belong to a late rejuvenated stage. Samoan rejuvenated lavas are enriched in Ba relative to other elements of similar compatibility, and thus exhibit higher Ba/Sm and Ba/Th ratios relative to Samoan shieldstage lavas\n[Jackson et al., 2010]\n. In a plot of Ba/Sm versus Ba/Th, Wallis Island lavas fall within the Samoan rejuvenated field, which is defined by subaerial rejuvenated lavas in the eastern Samoan volcanic province (ESAM) (Figure\n5\n). Trace element spidergrams of Wallis Island plot together with patterns for Samoan rejuvenated lavas from Savai'i and Upolu Islands (Figure\n4\n). SPR samples are also incompatible element enriched, and they are geochemically similar to Samoan Upolu shield lavas. However, SPR lavas have lower trace element abundances for elements more incompatible than Tb. The slope of trace elements less incompatible than Tb in the spidergrams (Figure\n4\n) is shallower for SPR lavas than Upolu lavas, suggesting that the SPR lavas have a weaker garnet signature than Upolu lavas. Nonetheless, the SPR patterns are similar to the Upolu patterns, especially for the most incompatible elements (Rb through Nd) (Figure\n4\n). Two nonridge volcanoes located south of the Vitiaz Lineament-Manatu seamount and Futuna Island-were previously suggested to exhibit possible arc-like signatures owing to the ''jagged'' nature of trace element pattern observed in some of the whole rock measurements\n[Jackson et al., 2010]\n. However, the elements that exhibit the largest spikes, or anomalies, on the Manatu and Futuna patterns are K, U, and Rb (Figure\n4\n), which are all fluid mobile and susceptible to modification during submarine alteration. The trace element data on fresh glasses from these two volcanoes exhibit relatively smooth patterns, with none of the anomalous enrichments or depletions in K, U, and Rb visible in the whole rock analyses. Rather than showing evidence of arc influence, the patterns for the Manatu and some of the Futuna glass samples from this study are similar to average MORB tholeiites. Finally, we note that a subset of Futuna lavas are strongly depleted in both the heavy rare earth elements (HREE) and the most incompatible elements, giving a distinct ''hump'' shape to the spiderdiagram.\nThe four dredges taken in close proximity 100 km north of Viti Levu, Fiji, have a surprising diversity of trace element abundances and spidergram shapes. Sample 142-1 has a slight garnet signature (La N /Lu N 5 1.8), while its spidergram shows positive Nb and Ta anomalies and a negative U anomaly. Sample 164-1 also has a slight garnet signature (La N /Lu N 5 1.8), but it lacks the positive Nb and Ta anomalies and the negative U anomaly that characterize 142-1. However, sample 164-1 does have moderate positive Zr and Hf anomalies. Sample 140-1A has a relatively flat spidergram pattern (La N /Lu N 5 1.2), with no evidence for a garnet signature; it exhibits dramatic positive Zr and Hf anomalies and positive U and Th anomalies. Finally, sample 162-1 is one of the most incompatible element-depleted samples in this study (La N /Lu N 5 0.40), with Rb, Ba, and Th concentrations that are only 1.3-1.5 times the primitive mantle values. This sample also has the most geochemically depleted Sr, Nd, and Hf-isotopic signatures in this study (see section 3.3).\nThe sample taken from 100 km south of SPR (21-1; La N /Lu N 5 0.60) and the two samples from north of the North Fiji Basin triple junction (16-12 and 16-14; La N /Lu N 5 0.66 and 0.56, respectively) are similarly incompatible element depleted and have patterns that are generally similar to sample 162-1. Samples from 300 km north of Viti Levu, Fiji, 231-1A (La N /Lu N 5 0.71) and 13-4 and 13-2 (La N /Lu N 5 0.77 and 0.76, respectively) also have incompatible element-depleted spidergrams, but have higher overall trace element abundances than other lavas with incompatible element-depleted patterns from the region. Sample 231-1A has Lu concentrations nearly 20 times the primitive mantle values, while Lu in sample 162-1 is only about five times higher than primitive mantle.\nGeochemistry, Geophysics, Geosystems  b Samples 4-1 and 6-52 were ground in tungsten carbide. Ta from these samples are not included due to possible contamination.\nGeochemistry, Geophysics, Geosystems 10.1002/2013GC005061\nSinton [1990]\nand\nSinton et al. [1993]\nare normalized to BCR-1 value 0.512640. We ran six BCR-2 standards and measured an average of 0.512625 (normalized to a LaJolla value of 0.511847). BCR-1 and BCR-2 are similar in composition isotopically, and we use the Nd-isotope values of BCR-1 and BCR-2 from\nWeis et al. [2006]\nto ''bridge'' the BCR-2 value from this study with the BCR-1 value from the\nSinton et al. [1993]\nand Johnson and\nSinton [1990]\nstudies. The\nSinton et al. [1993]\nand Johnson and\nSinton [1990]\n143\nNd/ 144 Nd values require a 14 ppm reduction for direct comparison with our data, and the 143 Nd/ 144 Nd ratios from these two publications that are shown in our table have been renormalized (i.e., reduced) accordingly. Discrepancies between our measurements and those of Johnson and\nSinton [1990]\nand\nSinton et al. [1993]\nare discussed in the supporting information.\n7\n). Similarly, the SPR samples plot between MORB and Upolu shield in all isotope spaces that include Nd, Hf, or Pb-isotopic compositions. In each case SPR is shifted slightly away from the Upolu shield field toward depleted mantle along a straight line between the two components. However, in plots that include 87 Sr/ 86 Sr, the SPR samples are shifted closer to MORB and to lower 87 Sr/ 86 Sr, and plot slightly off a simple linear trend connecting Upolu shield and MORB.\nThe sample taken 100 km south of SPR (21-1) plots very close to SPR samples in isotopic space, but has slightly higher 87 Sr/ 86 Sr (0.7038) and lower Pb-isotopic ratios (Figure\n6\nand Table\n2\n). Moving further to the east, samples 13-2 and 13-4 also plot close to the SPR lavas in isotopic space, but these two samples have even higher 87 Sr/ 86 Sr (up to 0.7041), but the 143 Nd/ 144 Nd (as low as 0.51290) and 176 Hf/ 177 Hf (as low as 0.28315) are shifted to geochemically more depleted compositions.\nFutuna Island and Manatu seamount each exhibit a variety of isotopic compositions that range from the compositions found in the SPR region to more depleted compositions that trend toward a MORB-like component. The 87 Sr/ 86 Sr ratios measured in Futuna Island vary up to 0.7040\n[Jackson et al., 2010]\n, while 143 Nd/ 144 Nd and 176 Hf/ 177 Hf are as low as 0.51297 and 0.28322, respectively (Table\n2\n). Similarly, samples from Manatu seamount show 87 Sr/ 86 Sr up to 0.7043, and 143 Nd/ 144 Nd and 176 Hf/ 177 Hf of 0.51297 and 0.28322, respectively. Additional lavas from both Manatu seamount and Futuna Island extend to more depleted compositions, with 87 Sr/ 86 Sr down to 0.7036 and 0.7031, respectively. Three locations in this study have extremely depleted lavas. All samples from near the Fiji Triple Junction and northeast of Peggy Ridge have 143 Nd/ 144 Nd (0.51305 and 0.51306) similar to average MORB, but show 87 Sr/ 86 Sr (0.7033 and 0.7034) that is higher than average MORB. Samples from 100 km North of Viti Levu, Fiji, likewise are depleted, but show a comparatively wider range in 87 Sr/ 86 Sr (0.7029-0.7037), 143 Nd/ 144 Nd (0.51307-0.51322), and 176 Hf/ 177 Hf (0.28332-0.28351).\nWallis Island lavas sample a mantle source that is broadly similar to that seen in Samoan rejuvenated lavas. The Wallis Island samples plot close to the range of Samoan rejuvenated lavas in all isotope spaces, but are shifted slightly toward MORB (Figure\n6\n). Similarly, various trace element ratios (Ba/Sm, Nb/Zr, La N /Sm N , La N / Lu N ) plotted against 143 Nd/ 144 Nd show that Wallis Island lavas consistently plot near or within the field of Samoan rejuvenated lavas (Figure\n7\n).",
+        "He Isotope Data": "He Isotope Data\nIn Figure\n8\n, we present plots of 3 He/ 4 He versus 4 He, 87 Sr/ 86 Sr, 143 Nd/ 144 Nd, and 206 Pb/ 204 Pb for samples from this study. The highest 3 He/ 4 He values are from Wallis Island and are up to 15 Ra. A relatively high-3- He/ 4 He ratio of 10.45 Ra is recorded in sample 13-4 taken 300 km north of Viti Levu, and sample 16-12 taken near the North Fiji Basin triple junction has a 3 He/ 4 He value of 9.7 Ra. All other samples with relatively high helium concentrations exhibit mantle-derived 3 He/ 4 He between 6.0 and 9.2 Ra. Geochemistry, Geophysics, Geosystems  Geochemistry, Geophysics, Geosystems 10.1002/2013GC005061\nFour samples have 3 He/ 4 He values of <2 Ra. We consider these and other samples with relatively low helium concentrations (<1 3 10 27 4 He cc STP/g)\n[Georgen et al., 2003]\nto have experienced incorporation of atmospheric helium or severe posteruptive radiogenic ingrowth. These samples are not plotted in Figures 8b-8d as the measured 3 He/ 4 He does not reflect the mantle composition.\nSeveral salient features are observed in Figure\n8\n. First, Wallis Island has moderately high 3 He/ 4 He with Sr, Nd, and Pb-isotopic compositions that plot near existing data for Samoan rejuvenated lavas on some plots and near Upolu shield lavas on others. Samples taken from 300 km north of Viti Levu, which exhibit 3 He/ 4 He up to 10.45 Ra, plot between MORB and Wallis lavas in all plots of Figure\n8\n. This suggests the possible involvement of a Samoan component as far as the North Fiji Basin. SPR have lower 3 He/ 4 He (7.5-8.2 Ra) than Samoan Upolu shield lavas, reflecting a shift to a possible MORB-like component with lower 3 He/ 4 He. At 6.0 Ra, the sample from south of the SPR (sample 21-1) has the lowest 3 He/ 4 He in the subset of samples with relatively high helium concentrations (>1 3 10 27 4 He cc STP/g). Manatu and Futuna Islands also plot between a MORB-like and a Samoan component, but have MORB-like 3 He/ 4 He of 8 Ra. In general, all other samples have 3 He/ 4 He ratios and heavy radiogenic isotopic compositions similar to MORB.\nIn Figure\n9\n, we present a map showing the locations and values of new and previously published 3 He/ 4 He data from Samoa as well as the Lau and North Fiji Basins. The Samoan hot spot has a diversity of isotopic components, and we note that high-3 He/ 4 He (>20 Ra) lavas are rare in the Samoan hot spot. Nonetheless, 3 He/ 4 He ratios in excess of 20 Ra are identified in the northern Lau Basin.\n[1988]\nand\nPoreda and Craig [1992]\n. Samoan data are from\nHauri and Hart [1993]\n,\nWorkman et al. [2004]\n, and\nJackson et al. [2007b]\n.\nGeochemistry, Geophysics, Geosystems 10.1002/2013GC005061",
+        "Discussion": "Discussion\nSystematic spatial variations in geochemical indices (e.g., Sr, Nd, Hf, and Pb-isotope ratios) can be used to assess whether or not a geochemically enriched plume component, such as one associated with Samoa, has intruded into the northern Lau and North Fiji Basins [e.g.,\nVolpe et al., 1988;\nGill and Whelan, 1989b;\nPoreda and Craig, 1992;\nEwart et al., 1998;\nTurner and Hawkesworth, 1998;\nPearce et al., 2007]\n. Geochemical enrichment (e.g., high 87 Sr/ 86 Sr) is clear in lavas from the northern Lau and North Fiji Basins, but diminishes toward the south [e.g.,\nPearce et al., 2007;\nEscrig et al., 2009]\n. The new data offer some important insights into the long-term geochemical connections between Samoa and the Lau and North Fiji Basins.\n4.1. How Many High-3 He/ 4 He Plumes Exist in the Northwest Lau Basin?\nPoreda and Craig [1992]\nfound that high-3 He/ 4 He lavas at Rochambeau Bank in the northwest Lau Basin exhibit increasing 3 He/ 4 He as Sr, Nd, and Pb-isotopic compositions trend from depleted compositions, typical of Lau back arc basins lavas, to more enriched values, typical of the Samoan hot spot. This relationship\n4\n. In the mixing models, a variably degassed D-MORB (depleted MORB) melt is mixed with a variably degassed high-3 He/ 4 He melt. The different mixing lines represent variable degassing of the two end-members prior to mixing: the solid orange line assumes that both end-members degassed by the same amount before mixing; the dark blue dashed line assumes that the high-3 He/ 4 He melt degassed 50% more than the D-MORB melt; the solid light blue line assumes that the high-3 He/ 4 He melt degassed 90% more than the D-MORB melt; and the small black dashed line assumes that the high-3 He/ 4 He melt degassed 99% more than the D-MORB melt. Samoan data are from\nWorkman et al. [2004]\nand\nJackson et al. [2007b\nJackson et al. [ , 2010]]\n. Rochambeau Bank and Rift data are from Volpe et al. Geochemistry, Geophysics, Geosystems 10.1002/2013GC005061 between 3 He/ 4 He and the heavy radiogenic isotopes led\nPoreda and Craig [1992]\nto suggest that a Samoan-plume component has infiltrated the Lau Basin. Subsequent studies have verified the Samoan affinity in lavas from this region [e.g.,\nLupton et al., 2009;\nTian et al., 2011;\nLupton et al., 2012;\nHahm et al., 2012;\nPeto et al., 2013]\n.\nHowever,\nLytle et al. [2012]\nfound that the lava with the highest 3 He/ 4 He ratio identified in the Lau Basin-28 Ra\n[Lupton et al., 2009\n[Lupton et al., , 2012]]\n-is associated with distinctly non-Samoan Sr, Nd, and Pb-isotopic compositions, and they suggest that such decoupling of 3 He/ 4 He from the other isotopic systems presents difficulties for the\nPoreda and Craig [1992]\nmodel.\nLytle et al. [2012]\nshowed that the Rochambeau Rift sample with 3 He/ 4 He of 28 Ra\n[Lupton et al., 2009]\net al. [2012]\nto suggest that a Samoan-plume component in the northern Lau Basin may not explain the geochemical composition of high-3 He/ 4 He Rochambeau Rift lavas.\nWe argue that the original single plume model of\nPoreda and Craig [1992]\nis fully consistent with He-Sr-Nd-Pb-isotopic data from Rochambeau Bank if Samoan-plume melts are variably mixed with ambient depleted mantle melts beneath Rochambeau Bank (Figure\n10\n). To demonstrate the feasibility of this mixing model, we mix two end-member melt compositions, a depleted MORB melt with a high-3 He/ 4 He Samoan melt (compositions given in Table\n4\n). The first end-member composition is a depleted MORB (D-MORB) melt with isotopic compositions from\nWorkman and Hart [2005]\nand a trace element composition from\nGale et al. [2013]\n. Lavas with geochemically depleted Sr and Nd-isotopic compositions from the northern Lau and North Fiji Basins have been identified in this study (e.g., sample 162-1), implying that the D-MORB endmember is not unrealistic. The helium isotopic composition of the MORB melt is assumed to be 8 Ra\n[Graham et al., 1988]\n, and we adopt the 4 He concentration (8.9 3 10 26 cc 4 He STP/g) of undegassed MORB primary melt from\nGonnermann and Mukhopadhyay [2007]\n. The other end-member melt, derived from the high-3 He/\nWorkman et al. [2004]\nand\nJackson et al. [2007b]\n. All other data are from this study,\nPoreda and Craig [1992]\n,\nHilton et al. [1993]\n,\nHonda et al. [1993]\n,\nNishio et al., [1998]\n,\nLupton et al. [2009]\n,\nHahm et al. [2012]\n, and\nLupton et al. [2012]\n. Base map was created using GeoMapApp (\nhttp://www.geomapapp.org\n) with topographic and bathymetric data from SRTM_PLUS\n(Becker et al., 2009, v. 5.0)\nGeochemistry, Geophysics, Geosystems 10.1002/2013GC005061 Rotuma Island at 4 Ma. Dredges 19 and 20 along SPR are no further west of Rotuma than Rochambeau is west of the northern terminus of the Tonga Trench. Thus, we suggest that, at 4 Ma, Samoan mantle material was advected around the paleo-Tonga slab to the west of Rotuma (under the present-day location of SPR) in the same way toroidal flow around the present-day Tonga slab advects material beneath Rochambeau (Figures\n2\nand\n10\n). We argue that the moderate isotopic enrichment in SPR lavas owes its existence to the incorporation of a Samoan mantle component into the mantle beneath SPR. Because the trace of the known Samoan hot spot extends as far west as Alexa Bank\n(Hart et al., 2004)\n-just to the north of the North Fiji Basin-it is possible that Samoan mantle material has been available (perhaps as a ''keel'' attached to the base of the Pacific lithosphere beneath the trace of the Samoan hot spot) for southward advection into the region now occupied by SPR. However, we cannot exclude the possibility that Samoan mantle material was advected to the south of the Vitiaz Lineament more recently due to broad southward mantle flow in the region\n[Pearce et al., 2007]\nover time, perhaps owing to flattening and lateral spreading of the Samoan underplated keel that would push it south of the Vitiaz Lineament and into the North Fiji Basin.\nOne further possibility for the presence of a Samoan-plume component in the northern Lau Basin is that the Lau and North Fiji Basins may have been impregnated with small amounts of Samoan-plume melt over a longer period of geologic time. Modeling in N. J. Katsiaficas, P. S. Hall, and M. G. Jackson, Modeling flow of Samoan-plume mantle into the northern Lau Basin, submitted to Physics of the Earth Planetary Interiors (2013) has shown that decompression melting at the boundary between thick and thin lithosphere, in the vicinity of the Vitiaz Lineament, is dynamically feasible (Figures\n1,\n2\n, and 10). Southward flowing Samoan mantle would pass from beneath older, thicker (100 Ma) Pacific lithosphere and upwell beneath younger, thinner (<5 Ma) lithosphere in the northern Lau and North Fiji Basins, generating decompression melts\n[Pearce et al., 2007;\nRegelous et al., 2008;\nKatsiaficas et al., submitted manuscript, 2013]\n. During a later event of tectonic extension, such as that which may be occurring at SPR\n[Sinton et al., 1993]\n, the depleted mantle enriched with Samoanplume melt could be melted to generate the compositions that we observe. Such a scenario may also explain why some of the young lavas in the northern Lau and North Fiji Basins geochemically resemble mixtures between depleted mantle and OIB mantle [e.g.,\nJohnson and Sinton, 1990;\nPoreda and Craig, 1992;\nSinton et al., 1993;\nJackson et al., 2010]\n: adiabatic upwelling of plume material in a back-arc basin dominated by depleted mantle would result in melting of depleted mantle together with Samoan-plume material. Melts resulting from both Upolu-like mantle and depleted mantle may mix to form SPR lavas, and explain the slightly depleted trace elements (Figure\n4\n) and isotopic compositions (Figures\n6\nand\n8\n), of SPR lavas relative to Upolu lavas. Such a model may also explain the slightly less enriched lava dredged 100 km south of SPR (sample 21-1). This sample is more MORB-like than SPR lavas, but the enrichment in 87 Sr/ 86 Sr (up to 0.7038) requires an enriched component similar to the Upolu-like component inferred for SPR lavas (Figure\n6\n).",
+        "Are Manatu and Futuna": "Are Manatu and Futuna\nVolcanoes the Result of Melted Mixtures of Samoan Plume and Ambient Depleted Mantle? Futuna Island and Manatu Seamount are located approximately midway between the present-day northern terminus of the Tonga trench and SPR. Like Rochambeau lavas, Manatu and Futuna lavas have isotopic compositions that plot between MORB and the field of Samoan lavas in multiisotope space (Figure\n6\n). Therefore,\nJackson et al. [2010]\nsuggested that, like SPR in this study, Futuna and Manatu were fed by mixtures of adiabatic melts of upwelling Samoan mantle material and ambient depleted mantle that transited southward beneath the Vitiaz Lineament into the northwest Lau Basin. However, the Futuna samples have low 3 He/ 4 He (8-9 Ra) (the Manatu sample was compromised by posteruptive radiogenic 4 He ingrowth). However, low-3 He/ 4 He ratios of 8 Ra are not uncommon in the Samoan hot spot\n[Workman et al., 2004;\nJackson et al., 2010]\n. Therefore, like at SPR, we favor the incorporation of a low-3 He/ 4 He Samoan component into the mantle beneath Manatu and Futuna that, together with ambient depleted mantle, was melted to generate lavas for these two volcanoes.\nThe new trace element data on fresh glasses from Manatu and Futuna reveal relatively smooth patterns that do not suggest an arc-related signature, and the ''jagged'' nature of the spidergrams of the whole rock samples from\nJackson et al. [2010]\nare likely compromised by submarine weathering, particularly for K, U, and Rb. The lack of any clear arc signature in Manatu and Futuna lavas from this study is consistent with the younger eruption ages (<5 Ma)\n[Duncan, 1985;\nKoppers et al., 2011]\nthat greatly postdate the end of Geochemistry, Geophysics, Geosystems 10.1002/2013GC005061 subduction along the Vitiaz Lineament at 12 Ma. Previous work identified possible arc-related volcanism in the early history of Futuna, but Futuna transitions to OIB-type volcanism later in its history\n[Grzesczyk et al., 1991]\n. However, we find that a plot of Ba/Nb versus 87 Sr/ 86 Sr (Figure\n11\n) shows no arc influence in the suite of Manatu and Futuna lavas presented here, and the Futuna lavas in our sample suite must sample the later OIB state of volcanism on Futuna. Therefore, we prefer to explain the origin of these near-Vitiaz Lineament volcanoes by adiabatic upwelling of Samoan mantle material flowing southward into the northwest Lau Basin. Such a model can be extended to explain the origin of other geochemically enriched localities in the region that have isotopic compositions between depleted mantle and Samoan-plume mantle, such as samples 13-2 and 13-4 from 300 km north of Viti Levu, Fiji ( 87 Sr/ 86 Sr 5 0.7041; Figure\n6\n). 4.4. Moderately High 3 He/ 4 He at Wallis: Further Evidence for a Samoan Heritage Located immediately to the north of the Vitiaz Lineament and 400 km to the West of Savai'i, Wallis Island shows evidence for volcanism that may be linked to the tectonic processes operating in the region. To understand the possible origin of recent volcanism on Wallis Island, we draw on knowledge of the Samoan Island of Savai'i, which has been completely resurfaced by large volumes of rejuvenated volcanism. The location of Savai'i near the northern terminus of the Tonga Trench led previous authors to suggest a link between the stresses associated with tearing the Pacific plate at the northern terminus and the large volumes of rejuvenated volcanism\n[Hawkins and Natland, 1975;\nNatland, 1980;\nNatland and Turner, 1985;\nHart et al., 2004;\nKonter and Jackson, 2012]\n. Like Savai'i, Wallis Island is located at the northern terminus of the Tonga Trench, and a tectonic origin for the recent volcanism on Wallis has been proposed\n[Price and Kroenke, 1991;\nHart et al., 2004;\nJackson et al., 2010]\n.\nLike Savai'i rejuvenated lavas\n[Konter and Jackson, 2012]\n, the lavas on Wallis are quite young (0.8-0.08 Ma)\n[Duncan, 1985;\nPrice and Kroenke, 1991]\n. The geochemistry of Wallis Island lavas shows similarities with Samoan rejuvenated lavas. In multiisotope space (Figures\n6\nand\n8\n), Wallis Island lavas trend into, or plot very close to, the field of Samoan rejuvenated lavas. Additionally, the elevated 3 He/ 4 He ratios (up to 15 Ra) observed for Wallis Island are similar to slightly elevated 3 He/ 4 He of Samoan rejuvenated lavas from\nWorkman et al. [2004]\n. Finally, trace element ratios (Figure\n5\n) show that Wallis lavas are enriched in Ba relative to other trace elements, a signature that is shared with Samoan rejuvenated lavas and spidergrams of Wallis Island lavas (Figure\n4\n) show broad similarities with Samoan rejuvenated lavas.\nThe new geochemical data suggest a common tectonic link for magma generation at both Savai'i and Wallis islands, and that the lavas on both islands share a common genetic ancestry with the Samoan hot spot. If the volcanic evolution of Wallis is similar to Savai'i\n[Jackson et al., 2007a;\nKoppers et al., 2008]\n[2013]\n. Rochambeau Bank and Rift data are from\nPoreda and Craig [1992]\n,\nLytle et al. [2012]\n, and\nTian et al. [2012]\n. Fonulai Rift and Spreading center data are from\nEscrig et al. [2012]\n. Tonga Arc data are from\nEwart et al. [1998]\n,\nHergt and Woodhead [2007]\n,\nPearce et al. [2007]\n,\nEscrig et al. [2012]\n,\nTurner et al. [2012]\nand\nCaulfield et al. [2012]\n. Samoan data are from\nWright and White [1987]\n,\nPoreda and Craig [1992]\n,\nWorkman et al. [2004]\n,\nWorkman and Hart [2005]\n, and\nJackson et al. [2007a\nJackson et al. [ , 2007b\nJackson et al. [ , 2010]]\n.\nGeochemistry, Geophysics, Geosystems 10.1002/2013GC005061 volcanism on Wallis relates to a rejuvenated stage, additional sampling on Wallis Island could reveal an older shield stage.",
+        "Conclusions": "Conclusions\nBased on our new isotopic data from the northern Lau and North Fiji Basins, we conclude that high-3- He/ 4 He lavas (up to 28 Ra)\n[Lupton et al., 2009]\nalong Rochambeau Rift can be explained by mixing melts of a high-3 He/ 4 He Samoan-plume component (with an assumed value of 50 Ra) with MORB melts. This model explains why the high-3 He/ 4 He lavas in the Rochambeau region also have Sr, Nd, and Pb-isotopic compositions displaced toward MORB values. We argue that southward flow of Samoan-plume mantle into the northern Lau Basin explains the presence of a Samoan-plume signature in volcanoes (e.g., Rochambeau) in the region, and the flow is likely toroidal, driven by roll-back of the Tongan slab. Mantle undergoes decompression melting as it flows south from underneath the thick, old Pacific lithosphere, across the Vitiaz Lineament, and rises adiabatically to the base of the thin, young lithosphere in the Lau Basin. During adiabatic upwelling, ambient depleted upper mantle is likely to melt along with Samoan-plume mantle. This mechanism can explain why volcanic samples from the northern Lau Basin are shifted in isotopic space away from Samoan lava compositions and toward depleted mantle compositions.\nWe also find that the isotopic compositions of SPR lavas in the North Fiji Basin are consistent with the incorporation of a Samoan-plume component like that found at Upolu Island. At 4 Ma, plate reconstruction places the Tonga Trench near the present-day location of Rotuma, which anchors the northeastern terminus of the SPR. We therefore suggest that, at 4 Ma, Samoan mantle material was advected around the paleo-Tonga slab to the west of the present-day location of Rotuma (and under the present-day location of SPR) in the same way that toroidal flow around the present-day Tonga slab advects Samoan material in the northern Lau Basin beneath Rochambeau. During this southward flow, Samoan mantle material and ambient depleted mantle underwent adiabatic decompression during southward transit beneath the Vitiaz Lineament and into the North Fiji Basin. As well as explaining enrichment in the Rochambeau region ( 87 Sr/ 86 Sr up to 0.7047) and SPR ( 87 Sr/ 86 Sr up to 0.7037), this simple model explains the geochemical enrichment throughout the northern region of the northern Lau and North Fiji Basins, including Manatu seamount ( 87 Sr/ 86 Sr up to 0.7043), Futuna Island ( 87 Sr/ 86 Sr up to 0.7038), samples dredged 300 km north of Viti Levu, Fiji ( 87 Sr/ 86 Sr up to 0.7041), and a dredge 100 km south of SPR ( 87 Sr/ 86 Sr 5 0.7038).\nFinally we show that recent rejuvenated volcanism on Wallis Island may be associated with stresses caused by tearing the Pacific plate at the northern terminus of the Tonga Trench. Trace elements and isotopic compositions in Wallis Island lavas exhibit strong affinities to the rejuvenated lavas of several Samoan islands. The new geochemical data, including moderately high 3 He/ 4 He (up to 15 Ra), supports the hypothesis that Wallis Island has a Samoan pedigree."
+    },
+    "references": [
+        {
+            "title": "Evidence for a broadly distributed Samoan-plume signature in the northern Lau and North Fiji Basins",
+            "authors": [
+                "AllisonAPrice",
+                "MatthewGJackson",
+                "JanneBlichert-Toft",
+                "PaulSHall",
+                "JohnMSinton",
+                "MarkDKurz",
+                "JerzyBlusztajn"
+            ],
+            "journal": null,
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The North Fiji Basin: Geology, structure and geodynamic evolution",
+            "authors": [
+                "J.-MAuzende",
+                "BPelletier",
+                "J.-PEissen"
+            ],
+            "journal": null,
+            "date": "1995",
+            "pages": {
+                "from": "139",
+                "to": "175"
+            }
+        },
+        {
+            "title": "Global bathymetry and elevation data at 30 arc seconds resolution: SRTM30_PLUS",
+            "authors": [
+                "JJBecker"
+            ],
+            "journal": "Marine Geodesy",
+            "date": "2009",
+            "pages": {
+                "from": "355",
+                "to": "371"
+            }
+        },
+        {
+            "title": "Arc dynamics and tectonic history of Fiji based on stress and kinematic analysis of dikes and faults of the Tavua Volcano",
+            "authors": [
+                "GBegg",
+                "DRGray"
+            ],
+            "journal": null,
+            "date": "2002",
+            "pages": {
+                "from": "5",
+                "to": "6"
+            }
+        },
+        {
+            "title": "Geodetic observations of very rapid convergence and back-arc extension at the Tonga arc",
+            "authors": [
+                "MBevis"
+            ],
+            "journal": "Nature",
+            "date": "1995",
+            "pages": {
+                "from": "249",
+                "to": "251"
+            }
+        },
+        {
+            "title": "Separation of Hf and Lu for high-precision isotope analysis of rock samples by magnetic sector-multiple collector ICP-MS",
+            "authors": [
+                "JBlichert-Toft",
+                "CChauvel",
+                "FAlbare",
+                "De"
+            ],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": "1997",
+            "pages": {
+                "from": "248",
+                "to": "260"
+            }
+        },
+        {
+            "title": "On the formation of the Vitiaz trench lineament and North Fiji basin",
+            "authors": [
+                "TMBrocher"
+            ],
+            "journal": null,
+            "date": "1985",
+            "pages": {
+                "from": "13",
+                "to": "33"
+            }
+        },
+        {
+            "title": "New insights on the tectonics along the New Hebrides subduction zone based on GPS results",
+            "authors": [
+                "SCalmant",
+                "BPelletier",
+                "PLebellegard",
+                "MBevis",
+                "FWTaylor",
+                "DAPhillips"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "2003",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Magma evolution in the primitive, intra-oceanic Tonga Arc: Petrogenesis of basaltic andesites at Tofua volcano",
+            "authors": [
+                "JCaulfield",
+                "STurner",
+                "ISmith",
+                "LBCooper",
+                "GAJenner"
+            ],
+            "journal": "J. Petrol",
+            "date": "2012",
+            "pages": {
+                "from": "1197",
+                "to": "1230"
+            }
+        },
+        {
+            "title": "120 to 0 Ma tectonic evolution of the southwest Pacific and analogous geological evolution of the 600 to 220 Ma Tasman Fold Belt System",
+            "authors": [
+                "AJCrawford",
+                "SMeffre",
+                "PASymonds"
+            ],
+            "journal": "Geol. Soc. Am. Spec. Pap",
+            "date": "2003",
+            "pages": {
+                "from": "383",
+                "to": "404"
+            }
+        },
+        {
+            "title": "Radiometric ages from volcanic rocks along the New Hebrides-Samoa lineament",
+            "authors": [
+                "RADuncan"
+            ],
+            "journal": null,
+            "date": "1985",
+            "pages": {
+                "from": "67",
+                "to": "75"
+            }
+        },
+        {
+            "title": "Mantle source variations beneath the Eastern Lau Spreading Center and the nature of subduction components in the Lau basin-Tonga arc system",
+            "authors": [
+                "SEscrig",
+                "A",
+                "SLGoldstein",
+                "CHLangmuir",
+                "PJMichael"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2009",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Characterizing the effect of mantle source, subduction input and melting in the Fonualei Spreading Center, Lau Basin: Constraints on the origin of the boninitic signature of the back-arc lavas",
+            "authors": [
+                "SEscrig",
+                "A",
+                "CHLangmuir",
+                "PJMichael",
+                "RJArculus"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2012",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Geochemical evolution within the Tonga-Kermadec-Lau arc-back-arc systems: The role of varying mantle wedge composition in space and time",
+            "authors": [
+                "AEwart",
+                "KDCollerson",
+                "MRegelous",
+                "JIWendt",
+                "YNiu"
+            ],
+            "journal": "J. Petrol",
+            "date": "1998",
+            "pages": {
+                "from": "331",
+                "to": "368"
+            }
+        },
+        {
+            "title": "Multiple mantle plume components involved in the petrogenesis of subduction-related lavas from the northern termination of the Tonga Arc and northern Lau Basin: Evidence from the geochemistry of arc and backarc submarine volcanics",
+            "authors": [
+                "TJFalloon"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2007",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Binary mixing of enriched and undegassed",
+            "authors": [
+                "KAFarley",
+                "JNatland",
+                "HCraig"
+            ],
+            "journal": null,
+            "date": "1992",
+            "pages": {
+                "from": "183",
+                "to": "199"
+            }
+        },
+        {
+            "title": "The mean composition of ocean ridge basalts",
+            "authors": [
+                "AGale",
+                "CADalton",
+                "CHLangmuir",
+                "YSu",
+                "J.-GSchilling"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2013",
+            "pages": {
+                "from": "489",
+                "to": "518"
+            }
+        },
+        {
+            "title": "Low 3 He/ 4 He ratios in basalt glasses from the western Southwest Indian Ridge (10 -24 E)",
+            "authors": [
+                "JEGeorgen",
+                "MDKurz",
+                "HJ BDick",
+                "JLin"
+            ],
+            "journal": null,
+            "date": "2003",
+            "pages": {
+                "from": "509",
+                "to": "528"
+            }
+        },
+        {
+            "title": "Horizontal shear flow in the mantle beneath the Tonga arc",
+            "authors": [
+                "DGiardini",
+                "JHWoodhouse"
+            ],
+            "journal": "Nature",
+            "date": "1986",
+            "pages": {
+                "from": "551",
+                "to": "555"
+            }
+        },
+        {
+            "title": "Sr-Pb-Nd isotopic evidence that both MORB and OIB sources contribute to oceanic island arc magmas in Fiji",
+            "authors": [
+                "JBGill"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1984",
+            "pages": {
+                "from": "443",
+                "to": "458"
+            }
+        },
+        {
+            "title": "Early rifting of an oceanic island arc (Fiji) produced shoshonitic to tholeiitic basalts",
+            "authors": [
+                "JBGill",
+                "PMWhelan"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1989",
+            "pages": {
+                "from": "4561",
+                "to": "4578"
+            }
+        },
+        {
+            "title": "Postsubduction ocean island alkali basalts in Fiji",
+            "authors": [
+                "JBGill",
+                "PMWhelan"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1989",
+            "pages": {
+                "from": "4579",
+                "to": "4588"
+            }
+        },
+        {
+            "title": "Non-equilibrium degassing and a primordial source for helium in ocean-island volcanism",
+            "authors": [
+                "HMGonnermann",
+                "SMukhopadhyay"
+            ],
+            "journal": "Nature",
+            "date": "2007",
+            "pages": {
+                "from": "1037",
+                "to": "1040"
+            }
+        },
+        {
+            "title": "Lithosphere tearing at STEP faults: Response to edges of subduction zones",
+            "authors": [
+                "RGovers",
+                "MJ RWortel"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2005",
+            "pages": {
+                "from": "505",
+                "to": "523"
+            }
+        },
+        {
+            "title": "Evidence for an upper Pliocene transitional volcanism on Futuna and Alofi islands (South-West Pacific): New contributions to the North Tonga geodynamic evolution",
+            "authors": [
+                "AGrzesczyk",
+                "CLefevre",
+                "MMonzier",
+                "J.-PEissen",
+                "JDupont",
+                "PMaillet"
+            ],
+            "journal": "C. R. Acad. Sci., Ser. II",
+            "date": "1991",
+            "pages": {
+                "from": "713",
+                "to": "720"
+            }
+        },
+        {
+            "title": "An overview of the volatile systematics of the Lau Basin-Resolving the effects of source variation, magmatic degassing and crustal contamination",
+            "authors": [
+                "DHahm",
+                "DRHilton",
+                "PRCastillo",
+                "JWHawkins",
+                "BBHanan",
+                "EHHauri"
+            ],
+            "journal": "Geochim. Cosmochim. Acta",
+            "date": "2012",
+            "pages": {
+                "from": "88",
+                "to": "113"
+            }
+        },
+        {
+            "title": "Vailulu'u undersea volcano: The new Samoa",
+            "authors": [
+                "SHart"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2000",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Genesis of the Western Samoa seamount province: Age, geochemical fingerprint and tectonics",
+            "authors": [
+                "SHart",
+                "MCoetzee",
+                "RWorkman",
+                "JBlusztajn",
+                "KJohnson",
+                "JSinton",
+                "BSteinberger",
+                "JHawkins"
+            ],
+            "journal": null,
+            "date": "2004",
+            "pages": {
+                "from": "37",
+                "to": "56"
+            }
+        },
+        {
+            "title": "ReOs isotope systematics of HIMU and EMII oceanic island basalts from the south Pacific Ocean",
+            "authors": [
+                "EKHauri",
+                "SRHart"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1993",
+            "pages": {
+                "from": "353",
+                "to": "371"
+            }
+        },
+        {
+            "title": "Nephelinites and basanites of the Samoan linear volcanic chain: Their possible tectonic significance",
+            "authors": [
+                "JWHawkins",
+                "JNatland"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1975",
+            "pages": {
+                "from": "427",
+                "to": "439"
+            }
+        },
+        {
+            "title": "A critical evaluation of recent models for Lau-Tonga arc-backarc basin magmatic evolution",
+            "authors": [
+                "JHergt",
+                "JWoodhead"
+            ],
+            "journal": "Chem. Geol",
+            "date": "2007",
+            "pages": {
+                "from": "9",
+                "to": "44"
+            }
+        },
+        {
+            "title": "Helium and argon isotope systematics of the central Lau Basin and Valu Fa Ridge: Evidence of crust/mantle interactions in a back-arc basin",
+            "authors": [
+                "DRHilton",
+                "KHammerschmidt",
+                "GLoock",
+                "HFriedrichsen"
+            ],
+            "journal": "Geochim. Cosmochim. Acta",
+            "date": "1993",
+            "pages": {
+                "from": "2819",
+                "to": "2841"
+            }
+        },
+        {
+            "title": "Mantle geochemistry: The message from oceanic volcanism",
+            "authors": [
+                "AWHofmann"
+            ],
+            "journal": "Nature",
+            "date": "1997",
+            "pages": {
+                "from": "219",
+                "to": "229"
+            }
+        },
+        {
+            "title": "Noble gases in submarine pillow basalt glasses from the Lau Basin: Detection of a solar component in backarc basin basalts",
+            "authors": [
+                "MHonda",
+                "DBPatterson",
+                "IMcdougall",
+                "TJFalloon"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1993",
+            "pages": {
+                "from": "135",
+                "to": "148"
+            }
+        },
+        {
+            "title": "The 87 Sr/ 86 Sr and 143 Nd/ 144 Nd disequilibrium between Polynesian hot spot lavas and the clinopyroxenes they host: Evidence complementing isotopic disequilibrium in melt inclusions",
+            "authors": [
+                "MGJackson",
+                "SRHart",
+                "NShimizu",
+                "JSBlusztajn"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2009",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The return of subducted continental crust in Samoan lavas",
+            "authors": [
+                "MGJackson",
+                "SRHart",
+                "AA PKoppers",
+                "HStaudigel",
+                "JKonter",
+                "JBlusztajn",
+                "MKurz",
+                "JARussell"
+            ],
+            "journal": "Nature",
+            "date": "2007",
+            "pages": {
+                "from": "684",
+                "to": "687"
+            }
+        },
+        {
+            "title": "New Samoan lavas from Ofu Island reveal a hemispherically heterogeneous high 3 He/ 4 He mantle",
+            "authors": [
+                "MGJackson",
+                "MKurz",
+                "SHart",
+                "RKWorkman"
+            ],
+            "journal": null,
+            "date": "2007",
+            "pages": {
+                "from": "360",
+                "to": "374"
+            }
+        },
+        {
+            "title": "Samoan hot spot track on a ''hot spot highway'': Implications for mantle plumes and a deep Samoan mantle source",
+            "authors": [
+                "MGJackson",
+                "SRHart",
+                "JGKonter",
+                "AA PKoppers",
+                "HStaudigel",
+                "MDKurz",
+                "JBlusztajn",
+                "JMSinton"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2010",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Chalcophile element systematics in volcanic glasses from the northwestern Lau Basin",
+            "authors": [
+                "FEJenner",
+                "RJArculus",
+                "JAMavrogenes",
+                "NJDyriw",
+                "ONebel",
+                "EHHauri"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2012",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Petrology, tectonic setting, and the formation of back-arc basin basalts in the North Fiji Basin",
+            "authors": [
+                "KT MJohnson",
+                "JMSinton"
+            ],
+            "journal": "Geol. Jahrb. Reihe D",
+            "date": "1990",
+            "pages": {
+                "from": "517",
+                "to": "545"
+            }
+        },
+        {
+            "title": "Petrology of seamounts northwest of Samoa and their relation to Samoan volcanism",
+            "authors": [
+                "KT MJohnson",
+                "JMSinton",
+                "RCPrice"
+            ],
+            "journal": "Bull. Volcanol",
+            "date": "1986",
+            "pages": {
+                "from": "225",
+                "to": "235"
+            }
+        },
+        {
+            "title": "Mantle melting as a function of water content beneath back-arc basins",
+            "authors": [
+                "KAKelley",
+                "TPlank",
+                "TLGrove",
+                "EMStolper",
+                "SNewman",
+                "EHauri"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "2006",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Large volumes of rejuvenated volcanism in Samoa: Evidence supporting a tectonic influence on late-stage volcanism",
+            "authors": [
+                "JGKonter",
+                "MGJackson"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2012",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Samoa reinstated as a primary hotspot trail",
+            "authors": [
+                "AA PKoppers",
+                "JARussell",
+                "MGJackson",
+                "JKonter",
+                "HStaudigel",
+                "SRHart"
+            ],
+            "journal": null,
+            "date": "2008",
+            "pages": {
+                "from": "435",
+                "to": "438"
+            }
+        },
+        {
+            "title": "Age systematics of two young en echelon Samoan volcanic trails",
+            "authors": [
+                "AA PKoppers",
+                "JARussell",
+                "JRoberts",
+                "MGJackson",
+                "JKonter",
+                "DJWright",
+                "HStaudigel",
+                "SRHart"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2011",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "ALPrice",
+                "V C"
+            ],
+            "journal": null,
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Chemical systematics and hydrous melting of the mantle in back-arc basins",
+            "authors": [
+                "CHLangmuir",
+                "A",
+                "SEscrig",
+                "SWParman"
+            ],
+            "journal": null,
+            "date": "2006",
+            "pages": {
+                "from": "87",
+                "to": "146"
+            }
+        },
+        {
+            "title": "A chemical classification of volcanic rocks based on the total alkalisilica diagram",
+            "authors": [
+                "LeBas",
+                "MJ",
+                "RWLe Maitre",
+                "AStreckeisen",
+                "BZanettin"
+            ],
+            "journal": "Journal of petrology",
+            "date": "1986",
+            "pages": {
+                "from": "745",
+                "to": "750"
+            }
+        },
+        {
+            "title": "Helium isotope variations in seafloor basalts from the Northwest Lau Backarc Basin: Mapping the influence of the Samoan hotspot",
+            "authors": [
+                "JELupton",
+                "RJArculus",
+                "RRGreene",
+                "LJEvans",
+                "CIGoddard"
+            ],
+            "journal": "Geophys. Res. Lett",
+            "date": "2009",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Helium isotope variations in the Northern Lau and North Fiji Basins",
+            "authors": [
+                "JELupton",
+                "RJArculus",
+                "FEJenner",
+                "RRGreene"
+            ],
+            "journal": null,
+            "date": "2012-12",
+            "pages": {
+                "from": "3",
+                "to": "7"
+            }
+        },
+        {
+            "title": "Tracing mantle sources and Samoan influence in the northwestern Lau back-arc basin",
+            "authors": [
+                "MLLytle",
+                "KAKelley",
+                "EHHauri",
+                "JBGill",
+                "DPapia",
+                "RJArculus"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2012",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Chemical composition of Hawaiian lavas1",
+            "authors": [
+                "GAMacdonald",
+                "TKatsura"
+            ],
+            "journal": "J. Petrol",
+            "date": "1964",
+            "pages": {
+                "from": "82",
+                "to": "133"
+            }
+        },
+        {
+            "title": "High 3 He/ 4 He ratios in the Manus backarc basin: Implications for mantle mixing and the origin of plumes in the western Pacific Ocean",
+            "authors": [
+                "CGMacpherson",
+                "DRHilton",
+                "JMSinton",
+                "RJPoreda",
+                "HCraig"
+            ],
+            "journal": null,
+            "date": "1998",
+            "pages": {
+                "from": "1007",
+                "to": "1010"
+            }
+        },
+        {
+            "title": "The composition of the Earth",
+            "authors": [
+                "WFMcdonough",
+                "S.-SSun"
+            ],
+            "journal": "Chem. Geol",
+            "date": "1995",
+            "pages": {
+                "from": "223",
+                "to": "253"
+            }
+        },
+        {
+            "title": "Age of volcanism and its migration in the Samoa Islands",
+            "authors": [
+                "IMcdougall"
+            ],
+            "journal": "Geol. Mag",
+            "date": "2010",
+            "pages": {
+                "from": "705",
+                "to": "717"
+            }
+        },
+        {
+            "title": "Seismological evidence for tearing of the Pacific plate at the northern termination of the Tonga subduction zone",
+            "authors": [
+                "DWMillen",
+                "MWHamburger"
+            ],
+            "journal": "Geology",
+            "date": "1998",
+            "pages": {
+                "from": "659",
+                "to": "662"
+            }
+        },
+        {
+            "title": "The progression of volcanism in the Samoan linear volcanic chain",
+            "authors": [
+                "JHNatland"
+            ],
+            "journal": "Am. J. Sci",
+            "date": "1980",
+            "pages": {
+                "from": "709",
+                "to": "735"
+            }
+        },
+        {
+            "title": "The Samoan Chain: A Shallow Lithospheric Fracture System",
+            "authors": [
+                "JHNatland"
+            ],
+            "journal": null,
+            "date": "2003",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Age progression and petrological development of Samoan shield volcanoes: Evidence from K-Ar ages, lava compositions, and mineral studies",
+            "authors": [
+                "JHNatland",
+                "DLTurner"
+            ],
+            "journal": null,
+            "date": "1985",
+            "pages": {
+                "from": "139",
+                "to": "171"
+            }
+        },
+        {
+            "title": "Carbon and helium isotope systematics of North Fiji Basin basalt glasses: carbon geochemical cycle in the subduction zone",
+            "authors": [
+                "YNishio",
+                "SSasaki",
+                "TGamo",
+                "HHiyagon",
+                "YSano"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1998",
+            "pages": {
+                "from": "127",
+                "to": "138"
+            }
+        },
+        {
+            "title": "Geochemical evidence for subduction fluxes, mantle melting and fractional crystallization beneath the South Sandwich island arc",
+            "authors": [
+                "JAPearce",
+                "PEBaker",
+                "PHarvey",
+                "IWLuff"
+            ],
+            "journal": "J. Petrol",
+            "date": "1995",
+            "pages": {
+                "from": "1073",
+                "to": "1109"
+            }
+        },
+        {
+            "title": "Hf-Nd evidence for the origin and distribution of mantle domains in the SW Pacific",
+            "authors": [
+                "JAPearce",
+                "PDKempton",
+                "JBGill"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2007",
+            "pages": {
+                "from": "98",
+                "to": "114"
+            }
+        },
+        {
+            "title": "Heterogeneities from the first 100 million years recorded in deep mantle noble gases from the Northern Lau Back-arc Basin",
+            "authors": [
+                "MKPeto",
+                "SMukhopadhyay",
+                "KAKelley"
+            ],
+            "journal": "Earth and Planetary Science Letters",
+            "date": "2013",
+            "pages": {
+                "from": "13",
+                "to": "23"
+            }
+        },
+        {
+            "title": "Geometry and structure of the Vitiaz trench lineament (SW Pacific)",
+            "authors": [
+                "BPelletier",
+                "J.-MAuzende"
+            ],
+            "journal": "Mar. Geophys. Res",
+            "date": "1996",
+            "pages": {
+                "from": "305",
+                "to": "335"
+            }
+        },
+        {
+            "title": "He and Sr isotopes in the Lau Basin mantle: Depleted and primitive mantle components",
+            "authors": [
+                "RJPoreda",
+                "HCraig"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1992",
+            "pages": {
+                "from": "487",
+                "to": "493"
+            }
+        },
+        {
+            "title": "Tectonics and magma genesis in the northern North Fiji Basin",
+            "authors": [
+                "RCPrice",
+                "LWKroenke"
+            ],
+            "journal": "Marine Geology",
+            "date": "1991",
+            "pages": {
+                "from": "241",
+                "to": "258"
+            }
+        },
+        {
+            "title": "The geochemistry of basalts from the Wallis Islands, northern Melanesian Borderland: Evidence for a lithospheric origin for Samoan-type basaltic magmas?",
+            "authors": [
+                "RCPrice",
+                "PMaillet",
+                "IMcdougall",
+                "JDupont"
+            ],
+            "journal": "J. Volcanol. Geotherm. Res",
+            "date": "1991",
+            "pages": {
+                "from": "267",
+                "to": "288"
+            }
+        },
+        {
+            "title": "Mantle dynamics and mantle melting beneath Niuafo'ou Island and the northern Lau back-arc basin",
+            "authors": [
+                "MRegelous",
+                "STurner",
+                "TJFalloon",
+                "PTaylor",
+                "JGamble",
+                "TGreen"
+            ],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": "2008",
+            "pages": {
+                "from": "103",
+                "to": "118"
+            }
+        },
+        {
+            "title": "Domains of depleted mantle: New evidence from hafnium and neodymium isotopes",
+            "authors": [
+                "VJ MSalters",
+                "SMallick",
+                "SRHart",
+                "CELangmuir",
+                "AStracke"
+            ],
+            "journal": null,
+            "date": "2011",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The CO 2 -He-Ar-H 2 O systematics of the Manus back-arc basin: Resolving source composition from degassing and contamination effects",
+            "authors": [
+                "AMShaw",
+                "DRHilton",
+                "CGMacpherson",
+                "JMSinton"
+            ],
+            "journal": "Geochim. Cosmochim. Acta",
+            "date": "2004",
+            "pages": {
+                "from": "1837",
+                "to": "1855"
+            }
+        },
+        {
+            "title": "Petrology and geochemistry of volcanic rocks from the northern Melanesian borderland",
+            "authors": [
+                "JMSinton",
+                "KT MJohnson",
+                "RCPrice"
+            ],
+            "journal": null,
+            "date": "1985",
+            "pages": {
+                "from": "35",
+                "to": "64"
+            }
+        },
+        {
+            "title": "Petrology and geochemistry of submarine lavas from the Lau and North Fiji Back-Arc Basins",
+            "authors": [
+                "JMSinton",
+                "RCPrice",
+                "KT MJohnson",
+                "HStaudigel",
+                "AZindler"
+            ],
+            "journal": null,
+            "date": "1993",
+            "pages": {
+                "from": "119",
+                "to": "134"
+            }
+        },
+        {
+            "title": "Lateral flow of hot plume material ponded at sublithospheric depths",
+            "authors": [
+                "NHSleep"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1996",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "A complex pattern of mantle flow in the Lau backarc",
+            "authors": [
+                "GPSmith",
+                "DAWiens",
+                "KMFischer",
+                "LMDorman",
+                "SCWebb",
+                "JAHildebrand"
+            ],
+            "journal": "Science",
+            "date": "2001",
+            "pages": {
+                "from": "713",
+                "to": "716"
+            }
+        },
+        {
+            "title": "High 3 He/ 4 He ratios in picritic basalts from Baffin Island and the role of a mixed reservoir in mantle plumes",
+            "authors": [
+                "FMStuart",
+                "SLass-Evans",
+                "JGFitton",
+                "RMEllam"
+            ],
+            "journal": "Nature",
+            "date": "2003",
+            "pages": {
+                "from": "57",
+                "to": "59"
+            }
+        },
+        {
+            "title": "Global MORB chemistry compilation at the segment scale",
+            "authors": [
+                "YSu",
+                "CHLangmuir"
+            ],
+            "journal": null,
+            "date": "2003",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Major and trace element and Sr-Nd isotope signatures of lavas from the Central Lau Basin: Implications for the nature and influence of subduction components in the back-arc mantle",
+            "authors": [
+                "LTian",
+                "PRCastillo",
+                "JWHawkins",
+                "DRHilton",
+                "BBHanan",
+                "AJPietruszka"
+            ],
+            "journal": "J. Volcanol. Geotherm. Res",
+            "date": "2008",
+            "pages": {
+                "from": "657",
+                "to": "670"
+            }
+        },
+        {
+            "title": "Major and trace element and Sr-Nd isotope signatures of the northern Lau Basin lavas: Implications for the composition and dynamics of the back-arc basin mantle",
+            "authors": [
+                "LTian",
+                "PRCastillo",
+                "DRHilton",
+                "JWHawkins",
+                "BBHanan",
+                "AJPietruszka"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "2011",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Evaluation of a 202 Pb-205 Pb double spike for high-precision lead isotope analysis",
+            "authors": [
+                "WTodt",
+                "RACliff",
+                "AHanser",
+                "AWHofmann"
+            ],
+            "journal": null,
+            "date": "1996",
+            "pages": {
+                "from": "429",
+                "to": "437"
+            }
+        },
+        {
+            "title": "Using geochemistry to map mantle flow beneath the Lau Basin",
+            "authors": [
+                "STurner",
+                "CHawkesworth"
+            ],
+            "journal": "Geology",
+            "date": "1998",
+            "pages": {
+                "from": "1019",
+                "to": "1022"
+            }
+        },
+        {
+            "title": "Magma evolution in the primitive, intra-oceanic Tonga arc: Rapid petrogenesis of dacites at Fonulaei volcano",
+            "authors": [
+                "STurner",
+                "JCaulfield",
+                "TRushmer",
+                "MTurner",
+                "SCronin",
+                "ISmith",
+                "HHandley"
+            ],
+            "journal": "J. Petrol",
+            "date": "2012",
+            "pages": {
+                "from": "1231",
+                "to": "1253"
+            }
+        },
+        {
+            "title": "Lau Basin basalts (LBB): Trace element and SrNd isotopic evidence for heterogeneity in backarc basin mantle",
+            "authors": [
+                "AMVolpe",
+                "JDMacdougall",
+                "JWHawkins"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1988",
+            "pages": {
+                "from": "174",
+                "to": "186"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "ALPrice",
+                "V C"
+            ],
+            "journal": null,
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "High-precision isotopic characterization of USGS reference materials by TIMS and MC-ICP-MS",
+            "authors": [
+                "DWeis",
+                "BKieffer",
+                "CMaerschalk",
+                "JBarling",
+                "JJong",
+                "GWilliams",
+                "DHanano",
+                "WPretorius",
+                "NMattiellie",
+                "JScoates",
+                "AGoolaerts",
+                "RFriedman",
+                "JMahoney"
+            ],
+            "journal": "Geochemistry, Geophysics, Geosystems",
+            "date": "2006",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Evidence for a contribution from two mantle plumes to island-arc lavas from northern Tonga",
+            "authors": [
+                "JIWendt",
+                "MRegelous",
+                "KDCollerson",
+                "AEwart"
+            ],
+            "journal": "Geology",
+            "date": "1997",
+            "pages": {
+                "from": "611",
+                "to": "614"
+            }
+        },
+        {
+            "title": "Oceanic island basalts and mantle plumes: The geochemical perspective",
+            "authors": [
+                "WMWhite"
+            ],
+            "journal": "Annu. Rev. Earth Planet. Sci",
+            "date": "2010",
+            "pages": {
+                "from": "133",
+                "to": "160"
+            }
+        },
+        {
+            "title": "Geology of Rotuma",
+            "authors": [
+                "DWoodhall"
+            ],
+            "journal": "Miner. Resour. Dep., Minist. of Lands, Energy and Miner. Resour., Bull",
+            "date": "1987",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Major and trace element composition of the depleted MORB mantle (DMM)",
+            "authors": [
+                "RKWorkman",
+                "SRHart"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2005",
+            "pages": {
+                "from": "53",
+                "to": "72"
+            }
+        },
+        {
+            "title": "Recycled metasomatized lithosphere as the origin of the Enriched Mantle II (EM2) end-member: Evidence from the Samoan Volcanic Chain",
+            "authors": [
+                "RKWorkman",
+                "SRHart",
+                "MGJackson",
+                "MRegelous",
+                "KAFarley",
+                "JBlusztajn",
+                "MKurz",
+                "HStaudigel"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2004",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The origin of Samoa: New evidence from Sr, Nd, and Pb isotopes",
+            "authors": [
+                "EWright",
+                "WMWhite"
+            ],
+            "journal": null,
+            "date": "1987",
+            "pages": {
+                "from": "151",
+                "to": "162"
+            }
+        },
+        {
+            "title": "A plate tectonic reconstruction of the southwest Pacific, 0-100 Ma",
+            "authors": [
+                "CYYan",
+                "LWKroenke"
+            ],
+            "journal": "Proc. Ocean Drill. Program Sci. Results",
+            "date": "1993",
+            "pages": {
+                "from": "697",
+                "to": "709"
+            }
+        },
+        {
+            "title": "Chemical geodynamics",
+            "authors": [
+                "AZindler",
+                "SHart"
+            ],
+            "journal": "Annu. Rev. Earth Planet. Sci",
+            "date": "1986",
+            "pages": {
+                "from": "493",
+                "to": "571"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,1692 @@
+{
+    "metadata": {
+        "title": "Cogenetic late Pleistocene rhyolite and cumulate diorites from Augustine Volcano revealed by SIMS 238 U-230 Th dating of zircon, and implications for silicic magma generation by extraction from mush",
+        "abstract": "Augustine Volcano, a frequently active andesitic island stratocone, erupted a late Pleistocene rhyolite pumice fall that is temporally linked through zircon geochronology to cumulate dioritic blocks brought to the surface in Augustine's 2006 eruption. Zircon from the rhyolite yield a 238 U-230 Th age of 25 ka for their unpolished rims, and their interiors yield a bimodal age populations at 26 ka and a minority at 41 ka. Zircon from dioritic blocks, ripped from Augustine's shallow magmatic plumbing system and ejected during the 2006 eruption, have interiors defining a 26 ka age population that is indistinguishable from that for the rhyolite; unpolished rims on the dioritic zircon are dominantly younger (12 ka) indicating subsequent crystallization. Zircon from rhyolite and diorite overlap in U, Hf, Ti, and REE concentrations although diorites also contain a second population of high-U, high temperature grains. Andesites that brought dioritic blocks to the surface in 2006 contain zircon with young (9 ka) rims and a scattering of older ages, but few zircon that crystallized during the 26 ka interval. Both the Pleistocene-age rhyolite and the 2006 dioritic inclusions plot along a whole-rock compositional trend distinct from mid-Holocenepresent andesites and dacites, and the diorites, rhyolite, and two early Holocene dacites define linear unmixing trends often oblique to the main andesite array and consistent with melt (rhyolite) extraction from a mush (dacites), leaving behind a cumulate amphibole-bearing residue (diorites). Rare zircon antecrysts up to 300 ka from all rock types indicate that a Quaternary center has been present longer than preserved surficial deposits.",
+        "authors": [
+            {
+                "name": "MichelleLCoombs",
+                "affiliation": [
+                    {
+                        "department": null,
+                        "institution": "Alaska Volcano Observatory",
+                        "address": {
+                            "settlement": "Anchorage Alaska",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "JorgeAVazquez",
+                "affiliation": [
+                    {
+                        "department": null,
+                        "institution": "U.S. Geological Survey",
+                        "address": {
+                            "settlement": null,
+                            "region": "California",
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "RJArculus",
+                "affiliation": []
+            },
+            {
+                "name": "KJ AWills ; Bachmann",
+                "affiliation": []
+            },
+            {
+                "name": "O",
+                "affiliation": []
+            },
+            {
+                "name": "GWBergantz",
+                "affiliation": []
+            },
+            {
+                "name": "OBachmann",
+                "affiliation": []
+            },
+            {
+                "name": "GWBergantz",
+                "affiliation": []
+            },
+            {
+                "name": "CRBacon",
+                "affiliation": []
+            },
+            {
+                "name": "CRBacon",
+                "affiliation": []
+            },
+            {
+                "name": "THDruitt",
+                "affiliation": []
+            },
+            {
+                "name": "CRBacon",
+                "affiliation": []
+            },
+            {
+                "name": "HMPersing",
+                "affiliation": []
+            },
+            {
+                "name": "JLWooden",
+                "affiliation": []
+            },
+            {
+                "name": "TRIreland",
+                "affiliation": []
+            },
+            {
+                "name": "CRBacon",
+                "affiliation": []
+            },
+            {
+                "name": "TWSisson",
+                "affiliation": []
+            },
+            {
+                "name": "FKMazdab",
+                "affiliation": []
+            },
+            {
+                "name": "CRBacon",
+                "affiliation": []
+            },
+            {
+                "name": "JAVazquez",
+                "affiliation": []
+            },
+            {
+                "name": "JLWooden",
+                "affiliation": []
+            },
+            {
+                "name": "APBarth",
+                "affiliation": []
+            },
+            {
+                "name": "JLWooden",
+                "affiliation": []
+            },
+            {
+                "name": "JEBeg",
+                "affiliation": []
+            },
+            {
+                "name": "JKienle",
+                "affiliation": []
+            },
+            {
+                "name": "LPBlack",
+                "affiliation": []
+            },
+            {
+                "name": "JGBrophy",
+                "affiliation": []
+            },
+            {
+                "name": "TOta",
+                "affiliation": []
+            },
+            {
+                "name": "TKunihro",
+                "affiliation": []
+            },
+            {
+                "name": "TTsujimori",
+                "affiliation": []
+            },
+            {
+                "name": "ENakamura",
+                "affiliation": []
+            },
+            {
+                "name": "PFCervelli",
+                "affiliation": []
+            },
+            {
+                "name": "TFournier",
+                "affiliation": []
+            },
+            {
+                "name": "JTFreymueller",
+                "affiliation": []
+            },
+            {
+                "name": "JPower",
+                "affiliation": []
+            },
+            {
+                "name": "MLisowski",
+                "affiliation": []
+            },
+            {
+                "name": "BAPauk",
+                "affiliation": []
+            },
+            {
+                "name": "HCheng",
+                "affiliation": []
+            },
+            {
+                "name": "RLEdwards",
+                "affiliation": []
+            },
+            {
+                "name": "JHoff",
+                "affiliation": []
+            },
+            {
+                "name": "CDGallup",
+                "affiliation": []
+            },
+            {
+                "name": "DARichards",
+                "affiliation": []
+            },
+            {
+                "name": "YAsmerom",
+                "affiliation": []
+            },
+            {
+                "name": "LLClaiborne",
+                "affiliation": []
+            },
+            {
+                "name": "CFMiller",
+                "affiliation": []
+            },
+            {
+                "name": "BAWalker",
+                "affiliation": []
+            },
+            {
+                "name": "JLWooden",
+                "affiliation": []
+            },
+            {
+                "name": "FKMazdab",
+                "affiliation": []
+            },
+            {
+                "name": "FBea",
+                "affiliation": []
+            },
+            {
+                "name": "MLCoombs",
+                "affiliation": []
+            },
+            {
+                "name": "KVBull",
+                "affiliation": []
+            },
+            {
+                "name": "JVallance",
+                "affiliation": []
+            },
+            {
+                "name": "DJSchneider",
+                "affiliation": []
+            },
+            {
+                "name": "EEThoms",
+                "affiliation": []
+            },
+            {
+                "name": "RWessels",
+                "affiliation": []
+            },
+            {
+                "name": "RGMcgimsey",
+                "affiliation": []
+            },
+            {
+                "name": "EEDaley",
+                "affiliation": []
+            },
+            {
+                "name": "JDavidson",
+                "affiliation": []
+            },
+            {
+                "name": "STurner",
+                "affiliation": []
+            },
+            {
+                "name": "TPlank",
+                "affiliation": []
+            },
+            {
+                "name": "SHDe Angelis",
+                "affiliation": []
+            },
+            {
+                "name": "JLarsen",
+                "affiliation": []
+            },
+            {
+                "name": "MCoombs",
+                "affiliation": []
+            },
+            {
+                "name": "CDDeering",
+                "affiliation": []
+            },
+            {
+                "name": "OBachmann",
+                "affiliation": []
+            },
+            {
+                "name": "CDDeering",
+                "affiliation": []
+            },
+            {
+                "name": "OBachmann",
+                "affiliation": []
+            },
+            {
+                "name": "TAVogel",
+                "affiliation": []
+            },
+            {
+                "name": "JDufek",
+                "affiliation": []
+            },
+            {
+                "name": "OBachmann",
+                "affiliation": []
+            },
+            {
+                "name": "JMFerry",
+                "affiliation": []
+            },
+            {
+                "name": "EBWatson",
+                "affiliation": []
+            },
+            {
+                "name": "SEGelman",
+                "affiliation": []
+            },
+            {
+                "name": "CDDeering",
+                "affiliation": []
+            },
+            {
+                "name": "OBachmann",
+                "affiliation": []
+            },
+            {
+                "name": "CHuber",
+                "affiliation": []
+            },
+            {
+                "name": "FJGutierrez",
+                "affiliation": []
+            },
+            {
+                "name": "C.-HGeschwind",
+                "affiliation": []
+            },
+            {
+                "name": "MJRutherford",
+                "affiliation": []
+            },
+            {
+                "name": "MSGhiorso",
+                "affiliation": []
+            },
+            {
+                "name": "BWEvans",
+                "affiliation": []
+            },
+            {
+                "name": "AFGlazner",
+                "affiliation": []
+            },
+            {
+                "name": "DSColeman",
+                "affiliation": []
+            },
+            {
+                "name": "JMBartley",
+                "affiliation": []
+            },
+            {
+                "name": "JHiess",
+                "affiliation": []
+            },
+            {
+                "name": "APNutman",
+                "affiliation": []
+            },
+            {
+                "name": "VCBennett",
+                "affiliation": []
+            },
+            {
+                "name": "PHolden",
+                "affiliation": []
+            },
+            {
+                "name": "PW OHoskin",
+                "affiliation": []
+            },
+            {
+                "name": "USchaltegger",
+                "affiliation": []
+            },
+            {
+                "name": "PHuybers",
+                "affiliation": []
+            },
+            {
+                "name": "CLangmuir",
+                "affiliation": []
+            },
+            {
+                "name": "DAJohnston",
+                "affiliation": []
+            },
+            {
+                "name": "JFLarsen",
+                "affiliation": []
+            },
+            {
+                "name": "CJNye",
+                "affiliation": []
+            },
+            {
+                "name": "MLCoombs",
+                "affiliation": []
+            },
+            {
+                "name": "MTilman",
+                "affiliation": []
+            },
+            {
+                "name": "PIzbekov",
+                "affiliation": []
+            },
+            {
+                "name": "CCameron",
+                "affiliation": []
+            },
+            {
+                "name": "KLudwig",
+                "affiliation": []
+            },
+            {
+                "name": "KRLudwig",
+                "affiliation": []
+            },
+            {
+                "name": "PANadeau",
+                "affiliation": []
+            },
+            {
+                "name": "JDWebster",
+                "affiliation": []
+            },
+            {
+                "name": "CWMandeville",
+                "affiliation": []
+            },
+            {
+                "name": "BAGoldoff",
+                "affiliation": []
+            },
+            {
+                "name": "NShimizu",
+                "affiliation": []
+            },
+            {
+                "name": "BDMonteleone",
+                "affiliation": []
+            },
+            {
+                "name": "WPNash",
+                "affiliation": []
+            },
+            {
+                "name": "HRCrecraft",
+                "affiliation": []
+            },
+            {
+                "name": "CJNye",
+                "affiliation": []
+            },
+            {
+                "name": "DLTurner",
+                "affiliation": []
+            },
+            {
+                "name": "JBPaces",
+                "affiliation": []
+            },
+            {
+                "name": "JDMiller",
+                "affiliation": []
+            },
+            {
+                "name": "MReid",
+                "affiliation": []
+            },
+            {
+                "name": "CCoath",
+                "affiliation": []
+            },
+            {
+                "name": "TMHarrison",
+                "affiliation": []
+            },
+            {
+                "name": "KMckeegan",
+                "affiliation": []
+            },
+            {
+                "name": "MRReid",
+                "affiliation": []
+            },
+            {
+                "name": "JAVazquez",
+                "affiliation": []
+            },
+            {
+                "name": "AKSchmitt",
+                "affiliation": []
+            },
+            {
+                "name": "OReubi",
+                "affiliation": []
+            },
+            {
+                "name": "JBlundy",
+                "affiliation": []
+            },
+            {
+                "name": "DCRoman",
+                "affiliation": []
+            },
+            {
+                "name": "KVCashman",
+                "affiliation": []
+            },
+            {
+                "name": "CAGardner",
+                "affiliation": []
+            },
+            {
+                "name": "PWallace",
+                "affiliation": []
+            },
+            {
+                "name": "JDonovan",
+                "affiliation": []
+            },
+            {
+                "name": "MSSambridge",
+                "affiliation": []
+            },
+            {
+                "name": "WCompston",
+                "affiliation": []
+            },
+            {
+                "name": "AKSchmitt",
+                "affiliation": []
+            },
+            {
+                "name": "LSiebert",
+                "affiliation": []
+            },
+            {
+                "name": "JEBeg",
+                "affiliation": []
+            },
+            {
+                "name": "HGlicken",
+                "affiliation": []
+            },
+            {
+                "name": "GESigvaldason",
+                "affiliation": []
+            },
+            {
+                "name": "KAnnertz",
+                "affiliation": []
+            },
+            {
+                "name": "MNilsson",
+                "affiliation": []
+            },
+            {
+                "name": "TWSisson",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            },
+            {
+                "name": "Coombs",
+                "affiliation": []
+            },
+            {
+                "name": "TWVazquez",
+                "affiliation": []
+            },
+            {
+                "name": "TWSisson",
+                "affiliation": []
+            },
+            {
+                "name": "CRBacon",
+                "affiliation": []
+            },
+            {
+                "name": "JTStacey",
+                "affiliation": []
+            },
+            {
+                "name": "JDKramers",
+                "affiliation": []
+            },
+            {
+                "name": "RSteiger",
+                "affiliation": []
+            },
+            {
+                "name": "EAger",
+                "affiliation": []
+            },
+            {
+                "name": "ASteiner",
+                "affiliation": []
+            },
+            {
+                "name": "BLBrowne",
+                "affiliation": []
+            },
+            {
+                "name": "CJNye",
+                "affiliation": []
+            },
+            {
+                "name": "MEStelten",
+                "affiliation": []
+            },
+            {
+                "name": "KMCooper",
+                "affiliation": []
+            },
+            {
+                "name": "AStreckeisen",
+                "affiliation": []
+            },
+            {
+                "name": "MJTappa",
+                "affiliation": []
+            },
+            {
+                "name": "DSColeman",
+                "affiliation": []
+            },
+            {
+                "name": "RDMills",
+                "affiliation": []
+            },
+            {
+                "name": "KMSamperton",
+                "affiliation": []
+            },
+            {
+                "name": "CMTappen",
+                "affiliation": []
+            },
+            {
+                "name": "JDWebster",
+                "affiliation": []
+            },
+            {
+                "name": "CWMandeville",
+                "affiliation": []
+            },
+            {
+                "name": "DRoderick",
+                "affiliation": []
+            },
+            {
+                "name": "JAThompson",
+                "affiliation": []
+            },
+            {
+                "name": "ABTill",
+                "affiliation": []
+            },
+            {
+                "name": "MEYount",
+                "affiliation": []
+            },
+            {
+                "name": "MLBevier",
+                "affiliation": []
+            },
+            {
+                "name": "JAVazquez",
+                "affiliation": []
+            },
+            {
+                "name": "PJShamberger",
+                "affiliation": []
+            },
+            {
+                "name": "JEHammer",
+                "affiliation": []
+            },
+            {
+                "name": "RBWaitt",
+                "affiliation": []
+            },
+            {
+                "name": "JEBeg",
+                "affiliation": []
+            },
+            {
+                "name": "KWallace",
+                "affiliation": []
+            },
+            {
+                "name": "MLCoombs",
+                "affiliation": []
+            },
+            {
+                "name": "JDWebster",
+                "affiliation": []
+            },
+            {
+                "name": "CWMandeville",
+                "affiliation": []
+            },
+            {
+                "name": "BGoldoff",
+                "affiliation": []
+            },
+            {
+                "name": "MLCoombs",
+                "affiliation": []
+            },
+            {
+                "name": "CTappen",
+                "affiliation": []
+            },
+            {
+                "name": "MWiedenbeck",
+                "affiliation": []
+            },
+            {
+                "name": "MMZimmer",
+                "affiliation": []
+            },
+            {
+                "name": "TPlank",
+                "affiliation": []
+            },
+            {
+                "name": "EHHauri",
+                "affiliation": []
+            },
+            {
+                "name": "GMYogodzinski",
+                "affiliation": []
+            },
+            {
+                "name": "PStelling",
+                "affiliation": []
+            },
+            {
+                "name": "JFLarsen",
+                "affiliation": []
+            },
+            {
+                "name": "BSSinger",
+                "affiliation": []
+            },
+            {
+                "name": "BRJicha",
+                "affiliation": []
+            },
+            {
+                "name": "CWMandeville",
+                "affiliation": []
+            },
+            {
+                "name": "CJNye",
+                "affiliation": []
+            }
+        ],
+        "publication_date": "2014",
+        "funder": [
+            "unknown"
+        ]
+    },
+    "sections": {
+        "Introduction": "Introduction\nUncertain petrologic relations between plutonic and volcanic rocks complicate understanding the differentiation pathways that yield eruptible volumes of silicic magma at arc volcanoes, as well as the batholiths that constitute the continents. End-member interpretations are that plutonic rocks exposed in dissected arcs represent magma compositions with geochemical diversity that primarily reflects melting of source rocks rather than fractionation in shallow magma chambers [e.g.,\nGlazner et al., 2008;\nReubi and Blundy, 2009]\n, or that subvolcanic plutonic rocks are the crystal-liquid residua of fractionated magmas that have been extracted and in many cases erupted [e.g.,\nDeering and Bachmann, 2010]\n. Melt extraction from crystalrich ''mushy'' intermediate magmas is implicated in the generation of low-temperature crystal-poor rhyolite magma in a variety of tectonic settings [e.g.,\nBachmann and Bergantz, 2004]\n. However, whether plutonic rocks contain unequivocal geochemical signatures expected for a residue from which silicic melt has been extracted remains contentious (see discussion in\nDeering and Bachmann [2010]\n), and a fractionation signature in volcanic magmas is commonly overprinted by late-stage mixing\n[Deering et al., 2011]\n.\nPlutonic blocks entrained by ascending magmas can be direct samples of the intrusive interiors of active volcanic systems\n[Arculus and Wills, 1980;\nBacon et al., 2000\nBacon et al., , 2007;;\nSchmitt, 2006;\nVazquez et al., 2007]\nand provide opportunities to understand plutonic-volcanic links. Although the plutonic and volcanic rocks from an individual magmatic system may form a coherent geochemical suite, confirming a petrogenetic relation requires demonstrating an association not only in space but also time. Consequently, high-resolution geochronology is critical for identifying whether volcanic-plutonic pairs are cogenetic [e.g.,\nTappa et al., 2011]\n.\nLike many subduction zone stratovolcanoes, Augustine Volcano, Alaska erupts dominantly andesites and dacites, but is capable of producing more explosive eruptions of silicic magma as evidenced by a late Pleistocene rhyolite fall deposit on the volcano's south flank\n[Waitt and Beg et, 2009]\n. To assess the chances of future large versus modest explosive eruptions at Augustine, a refined chronology and understanding of silicic magma petrogenesis are required.\nHere we present evidence from U-Th zircon geochronology and whole-rock and mineral geochemistry that Augustine's late Pleistocene rhyolite, and dioritic blocks later erupted in 2006, are coeval and complementary extracted liquid and melt-depleted crystal mush, derived from dacitic bulk magma that differentiated in the upper crustal portion of the magmatic system about 25 kyr ago. The youth of the magmatic processes preserves compositions and textures little obscured by intrusive processes and demonstrate contemporaneity at a resolution that is often impossible to establish for the exhumed intrusive portions of dissected arcs.",
+        "Analytical Methods": "Analytical Methods\nWhole-rock major and trace-element concentrations were determined by GeoAnalytical Laboratories (Washington State University). Fe-Ti oxide and glass from polished thin sections were analyzed with a JEOL 8900 electron microprobe at the USGS in Menlo Park, California. Matrix glasses were analyzed using a 5 mm, 10 nA beam, and Na was analyzed first to minimize drift. Each reported analysis is the average of 11-23 spot analyses per sample. Oxides were analyzed using a 30 nA focused beam, with 30 s peak count times. Crystals are unzoned and thus we report averages of 4-5 spot analyses per crystal.\nZircon crystals were separated from 0.2 to 2 kg of crushed hand samples using standard heavy liquid techniques. Crystals used for unpolished rim analyses (both unknowns and standards) were bathed in hydrofluoric acid at room temperature for 3-5 min to remove adhering glass. These zircon crystals were then pressed into indium-filled troughs within standard 25 mm diameter epoxy mounts. Crystals and standards used for interior analyses were mounted in epoxy mounts, ground to expose cross sections of crystals, polished, and imaged with petrographic and scanning electron (SEM) microscopes. Spots for SIMS analyses were selected on the basis of internal zoning revealed in cathodoluminescence (CL) images. Prior to analyses, the mounts were washed with soapy deionized water and dilute HCl solutions, and coated with 100 nm of gold. SIMS analyses were conducted using the Stanford-USGS SHRIMP-RG ion microprobe. A primary beam of O 2 2 with intensities of 6 nA for U-Pb analyses and 10-20 nA for 238 U-230 Th analyses was focused into a 20-40 mm diameter elliptical area to generate positive secondary ions. The primary beam was rastered for 90-120 s over the analysis area before data collection. The mass spectrometer was tuned to a mass resolution of 8000 in order to fully resolve potential isobaric interferences, and the energy selection slit set to sample secondary ions at a >40 eV offset. For U-Th analyses, secondary ion intensity was measured for 90\n[Paces and Miller, 1993]\nas a secondary secular equilibrium standard corrected for relative U and Th ionization yielded a weighted mean 230 Th/ 238 U activity ratio, denoted ( 230 Th)/( 238 U), of 1.02 6 0.02. Trace and minor element concentrations in zircon were determined relative to an in-house concentration standard (MAD)\n[Barth and Wooden, 2010]\nusing measured intensities normalized to measured Zr 2 O 1 . Analyses of zircon standard 91500 relative to MAD yields concentrations within the ranges reported in\nWiedenbeck et al. [2004]\n. Ti concentrations are calibrated to zircon standard SL-13 (6.14 ppm)\n[Hiess et al., 2008]\n. U-Pb ages were determined relative to zircon standard R33 (419 Ma, quartz diorite of Braintree complex, Vermont\n[Black et al., 2004]\n) and followed the analysis protocol described by\nClaiborne et al. [2006]\n. Raw data for both U-Pb and U-Th analyses are corrected for 25 ns deadtime, with ratios and their uncertainties derived using SQUID2 version 2.51 software and Isoplot version 3.76\n[Ludwig, 2009]\n. U-Th isotope compositions for whole rocks were determined using a Nu high-resolution multicollector inductively coupled mass spectrometer at University of California-Davis following the sample preparation and analytical protocol described by\nStelten and Cooper [2012]\n.\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005589",
+        "Augustine Volcano": "Augustine Volcano\nAugustine Volcano (Figure\n1\n) forms an island in Alaska's Cook Inlet and is one of the most active in the Aleutian-Alaska arc. The oldest volcanic deposits preserved on the island are 40 ka\n[Waitt and Beg et, 2009]\n, making this volcano's exposed edifice much younger than others in the eastern arc. Its lack of older volcanic rocks may be due to periodic scouring by Pleistocene ice sheet lobes due to its position in glacially vulnerable Cook Inlet, whereas neighboring volcanoes sit high atop mountain ranges.\nThe oldest exposed products from Augustine are late Pleistocene pyroclastic deposits\n[Johnston, 1978;\nWaitt and Beg et, 2009]\nthat crop out on the south flank of the volcano (Figure\n1\n). Near the base of this section is a breccia bed of palagonitized olivine basalt to basaltic andesite bombs up to 20 cm in diameter as well as sparser radially fractured clasts of dense juvenile rhyolite. The upper 20 cm of basaltic andesite breccia is interlayered with the base of a pumiceous rhyolitic fall deposit (supporting information Figure\nS1\n).\nWaitt and Beg et [2009]\ninterpret this sequence as due to a submarine or subglacial basaltic andesite flank eruption and a subsequent explosive eruption of rhyolite from a summit vent. Elsewhere on the volcano's south flank, rhyolite pumice fall of the same composition sits immediately on glaciofluvial deposits [Wallace and\nCoombs, 2013]\n, suggesting that the mafic portion of the eruption was quite localized and small in volume.\nDeposits from early to middle Holocene Augustine eruptions are scarce and limited to a few tephra exposures on the south flank and some distal ashes with Augustine compositional affinities, whereas the late Holocene record is relatively complete and indicates that Augustine produces thick tephra falls, an apron of fragmental flowage deposits, and an edifice consisting of overlapping lava domes and short, thick flows\n[Waitt and Beg et, 2009]\n. Repeated edifice failures and debris avalanches also mark the late Holocene record, with the most recent in 1883\n[Beg et and Kienle, 1992;\nSiebert et al., 1995]\n.\nAugustine erupted historically in calendar years\n1883, 1935, 1964, 1976, 1986, and 2006\n, each time producing ashfall, pyroclastic flows, and lava domes. The 2006 eruption unfolded much like those in 1986 and 1976, with an explosive onset in January, tapering to continuous lava effusion and pyroclastic flow Geochemistry, Geophysics, Geosystems 10.1002/2014GC005589 production, to a short hiatus and finally effusion of a dome and two lava flows through mid-March\n[Coombs et al., 2010]\n.",
+        "Holocene Andesite Array": "Holocene Andesite Array\nHolocene lavas and pumices including those erupted in 2006, span a compositional range of 56-64 wt. % SiO 2 , with rare early Holocene tephras as evolved as 67 wt. % SiO2 (Figure\n2\n). Holocene andesites are calc-alkaline, low-K, and most plot as linear arrays on oxide and element variation diagrams, though there is more scatter at the SiO 2 -rich end of some arrays. Disequilibrium phenocryst assemblages and textures, as well as macroscopic compositional banding, characterize the andesites and implicate magma mixing\n[Johnston, 1978;\nLarsen et al., 2010;\nRoman et al., 2005]\n. Quenched magmatic inclusions (QMI) in debris-avalanche blocks and pyroclasts extend the Holocene compositional range to as primitive as 51.5 wt. % SiO 2 , and are interpreted as slightly mixed high-alumina, low-K basalt that is the mafic input into the Augustine system\n[Steiner et al., 2012]\n.\nTwo early Holocene tephra fall deposits, dated at 6800 14 C yr B.P [Wallace and\nCoombs, 2013]\n, have 63 and 67 wt. % SiO 2 and fall off the andesite array for many elements. They have higher Al 2 O 3 , P 2 O 5 , and Sr, and lower K 2 O, Sc, and Zr at a given SiO 2 content (Figures\n2\nand\n3\n).\nRecently erupted andesites last staged in the shallow crust (4-6 km) as evidenced by GPS\n[Cervelli et al., 2010]\nand melt-inclusion volatiles\n[Roman et al., 2005;\nWebster et al., 2010]\n. The current Augustine magmatic system is relatively oxidized (fO 2 NNO11.5 log units) as evidenced by euhedral, touching magnetiteilmenite pairs in high-silica andesite from 2006 (Figure\n4\nand supporting information Table\nS2\n)\n[Larsen et al., 2010]\n, and from late Holocene prehistoric tephras\n[Tappen et al., 2009]\n.",
+        "Late Pleistocene Rhyolite and Basaltic Andesite": "Late Pleistocene Rhyolite and Basaltic Andesite\nThe only identified Augustine products to fall outside the main andesite array, except for QMI, are the Pleistocene basalt to basaltic andesite (51-55 wt. % SiO 2 ; hereafter referred to as basaltic andesite) breccia that grades upward into the bedded rhyolitic (71-74 wt. % SiO 2 ) fall deposit. The rhyolite pyroclasts contain up to 10% phenocrysts of quartz, plagioclase, amphibole, and oxides in high-silica rhyolite glass (76-77 wt. % SiO 2 ). The rhyolites contain higher LILE, LREE, U, Th, and Pb concentrations than other Augustine magmas, but their MREE and HREE concentrations are lower and their normalized (M-H)REE patterns are concave-up (Figure\n3\nand Table\n1\n)\n[Larsen et al., 2010]\n. Both mafic and silicic components from this eruption fall along a lower K 2 O trend than those from most Holocene Augustine eruptions (Figure\n2\n). The basaltic andesite breccia clasts have up to 40% crystals and compositions that suggest they have accumulated clinopyroxene\n[Daley, 1986;\nZimmer et al., 2010]\n. The basaltic andesites are unusually volatile-rich, with 6.5 wt. % H 2 O and up to 5000 ppm S\n[Zimmer et al., 2010]\n.",
+        "Dioritic Inclusions From the 2006 Eruption": "Dioritic Inclusions From the 2006 Eruption\nWithin deposits of the waning stages of the 2006 eruption are salt-and-pepper, crystal-rich inclusions and blocks (''fine-grained gabbroic inclusions'' of\nLarsen et al. [2010]\n), some as large as 6 m in diameter (supporting information Figure\nS1\n). They lack the fine-grained quenched margins or fluidal and cuspate shapes of quenched magmatic inclusions [e.g.,\nBacon, 1986]\n, instead appearing to be fragments of a fine-grained intrusion. They consist of plagioclase > amphibole 2 pyroxenes >> Fe-Ti oxides >> apatite >> zircon, with up to 35 vol. % glass\n[Larsen et al., 2010]\n. Plagioclase crystals are coarsely sieved and skeletal, and amphibole crystals are resorbed and rarely poikilitic with inclusions of plagioclase (supporting information Figure\nS2\n).\nWhole-rock compositions for six plutonic inclusions range from 56.1 to 58.2 wt. % SiO 2 and plot offset along a distinctly lower K 2 O trend relative to other 2006 and late Holocene samples (Figure\n2\nand Table\n1\n). Matrix glasses are rhyolitic (78-79.1 wt. % SiO 2 ; Figure\n2\nand supporting information Table\nS3\n). While their modal crystal populations would classify the rocks as gabbro or diorite, their contents of interstitial silicic glass are such that their norms contain 10-15 wt. % quartz, and the rocks would be classified as quartz diorites if fully crystallized\n[Streckeisen, 1976]\n. The rocks will be referred to as dioritic due to this classification ambiguity. They have elevated concentrations of Sr, P, Y, MREEs, and HREEs relative to the andesite array, and lower concentrations of transition metals, LILE, HFSE, and Th, U, and Pb (Figures\n2\nand\n3\n).",
+        "Zircon U-Th Geochronology and Trace-Element Composition": "Zircon U-Th Geochronology and Trace-Element Composition\nZircon crystals from a dense rhyolite clast (NY12) from the south-flank outcrop, three dioritic inclusions (27c, 42a, and 304a) from the 2006 pyroclastic-flow deposits, and three high-silica andesite pumices (304b, 304c, Geochemistry, Geophysics, Geosystems 10.1002/2014GC005589 and 310) also from the 2006 pyroclastic-flow deposits were cast in epoxy mounts, ground to expose cross sections of crystal interiors, and polished (Figures\n5a\nand\n5b\n). Subsets of zircon from NY12, 27c, 304b, and 310 were pressed into indium mounts to analyze their unpolished grain faces and date their final increment of crystallization (Figures\n5c\nand\n5d\n). Individual crystallization ages for zircon are calculated using the U-Th  Deconvolution of ages for interiors into Gaussian populations using the mixture modeling method of\nSambridge and Compston [1994]\nyields a majority (60%) population with an apparent age of 26 6 5 ka (2r) and a minority with an age of 41 6 9 ka (Figure\n6a\n). The interiors of two crystals yield model ages of >200 ka, with high errors (Figure\n7\n). Where more than one spot was analyzed on a single crystal, cores yield slightly older model ages (Figure\n5a\n). The unpolished faces of zircon from the rhyolite yield a model age spectrum indicating a dominant (90%) population with an apparent age of 25 6 6 and a minority with an age of 41 6 19 ka.\nInteriors of zircon from the rhyolite have Hf concentrations mostly between 7000 and 11,000 ppm, U concentrations of 250 ppm, and Ti concentrations between 3 and 15 ppm (Figures\n6\n7\n8\n). These Ti values yield apparent temperatures of 670-800 C using the average value of rhyolite aTiO 2 (0.85; obtained by touching Fe-Ti oxide pairs using activity model of\nGhiorso and Evans [2008]\n) and the formulation of\nFerry and Watson [2007]\n(Figure\n8\n).\nChondrite-normalized REE concentrations for zircons from all Augustine samples share the same general pattern. Augustine zircons have steeply positive, slightly curved normalized REE patterns with positive Ce anomalies, similar to other igneous zircon\n[Hoskin and Schaltegger, 2003]\n(Figure\n9\n). However, the Augustine zircons are unusual because they have only slightly negative to absent Eu anomalies. Rhyolite zircon REE patterns overlap with those of the diorite samples, with the exception of high-U diorite grains, discussed below.  Geochemistry, Geophysics, Geosystems 10.1002/2014GC005589",
+        "Dioritic Inclusions": "Dioritic Inclusions\nThe interiors of zircon from the dioritic samples 27c and 42a yield 238 U-230 Th age populations of 28 6 5 and 24 6 5 ka, which are indistinguishable from the zircon interiors and rims from the late Pleistocene rhyolite (Figure\n6b\n). Several dioritic zircons have interiors that are as old as 260 ka (Figure\n7\n). Dioritic sample 304a has younger zircon cores (8 6 5 ka). Rims on zircon from dioritic sample 27c mostly yield model ages that are younger than their interiors, with an apparent age population at 11.5 6 1.2 ka (F 5 0.67). However, a subset of zircon rims with 238 U/ 232 Th activity ratios <8 define a horizontal (zero-age) isochron (Figure\n10\n), suggesting a somewhat higher initial 232 Th/ 230 Th for these rims than indicated by the whole-rock composition and crystallization within millennia of the 2006 eruption. A significant fraction of rims yield model ages defining a population at 29 6 3 ka, which is indistinguishable from the rhyolite-hosted zircon. Two diorite zircon in secular equilibrium for ( 230 Th)/( 238 U) yielded U-Pb ages of 90 Ma and 1800 Ma (Table\n4\n). Geochemistry, Geophysics, Geosystems 10.1002/2014GC005589 U concentrations of dioritic zircon are more variable than those from rhyolite and range from near zero to 700 ppm, including a distinct cluster of 25 ka grains that range from 400 to 700 ppm U (Figures\n6b\nand\n8\n). These high-U zircon have low Hf (<0.85 wt %) and high Ti (20-50 ppm). They also have elevated REE abundances relative to all other analyzed Augustine zircon (Figure\n9\n).\nTi concentrations for high-U zircon are consistent with apparent temperatures of 850 to greater than 950 C, using the range of aTiO 2 of 0.67-0.77 calculated using touching Fe-Ti oxide pairs from diorite samples (Figure\n8\n). It is possible that Fe-Ti oxides record aTiO 2 that is lower than that of the melt the zircon originally crystallized in, and aTiO 2 is best reflected by rhyolite Fe-Ti oxides, which yield aTiO 2 of 0.85. In this case Ti-in-zircon records temperatures of 830-940 C. Regardless of uncertainties in absolute temperature recorded by Ti-in-zircon [e.g.,\nReid et al., 2011]\n, it is clear that the high-U zircon record higher temperatures than low-U grains.",
+        "2006 Andesites": "2006 Andesites\nRare, small zircons were recovered from highsilica andesites (62.5 wt % SiO 2 ) erupted in 2006. Unpolished zircon rims yield a population with a mean age of 9 6 6 ka (Figure\n6c\n), with a handful of zircon ages that are older, but notably few to none in the age range of 25 ka observed for zircon of the rhyolite and diorite. Most andesite-hosted zircon have U (20-200 ppm), Hf (0.64-0.95 wt %), and Ti (8-15 ppm) concentrations that generally overlap with the low-U diorite zircon (Figure\n8\n), though  Geochemistry, Geophysics, Geosystems 10.1002/2014GC005589  Geochemistry, Geophysics, Geosystems 10.1002/2014GC005589 two grains have higher U (Figure\n7\n). Two rims (304c-2.1 and 3.1) have 1700 ppm U (not shown), are in 230 Th-238 U secular equilibrium, and are likely true xenocrysts.",
+        "Discussion": "Discussion",
+        "Age of the Rhyolite and Longevity of the Augustine Magmatic System": "Age of the Rhyolite and Longevity of the Augustine Magmatic System\nThe 26 ka age for both rims and majority of interiors of zircon from the rhyolite suggest a geologically brief episode of zircon crystallization. Radiocarbon dating of Augustine tephras brackets the eruption age of\n[Steiger and J\u20ac ager, 1977]\n; k 230 Th 5 9.1577E-6\n[Cheng et al., 2000]\n.\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005589 the rhyolite between 8 and 40 ka\n[Waitt and Beg et, 2009;\nWallace and Coombs, 2013]\n. Accordingly, eruption of the rhyolite must have occurred between 26 and 8 ka. At one stratigraphic section on the volcano's south flank, pumiceous rhyolitic fall deposits of the same composition as the rhyolite in the rhyolite-basaltic andesite deposit overlie and are interbedded with the top of glacial and glaciofluvial deposits\n[Waitt and Beg et, 2009]\n, consistent with rhyolite eruption during the latest Pleistocene or earliest Holocene.\nThe few mid-Pleistocene zircon antecrysts from all rock types establish that a Quaternary magmatic center existed at Augustine since at least 300 ka (Figure\n7\n), despite the fact that the late Pleistocene rhyolite described here is near the base of the oldest stratigraphic sections on Augustine. Neighboring mainland Cook Inlet volcanoes expose lavas as old as 0.9 Ma (e.g., Redoubt\n[Till et al., 1994]\nand Spurr\n[Nye and Turner, 1990]\n). Augustine's lack of older exposed volcanic rocks may be due to periodic scouring by Pleistocene ice show Guassian age populations and 2-sigma errors determined using the\nSambridge and Compston [1994]\nunmixing method in Isoplot\n[Ludwig, 2003]\n. F-population fraction. Error bars on scatterplots show 1-sigma age errors. Note some crystals yielded older model ages than are shown and can be seen in Figure\n7\n.\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005589 sheet lobes due to its position in glacially vulnerable Cook Inlet, whereas neighboring volcanoes sit high atop mountain ranges.\nThe relative scarcity of zircon older than 70 ka suggests that small but frequent andesitic eruptions of the sort that occurred prior to and after the generation of the Pleistocene rhyolite do not allow for significant zircon crystallization.\nFinally, this study yielded only a very few truly xenocrystic zircon with ages greater than a few hundred thousand years. A single zircon dated at 1800 Ma matches in age a large population of zircon xenocrysts from Redoubt Volcano, 130 km to the north, that are thought to be sourced from igneous rocks in or below Peninsular terrane basement\n[Bacon et al., 2011]\n. The presence of a similarly aged zircon under Augustine suggests the same terrane extends below lower Cook Inlet, as well.\n5.2. Plutonic-Volcanic Link Between Pleistocene Rhyolite and Dioritic Inclusions 5.2.1. Geochronological Evidence Zircon geochronology reveals that both the rhyolite and some dioritic inclusions from the 2006 eruption crystallized most of their zircon at approximately 26 ka. That rim ages of rhyolite zircon also give this age suggests that the rhyolitic magma erupted soon after, whereas younger rim ages for dioritic zircons show that overgrowth events continued into the Holocene. Concordant ages between the rhyolite and dioritic zircon establish their contemporaneity and suggest that the rocks are cogenetic.\nIn contrast to the complementary relation between the rhyolite and diorites, the mismatch in zircon age spectra, and offset in whole-rock chemical trends suggests that diorites are unrelated to the andesites that brought them to the surface in 2006. Dioritic inclusions erupted in 2006 average about 80 vol. % crystals, which are pervasively resorbed. Rounded Fe-Ti oxides in the diorites yield temperatures of 850 C, about 30 cooler than the andesites, but about 100 C hotter than the late Pleistocene rhyolite (Figures\n4\nand\n11\n). It is likely that the dioritic intrusion was solid or nearly solid and underwent reheating upon being intruded and entrained by the 2006 andesite magmas. The scattering of Holocene rim ages for dioritic zircons may result from multiple reheating and cooling events after emplacement at 26 ka.",
+        "Evidence From Whole-Rock Geochemistry": "Evidence From Whole-Rock Geochemistry\nIn all whole-rock variation diagrams, Pleistocene rhyolite and 2006 dioritic inclusions plot along arrays that are generally linear, distinct from, and commonly oblique to, those formed by the majority of Augustine Geochemistry, Geophysics, Geosystems 10.1002/2014GC005589 eruptive products (Figure\n2\n). These trends are consistent with the diorites being crystal residues complementary to the rhyolite\n[Deering and Bachmann, 2010;\nGelman et al., 2014]\n. Enrichments in P 2 O 5 and Sr in diorite are consistent with the accumulation of apatite and plagioclase, respectively.\nThe rhyolite has enriched LREE, and an overall concaveup REE pattern, suggesting it separated from an amphibole-bearing residue\n[Davidson et al., 2013]\n, or a ''cold, wet granodiorite mush''\n[Bachmann and Bergantz, 2008]\n(Figure\n3\n). The high fO 2 of the magmatic system (Figure\n4\n) is likely responsible for the lack of significant Eu anomalies in both whole-rock and zircon REE patterns.\nTo evaluate if melt extraction generated the rhyolite, we can examine crystal-melt element distribution and equilibrium between the diorite residue and crystal-poor rhyolite. Assuming that the mean rhyolite represents the composition of the extracted liquid, the fraction of trapped liquid in the dioritic cumulates can be estimated assuming an appropriately low D for some highly incompatible trace element. Assuming D Cs 5 0.001 gives trapped liquid fractions of 0.33-0.37. Numerically removing these trapped liquid fractions and normalizing to the mean rhyolite gives estimates of bulk Ds (Table\n5\n). The resulting Ds are closely similar between dioritic samples (Figure\n12\n). Sr is moderately compatible (D Sr : 1.5-1.7), the REE pass smoothly with increasing atomic number from weakly incompatible (D La :  Geochemistry, Geophysics, Geosystems 10.1002/2014GC005589 0.5, D Ce : 0.6-0.7) to compatible, peaking from Tb (D Tb : 2.3-3.0) to Er (D Er : 2.4-3.0), then declining slightly to Lu (D Lu : 1.9-2.3). Notably, the calculated bulk partition coefficient patterns lack Eu anomalies. Similar REE bulk partition coefficient patterns are calculated from melt-free diorite modes and literature mineralmelt partition coefficients (Table\n6\n), indicating that the mineral assemblage of the diorites can represent a crystal-rich residue in equilibrium with the 26 ka rhyolite. The overall pattern reflects the presence of 10% amphibole in the crystallizing assemblage, and the overall level of REE compatibility is accomplished through the presence of 0.5 % apatite (Table\n6\n).\nFor many elements and oxides, the diorite-rhyolite array crosses the evolved dacitic end of the predominantly andesitic Augustine volcanic suite (Figure\n2\n). Such relations suggest that the bulk magma that intruded and differentiated to form the rhyolite and residual diorites was dacitic. Two early Holocene Augustine dacite (to high-silica andesite) tephras plot along the diorite-rhyolite array, even where this trend is at steep angles to the main Augustine compositional suite. We posit that these relatively silicic early Holocene tephras are magmatic equivalents to the crystal-rich intermediates from which the rhyolite was extracted (Figure\n13\n). If so, the diorite, dacites, and rhyolite define an unmixing trend indicating that melt extraction resulted in subequal volumes of diorite and rhyolite. Because it is unknown what percent of liquid trapped in the diorite blocks was left there during this extraction, versus formed later during remelting events, it is impossible to know the crystallinity of the mush with certainty, but it appears to have been approximately 50%. Subequal amounts of melt and residue are consistent with physical models that predict melt extraction may be facilitated when a rigid framework forms at around 40-60% crystallinity\n[Dufek and Bachmann, 2010]\n.\nThe eruption of rhyolite was coeval with eruption of basalt to basaltic andesite, the most mafic known deposits from Augustine Volcano. The basaltic andesite was exceptionally volatile rich, with undegassed olivine-hosted melt inclusions containing 6.5 wt % H 2 O and 5000 ppm S\n[Zimmer et al., 2010]\n. An influx of volatile-rich mafic magma may have triggered melt extraction from crystal-rich magma [cf.,\nSisson and Bacon, 1999]\n, and the propagation of the low-viscosity mafic dike to the surface may have provided a pathway for rhyolite to erupt.",
+        "Timing of Melt Extraction Versus Rhyolite Eruption": "Timing of Melt Extraction Versus Rhyolite Eruption\nBy looking at the crystals and crystal compositions in the rhyolite it is possible to determine the efficiency of melt extraction. Zircon from the diorite overlap with low-Hf zircon from the rhyolite, but the rhyolite contains a population with higher Hf (>1.2 wt %) (Figure\n8\n). It is plausible that these zircons crystallized from the rhyolite melt after extraction, whereas the lower Hf zircon formed within the crystal-rich intermediate prior to mush extraction. That the rhyolite brought some mush zircon crystals with it is consistent with the\n2\n). The rhyolite also contains phenocrysts of quartz, orthopyroxene, plagioclase, and cummingtonite, some or all of which likely crystallized after the rhyolite was separated from the dioritic residue (Figure\n13\n). Cummingtonite is stable at low temperatures (<800 C), high water contents, and high fO 2\n[Geschwind and Rutherford, 1992]\n. This phase has not been identified in the dioritic inclusions, which contain magnesiohornblende with 9-10 wt % Al 2 O 3\n[De Angelis et al., 2013]\n. The rhyolite also contains high-Al hornblende\n[Nadeau et al., 2013]\n. More detailed investigation into mineral compositions in the rhyolite may further constrain the proportion of antecrysts to phenocrysts within the rhyolite and thus provide insights into the mechanics of melt extraction.",
+        "Concluding Remarks": "Concluding Remarks\nHere we show a temporal and geochemical link between two rock types at Augustine Volcano: crystal-poor rhyolite, erupted in the late Pleistocene, and dioritic blocks ejected in 2006. The overlap in zircon ages, as well as the trace-element patterns consistent with mineral-melt partitioning, strongly suggest that these rocks represent the extraction and eruption of melt from a crystal-rich magma body. Early Holocene andesitic to dacitic tephras may represent the crystal-rich intermediates from which the former two were separated. Further investigations of the early Holocene tephras may test this hypothesis.\nProcesses recorded by the rhyolite-diorite-dacite array are exceptional at this volcano. Holocene explosive eruptions instead produced high-silica andesites with 30-40 vol. % phenocrysts\n[Tappen et al., 2009]\n, and historical eruptions of lesser explosivity have erupted similar magmas\n[Johnston, 1978;\nRoman et al., 2005\nLarsen et al., 2010]\n. These more recent magmas have rhyolitic melt phases that could potentially be extracted under the right conditions. For this to occur, however, would require the presence of a sufficiently large intermediate-composition magma body. We speculate that accumulation of a large volume dacitic mush may have been facilitated by ice cover over the volcano during the last ice age. Retreat of the ice cover decreased pressure and led to more voluminous eruptions in the early Holocene [e.g.,\nSigvaldason et al., 1992;\nHuybers and Langmuir, 2009]\n. During the past few thousand years, lower overlying stress has allowed for less magma accumulation in the crust leading to more modest eruptions.\n[1998]\n. Pyroxene Ds from\nSisson [1991]\nand\nBacon and Druitt [1988]\n.\nMagnetite Ds from\nBacon and Druitt [1998]\nand\nNash and Crecraft [1985]\n; Er was extrapolated. Amphibole Ds from\nSisson [1994]\nusing his sample DM-B. Apatite Ds from Brophy et al.\n[2011].\nGeochemistry, Geophysics, Geosystems",
+        "E E E E E E E E E E E E E E E E E E E E E E Er Er Er Er Er Er Er t t t t t t t t t t t D AD AD D D AD D D AD D D D D AD AD A A A A A A A A A A A A A A A A A A A A": "E E E E E E E E E E E E E E E E E E E E E E Er Er Er Er Er Er Er t t t t t t t t t t t D AD AD D D AD D D AD D D D D AD AD A A A A A A A A A A A A A A A A A A A A\nA A A 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 06 06 06 06 06 06 06 6 06 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 00 0 0 0 0 0 0\n2 2 2 2 2 2 2 2 2 2 2 2 2 2 2",
+        "0 0 2 2 2 o o o o o o o o o o o o o o o o o on n n n n n n n n n n n n n n n n n n n n n n n n n n n i i i i i i i i i i i i i i i i i in i i i i in in i in i i i i i i in n n n n n n n n n n n n n n n n n n n n n n n n n n n n in i in i i i i i i in n n n n n n n n n t ti i t t ti ti t t ti ti t ti ti t t t t t ti i io io io io o o o o o o o o o o o o o o o o ti ti t t t t t tio io o o o o o o o o": "0 0 2 2 2 o o o o o o o o o o o o o o o o o on n n n n n n n n n n n n n n n n n n n n n n n n n n n i i i i i i i i i i i i i i i i i in i i i i in in i in i i i i i i in n n n n n n n n n n n n n n n n n n n n n n n n n n n n in i in i i i i i i in n n n n n n n n n t ti i t t ti ti t t ti ti t ti ti t t t t t ti i io io io io o o o o o o o o o o o o o o o o ti ti t t t t t tio io o o o o o o o o\n0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 r r r r r r r r r r ru r ru r r ru ru ru ru ru u u u u u r r r r r r ru ru u u t",
+        "t t p pt p pt pt p p p p p p pt pt pt p p p p p p pt pt p p p p p p p p p up up up up up p p p p p up up p p p p p p p p": "t t p pt p pt pt p p p p p p pt pt pt p p p p p p pt pt p p p p p p p p p up up up up up p p p p p up up p p p p p p p p"
+    },
+    "references": [
+        {
+            "title": "Cogenetic late Pleistocene rhyolite and cumulate diorites from Augustine Volcano revealed by SIMS 238 U-230 Th dating of zircon, and implications for silicic magma generation by extraction from mush",
+            "authors": [
+                "MichelleLCoombs",
+                "JorgeAVazquez"
+            ],
+            "journal": null,
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The petrology of plutonic blocks and inclusions from the Lesser Antilles Island Arc",
+            "authors": [
+                "RJArculus",
+                "KJ AWills ; Bachmann",
+                "O",
+                "GWBergantz"
+            ],
+            "journal": "J. Petrol",
+            "date": "1980",
+            "pages": {
+                "from": "1565",
+                "to": "1582"
+            }
+        },
+        {
+            "title": "Rhyolites and their source mushes across tectonic settings",
+            "authors": [
+                "OBachmann",
+                "GWBergantz"
+            ],
+            "journal": "J. Petrol",
+            "date": "2008",
+            "pages": {
+                "from": "2277",
+                "to": "2285"
+            }
+        },
+        {
+            "title": "Magmatic inclusions in silicic and intermediate volcanic rocks",
+            "authors": [
+                "CRBacon"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1986",
+            "pages": {
+                "from": "6091",
+                "to": "6112"
+            }
+        },
+        {
+            "title": "Compositional evolution of the zoned calcalkaline magma chamber of Mount Mazama",
+            "authors": [
+                "CRBacon",
+                "THDruitt"
+            ],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": "1988",
+            "pages": {
+                "from": "224",
+                "to": "256"
+            }
+        },
+        {
+            "title": "Late Pleistocene granodiorite beneath Crater Lake caldera, Oregon, dated by ion microprobe",
+            "authors": [
+                "CRBacon",
+                "HMPersing",
+                "JLWooden",
+                "TRIreland"
+            ],
+            "journal": "Geology",
+            "date": "2000",
+            "pages": {
+                "from": "467",
+                "to": "470"
+            }
+        },
+        {
+            "title": "Young cumulate complex beneath Veniaminof caldera, Aleutian arc, dated by zircon in erupted plutonic blocks",
+            "authors": [
+                "CRBacon",
+                "TWSisson",
+                "FKMazdab"
+            ],
+            "journal": "Geology",
+            "date": "2007",
+            "pages": {
+                "from": "491",
+                "to": "494"
+            }
+        },
+        {
+            "title": "Peninsular terrane basement ages recorded by Paleozoic and Paleoproterozoic zircon in gabbro xenoliths and andesite from Redoubt volcano",
+            "authors": [
+                "CRBacon",
+                "JAVazquez",
+                "JLWooden"
+            ],
+            "journal": "Geol. Soc. Am. Bull",
+            "date": "2011",
+            "pages": {
+                "from": "24",
+                "to": "34"
+            }
+        },
+        {
+            "title": "Coupled elemental and isotopic analyses of polygenetic zircons from granitic rocks by ion microprobe, with implications for melt evolution and the sources of granitic magmas",
+            "authors": [
+                "APBarth",
+                "JLWooden"
+            ],
+            "journal": "Chem. Geol",
+            "date": "2010",
+            "pages": {
+                "from": "149",
+                "to": "159"
+            }
+        },
+        {
+            "title": "Cyclic formation of debris avalanches at Mount St Augustine volcano",
+            "authors": [
+                "JEBeg",
+                "JKienle"
+            ],
+            "journal": "Nature",
+            "date": "1992",
+            "pages": {
+                "from": "701",
+                "to": "704"
+            }
+        },
+        {
+            "title": "Improved 206 Pb/ 238 U microprobe geochronology by the monitoring of a trace-element-related matrix effect; SHRIMP, ID-TIMS, ELA-ICP-MS and oxygen isotope documentation for a series of zircon standards",
+            "authors": [
+                "LPBlack"
+            ],
+            "journal": "Chem. Geol",
+            "date": "2004",
+            "pages": {
+                "from": "115",
+                "to": "140"
+            }
+        },
+        {
+            "title": "In situ ion-microprobe determination of trace element partition coefficients for hornblende, plagioclase, orthopyroxene, and apatite in equilibrium with natural rhyolitic glass",
+            "authors": [
+                "JGBrophy",
+                "TOta",
+                "TKunihro",
+                "TTsujimori",
+                "ENakamura"
+            ],
+            "journal": "Am. Mineral",
+            "date": "2011",
+            "pages": {
+                "from": "1838",
+                "to": "1850"
+            }
+        },
+        {
+            "title": "Geodetic constraints on magma movement and withdrawal during the 2006 eruption of Augustine Volcano",
+            "authors": [
+                "PFCervelli",
+                "TFournier",
+                "JTFreymueller",
+                "JPower",
+                "MLisowski",
+                "BAPauk"
+            ],
+            "journal": null,
+            "date": "2010",
+            "pages": {
+                "from": "427",
+                "to": "452"
+            }
+        },
+        {
+            "title": "The half-lives of uranium-234 and thorium 230",
+            "authors": [
+                "HCheng",
+                "RLEdwards",
+                "JHoff",
+                "CDGallup",
+                "DARichards",
+                "YAsmerom"
+            ],
+            "journal": "Chem. Geol",
+            "date": "2000",
+            "pages": {
+                "from": "17",
+                "to": "33"
+            }
+        },
+        {
+            "title": "Tracking magmatic processes through Zr/Hf ratios in rocks and Hf and Ti zoning in zircons: An example from the Spirit Mountain batholith",
+            "authors": [
+                "LLClaiborne",
+                "CFMiller",
+                "BAWalker",
+                "JLWooden",
+                "FKMazdab",
+                "FBea"
+            ],
+            "journal": "Mineral. Mag",
+            "date": "2006",
+            "pages": {
+                "from": "517",
+                "to": "543"
+            }
+        },
+        {
+            "title": "Timing, distribution, and volume of proximal products of the 2006 eruption of Augustine Volcano",
+            "authors": [
+                "MLCoombs",
+                "KVBull",
+                "JVallance",
+                "DJSchneider",
+                "EEThoms",
+                "RWessels",
+                "RGMcgimsey"
+            ],
+            "journal": null,
+            "date": "2010",
+            "pages": {
+                "from": "145",
+                "to": "186"
+            }
+        },
+        {
+            "title": "Petrology, geochemistry, and the evolution of magmas from Augustine Volcano, Alaska, MS thesis",
+            "authors": [
+                "EEDaley"
+            ],
+            "journal": null,
+            "date": "1986",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Dy/Dy*: Variations arising from mantle sources and petrogenetic processes",
+            "authors": [
+                "JDavidson",
+                "STurner",
+                "TPlank"
+            ],
+            "journal": "J. Petrol",
+            "date": "2013",
+            "pages": {
+                "from": "525",
+                "to": "537"
+            }
+        },
+        {
+            "title": "Pre-eruptive magmatic conditions at Augustine Volcano, Alaska, 2006: Evidence from amphibole geochemistry and textures",
+            "authors": [
+                "SHDe Angelis",
+                "JLarsen",
+                "MCoombs"
+            ],
+            "journal": "J. Petrol",
+            "date": "2013",
+            "pages": {
+                "from": "1939",
+                "to": "1961"
+            }
+        },
+        {
+            "title": "Trace element indicators of crystal accumulation in silicic igneous rocks",
+            "authors": [
+                "CDDeering",
+                "OBachmann"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2010",
+            "pages": {
+                "from": "324",
+                "to": "331"
+            }
+        },
+        {
+            "title": "The Ammonia Tanks Tuff: Erupting a melt-rich rhyolite cap and its remobilized crystal cumulate",
+            "authors": [
+                "CDDeering",
+                "OBachmann",
+                "TAVogel"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2011",
+            "pages": {
+                "from": "518",
+                "to": "525"
+            }
+        },
+        {
+            "title": "Quantum magmatism: Magmatic compositional gaps generated by melt-crystal dynamics",
+            "authors": [
+                "JDufek",
+                "OBachmann"
+            ],
+            "journal": "Geology",
+            "date": "2010",
+            "pages": {
+                "from": "687",
+                "to": "690"
+            }
+        },
+        {
+            "title": "New thermodynamic models and revised calibrations for the Ti-in-zircon and Zr-in-rutile thermometers",
+            "authors": [
+                "JMFerry",
+                "EBWatson"
+            ],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": "2007",
+            "pages": {
+                "from": "429",
+                "to": "437"
+            }
+        },
+        {
+            "title": "Identifying crystal graveyards remaining after large silicic eruptions",
+            "authors": [
+                "SEGelman",
+                "CDDeering",
+                "OBachmann",
+                "CHuber",
+                "FJGutierrez"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2014",
+            "pages": {
+                "from": "299",
+                "to": "306"
+            }
+        },
+        {
+            "title": "Cummingtonite and the evolution of the Mount St. Helens (Washignton) magma system: AN experimental study",
+            "authors": [
+                "C.-HGeschwind",
+                "MJRutherford"
+            ],
+            "journal": "Geology",
+            "date": "1992",
+            "pages": {
+                "from": "1011",
+                "to": "1014"
+            }
+        },
+        {
+            "title": "Thermodynamics of rhombohedral oxide solid solutions and a revision of the Fe-Ti two-oxide geothermometer and oxygen-barometer",
+            "authors": [
+                "MSGhiorso",
+                "BWEvans"
+            ],
+            "journal": "Am. J. Sci",
+            "date": "2008",
+            "pages": {
+                "from": "957",
+                "to": "1039"
+            }
+        },
+        {
+            "title": "The tenuous connection between high-silica rhyolites and granodiorite plutons",
+            "authors": [
+                "AFGlazner",
+                "DSColeman",
+                "JMBartley"
+            ],
+            "journal": "Geology",
+            "date": "2008",
+            "pages": {
+                "from": "183",
+                "to": "186"
+            }
+        },
+        {
+            "title": "Ti-in-zircon thermometry applied to contrasting Archean metamorphic and igneous systems",
+            "authors": [
+                "JHiess",
+                "APNutman",
+                "VCBennett",
+                "PHolden"
+            ],
+            "journal": "Chem. Geol",
+            "date": "2008",
+            "pages": {
+                "from": "323",
+                "to": "338"
+            }
+        },
+        {
+            "title": "The composition of zircon and igneous and metamorphic petrogenesis",
+            "authors": [
+                "PW OHoskin",
+                "USchaltegger"
+            ],
+            "journal": "Rev. Mineral. Geochem",
+            "date": "2003",
+            "pages": {
+                "from": "27",
+                "to": "55"
+            }
+        },
+        {
+            "title": "Feedback between deglaciation, volcanism, and atmospheric CO 2",
+            "authors": [
+                "PHuybers",
+                "CLangmuir"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2009",
+            "pages": {
+                "from": "479",
+                "to": "491"
+            }
+        },
+        {
+            "title": "Volatiles, magma mixing, and the mechanism of eruption at Augustine Volcano, Alaska",
+            "authors": [
+                "DAJohnston"
+            ],
+            "journal": null,
+            "date": "1978",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Petrology and geochemistry of the 2006 eruption of Augustine Volcano",
+            "authors": [
+                "JFLarsen",
+                "CJNye",
+                "MLCoombs",
+                "MTilman",
+                "PIzbekov",
+                "CCameron"
+            ],
+            "journal": null,
+            "date": "2010",
+            "pages": {
+                "from": "335",
+                "to": "382"
+            }
+        },
+        {
+            "title": "Isoplot v. 3.71: A geochronological Toolkit for Microsoft Excel, Spec. Publ. 4, 70 p",
+            "authors": [
+                "KLudwig"
+            ],
+            "journal": null,
+            "date": "2009",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Isoplot 3.00: A geochronological toolkit for Microsoft Excel, Spec Publ",
+            "authors": [
+                "KRLudwig"
+            ],
+            "journal": null,
+            "date": "2003",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "A glimpse into Augustine Volcano's pre-glacial past: Insight from a massive rhyolite deposit",
+            "authors": [
+                "PANadeau",
+                "JDWebster",
+                "CWMandeville",
+                "BAGoldoff",
+                "NShimizu",
+                "BDMonteleone"
+            ],
+            "journal": null,
+            "date": "2013",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Partition coefficients for trace elements in silicic magmas",
+            "authors": [
+                "WPNash",
+                "HRCrecraft"
+            ],
+            "journal": "Geochim. Cosmochim. Acta",
+            "date": "1985",
+            "pages": {
+                "from": "2309",
+                "to": "2322"
+            }
+        },
+        {
+            "title": "Petrology, geochemistry, and age of the Spurr volcanic complex, eastern Aleutian arc",
+            "authors": [
+                "CJNye",
+                "DLTurner"
+            ],
+            "journal": "Bull. Volcanol",
+            "date": "1990",
+            "pages": {
+                "from": "205",
+                "to": "226"
+            }
+        },
+        {
+            "title": "U-Pb ages of Duluth complex and related mafic intrusions, northeastern Minnesota: Geochronological insights to physical, petrogenetic, paleomagnetic, and tectonomagmatic processes associated with the 1.1 Ga mid-continent rift system",
+            "authors": [
+                "JBPaces",
+                "JDMiller"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1993",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Prolonged residence times for the youngest rhyolites associated with Long Valley Caldera: Th-230-U-238 ion microprobe dating of young zircons",
+            "authors": [
+                "MReid",
+                "CCoath",
+                "TMHarrison",
+                "KMckeegan"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1997",
+            "pages": {
+                "from": "27",
+                "to": "39"
+            }
+        },
+        {
+            "title": "Zircon-scale insights into the history of a supervolcano, Bishop Tuff, Long Valley, California, with implications for the Ti-in-zircon geothermometer",
+            "authors": [
+                "MRReid",
+                "JAVazquez",
+                "AKSchmitt"
+            ],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": "2011",
+            "pages": {
+                "from": "293",
+                "to": "311"
+            }
+        },
+        {
+            "title": "A dearth of intermediate melts at subduction zone volcanoes and the petrogenesis of arc andesites",
+            "authors": [
+                "OReubi",
+                "JBlundy"
+            ],
+            "journal": "Nature",
+            "date": "2009",
+            "pages": {
+                "from": "1269",
+                "to": "1273"
+            }
+        },
+        {
+            "title": "Storage and interaction of compositionally heterogeneous magmas from the 1986 eruption of Augustine Volcano",
+            "authors": [
+                "DCRoman",
+                "KVCashman",
+                "CAGardner",
+                "PWallace",
+                "JDonovan"
+            ],
+            "journal": "Bull. Volcanol",
+            "date": "2005",
+            "pages": {
+                "from": "240",
+                "to": "254"
+            }
+        },
+        {
+            "title": "Mixture modeling of multi-component data sets with application to ion-probe zircon ages",
+            "authors": [
+                "MSSambridge",
+                "WCompston"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1994",
+            "pages": {
+                "from": "373",
+                "to": "390"
+            }
+        },
+        {
+            "title": "Laacher See revisited: High-spatial-resolution zircon dating indicates rapid formation of a zoned magma chamber",
+            "authors": [
+                "AKSchmitt"
+            ],
+            "journal": "Geology",
+            "date": "2006",
+            "pages": {
+                "from": "597",
+                "to": "600"
+            }
+        },
+        {
+            "title": "The 1883 and late-prehistoric eruptions of Augustine volcano",
+            "authors": [
+                "LSiebert",
+                "JEBeg",
+                "HGlicken"
+            ],
+            "journal": "Alaska, J. Volcanol. Geotherm. Res",
+            "date": "1995",
+            "pages": {
+                "from": "367",
+                "to": "395"
+            }
+        },
+        {
+            "title": "Effect of glacier loading/unloading on volcanism: Postglacial volcanic production rate of the Dyngjufj\u20ac oll area, central Iceland",
+            "authors": [
+                "GESigvaldason",
+                "KAnnertz",
+                "MNilsson"
+            ],
+            "journal": "Bull. Volcanol",
+            "date": "1992",
+            "pages": {
+                "from": "385",
+                "to": "392"
+            }
+        },
+        {
+            "title": "Pyroxene-high silica rhyolite trace element partition coefficients measured by ion microprobe",
+            "authors": [
+                "TWSisson"
+            ],
+            "journal": "Geochim. Cosmochim. Acta",
+            "date": "1991",
+            "pages": {
+                "from": "1575",
+                "to": "1585"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "This article is a U.S. Government work and is in the public domain in the USA Sisson",
+            "authors": [
+                "Coombs",
+                "TWVazquez"
+            ],
+            "journal": "Chem. Geol",
+            "date": "1994",
+            "pages": {
+                "from": "331",
+                "to": "344"
+            }
+        },
+        {
+            "title": "Gas-driven filter pressing in magmas",
+            "authors": [
+                "TWSisson",
+                "CRBacon"
+            ],
+            "journal": null,
+            "date": "1999",
+            "pages": {
+                "from": "613",
+                "to": "616"
+            }
+        },
+        {
+            "title": "Approximation of terrestrial lead isotope evolution by a two-stage model",
+            "authors": [
+                "JTStacey",
+                "JDKramers"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1975",
+            "pages": {
+                "from": "207",
+                "to": "221"
+            }
+        },
+        {
+            "title": "Subcommission on geochronology: Convention on the use of decay constants in geo-and cosmochronology",
+            "authors": [
+                "RSteiger",
+                "EAger"
+            ],
+            "journal": null,
+            "date": "1977",
+            "pages": {
+                "from": "359",
+                "to": "362"
+            }
+        },
+        {
+            "title": "Quenched mafic inclusions in 2200 yrs B.P. deposits at Augustine Volcano, Alaska",
+            "authors": [
+                "ASteiner",
+                "BLBrowne",
+                "CJNye"
+            ],
+            "journal": "Int. Geol. Rev",
+            "date": "2012",
+            "pages": {
+                "from": "1241",
+                "to": "1270"
+            }
+        },
+        {
+            "title": "Constraints on the nature of the subvolcanic reservoir at South Sister volcano, Oregon from Useries dating combined with sub-crystal trace-element analysis of plagioclase and zircon",
+            "authors": [
+                "MEStelten",
+                "KMCooper"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2012",
+            "pages": {
+                "from": "1",
+                "to": "11"
+            }
+        },
+        {
+            "title": "To each plutonic rock its proper name",
+            "authors": [
+                "AStreckeisen"
+            ],
+            "journal": "Earth Sci. Rev",
+            "date": "1976",
+            "pages": {
+                "from": "1",
+                "to": "33"
+            }
+        },
+        {
+            "title": "The plutonic record of a silicic ignimbrite from the Latir volcanic field",
+            "authors": [
+                "MJTappa",
+                "DSColeman",
+                "RDMills",
+                "KMSamperton"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2011",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Petrology and geochemistry of ca. 2100-1000 a.B.P. magmas of Augustine volcano, Alaska, based on analysis of prehistoric pumiceous tephra",
+            "authors": [
+                "CMTappen",
+                "JDWebster",
+                "CWMandeville",
+                "DRoderick"
+            ],
+            "journal": "J. Volcanol. Geotherm. Res",
+            "date": "2009",
+            "pages": {
+                "from": "42",
+                "to": "62"
+            }
+        },
+        {
+            "title": "Uranium series analysis of 2006 Augustine volcanics: An investigation into the timescales of magmatic processes",
+            "authors": [
+                "JAThompson"
+            ],
+            "journal": null,
+            "date": "2011",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The geologic history of Redoubt Volcano",
+            "authors": [
+                "ABTill",
+                "MEYount",
+                "MLBevier"
+            ],
+            "journal": "Alaska, J. Volcanol. Geotherm. Res",
+            "date": "1994",
+            "pages": {
+                "from": "11",
+                "to": "30"
+            }
+        },
+        {
+            "title": "Plutonic xenoliths reveal the timing of magma evolution at Hualalai and Mauna Kea",
+            "authors": [
+                "JAVazquez",
+                "PJShamberger",
+                "JEHammer"
+            ],
+            "journal": "Geology",
+            "date": "2007",
+            "pages": {
+                "from": "695",
+                "to": "698"
+            }
+        },
+        {
+            "title": "Volcanic processes and geology of Augustine Volcano, Alaska",
+            "authors": [
+                "RBWaitt",
+                "JEBeg",
+                "KWallace",
+                "MLCoombs"
+            ],
+            "journal": null,
+            "date": "1762",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Augustine Volcano, Alaska: The influence of volatile components in magmas erupted AD 2006 to 2100 years before present",
+            "authors": [
+                "JDWebster",
+                "CWMandeville",
+                "BGoldoff",
+                "MLCoombs",
+                "CTappen"
+            ],
+            "journal": null,
+            "date": "2010",
+            "pages": {
+                "from": "383",
+                "to": "423"
+            }
+        },
+        {
+            "title": "Further characterization of the 91500 zircon crystal",
+            "authors": [
+                "MWiedenbeck"
+            ],
+            "journal": "Geostand. Geoanal. Res",
+            "date": "2004",
+            "pages": {
+                "from": "9",
+                "to": "39"
+            }
+        },
+        {
+            "title": "The role of water in generating the calc-alkaline trend: New volatile data for Aleutian magmas and a new tholeiitic index",
+            "authors": [
+                "MMZimmer",
+                "TPlank",
+                "EHHauri",
+                "GMYogodzinski",
+                "PStelling",
+                "JFLarsen",
+                "BSSinger",
+                "BRJicha",
+                "CWMandeville",
+                "CJNye"
+            ],
+            "journal": "J. Petrol",
+            "date": "2010",
+            "pages": {
+                "from": "2411",
+                "to": "2444"
+            }
+        }
+    ]
+}

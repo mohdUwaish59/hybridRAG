@@ -1,0 +1,2085 @@
+{
+    "metadata": {
+        "title": "Eruptive history and magmatic stability of Erebus volcano, Antarctica: Insights from englacial tephra",
+        "abstract": "A tephrostratigraphy of the active Antarctic Erebus volcano was determined from englacial tephra on the ice-covered flanks of Erebus and an adjacent volcano. The tephra are used to reconstruct the eruptive history and magmatic evolution of Erebus. More fine-grained and blocky particles define tephra formed in phreatomagmatic eruptions and larger fluidal shards are characteristic of magmatic eruptions and in some cases both eruptive types are identified in a single mixed tephra. The eruptions forming the mixed tephra likely started as phreatomagmatic eruptions which transitioned into Strombolian eruptions as the nonmagmatic water source was exhausted. We reconstructed the eruptive history of Erebus using the tephra layers stratigraphic position, 40 Ar/ 39 Ar ages, shard morphology, and grain size. Major and trace element analyses of individual glass shards were measured by electron probe microanalysis and LA-ICP-MS. Trachybasalt, trachyte, and phonolite tephra were identified. All phonolitic tephra are Erebus-derived with compositions similar to volcanic bombs erupted from Erebus over the past 40 years. The tephra show that Erebus magma has not significantly changed for 40 ka. The uniformity of the glass chemical composition implies that the phonolite magma has crystallized in the same manner without change throughout the late Quaternary, suggesting long-term stability of the Erebus magmatic system. Trachyte and trachybasalt tephra were likely erupted from Marie Byrd Land and the McMurdo Sound area, respectively. The trachytic tephra can be regionally correlated and could provide an important time-stratigraphic marker in Antarctic ice cores.Key Points:The Erebus magmatic systems has remained unchanged over the past 40 kaThe Erebus phonolite is one of the most chemically stable on the planet Eruptions at Erebus can be phreatomagmatic, magmatic, or both",
+        "authors": [
+            {
+                "name": "NelsAIverson",
+                "affiliation": [
+                    {
+                        "department": "Department of Earth and Environmental Science",
+                        "institution": "New Mexico Institute of Mining and Technology",
+                        "address": {
+                            "settlement": "Socorro",
+                            "region": "New Mexico",
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "PhilipRKyle",
+                "affiliation": [
+                    {
+                        "department": "Department of Earth and Environmental Science",
+                        "institution": "New Mexico Institute of Mining and Technology",
+                        "address": {
+                            "settlement": "Socorro",
+                            "region": "New Mexico",
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "NeliaWDunbar",
+                "affiliation": [
+                    {
+                        "department": "New Mexico Bureau of Geology and Mineral Resources",
+                        "institution": "New Mexico Institute of Mining and Technology",
+                        "address": {
+                            "settlement": "Socorro",
+                            "region": "New Mexico",
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "WilliamCMcintosh",
+                "affiliation": [
+                    {
+                        "department": "Department of Earth and Environmental Science",
+                        "institution": "New Mexico Institute of Mining and Technology",
+                        "address": {
+                            "settlement": "Socorro",
+                            "region": "New Mexico",
+                            "postcode": null
+                        }
+                    },
+                    {
+                        "department": "New Mexico Bureau of Geology and Mineral Resources",
+                        "institution": "New Mexico Institute of Mining and Technology",
+                        "address": {
+                            "settlement": "Socorro",
+                            "region": "New Mexico",
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "NicholasJ GPearce",
+                "affiliation": [
+                    {
+                        "department": "Department of Geography and Earth Sciences",
+                        "institution": "Aberystwyth University",
+                        "address": {
+                            "settlement": "Wales",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "RBintanja",
+                "affiliation": []
+            },
+            {
+                "name": "RButtner",
+                "affiliation": []
+            },
+            {
+                "name": "PDellino",
+                "affiliation": []
+            },
+            {
+                "name": "BZimanowski",
+                "affiliation": []
+            },
+            {
+                "name": "RButtner",
+                "affiliation": []
+            },
+            {
+                "name": "PDellino",
+                "affiliation": []
+            },
+            {
+                "name": "LLa",
+                "affiliation": []
+            },
+            {
+                "name": "VVolpe",
+                "affiliation": []
+            },
+            {
+                "name": "BLorenz",
+                "affiliation": []
+            },
+            {
+                "name": "Zimanowski",
+                "affiliation": []
+            },
+            {
+                "name": "DACaldwell",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "JCalkins",
+                "affiliation": []
+            },
+            {
+                "name": "COppenheimer",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "RA FCas",
+                "affiliation": []
+            },
+            {
+                "name": "JVWright ; Allen And Unwin",
+                "affiliation": []
+            },
+            {
+                "name": "UKLondon",
+                "affiliation": []
+            },
+            {
+                "name": "KVCashman",
+                "affiliation": []
+            },
+            {
+                "name": "HClarke",
+                "affiliation": []
+            },
+            {
+                "name": "VRTroll",
+                "affiliation": []
+            },
+            {
+                "name": "JCCarracedo",
+                "affiliation": []
+            },
+            {
+                "name": "JDavidson",
+                "affiliation": []
+            },
+            {
+                "name": "JHassanzadeh",
+                "affiliation": []
+            },
+            {
+                "name": "RBerzins",
+                "affiliation": []
+            },
+            {
+                "name": "DFStockli",
+                "affiliation": []
+            },
+            {
+                "name": "BBashukooh",
+                "affiliation": []
+            },
+            {
+                "name": "BTurrin",
+                "affiliation": []
+            },
+            {
+                "name": "APandamouz",
+                "affiliation": []
+            },
+            {
+                "name": "PDellino",
+                "affiliation": []
+            },
+            {
+                "name": "LLaVolpe",
+                "affiliation": []
+            },
+            {
+                "name": "PDellino",
+                "affiliation": []
+            },
+            {
+                "name": "MTGudmundsson",
+                "affiliation": []
+            },
+            {
+                "name": "GLarsen",
+                "affiliation": []
+            },
+            {
+                "name": "DMele",
+                "affiliation": []
+            },
+            {
+                "name": "JAStevenson",
+                "affiliation": []
+            },
+            {
+                "name": "TThordarson",
+                "affiliation": []
+            },
+            {
+                "name": "BZimanowski",
+                "affiliation": []
+            },
+            {
+                "name": "AUDogan",
+                "affiliation": []
+            },
+            {
+                "name": "MDogan",
+                "affiliation": []
+            },
+            {
+                "name": "DWPeate",
+                "affiliation": []
+            },
+            {
+                "name": "ZDogruel",
+                "affiliation": []
+            },
+            {
+                "name": "PDoubik",
+                "affiliation": []
+            },
+            {
+                "name": "BEHill",
+                "affiliation": []
+            },
+            {
+                "name": "NWDunbar",
+                "affiliation": []
+            },
+            {
+                "name": "GAZielinski",
+                "affiliation": []
+            },
+            {
+                "name": "DTVoisins",
+                "affiliation": []
+            },
+            {
+                "name": "NWDunbar",
+                "affiliation": []
+            },
+            {
+                "name": "AVKurbatov",
+                "affiliation": []
+            },
+            {
+                "name": "NWDunbar",
+                "affiliation": []
+            },
+            {
+                "name": "KVCashman",
+                "affiliation": []
+            },
+            {
+                "name": "RDupre",
+                "affiliation": []
+            },
+            {
+                "name": "NWDunbar",
+                "affiliation": []
+            },
+            {
+                "name": "GAZielinski",
+                "affiliation": []
+            },
+            {
+                "name": "DTVoisins",
+                "affiliation": []
+            },
+            {
+                "name": "NWDunbar",
+                "affiliation": []
+            },
+            {
+                "name": "WCMcintosh",
+                "affiliation": []
+            },
+            {
+                "name": "RPEsser",
+                "affiliation": []
+            },
+            {
+                "name": "TDurig",
+                "affiliation": []
+            },
+            {
+                "name": "DMele",
+                "affiliation": []
+            },
+            {
+                "name": "PDellino",
+                "affiliation": []
+            },
+            {
+                "name": "BZimanowski",
+                "affiliation": []
+            },
+            {
+                "name": "RPEsser",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "RPEsser",
+                "affiliation": []
+            },
+            {
+                "name": "WCMcintosh",
+                "affiliation": []
+            },
+            {
+                "name": "MTHeizler",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "RPEsser",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "WCMcintosh",
+                "affiliation": []
+            },
+            {
+                "name": "AJGow",
+                "affiliation": []
+            },
+            {
+                "name": "DAMeese",
+                "affiliation": []
+            },
+            {
+                "name": "CJHarpel",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "RPEsser",
+                "affiliation": []
+            },
+            {
+                "name": "WCMcintosh",
+                "affiliation": []
+            },
+            {
+                "name": "DACaldwell",
+                "affiliation": []
+            },
+            {
+                "name": "CJHarpel",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "NWDunbar",
+                "affiliation": []
+            },
+            {
+                "name": "GHeiken",
+                "affiliation": []
+            },
+            {
+                "name": "KHWohletz",
+                "affiliation": []
+            },
+            {
+                "name": "CDHillenbrand",
+                "affiliation": []
+            },
+            {
+                "name": "SGMoreton",
+                "affiliation": []
+            },
+            {
+                "name": "ACaburlotto",
+                "affiliation": []
+            },
+            {
+                "name": "CJPudsey",
+                "affiliation": []
+            },
+            {
+                "name": "RGLucchi",
+                "affiliation": []
+            },
+            {
+                "name": "JLSmellie",
+                "affiliation": []
+            },
+            {
+                "name": "SBenetti",
+                "affiliation": []
+            },
+            {
+                "name": "HGrobe",
+                "affiliation": []
+            },
+            {
+                "name": "JBHunt",
+                "affiliation": []
+            },
+            {
+                "name": "RDLarter",
+                "affiliation": []
+            },
+            {
+                "name": "DLInman",
+                "affiliation": []
+            },
+            {
+                "name": "PJKelly",
+                "affiliation": []
+            },
+            {
+                "name": "NWDunbar",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "WCMcintosh",
+                "affiliation": []
+            },
+            {
+                "name": "PJKelly",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "NWDunbar",
+                "affiliation": []
+            },
+            {
+                "name": "KW WSims",
+                "affiliation": []
+            },
+            {
+                "name": "JRKeys",
+                "affiliation": []
+            },
+            {
+                "name": "PWAnderton",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "HAKnox",
+                "affiliation": []
+            },
+            {
+                "name": "PKyle",
+                "affiliation": []
+            },
+            {
+                "name": "RDibble",
+                "affiliation": []
+            },
+            {
+                "name": "WGiggenbach",
+                "affiliation": []
+            },
+            {
+                "name": "JKeys",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "JAMoore",
+                "affiliation": []
+            },
+            {
+                "name": "MFThirlwall",
+                "affiliation": []
+            },
+            {
+                "name": "NCLautze",
+                "affiliation": []
+            },
+            {
+                "name": "JTaddeucci",
+                "affiliation": []
+            },
+            {
+                "name": "DAndronico",
+                "affiliation": []
+            },
+            {
+                "name": "CCannata",
+                "affiliation": []
+            },
+            {
+                "name": "LTornetta",
+                "affiliation": []
+            },
+            {
+                "name": "PScarlato",
+                "affiliation": []
+            },
+            {
+                "name": "BHoughton",
+                "affiliation": []
+            },
+            {
+                "name": "MDLo Castro",
+                "affiliation": []
+            },
+            {
+                "name": "LeBas",
+                "affiliation": []
+            },
+            {
+                "name": "MJ",
+                "affiliation": []
+            },
+            {
+                "name": "RWLemaitre",
+                "affiliation": []
+            },
+            {
+                "name": "AStreckeisen",
+                "affiliation": []
+            },
+            {
+                "name": "BZanettin",
+                "affiliation": []
+            },
+            {
+                "name": "WLemasurier",
+                "affiliation": []
+            },
+            {
+                "name": "JThomson",
+                "affiliation": []
+            },
+            {
+                "name": "DJLowe",
+                "affiliation": []
+            },
+            {
+                "name": "APMartin",
+                "affiliation": []
+            },
+            {
+                "name": "AFCooper",
+                "affiliation": []
+            },
+            {
+                "name": "WJDunlap",
+                "affiliation": []
+            },
+            {
+                "name": "JAMoore",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "BNarcisi",
+                "affiliation": []
+            },
+            {
+                "name": "JRPetit",
+                "affiliation": []
+            },
+            {
+                "name": "BDelmonte",
+                "affiliation": []
+            },
+            {
+                "name": "CScarchilli",
+                "affiliation": []
+            },
+            {
+                "name": "BStenni",
+                "affiliation": []
+            },
+            {
+                "name": "KNemeth",
+                "affiliation": []
+            },
+            {
+                "name": "COppenheimer",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "COppenheimer",
+                "affiliation": []
+            },
+            {
+                "name": "ALomakina",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "NGKingsbury",
+                "affiliation": []
+            },
+            {
+                "name": "MBoichu",
+                "affiliation": []
+            },
+            {
+                "name": "JMPalais",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "WCMcintosh",
+                "affiliation": []
+            },
+            {
+                "name": "DSeward",
+                "affiliation": []
+            },
+            {
+                "name": "KSPanter",
+                "affiliation": []
+            },
+            {
+                "name": "BWinter",
+                "affiliation": []
+            },
+            {
+                "name": "DParmelee",
+                "affiliation": []
+            },
+            {
+                "name": "TSPaulsen",
+                "affiliation": []
+            },
+            {
+                "name": "TJWilson",
+                "affiliation": []
+            },
+            {
+                "name": "NJ GPearce",
+                "affiliation": []
+            },
+            {
+                "name": "WTPerkins",
+                "affiliation": []
+            },
+            {
+                "name": "JAWestgate",
+                "affiliation": []
+            },
+            {
+                "name": "MPGorton",
+                "affiliation": []
+            },
+            {
+                "name": "SEJackson",
+                "affiliation": []
+            },
+            {
+                "name": "CRNeal",
+                "affiliation": []
+            },
+            {
+                "name": "SPChenery",
+                "affiliation": []
+            },
+            {
+                "name": "NJ GPearce",
+                "affiliation": []
+            },
+            {
+                "name": "WTPerkins",
+                "affiliation": []
+            },
+            {
+                "name": "JAWestgate",
+                "affiliation": []
+            },
+            {
+                "name": "SCWade",
+                "affiliation": []
+            },
+            {
+                "name": "PRRenne",
+                "affiliation": []
+            },
+            {
+                "name": "CCSwisher",
+                "affiliation": []
+            },
+            {
+                "name": "ALDeino",
+                "affiliation": []
+            },
+            {
+                "name": "DBKarner",
+                "affiliation": []
+            },
+            {
+                "name": "TLOwens",
+                "affiliation": []
+            },
+            {
+                "name": "DJDepaolo",
+                "affiliation": []
+            },
+            {
+                "name": "JIRoss",
+                "affiliation": []
+            },
+            {
+                "name": "WCMcintosh",
+                "affiliation": []
+            },
+            {
+                "name": "NWDunbar",
+                "affiliation": []
+            },
+            {
+                "name": "CARowe",
+                "affiliation": []
+            },
+            {
+                "name": "RCAster",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "RRDibble",
+                "affiliation": []
+            },
+            {
+                "name": "JWSchlue",
+                "affiliation": []
+            },
+            {
+                "name": "MFSheridan",
+                "affiliation": []
+            },
+            {
+                "name": "JRMarshall",
+                "affiliation": []
+            },
+            {
+                "name": "MFSheridan",
+                "affiliation": []
+            },
+            {
+                "name": "KHWohletz",
+                "affiliation": []
+            },
+            {
+                "name": "JDehn",
+                "affiliation": []
+            },
+            {
+                "name": "KW WSims",
+                "affiliation": []
+            },
+            {
+                "name": "JBlichert-Toft",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "SPichat",
+                "affiliation": []
+            },
+            {
+                "name": "P.-JGauthier",
+                "affiliation": []
+            },
+            {
+                "name": "JBlusztajn",
+                "affiliation": []
+            },
+            {
+                "name": "PKelly",
+                "affiliation": []
+            },
+            {
+                "name": "LBall",
+                "affiliation": []
+            },
+            {
+                "name": "GLayne",
+                "affiliation": []
+            },
+            {
+                "name": "JLSmellie",
+                "affiliation": []
+            },
+            {
+                "name": "MJStreck",
+                "affiliation": []
+            },
+            {
+                "name": "MADungan",
+                "affiliation": []
+            },
+            {
+                "name": "FBussy",
+                "affiliation": []
+            },
+            {
+                "name": "EMalavassi",
+                "affiliation": []
+            },
+            {
+                "name": "CL KSumner",
+                "affiliation": []
+            },
+            {
+                "name": "KCTaylor",
+                "affiliation": []
+            },
+            {
+                "name": "SThorarinsson",
+                "affiliation": []
+            },
+            {
+                "name": "SThorarinsson",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            },
+            {
+                "name": "GP LWalker",
+                "affiliation": []
+            },
+            {
+                "name": "GP LWalker",
+                "affiliation": []
+            },
+            {
+                "name": "RCrosdale",
+                "affiliation": []
+            },
+            {
+                "name": "TIWilch",
+                "affiliation": []
+            },
+            {
+                "name": "WCMcintosh",
+                "affiliation": []
+            },
+            {
+                "name": "NWDunbar",
+                "affiliation": []
+            },
+            {
+                "name": "LJWong",
+                "affiliation": []
+            },
+            {
+                "name": "JFLarsen",
+                "affiliation": []
+            },
+            {
+                "name": "GWorner",
+                "affiliation": []
+            },
+            {
+                "name": "HNiephaus",
+                "affiliation": []
+            },
+            {
+                "name": "JHertogen",
+                "affiliation": []
+            },
+            {
+                "name": "LViereck",
+                "affiliation": []
+            },
+            {
+                "name": "ACWright",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "BZimanowski",
+                "affiliation": []
+            },
+            {
+                "name": "KWohletz",
+                "affiliation": []
+            },
+            {
+                "name": "PDellino",
+                "affiliation": []
+            },
+            {
+                "name": "RButtner",
+                "affiliation": []
+            }
+        ],
+        "publication_date": "2014",
+        "funder": [
+            "NSF Division of Polar Programs",
+            "Raytheon Polar Services Company. Great thanks to PHI, Inc."
+        ]
+    },
+    "sections": {
+        "Introduction": "Introduction\nAsh-sized tephra entrained in glacial ice, either in exposed blue ice fields or in deep ice cores, are important repositories for understanding Antarctic and global volcanism. Tephra from a single eruptive event can be deposited over wide areas and when correlated can provide excellent time-stratigraphic horizons, especially when the source volcano can be identified\n[Smellie, 1999;\nLowe, 2011]\n. Ice is an ideal medium in which to sample tephra because even the smallest layers and finest grain deposits are easily identified and can be sampled without worries of contamination, unlike tephra layers found in sedimentary cores and in terrestrial environments. In Antarctica, tephra layers found in marine cores [e.g.,\nHillenbrand et al., 2008;\nRoss et al., 2012]\n, ice cores [e.g.,\nGow and Meese, 2007;\nDunbar and Kurbatov, 2011;\nNarcisi et al., 2012]\n, and blue ice areas around the fringe of the ice sheets [e.g.,\nKeys et al., 1977;\nSmellie, 1999;\nDunbar et al., 2008;\nHarpel et al., 2008]\nhave been used to determine chronology with which to interpret past climate changes and provide insight into the volcanic history of Antarctica.\nTephra layers entrained in glaciers on the flanks of Erebus volcano, Antarctica, and exposed in blue ice fields on Ross Island and in the Transantarctic Mountains provide an excellent record of explosive volcanism from Erebus volcano (Figure\n1\n). This study examines particle morphology and chemical composition of glass shards derived from Erebus volcano. Although the term, tephra, loosely defines any ejected material from a volcano\n[Thorarinsson, 1944]\n, the deposits under focus here mostly contain the ash-sized fraction <2 mm in size. Morphologies of tephra particles can range in size from extremely fine-grained ash of a few microns in diameter to blocks the size of a car\n[Lowe, 2011]\n.\nHere we study samples from 34 tephra layers from blue ice areas in order to investigate the explosive eruptive history and magma evolution of Erebus volcano. Morphologies of tephra particles provide insight into Geochemistry, Geophysics, Geosystems 10.1002/2014GC005435 deposit bombs within the 250 m deep crater and occasionally outside onto the summit crater rim. Erebus has had larger Strombolian eruptions in 1984\n[Caldwell and Kyle, 1994;\nKelly et al., 2008b;\nHarpel et al., 2008]\nand from 2005 to 2007\n[Knox, 2012]\nwhich deposited bombs outside of the crater rim. Visual observations during the Austral summers suggest that ash eruptions are rare. Two small phreatic eruptions occurred in 1993, and an ash eruption was observed on 15 December 1997\n[Caldwell and Kyle, 1994;\nHarpel et al., 2008]\n. Although no large ash eruptions have been observed, an excellent ash-sized englacial tephra record is preserved in blue ice areas on the flanks of Erebus volcano.\nThe chronology of Erebus volcano eruptive history is constrained using 40 Ar/ 39 Ar, 3 He, and 36 Cl ages\n[Kyle et al., 1992;\nEsser et al., 2004;\nHarpel et al., 2004;\nKelly et al., 2008a;\nSims et al., 2008;\nParmelee, 2014]\n. Bombs collected between 1972 and 2007 and samples of lava flows filling the caldera are all phonolite and show that there has been no significant change in composition for the past 17 ka\n[Kyle, 1977;\nCaldwell and Kyle, 1994;\nSumner, 2007;\nKelly et al., 2008b]\n. Geochemical analyses of glass from englacial tephra on the flanks of Erebus suggest no significant changes in magma composition for the past 36 ka, just before which lava chemistry changed from a tephriphonolite to a phonolite\n[Harpel et al., 2004]\n.\nErebus volcano has an extensive blue ice tephra record. These blue ice areas are small, discontinuous areas whose level of exposure vary from year to year and may be obscured by snowfall.\nHarpel et al. [2008]\nconducted geochemical and morphological analysis on 56 tephra layers located on the Barne Glacier, one layer found at Terra Nova summit, and two locations in the Transantarctic Mountains. Two Erebus-derived tephra from the Barne Glacier were dated at 71 6 5 ka and 15 6 4 ka\n[Harpel et al., 2004]\n. Tephra younger than 15 ka were not identified in the Barne Glacier section.\nHarpel et al. [2008]\nshowed from englacial tephra shard morphologies that explosive eruptions at Erebus were typically phreatomagmatic and less commonly from Strombolian eruptions. The distal tephra found over 150 km away in the Transantarctic Mountains were thought by\nHarpel et al. [2008]\nto be phreatoplinian. There are many other blue ice sections located on the flanks of Erebus with tephra layers that were not sampled by\nHarpel et al. [2008]\n, and some of these are examined here. Geochemical analysis of tephra from these different locations combined with new 40 Ar/ 39 Ar ages, grain size analysis, and quantitative morphological characterization of glass shards provide a better understanding of the explosive eruptive history of Erebus.",
+        "Field Characteristics": "Field Characteristics\nTephra layers are exposed in almost all blue ice areas around Erebus. Most tephra were collected from blue ice on the flanks of Erebus but some were located on adjacent peaks (e.g., Mount Terra Nova) and in large blue ice areas in the Transantarctic Mountains (Figures\n1\nand\n2\n). Blue ice areas represent locations on glaciers or ice sheets where ablation by wind is occurring. Some ablation is cause by wind turbulence on the downwind side of changes in bedrock topography and local ice flow obstructions\n[Bintanja, 1999;\nDunbar et al., 2008]\n. These blue ice areas may contain tephra layers which define a stratigraphic sequence of volcanic events. Tephra layers are assumed to be in stratigraphic order based on previous work at Mt. Moulton, Antarctica, where tephra layers were dated in stratigraphic order between 10 and 500 ka\n[Dunbar et al., 2008]\n. This assumption is further supported by tephra being found in firn higher in the section at DDC and in blue ice at the bottom of the section, showing the evolution of snow to firn to blue ice with burial. The surface expression of englacial tephra on Erebus is usually a thin golden-colored line in the ice, with a melt depression downslope or coincident with the layer (Figures\n2a\nand\n2b\n). Some layers are only present as depressions in the ice. Below the surface, layers are typically 0.5-3 cm in thickness. Very diffuse layers, typically ones with shallow dips, can be much thicker (>1 m) but are not easily sampled. They show up as discolored layers in satellite imagery but are difficult to see in the field (supporting information A.2.2). More concentrated ash layers may form small pods (Figure\n2c\n), which are interpreted to form by surface melting and surface-tension controlled beading of tephra on the depositional snow surface.",
+        "Methods": "Methods",
+        "Samples": "Samples\nThirty five englacial tephra layers were sampled from the flanks of Erebus, near the summit of Mount Terra Nova, and at Allan Hills in the Transantarctic Mountains (Figure\n1\n) during the\n2010-2011 and 2011-2012\nAustral summer field seasons. Tephra layers were sampled in stratigraphic order where possible; with the lower sample numbers representing the youngest sample in a given area (supporting information Data A).\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005435 Not all tephra are sampled from within a recognizable stratigraphic sequence; these are considered as a single data points. Samples were collected from six main geographic locations which are identified as: TN-Mount Terra Nova summit, DDC-Dead Dinosaur Cone, FAP-False Abbot Peak, BG-Barne Glacier, MH-Manhaul Bay (Allan Hills), and WE-West Erebus (Figure\n1\n). WE samples were collected from a number of individual locations and are not part of a stratigraphic sequence.\nAll tephra were sampled from blue or less dense white ice and each layer is assumed to be from a single eruptive event. Reconnaissance samples of tephra-bearing ice were chipped and placed in plastic bags to melt. If the ice contained enough tephra it was resampled for 40 Ar/ 39 Ar dating. Ice containing thicker and more concentrated tephra was sampled by chain sawing out blocks of ice. Ice samples ranging 25 to 360 kg were returned to camp, melted, and the tephra were decanted or filtered out and dried.\nSeventeen of the tephra samples had sufficient material (>2.5 g) to allow them to be sieved by hand from phi unit 1 to >6 (500 to <38 mm) to determine the grain size distribution and the degree of sorting. Samples were weighed for each phi unit and plotted as a weight percent of the total sample volume (supporting information Data F).",
+        "Image Particle Analysis (IPA)": "Image Particle Analysis (IPA)\nImage particle analysis was performed using the methods developed by\nDellino and La Volpe [1996]\nand used in many other studies [e.g.,\nButtner et al., 1999;\nZimanowski et al., 2003;\nNemeth, 2010;\nDurig et al., 2012;\nLautze et al., 2012]\n. IPA uses different dimensionless particle parameters (rectangularity, compactness, elongation, and circularity) to determine similarities and differences between particles\n[Durig et al., 2012]\n. Previous studies\n[Buttner et al., 1999;\nNemeth, 2010;\nDurig, 2012]\nhave used these parameters to determine the mode of fragmentation and whether or not it is indicative of magmatic or phreatomagmatic fragmentation. In this study, we used Backscatter Electron (BSE) images from a Cameca SX100 electron microprobe for IPA. Images were imported into the imageJ software program and turned into black and white binary images. The binary images made it easier to create a contour (particle outline) of the particles, so measurements could be made (i.e., particle's parameter, area, and Feret's diameter). Contours were created using the imageJ wand tool to maintain consistent measurements. These parameters allowed for the calculation of rectangularity, compactness, elongation, and circularity (Figure\n3\n)\n[Dellino and La Volpe, 1996;\nNemeth, 2010;\nDurig et al., 2012]\n.\nThirty coarse ash layers were chosen for IPA. Ten to twenty particles from each layer were measured and averaged to give a single point for a given sample. Points are plotted on a ''circularity X elongation'' by ''rectangularity X compactness'' graph for IPA determination. IPA graph locations were cross-checked with SEM observations and when available, grain size analysis for robustness. Detailed methods and data are given in supporting information Data C.",
+        "Electron Microprobe Analysis": "Electron Microprobe Analysis\nVolcanic glass from 35 samples was analyzed for major geochemical elements using a Cameca SX-100 Electron Probe Microanalyzer (EMP). Samples were mounted in either a 1 inch round lucite disk containing nine holes or a polished 15-sample grain mount thin section. Measurements were made using an electron beam with an acceleration voltage of 15 kV and a 10 nA beam current. Beam diameter was typically 20 lm to minimize the mobilization of Na. Samples with particles <20 lm, required a smaller beam (10 or 15 lm). Ten to fifteen pristine glass shards were analyzed in each sample. Individual shard analyses typically totaled between 97 and 102 wt. % (supporting information Data B). These values were normalized to 100% and the mean and RSD are provided (Appendix 1, and 3). Some analyses of fine-grained tephra from Terra Nova Summit have analytical totals <90 wt. %. This is due to their grain size being smaller than the microprobe beam size hence the beam overlaps onto the epoxy. Normalized values are considered robust enough for correlation purposes. Analytical precision, based on replicate analyses of homogeneous glass reference materials, are included as footnotes in data tables. SEM images were collected on the 35 tephra to examine their morphological characteristic to help identify their eruptive mode. Samples were mounted on an aluminum mount adhered with double sided carbon tape and carbon coated. Samples were imaged with an accelerating potential of 15 keV with a beam current of 0.01 nA.",
+        "Laser Ablation-Inductively Coupled Plasma-Mass Spectrometry (LA-ICP-MS)": "Laser Ablation-Inductively Coupled Plasma-Mass Spectrometry (LA-ICP-MS)\nTrace element analyses were performed by LA-ICP-MS at Aberystwyth University, Wales, UK, following the methods of\nPearce et al. [2011]\n. Thirty-five samples and Erebus glass standard 81003 were analyzed for 25 trace elements, with 10-15 single shards analyzed from each sample. All samples were continuously ablated for 24 s with a 20 mm beam from a 193 mm Excimer Laser. Calibration was achieved using the NIST612 glass reference material\n[Pearce et al., 1997]\nwith 29 Si used as the internal standard. Full instrument operating conditions are given in supporting information D.2. Analyses were corrected for gas blanks and instrumental drift. The trace element data for each sample were averaged, and any analysis outside of two standard deviations of the mean was removed prior to the averages given in Appendices 2 and 3. At these conditions typical detection limits for LA-ICP-MS are below 0.1 ppm for most trace elements of interest, except Sr, Ba, and Rb which are about 0.5 ppm because of instrumental blanks for these elements. Geochemistry, Geophysics, Geosystems 10.1002/2014GC005435 Analytical accuracy is typically better than 65%, and precision varies from about 63% at 100 ppm to about 610% at 10 ppm.\n3.5. 40 Ar/ 39 Ar Dating Method Erebus anorthoclase crystals are difficult to date because they are young (<100 ka) and contain 30% melt inclusions, which contain excess 40 Ar ( 40 Ar E ).\nEsser et al. [1997]\ndated zero age bombs from Erebus that produced ages greater than 200 ka. To remedy the effect of 40 Ar E , samples must undergo rigorous sample preparation to remove any melt inclusions. In this study, we followed the sample preparation procedures used by\nEsser et al. [1997]\nand\nKelly et al. [2008a]\n. Clean samples were placed in copper packets and placed in a six hole irradiation tray with Fish Canyon sanidine (FC-2 age 5 28.02;\nRenne et al. [1998]\n) monitors interspersed between the samples. Samples were irradiated for 1 h at the USGS Denver TRIGA reactor. Irradiated samples were dated at the New Mexico Geochronology Research Lab at New Mexico Tech using an Argus VI mass spectrometer in multicollection mode. Samples were step heated at irregular intervals between 1 and 10 W by a Photon Machines CO 2 laser with a homogenized beam for 30 s (supporting information E has detailed step heating information).",
+        "Results": "Results",
+        "Tephra Characterization": "Tephra Characterization\nTephra particle morphologies were characterized for 30 of tephra layers to determine their eruption mechanism (Table\n1\n). Morphologies, vesicularity, and grain size vary depending on the nature, size, and style of  Geochemistry, Geophysics, Geosystems\nA O A O R O Mixed EIT-003* Mod O A O C R O R R Magmatic EIT-004* Mod A A C C C R R R O Mixed EIT-005* Mod O A O A O O O Mixed EIT-006* Poor C A C O R O A PM EIT-007* Mod C O O R O O C Magmatic EIT-008 Well C R R A O C O O A Magmatic EIT-009 Mod C C O R O C O A O C Mixed EIT-010 Mod C C C O C O PM EIT-011 Mod C C C O R O Mixed EIT-012 Well O O O O C O O C Magmatic EIT-013 Well C O O O R R Magmatic EIT-014 Poor A O O A R R PM EIT-015 Mod A A C O C R R Mixed EIT-017 Poor C C A C C O Mixed EIT-018 Poor A C C A C C C C PM EIT-019 Poor A A A C C C C R PM EIT-020 Well O O O O R O O O C Mixed EIT-021 Poor O O O R R R R R Mixed EIT-022 Well O R C A O O C Magmatic EIT-023 Well C O O O C O O C Mixed EIT-024 Well C O C A R C O A Magmatic EIT-025 Well O A O O A Magmatic EIT-027 Mod C C C C R O R Magmatic EIT-028 Mod R R A C Magmatic EIT-029 Mod C R C C O C Magmatic EIT-033 Well C C O R C O O Mixed EIT-034 Well C C C O A Magmatic EIT-035 Well C O R R C C C A Magmatic EIT-036 Well O O C R O Magmatic EIT-041 Well O O R R R C O C Magmatic EIT-042** Poor A C C R C R C R R PM EIT-043 Mod C C O R C O Mixed\n10.1002/2014GC005435\neruption\n[Heiken and Wohletz, 1985;\nSheridan and Marshall, 1983;\nHarpel et al., 2008;\nDellino et al., 2012]\n.\nTephra morphologies reported in Table\n1\nare generally similar to those observed by\nHarpel et al. [2008]\n.\nShards with low to moderate vesicularity have morphologies common to phreatomagmatic eruptions. Shards are typically blocky or platy in appearance with hackly or chipped edges (Figure\n4a\n). Mossy particles are common in all of the low to moderate vesicularity deposits. Less common particle morphologies found in these deposits show chemical pitting (Figure\n4b\n), turbulent shedding (Figure\n4c\n), hydration rinds (Figure\n4d\n), quenching cracks (Figure\n4d\n), and adhering particles. Sublimates and dust aggregates are uncommon (Figures\n4d\nand\n4e\n, respectively). Accretionary lapilli are rare and were only found in three deposits. Particles that are highly vesiculated are typical of magmatic eruptions. They are dominated by fluidal glassy fragments (Figure\n5f\n), angular shards (Figure\n5a\n), and y-shaped bubble walled shards that indicate fragmentation of highly vesiculated glass. Pele's hairs are common (Figures 5b, 5e, and 5f). Pumice may be present, but it is difficult to distinguish pumice from truncated Pele's hair (Figure\n5b\n). Torn edges (Figure\n5c\n), fluidal droplets (Figure\n5d\n), and budding (Figure\n5d\n) are less common morphologies that occurred in well vesiculated deposits.\nSeventeen tephra were sieved to determine their grain size, and sorting statistics were used to infer means of deposition (supporting information Data F). Thirteen of the 17 tephra have a median grain size >125 lm and three are less than 125 lm. One is bimodal (EIT-009). A probability plot of grain size versus cumulative weight percent\n[Cas and Wright, 1987]\nshows that most of the tephra have similar grain size distributions (Figure\n6\n). Four of the tephra (EIT-009, EIT-010, EIT-012, and EIT-042) are finer-grained with median grain size below 3/ (125 lm). EIT-009 has a bimodal grain size with peaks at 3/ and 6/ (<63 lm). EIT-020 has a large shoulder in the histogram below 3/ and is skewed to the right. The rest of the tephra have similarly shaped Gaussian distributions with small variations in the mean grain size. EIT-013 has a very tight distribution and is the only tephra with a median grain size above 2/ (>250 lm).\nInman\n[1952]\nsorting parameters (r / 5 (/ 84 2 / 16 )/2) were determined graphically (Figure\n7\n) from the cumulative weight percent (Appendix 4). The degree of sorting for Erebus tephra ranges from very well sorted (r / < 1) to well sorted (1 < r / < 2)\n[Cas and Wright, 1987]\n. Two samples (EIT-009 and EIT-020) are well sorted.\nThe rest are very well sorted with r / between 0.43 (EIT-013, best sorting) and 0.94 (EIT-042). r / versus Md / is plotted in Figure\n7\nto compare Erebus tephra to volcanic deposits previously analyzed by\nWalker [1971]\n. All of the Erebus tephra plot within the pyroclastic fall field (Figure\n7\n). Erebus tephra have a smaller Md / size then most of the particles analyzed by\nWalker [1971]\n. One sample (EIT-009) lies on the overlapping field of pyroclastic surge deposits. There is no correlation between the degree of sorting and the type of eruption.",
+        "Tephra Chemical Compositions": "Tephra Chemical Compositions\nThe major element compositions of glass shards in 35 tephra are given in Appendix 2 and 3. Although most of the tephra have uniform glass compositions, two tephra from Mount Terra Nova have a bimodal (EIT-001) or mixed (EIT-005) composition (Appendix 3). EIT-018 from Erebus exhibits a range of phonolite compositions suggestive of a zoned source, so no average is provided. The individual analyses are reported in supporting information Data B.5. For mixed populations, averages are calculated for each distinct composition and are denoted with a letter (e.g., EIT-001b). Averaged trace element analyses are given in Appendices 2 and 3.",
+        "Major Elements": "Major Elements\nThe glass shards in the tephra show a range of compositions on a total alkali versus silica (TAS) classification diagram. Two are trachybasalts, two trachytes, and the majority (31) are phonolitic (Figure\n9\n). The phonolite glass has an average SiO 2 of 55.60 wt. % and total alkali value (Na 2 O 1 K 2 O) of 14.48 wt. % of 14.48 wt. % (Figure\n9\n). Glasses in the englacial tephra are indistinguishable in composition from the Erebus lava lake, which has an average SiO 2 of 55.74 wt. % and total alkali of 14.66 wt. %. Major element variations are typically less than 10% except in MnO, CaO, P 2 O 5 , SO 2 , Cl, and F. Most or all of this variation is considered to be analytical (Figure\n10\n). With the exception of CaO, all of these elements are present at levels of less than 1 wt. %, so any small variations can appear to be statistically significant. All variations are near to the level of analytical uncertainty.\nSmall trends can be seen within the stratigraphic sequences at the ''False Abbott Peak'' area (FAP) and DDC. Samples (EIT-020 to EIT-033) from FAP show a subtle decrease (0.05%) in TiO 2 and CaO (<0.1%) as the Geochemistry, Geophysics, Geosystems 10.1002/2014GC005435 samples become younger. A small increase in SiO 2 is seen as the layers become younger. DDC tephra (EIT-008 to EIT-015) shows similar trends in TiO 2 and SiO 2 as FAP, but with more scatter in the SiO 2 concentration. Although the chemical variations are very small (barely outside analytical error), the consistence of trends between different analytical elements provides some confidence that the trends are meaningful. This trend has been reported previously and interpreted as due to an increase in clinopyroxene fractionation\n[Kyle et al., 1992]\n.",
+        "Trace Elements": "Trace Elements\nThirty-two tephra layers were analyzed for 25 selected trace elements. Glass in 30 of the phonolitic tephra is chemically uniform in terms of trace elements. One phonolitic tephra has variable trace elements (EIT-018) and one layer is a trachybasalt (EIT-003) (Appendix 2 and 3). The two trachytes were too sparse and finegrained to provide meaningful trace element data. Trace elements in the 30 phonolitic tephra vary by less than 20% (2r) from the mean on all trace elements, except for Pb which has 21.4% (2r) variation from the mean. The light rare earth elements (LREE) have less scatter (8-13% at 1r). Heavy rare earth elements (HREE) have more scatter (8-20% at 1r), which is the analytical precision for concentrations of 1 ppm. The LREE are more incompatible compared to the HREE (La n /Yb n 5 18.1-21.4). The greatest concentration variations are seen in trace elements that are highly incompatible or compatible in feldspar (e.g., incompatible Zr (1394-1710 ppm) or compatible Sr (201-326 ppm)). Incompatible element ratios (Nb/Ti, Nb/U, Zr/Rb, and When normalized to a parental-like trachybasalt (EIT-003), depletion is seen in Sr, Ba, Eu, and Pb, while the rest of the REE are enriched in comparison (Figure\n11\n). EIT-003 is not considered the parental melt for which Erebus phonolites are derived, but is merely used due to similar composition. Basanites and trachybasalts are common in Erebus volcanic province and EIT-003 is used as a proxy for regional mantle composition\n[Keys et al., 1977]\n. The depletion of Sr and Ba is caused by removal of feldspar during fractional crystallization\n[Kyle et al., 1992]\n.",
+        "Mount Terra Nova": "Mount Terra Nova\nThe blue ice area at the summit of Mt. Terra Nova contains the most diverse range of tephra found in this study. Of the seven layers sampled from the summit blue ice area, two are phonolitic (EIT-004 and EIT-006), one is trachybasaltic (EIT-003), one is trachytic (EIT-007), and two contain a mixture of basanite, trachybasalt, phonolite, and trachyte glass shards (EIT-001 and EIT-005). The mixed deposits are grouped by composition, averaged, and denoted by a letter (Appendix 3).  Geochemistry, Geophysics, Geosystems 10.1002/2014GC005435 preferred plateau age of 40 6 20 ka. The spectrum started young and became progressively older with each step. The final steps have large errors and an irregular shape caused by low gas yield (last 20% of gas released). Radiogenic yields for the gas fractions making up the plateau were between 13 and 36%. Most age spectra showed an increase in age, radiogenic yield, and uncertainty after 70% of gas was released.\nEIT-015 produced a plateau age near 1 Ma, too old for Erebus phonolites. Two of the four aliquots from EIT-034 produce statistically similar ages. EIT-034-03 maintained a semiflat spectrum throughout the heating schedule and produced an age of 36 6 10 ka, with radiogenic yields less than 7%. EIT-034-04 was analyzed Geochemistry, Geophysics, Geosystems 10.1002/2014GC005435 by the multihole aliquot method and produced the youngest plateau observed at 31 6 7 ka. This plateau encompasses 50% of the gas released and has low 40 Ar* yields between 8 and 17%. The last 50% of the spectra is very disturbed and have varying Cl/K concentrations and 40 Ar* yield. This occurs at higher temperature and is most likely from degassing of melt inclusions that contain Cl and 40 Ar E\n[Esser et al., 1997]\n.\nIsochron ages were used to check for age consistency with ages produced by age spectra. EIT-008, with a preferred plateau age of 40 6 20 ka, had an inverse isochron age of 50 6 10 ka, which is indistinguishable at 2r. The inverse isochron has large error ellipses due to the large error associated with the 36 Ar measurement. These error ellipses help reduce the MSWD to four and have a 40 Ar/ 36 Ar intercept of 297 6 9, showing no trapped atmospheric component. EIT-034-03 gave inverse isochron ages of 34 6 11 ka and had an MSWD of 1.9 with a 40 Ar/ 36 Ar ratio of 300 6 40. No inverse isochron was produced for EIT-015.",
+        "Discussion": "Discussion",
+        "Eruptive Mechanism": "Eruptive Mechanism\nParticle morphologies from Erebus phonolites have been categorized into three different groups: phreatomagmatic, magmatic, and mixed eruptions, similar to that used by\nHarpel et al. [2008]\n(Table\n1\n). Five of the tephra analyzed exhibit morphologies suggesting they formed in purely phreatomagmatic eruptions. They are dominated by brittle fragmentation and form distinctive morphologies dominated by blocky or platy particles that are poorly vesiculated\n[Sheridan et al., 1987;\nButtner et al., 2002;\nZimanowski et al., 2003]\n(Figure\n12\n). Phreatomagmatic eruptions typically result in finer grain sizes than magmatic eruptions\n[Walker and Crosdale, 1972;\nHeiken and Wohletz, 1985]\n. Tephra layers from phreatomagmatic eruptions, based on SEM images, tend to plot in the lower right-hand quadrant of Figure\n12\n. Phreatomagmatic fragmentation occurs by brittle fragmentation and does not require vesicles to be present in order to produce small particles\n[Buttner et al., 2002]\n. These particles will be more equant and blocky in shape with irregular edges resulting from direct contact with water\n[Buttner et al., 1999;\nDellino et al., 2012]\n. Phreatomagmatic tephra have much higher mean distribution for compactness (0.56) and a multimodal distribution for rectangularity (Figure\n8\n). Circularity and elongation have lower values for magmatic tephra (2.5 and 3.1, respectively) (Figure\n8\n). Magmatic tephra have the smallest circ * elong values and the largest rect * comp values, with the exception of EIT-010. EIT-010 is considered to be phreatomagmatic based on particle morphologies, yet it has high circ * elong values and low rect * comp values. This is likely caused by a sampling bias during IPA. Particles that look magmatic were chosen over blocky particles to reduce the chance of performing IPA on feldspars. The ImageJ program cannot resolve touching particles and therefore spatially isolated particles were used. These individual particles may not be indicative of the whole layer, and thus a bias is created. Erebus tephra Geochemistry, Geophysics, Geosystems 10.1002/2014GC005435 have a lower rect * comp value (average 5 0.44) compared to other published values\n[Buttner et al., 2002]\n. This puts all Erebus tephra layers within the ductile fragmentation regime where rect * comp values <0.85\n[Buttner et al., 2002, Figure 6\n]. In fact, Erebus has very few particles (25 of 504 particles analyzed) that have a rect * comp above 0.80 (supporting information Data C), suggesting that Erebus does not undergo pure magma-water fragmentation during a given eruption and that ductile fragmentation is an important component of the fragmentation process in all eruptions. Particles that have quenching cracks or mossy textures would have formed under conditions where fragmentation had both brittle and ductile components\n[Buttner et al., 2002]\n.\nFifteen of the tephra layers have shard morphologies typical of magmatic eruptions. These shards are dominated by fluidal glass, Pele's hair, and Y-shaped septa. These morphologies are formed by ductile fragmentation during the eruption\n[Buttner et al., 2002]\n. Magmatic tephra plot in the upper left quadrant of the rect * comp by circ * elong plot (Figure\n12\n). Circularity and elongation have higher mean values, 3.08 and 4.23, respectively, than phreatomagmatic and mixed tephra, with some asymmetry toward higher values (Figure\n12\n). Rectangularity values are similar (1) for all eruptive types. On the other hand, magmatic tephra layers have much lower compactness values (average 0.44) than mixed and phreatomagmatic layers. This lower value reduces the significance of rectangularity and cause all of the rect * comp values to be <0.45.\nAll of the tephra layers, except EIT-042, are found within 15 km of the summit. The five tephra determined to be phreatomagmatic, based on particle morphology, have a mean grain size distribution <125 mm, whereas the 15 magmatic tephra have a mean grain size distribution >125 mm (Figure\n6\n). Volcanic ash with most of their grain size below 100-200 mm is typically considered to be phreatomagmatic in proximal deposits\n[Zimanowski et al., 2003]\n. Mixed Erebus tephra layers either have a bimodal grain size distribution or they have 50% of the particle distribution above 125 mm and 30-40% of the particle distribution between 125 and 63 mm. EIT-042 is the only distal tephra sampled, and it does not have any glassy particles >110 mm and has a very asymmetrical grain size distribution. The few particles that are >110 mm are windblown lithics from the surrounding outcropping rocks. Geochemistry, Geophysics, Geosystems 10.1002/2014GC005435\nThirteen of the tephra contain both magmatic and phreatomagmatic morphologies. These tephra are considered a mixture of the two eruptive types. Mixed eruptions typically have values between the two endmember eruptions types creating a spectrum between the most magmatic tephra layer (EIT-036) and the most phreatomagmatic layer (EIT-018) (Figure\n12\n). Mixed eruptions that overlap with phreatomagmatic and magmatic tephra layers are caused by the sampling bias discussed above.\nA mixed deposit would likely occur during a transformation from phreatomagmatic to magmatic eruption as the external water source fueling the phreatomagmatic activity was exhausted. Typically this evolution is seen at volcanoes where water is readily available as groundwater or seawater (e.g., Surtsey\n[Thorarinsson, 1966]\n, Tolbachik\n[Doubik and Hill, 1999]\n, Tenerife, Canary Islands\n[Clarke et al., 2009]\n, and Okmok\n[Wong and Larsen, 2010]\n). Magmatic particles may also be present in deposits thought to be purely phreatomagmatic. La Fossa on Vulcano, Italy, has been known to deposit phreatomagmatic particles and Pele's hair and Pele's tears during the same eruption\n[Buttner et al., 2002]\n. This transition has been seen recently in glaciercovered volcanoes like the 2010 Eyjafjllaj\u20ac okull eruption where the eruption was initially dominated by water-magma interaction from the melting glacier and then moved toward a dry magmatic eruption once the glacial water no longer came in contact with the melt\n[Dellino et al., 2012]\n. Currently, the Erebus summit crater is not covered by ice and snow, so it is difficult to understand a phreatomagmatic eruption occurring, but it is likely that periods of quiescence have occurred in the past, allowing the summit crater to fill with ice and snow and then during the next eruption there would be enough water to cause phreatomagmatism. Another possibility for phreatomagmatism at Erebus would be an avalanche of snow and ice into the active lava lake, like one reported in 1997 by\nRowe et al. [2000]\n. This event did not trigger one large eruption but several hundred very small bubble bursts caused by vaporizing snow and ice. This event produced very little tephra\n[Harpel et al., 2008]\nand a larger quantity of ice and snow would be required to produce a large phreatomagmatic eruption. Mixture of tephra from multiple eruptions within a single tephra layer, due to eolian reworking, must also be considered as some of the tephra exhibit multiple geochemical signatures (e.g., EIT-001a and EIT-001b in Appendix 3).",
+        "Erebus Matrix Glass Evolution": "Erebus Matrix Glass Evolution\nA comparison of Erebus phonolitic glass from englacial tephra to matrix glass from lava bombs collected between 1972 and 2005 shows very few differences (Appendix 1 and 2).\nKelly et al. [2008b]\ncompared the lava bomb data to intracaldera lava flow glass chemistry\n[Caldwell and Kyle, 1994]\nand saw the same chemical consistency over the past 17 ka. These data are also consistent with glass chemistry from different englacial tephra sites studied by\nHarpel et al. [2008]\n. In all, over 100 different tephra (bombs and ash) from Erebus have been analyzed (56 from\nHarpel et al. [2008]\n, 30 from\nKelly et al. [2008b]\n, and 35 from this study), and all of the chemical compositions agree within the total variation of the data (Figure\n13\n). The trace elements were analyzed by two different ICP-MS methods.\nKelly et al. [2008b]\nused solution ICP-MS, and in this study we used in situ laser ablation ICP-MS. Even with two different methods of trace element analysis, Erebus glass composition has remained stable over an extended time period regardless of eruptive product (i.e., lava flow matrix glass, bombs, and ash). The largest variations in major and trace elements are observed for K 2 O, Na 2 O, CaO, Rb, Sr, and Ba (Figure\n13\n), suggesting that the level of crystal fractionation (anorthoclase feldspar, pyroxene, and apatite) may vary over time. Anorthoclase feldspar represents on average 30% of the bulk magma\n[Kyle, 1977;\nKelly et al., 2008b]\n. Olivine, pyroxene titanomagnetite, and apatite are present at lower abundances. The bulk CaO content of glass shows the most variability with 10% variation among samples analyzed in the study, which could be related to the variation in the amount of crystal phases in the magma. CaO may be particularly strongly affected by the melt-crystal balance because it is strongly compatible in pyroxene and apatite. Sr has similar variability (9%) as CaO, which it readily substitutes into the Ca site. K 2 O and Na 2 O, which will be largely controlled by anorthoclase and for which the melt to crystal concentrations are fairly close, have <2% variation. Ba and Rb have less variability (4%), similar to K 2 O. The rest of the trace elements show less than 10% variation. Elements that are affected by crystal fractionation may either be replenished by a new influx of melt or episodes of phenocryst resorption may allow the melt to return to its original composition. The former seems a simpler mechanism for maintaining the monotonous phonolite composition found at Erebus, even though recurrent resorption episodes are observed in many anorthoclase\n[Dunbar et al., 1994;\nSumner, 2007]\n. The influx of new magma is further supported by the need for a parental basanite to be emplaced at depth to account for the constant high levels of CO 2 and magmatic water being degassed from the lava lake\n[Oppenheimer et al., 2009]\n.\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005435\nThe lack of microlites in glass shards found in englacial tephra further supports a long-lived open system. Microlites tend to occur during shallow crystallization and may form minerals much different than the minerals that crystallize deeper within the magma chamber, thus making residual melt more evolved\n[Cashman, 1992;\nStreck et al., 2005]\n. Microlitic textures can be attributed to vent clogging during an eruption\n[Streck et al., 2005]\n. If vent clogging occurred during an eruption at Erebus, microlites could have had enough time to form and modify the surrounding glass chemistry. At Erebus volcano, even across products from several types of eruptive mechanisms, microlites were rarely seen. This observation supports the presence of a long-lived open conduit system where material can freely exchange from the near-surface back into the magma chamber\n[Calkins et al., 2008]\nwithout microlitic growth.\nDunbar et al. [1994]\nsuggests that a lack of nucleation sites may also play a role in controlling the lack of microlites and the normal distribution of large anorthoclase phenocrysts. It is easy to speculate that with 30% anorthoclase in the melt and a lack of nucleation sites, new growth would occur at the boundary layer surrounding anorthoclase crystals, but this phenomena has not been seen\n[Kelly et al., 2008b]\n. The lack of a boundary layer is further supported by the similarity of melt inclusion data to that of matrix glass\n[Kyle, 1977;\nDunbar et al., 1994]\n. No boundary layers would suggest a well mixed magma chamber that homogenizes quickly or that crystal growth is slow to allow homogenization. Figure\n14\nshows the evolution of the melt over time, based on stratigraphic relations from two different parts of the volcano. The chemical variations of Na-K do not show any trend with time, instead the values change somewhat cyclically around the Erebus mean concentration (Figure\n14\n). Note that an increase in K 2 O does not mean a decrease in Na 2 O or vice versa. The same phenomena can be seen in the trace elements with Rb and Sr, which readily substitute into anorthoclase. The random decrease and increase in major and trace element concentrations about the mean Erebus composition suggests that the magma chamber is extremely stable and minor changes in concentration can be accounted for by minor feldspar fractionation or accumulation. Anorthoclase from Erebus phonolites have compositional zonations at a similar magnitude as glass compositions. K 2 O in anorthoclase vary by 0.2 wt. % and Na 2 O varies by 0.6 wt. %\n[Sumner, 2007]\nare approximately twice the variation seen in phonolite glass.\nA comparison of the geochemical homogeneity seen at Erebus to other chemically stable volcanoes around the world shows that monotonic volcanism is rare and that this phenomena is typically short-lived (<100 yrs) (e.g., Arenal, Costa Rica\n[Streck et al., 2005]\n; Damavand, Iran\n[Davidson et al., 2004]\n; Mt. Erciyes, Turkey\n[Dogan et al., 2011]\n). Reasons for the long-term homogeneity are not well understood. Arenal has been erupting geochemically monotonous phenocryst-rich (35%) basaltic andesites for the past 35 years [Streck Geochemistry, Geophysics, Geosystems\net al., 2005]\n. During this time the whole-rock chemistry has gone unchanged. However, the matrix glass has shown some fluctuation, and this is attributed to a complex mineralization history and varying degrees of crystallization of plagioclase, olivine, clinopyroxene, and varying oxides\n[Streck et al., 2005]\n. The complex mineralogy found at Arenal is attributed to tapping slightly different melts at depth. This results in matrix glass that can be chemically homogenous for hundreds to thousands of years. Damavand volcano in Iran has been chemically homogenous (59-62 wt. % SiO 2 and 8.0-10 wt. % total alkalis) during its entire history (1.8 Ma) with no compositional trends over time\n[Davidson et al., 2004]\n. Damavand is a composite volcano not associated with a hot spot like Erebus but does provide some insight into long-lived monotonous volcanism. Mt. Erciyes is a stratovolcano, whose summit comprises several compositionally homogenous dacite lava flows that rival the chemical homogeneity found on Erebus. The whole-rock chemistry of these dacite lava flows varies <10% in regards to both major and trace elements\n[Dogan et al., 2011]\n. These dacites have not been directly dated and are poorly constrained by K-Ar, 14 C, and exposures ages to have been erupted Geochemistry, Geophysics, Geosystems 10.1002/2014GC005435\n10.1002/2014GC005435\nduring the past 0.9 Ma, but are more likely to have been erupted between 140 and 10 ka\n[Dogan et al., 2011]\n.",
+        "Distal Tephra": "Distal Tephra\nThree distal tephra found entrained in blue ice in the Transantarctic Mountains are geochemically similar to present-day Erebus phonolites\n[Harpel et al., 2008]\n(Figure\n1\n). Two of these tephra (BIT-272 and BIT-288) are from Mt. DeWitt (MD) and another tephra (BIT-42 and resampled in this study, EIT-042) from Manhaul Bay in the Allan Hills (Table\n2\n). EIT-042 from Allan Hills is the finest-grained sample (Md / 4) in this study, where all particles are less than 110 lm. The fine grain size and Erebus phonolite chemical composition for EIT-042 are similar to observation made by\nHarpel et al. [2008]\nof BIT-42. The tephra is very blocky and fine-grained, typical of phreatomagmatic eruptions.\nHarpel et al. [2008]\nspeculated that this eruption was perhaps phreatoplinian because of its widespread dispersion. There is no new evidence to dispute this, and therefore it is likely that EIT-042 was from a phreatoplinian eruption.\nNarcisi et al. [2012]\nsuggested a tephra in the Talos Dome ice core was from Erebus. Most oxides compositions of the Talos Dome tephra are outside of the mean Erebus composition (SiO 2 is 3 wt. % higher, Na 2 O is 1 wt. % higher, and FeO, Al 2 O 3 , and K 2 O are 1 wt. % lower). Because of its very small grain size the Talos Dome tephra was analyzed by energy dispersive X-ray spectrometry (EDS) and all analyses have large errors (>1 wt. %)\n[Narcisi et al., 2012]\n. Taking into account the large analytical errors, we cannot completely rule out Erebus as a possible source of the tephra but higher precision analyses are needed to allow a strong correlation.\nSix tephra layers from the summit of Mount Terra Nova were analyzed and include compositions unlike any observed in other tephra from blue ice areas on Ross Island. Three of the tephra have phonolitic glass compositions similar to current Erebus phonolite (Appendix 3). Glass from EIT-001b is similar to typical Erebus glass, but some glass shards are basanitic and heterogeneous (supporting information Data B 5.1). Three tephra layers have trachybasalt and trachyte glass compositions (Figure\n9\n) unlike any recent eruptive products from Erebus and must have been erupted from other volcanic sources. Glass found in EIT-005 has three distinct populations. One is phonolitic, similar to Erebus, and two are trachytic (Figure\n9\n; Appendix 3). EIT-007 is a uniform trachyte tephra. Trachytes are uncommon volcanic products at Erebus and the only known occurrences were erupted between 157 and 166 ka\n[Esser et al., 2004;\nKelly et al., 2008a\nKelly et al., , 2008b]]\n. There are no known young trachytic eruptions in the McMurdo Sound area\n[LeMasurier and Thomson, 1990;\nKyle, 1990c]\n. Trachytic eruptions are common in Northern Victoria Land at Mt. Melbourne and The Pleiades\n[LeMasurier and Thomson, 1990;\nKyle, 1990b;\nEsser and Kyle, 2002;\nNarcisi et al., 2012]\nand in West Antarctica (Mt. Berlin and Mt Takahe)\n[Palais et al., 1988;\nLeMasurier and Thomson, 1990;\nDunbar et al., 2008;\nDunbar and Kurbatov, 2011]\n. Based on major element chemistry Mt. Melbourne and The Pleiades are likely not the source for these trachytic tephra (Table\n3\n). The Pleiades and Mt. Melbourne have lower FeO and higher MgO than the Mt. Terra Nova trachytes\n[LeMasurier and Thomson, 1990;\nKyle, 1982;\nWorner et al., 1989;\nEsser and Kyle, 2002]\n. Mt. Takahe is another possible source volcano, but it has had fewer eruptions during the past 40 ka than Mt. Berlin\n[Palais et al., 1988;\nDunbar et al., 2008]\n. Based on the glass composition the homogenous trachytic tephra (EIT-007) is most likely sourced from Mt. Berlin. EIT-007 is geochemically\nDunbar, unpublished data, 2013)\n. In the Siple Dome core this trachyte tephra is dated at 28.5 ka by counting snow accumulation layers\n[Taylor et al., 2004]\n. Based on the glass compositions we therefore believe that EIT-007 is 28.5 ka and provides the first age for the ice at Mt. Terra Nova summit. The fact that trachytic tephra EIT-007 is found at several locations in West Antarctica and now on Ross Island means that it may be an important marker and is a potential link between West Antarctic and East Antarctic ice cores. EIT-007 is located at the bottom of the section found at Mt. Terra Nova, making all of the tephra found at Terra Nova Summit less than 28.5 ka, suggesting that the Terra Nova summit blue ice site could potentially provide a climate record across the last glacial maximum. EIT-006 is an Erebus phonolite located 40 m above EIT-007, providing another maximum age constraint on the current eruptive phase at Erebus. The correlation age of EIT-007 is consistent with the age of known activity on Mt. Erebus outlined earlier.\nThe trachybasaltic glass (EIT-003) and the few basanitic shards in EIT-001 are likely to be from a local source because they are coarser than the trachytes but finer-grained than the Erebus phonolites found at Mt. Terra Nova. Mafic eruptive products in the Erebus volcanic province include alkali basalts, basanites, and less common trachybasalts. These mafic eruptions typically form scoria cones and have Hawai'ian to Strombolian eruptive styles, which do not disperse tephra far from the vent\n[Keys et al., 1977]\n. Basanites found on Ross Island are much older (>400 ka) than the current phonolitic phase on Erebus\n[Kyle, 1990b]\n. The trachybasalt and basanite tephra are found toward the top of the Terra Nova Summit section and are therefore younger than the correlated trachyte tephra (<28.5 ka). Young mafic volcanic outcrops are found on the eastern front of the Royal Society Range <150 km from Terra Nova\n[Kyle, 1990a;\nWright and Kyle, 1990]\n.\nOther basanitic tephra in ice in Southern Victoria land are estimated to be <20 ka\n[Keys et al., 1977]\n. A few basaltic cones at Mount Morning are also <20 ka\n[Paulsen and Wilson, 2009;\nMartin et al., 2010]\n. As the prevailing wind is from the south, it is reasonable to assume that the trachybasalt and basanite tephra had a source in southern McMurdo Sound.",
+        "Eruptive History": "Eruptive History\nThe eruptive history of Erebus is dominated by magmatic (Strombolian) and phreatomagmatic eruptions with less frequent lava flows. The two new 40 Ar/ 39 Ar ages of englacial tephra layers fall within the previously determined phonolite phase of Erebus, lasting the past 36 ka\n[Harpel et al., 2008]\n. EIT-008 is at the top of DDC and represents the youngest tephra found in blue ice on the Terra Nova Glacier at 40 6 20 ka. This is considered to be a maximum age for the top of the DDC blue ice area. Erebus anorthoclase contain 30% melt inclusions, which are riddled with excess argon ( 40 Ar E )\n[Esser et al., 1997;\nEsser et al., 2004;\nHarpel et al., 2008;\nKelly et al., 2008a]\n.\n[Dunbar et al., 2008]\n, Mt. Takahe\n[Wilch et al., 1999]\n, and Mt. Melbourne\n[Narcisi et al., 2012]\n. N refers to the number of tephra layers used to create the composition range of trachytes. r is one standard deviation based on replicate analyses on glass shards from the same tephra layer.\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005435 samples dated at 15 and 71 ka. The 71 ka age is considered to be contaminated by xenocrysts\n[Harpel et al., 2008]\n. The tephriphonolite lava flows on the north side of the Barne glacier are dated at 40 6 6 ka\n[Esser et al., 2004]\n. This means the age of the tephra from the terminus of the Barne glacier is more likely to be less than 40 ka, which would be consistent with the tephriphonolite-phonolite transitions that Erebus underwent 36 ka\n[Esser et al., 2004;\nHarpel et al., 2008]\n.\nHarpel et al. [2008]\ndated one distal tephra from Mt. DeWitt in the Transantarctic Mountains at 39 6 6 ka.\nBased on glass chemistry, the Mt. DeWitt tephra has a glass composition that is the same as the presentday Erebus anorthoclase phonolite\n[Harpel et al., 2008]\n. It is highly likely that Erebus has been geochemically stable for the past 40 ka when magma composition evolved from tephriphonolitic to a phonolitic. The new tephriphonolite-phonolite transition age still conforms to the youngest tephriphonolite date of 37 6 14 for the Cape Evans lava flow\n[Esser et al., 2004]\n. Further dating of englacial tephra and summit lava flows would be useful in confirming the age of the transition between tephriphonolite and phonolite.",
+        "Conclusions": "Conclusions\nThe vast majority of englacial tephra layers exposed on the flanks of Mt. Erebus and in the summit area of nearby Mt. Terra Nova, as well as some englacial tephra layers at Mt. DeWitt and the Allan Hills, have phonolitic compositions that indicate they were erupted from Erebus volcano. These 29 phonolitic tephra layers, some dated to 40 ka, have glass compositions similar to the matrix glass of bombs erupted from the current lava lake at Erebus, indicating that the major and trace element composition of the magmatic system has remained unchanged for the past 40 ka.\nExtended time periods of homogenous magmatism from a single volcanic source are not uncommon and can be found in a variety of different tectonic settings. Nevertheless, Erebus volcano is unique in exhibiting exceptionally homogenous major and trace element compositions across several types of eruptive products, including lava flows, volcanic bombs, and ash. The similar chemical composition of the glass from englacial tephra and historic bombs means that anorthoclase feldspar has crystallized to a similar degree out of the bulk magma during this time. Quenched glass is a ''screen shot'' of what the magma conditions were at the time of the eruption. In order for the major and trace elements to be consistent over large periods of time (hundreds to thousands of years), a stable magma reservoir is required. Two possible mechanisms could produce consistent major and trace element chemistry: (a) the magma reservoir is composed of several batches of melt that evolve and fractionate to the same degree to produce this constant phonolite composition and any new batches readily equilibrate with the magma chamber, (b) there is a single large magma body at depth that is in equilibrium and cannot differentiate any further because it is stuck in a thermal divide. The former is more likely because a parental basanite needs to be emplaced at depth to account for the constant high levels of CO 2 and magmatic water being degassed from the lava lake.\nSEM images on phonolitic glass shards show that eruptions at Erebus volcano have produced a wide variety of particle morphologies. The different types of particles are typical of magmatic and phreatomagmatic eruptions. Some of the tephra layers exhibit both magmatic and phreatomagmatic shard morphologies and are interpreted to be produced by mixed eruptions. These eruptions likely occurred after a period of quiescence during which the summit crater could fill with ice and snow. Once the volcano began to become more active, it would melt the ice and snow and this would create phreatic eruptions and then eventually phreatomagmatic eruptions. Once the water was exhausted, the eruption would become more magmatic and the mixing of different fragmentation modes occurred. Quantitative particle analysis of glass shards confirms the presence of both magmatic and phreatomagmatic eruptions, as well as suggesting that many of the eruptions represent some combination of magmatic and phreatomagmatic eruptive mechanisms. Categorizing shards in this manner is only helpful after comprehensive SEM work is done to understand the significance of the quantitative assessment of shard values.\nTephra layers from the summit of Mt. Terra Nova exhibit a range of chemical compositions. One layer (EIT-003), a trachybasalt, is likely erupted from a volcano near the Royal Society Range in the Erebus volcanic providence. EIT-007 is a trachytic tephra that has been correlated to a tephra erupted from Mt. Berlin in Marie Byrd Land 1400 km away. This layer is also correlated to a 28.5 ka tephra layer in the Siple Dome ice core (SDMA-5683) and one in the WAIS divide core. This tephra layer is a possible link between West and East Antarctic ice cores and therefore, climate records.\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005435"
+    },
+    "references": [
+        {
+            "title": "Eruptive history and magmatic stability of Erebus volcano, Antarctica: Insights from englacial tephra",
+            "authors": [
+                "NelsAIverson",
+                "PhilipRKyle",
+                "NeliaWDunbar",
+                "WilliamCMcintosh",
+                "NicholasJ GPearce"
+            ],
+            "journal": null,
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "On the glaciological, meteorological, and climatologically significance of Antarctic blue ice areas",
+            "authors": [
+                "RBintanja"
+            ],
+            "journal": "Rev. Geophys",
+            "date": "1999",
+            "pages": {
+                "from": "337",
+                "to": "359"
+            }
+        },
+        {
+            "title": "Identifying magma-water interaction from the surface features of ash particles",
+            "authors": [
+                "RButtner",
+                "PDellino",
+                "BZimanowski"
+            ],
+            "journal": "Nature",
+            "date": "1999",
+            "pages": {
+                "from": "688",
+                "to": "690"
+            }
+        },
+        {
+            "title": "Thermohydraulic explosions in phreatomagmatic eruptions as evidenced by the comparison between pyroclasts and products from Molten Fuel Coolant Interaction experiments",
+            "authors": [
+                "RButtner",
+                "PDellino",
+                "LLa",
+                "VVolpe",
+                "BLorenz",
+                "Zimanowski"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "2002",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Minerology and geochemistry of ejecta erupted from Mt. Erebus, Antarctica, between 1972 and 1986",
+            "authors": [
+                "DACaldwell",
+                "PRKyle"
+            ],
+            "journal": "Volcanology and Environmental Studies of Mt. Erebus, Antarctica, Antarct. Res. Ser",
+            "date": "1994",
+            "pages": {
+                "from": "147",
+                "to": "162"
+            }
+        },
+        {
+            "title": "Ground-based thermal imaging of lava lakes at Erebus volcano, Antarctica",
+            "authors": [
+                "JCalkins",
+                "COppenheimer",
+                "PRKyle"
+            ],
+            "journal": "J. Volcanol. Geotherm. Res",
+            "date": "2008",
+            "pages": {
+                "from": "695",
+                "to": "704"
+            }
+        },
+        {
+            "title": "Groundmass crystallization of Mount St. Helens Dacite, 1980-1986-A tool for interpreting shallow magmatic processes",
+            "authors": [
+                "RA FCas",
+                "JVWright ; Allen And Unwin",
+                "UKLondon",
+                "KVCashman"
+            ],
+            "journal": null,
+            "date": "1987",
+            "pages": {
+                "from": "431",
+                "to": "449"
+            }
+        },
+        {
+            "title": "Phreatomagmatic to Strombolian eruptive activity of basaltic cinder cones",
+            "authors": [
+                "HClarke",
+                "VRTroll",
+                "JCCarracedo"
+            ],
+            "journal": "J. Volcanol. Geotherm. Res",
+            "date": "2009",
+            "pages": {
+                "from": "225",
+                "to": "245"
+            }
+        },
+        {
+            "title": "The geology of Damavand volcano",
+            "authors": [
+                "JDavidson",
+                "JHassanzadeh",
+                "RBerzins",
+                "DFStockli",
+                "BBashukooh",
+                "BTurrin",
+                "APandamouz"
+            ],
+            "journal": "Geol. Soc. Am. Bull",
+            "date": "2004",
+            "pages": {
+                "from": "16",
+                "to": "29"
+            }
+        },
+        {
+            "title": "Image processing analysis in reconstructing fragmentation and transportation mechanisms of pyroclastic deposits, The case of Monte Pilato-Rocche Rosse eruptions, Lipari Islands (Aeolian Islands, Italy)",
+            "authors": [
+                "PDellino",
+                "LLaVolpe"
+            ],
+            "journal": "J. Volcanol. Geotherm. Res",
+            "date": "1996",
+            "pages": {
+                "from": "13",
+                "to": "29"
+            }
+        },
+        {
+            "title": "Ash from the Eyjafjallajokull eruption (Iceland): Fragmentation processes and aerodynamic behavior",
+            "authors": [
+                "PDellino",
+                "MTGudmundsson",
+                "GLarsen",
+                "DMele",
+                "JAStevenson",
+                "TThordarson",
+                "BZimanowski"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "2012",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Textural and mineralogical diversity of compositionally homogeneous dacites from the summit of Mt. Erciyes, Central Anatolia, Turkey",
+            "authors": [
+                "AUDogan",
+                "MDogan",
+                "DWPeate",
+                "ZDogruel"
+            ],
+            "journal": null,
+            "date": "2011",
+            "pages": {
+                "from": "387",
+                "to": "400"
+            }
+        },
+        {
+            "title": "Magmatic and hydromagmatic conduit development during the 1975 Tolbachik Eruption, Kamchatka, with implications for hazards assessment at Yucca Mountain, NV",
+            "authors": [
+                "PDoubik",
+                "BEHill"
+            ],
+            "journal": "J. Volcanol. Geotherm. Res",
+            "date": "1999",
+            "pages": {
+                "from": "43",
+                "to": "64"
+            }
+        },
+        {
+            "title": "Tephra layers in the Siple Dome and Taylor Dome ice cores, Antarctica: Sources and correlations",
+            "authors": [
+                "NWDunbar",
+                "GAZielinski",
+                "DTVoisins"
+            ],
+            "journal": null,
+            "date": "2003",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Tephrochronology of the Siple Dome ice core, West Antarctica: Correlations and sources",
+            "authors": [
+                "NWDunbar",
+                "AVKurbatov"
+            ],
+            "journal": null,
+            "date": "2011",
+            "pages": {
+                "from": "1602",
+                "to": "1614"
+            }
+        },
+        {
+            "title": "Crystallization processes of anorthoclase phenocrysts in the Mount Erebus magmatic system: Evidence from crystal composition, crystal size distributions, and volatile contents of melt inclusions",
+            "authors": [
+                "NWDunbar",
+                "KVCashman",
+                "RDupre"
+            ],
+            "journal": null,
+            "date": "1994",
+            "pages": {
+                "from": "147",
+                "to": "162"
+            }
+        },
+        {
+            "title": "Tephra layers in the Siple Dome and Taylor Dome ice cores, Antarctica: Sources and correlations",
+            "authors": [
+                "NWDunbar",
+                "GAZielinski",
+                "DTVoisins"
+            ],
+            "journal": null,
+            "date": "2003",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Physical setting and tephrochronology of the summit caldera ice record at Mount Moulton, West Antarctica",
+            "authors": [
+                "NWDunbar",
+                "WCMcintosh",
+                "RPEsser"
+            ],
+            "journal": "Geol. Soc. Am. Bull",
+            "date": "2008",
+            "pages": {
+                "from": "796",
+                "to": "812"
+            }
+        },
+        {
+            "title": "Comparative analyses of glass fragments from brittle fracture experiments and volcanic ash particles",
+            "authors": [
+                "TDurig",
+                "DMele",
+                "PDellino",
+                "BZimanowski"
+            ],
+            "journal": "Bull. Volcanol",
+            "date": "2012",
+            "pages": {
+                "from": "691",
+                "to": "704"
+            }
+        },
+        {
+            "title": "40Ar/39Ar chronology of the McMurdo volcanic group at The Pleiades, northern Victoria Land, Antarctica, Antarctica at the close of a Millenium",
+            "authors": [
+                "RPEsser",
+                "PRKyle"
+            ],
+            "journal": "R. Soc. N. Z. Bull",
+            "date": "2002",
+            "pages": {
+                "from": "415",
+                "to": "418"
+            }
+        },
+        {
+            "title": "Excess argon in melt inclusions in zero-age anorthoclase feldspar from Mt. Erebus, Antarctica, as revealed by the Ar-40/Ar-39 method",
+            "authors": [
+                "RPEsser",
+                "WCMcintosh",
+                "MTHeizler",
+                "PRKyle"
+            ],
+            "journal": "Geochim. Cosmochim. Acta",
+            "date": "1997",
+            "pages": {
+                "from": "287",
+                "to": "288"
+            }
+        },
+        {
+            "title": "40Ar/39Ar dating of the eruptive history of Mount Erebus, Antarctica: Volcano evolution",
+            "authors": [
+                "RPEsser",
+                "PRKyle",
+                "WCMcintosh"
+            ],
+            "journal": "Bull. Volcanol",
+            "date": "2004",
+            "pages": {
+                "from": "671",
+                "to": "686"
+            }
+        },
+        {
+            "title": "The distribution and timing of Tephra deposition at Siple Dome, Antarctica: Possible climatic and rheological implications",
+            "authors": [
+                "AJGow",
+                "DAMeese"
+            ],
+            "journal": "J. Glaciol",
+            "date": "2007",
+            "pages": {
+                "from": "585",
+                "to": "596"
+            }
+        },
+        {
+            "title": "40Ar/39Ar dating of the eruptive history of Mount Erebus, Antarctica: Summit flows, tephra, and caldera collapse",
+            "authors": [
+                "CJHarpel",
+                "PRKyle",
+                "RPEsser",
+                "WCMcintosh",
+                "DACaldwell"
+            ],
+            "journal": "Bull. Volcanol",
+            "date": "2004",
+            "pages": {
+                "from": "687",
+                "to": "702"
+            }
+        },
+        {
+            "title": "Englacial tephrostratigraphy of Erebus volcano",
+            "authors": [
+                "CJHarpel",
+                "PRKyle",
+                "NWDunbar"
+            ],
+            "journal": "J. Volcanol. Geotherm. Res",
+            "date": "2008",
+            "pages": {
+                "from": "549",
+                "to": "568"
+            }
+        },
+        {
+            "title": "Volcanic Ash",
+            "authors": [
+                "GHeiken",
+                "KHWohletz"
+            ],
+            "journal": null,
+            "date": "1985",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Volcanic time-markers for marine isotopic stages 6 and 5 in Southern Ocean sediments and Antarctic ice cores: Implications for tephra correlations between palaeoclimatic records",
+            "authors": [
+                "CDHillenbrand",
+                "SGMoreton",
+                "ACaburlotto",
+                "CJPudsey",
+                "RGLucchi",
+                "JLSmellie",
+                "SBenetti",
+                "HGrobe",
+                "JBHunt",
+                "RDLarter"
+            ],
+            "journal": "Quat. Sci. Rev",
+            "date": "2008",
+            "pages": {
+                "from": "518",
+                "to": "540"
+            }
+        },
+        {
+            "title": "Measures for describing the size distribution of sediments",
+            "authors": [
+                "DLInman"
+            ],
+            "journal": "J. Sediment. Petrol",
+            "date": "1952",
+            "pages": {
+                "from": "125",
+                "to": "145"
+            }
+        },
+        {
+            "title": "Refinement of the late Quaternary geologic history of Erebus volcano, Antarctica using 40Ar/39Ar and 36Cl age determinations",
+            "authors": [
+                "PJKelly",
+                "NWDunbar",
+                "PRKyle",
+                "WCMcintosh"
+            ],
+            "journal": "J. Volcanol. Geotherm. Res",
+            "date": "2008",
+            "pages": {
+                "from": "569",
+                "to": "577"
+            }
+        },
+        {
+            "title": "Geochemistry and mineralogy of the phonolite lava lake, Erebus volcano, Antarctica: 1972-2004 and comparison with older lavas",
+            "authors": [
+                "PJKelly",
+                "PRKyle",
+                "NWDunbar",
+                "KW WSims"
+            ],
+            "journal": "J. Volcanol. Geotherm. Res",
+            "date": "2008",
+            "pages": {
+                "from": "589",
+                "to": "605"
+            }
+        },
+        {
+            "title": "Tephra and debris layers in Skelton Neve and Kempe Glacier, South Victoria Land, Antarctica",
+            "authors": [
+                "JRKeys",
+                "PWAnderton",
+                "PRKyle"
+            ],
+            "journal": "N. Z. J. Geol. Geophys",
+            "date": "1977",
+            "pages": {
+                "from": "971",
+                "to": "1002"
+            }
+        },
+        {
+            "title": "Eruptive characteristics and glacial earthquakes investigation on Erebus Volcano",
+            "authors": [
+                "HAKnox"
+            ],
+            "journal": null,
+            "date": "2012",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Volcanic activity associated with the anorthoclase phonolite lava lake",
+            "authors": [
+                "PKyle",
+                "RDibble",
+                "WGiggenbach",
+                "JKeys"
+            ],
+            "journal": null,
+            "date": "1982",
+            "pages": {
+                "from": "747",
+                "to": "754"
+            }
+        },
+        {
+            "title": "Mineralogy and glass chemistry of recent volcanic ejecta from Mt",
+            "authors": [
+                "PRKyle"
+            ],
+            "journal": "N. Z. J. Geol. Geophys",
+            "date": "1977",
+            "pages": {
+                "from": "1123",
+                "to": "1146"
+            }
+        },
+        {
+            "title": "Volcanic geology of the Pleiades, northern Victoria Land",
+            "authors": [
+                "PRKyle"
+            ],
+            "journal": null,
+            "date": "1982",
+            "pages": {
+                "from": "747",
+                "to": "754"
+            }
+        },
+        {
+            "title": "McMurdo volcanic group Western Ross Embayment: Introduction, in Volcanism of the Antarctic Plate and Southern Oceans",
+            "authors": [
+                "PRKyle"
+            ],
+            "journal": "Antarct. Res. Ser",
+            "date": "1990",
+            "pages": {
+                "from": "18",
+                "to": "25"
+            }
+        },
+        {
+            "title": "Erebus volcanic Province: Summary, in Volcanism of the Antarctic Plate and Southern Oceans",
+            "authors": [
+                "PRKyle"
+            ],
+            "journal": "Antarct. Res. Ser",
+            "date": "1990",
+            "pages": {
+                "from": "81",
+                "to": "88"
+            }
+        },
+        {
+            "title": "Melbourne volcanic Province: Summary, in Volcanism of the Antarctic Plate and Southern Oceans",
+            "authors": [
+                "PRKyle"
+            ],
+            "journal": "Antarct. Res. Ser",
+            "date": "1990",
+            "pages": {
+                "from": "48",
+                "to": "52"
+            }
+        },
+        {
+            "title": "Petrologic evolution of anorthoclase phonolite lavas at Mount Erebus, Ross Island, Antarctica",
+            "authors": [
+                "PRKyle",
+                "JAMoore",
+                "MFThirlwall"
+            ],
+            "journal": "J. Petrol",
+            "date": "1992",
+            "pages": {
+                "from": "849",
+                "to": "875"
+            }
+        },
+        {
+            "title": "SEM-based methods for the analysis of basaltic ash from weak explosive activity at Etna in 2006 and the 2007 eruptive crisis at Stromboli",
+            "authors": [
+                "NCLautze",
+                "JTaddeucci",
+                "DAndronico",
+                "CCannata",
+                "LTornetta",
+                "PScarlato",
+                "BHoughton",
+                "MDLo Castro"
+            ],
+            "journal": "Phys. Chem. Earth",
+            "date": "2012",
+            "pages": {
+                "from": "113",
+                "to": "127"
+            }
+        },
+        {
+            "title": "A chemical classification of volcanic rocks based on the total alkali silica diagram",
+            "authors": [
+                "LeBas",
+                "MJ",
+                "RWLemaitre",
+                "AStreckeisen",
+                "BZanettin"
+            ],
+            "journal": "J. Petrol",
+            "date": "1986",
+            "pages": {
+                "from": "745",
+                "to": "750"
+            }
+        },
+        {
+            "title": "Volcanism of the Antarctic Plate and the Southern Ocean",
+            "authors": [
+                "WLemasurier",
+                "JThomson"
+            ],
+            "journal": "Antarct. Res. Ser",
+            "date": "1990",
+            "pages": {
+                "from": "147",
+                "to": "255"
+            }
+        },
+        {
+            "title": "Tephrochronology and its application: A review",
+            "authors": [
+                "DJLowe"
+            ],
+            "journal": "Quat. Geochronol",
+            "date": "2011",
+            "pages": {
+                "from": "107",
+                "to": "153"
+            }
+        },
+        {
+            "title": "Geochronology of Mount Morning, Antarctica: Two-phase evolution of a long-lived trachyte-basanite-phonolite eruptive center",
+            "authors": [
+                "APMartin",
+                "AFCooper",
+                "WJDunlap"
+            ],
+            "journal": "Bull. Volcanol",
+            "date": "2010",
+            "pages": {
+                "from": "357",
+                "to": "371"
+            }
+        },
+        {
+            "title": "Volcanic geology of Mt",
+            "authors": [
+                "JAMoore",
+                "PRKyle"
+            ],
+            "journal": null,
+            "date": "1987",
+            "pages": {
+                "from": "48",
+                "to": "65"
+            }
+        },
+        {
+            "title": "A 16,000-yr tephra framework for the Antarctic ice sheet: A contribution from the new Talos Dome core",
+            "authors": [
+                "BNarcisi",
+                "JRPetit",
+                "BDelmonte",
+                "CScarchilli",
+                "BStenni"
+            ],
+            "journal": "Quat. Sci. Rev",
+            "date": "2012",
+            "pages": {
+                "from": "52",
+                "to": "63"
+            }
+        },
+        {
+            "title": "Volcanic glass textures, shape characteristics and compositions of phreatomagmatic rock units from the Western Hungarian monogenetic volcanic fields and their implications for magma fragmentation, Cent",
+            "authors": [
+                "KNemeth"
+            ],
+            "journal": "Eur. J. Geosci",
+            "date": "2010",
+            "pages": {
+                "from": "399",
+                "to": "419"
+            }
+        },
+        {
+            "title": "Probing the magma plumbing of Erebus volcano, Antarctica, by open-path FTIR spectroscopy of gas emissions",
+            "authors": [
+                "COppenheimer",
+                "PRKyle"
+            ],
+            "journal": "J. Volcanol. Geotherm. Res",
+            "date": "2008",
+            "pages": {
+                "from": "743",
+                "to": "754"
+            }
+        },
+        {
+            "title": "Pulsatory magma supply to a phonolite lava lake",
+            "authors": [
+                "COppenheimer",
+                "ALomakina",
+                "PRKyle",
+                "NGKingsbury",
+                "MBoichu"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2009",
+            "pages": {
+                "from": "392",
+                "to": "398"
+            }
+        },
+        {
+            "title": "Magmatic and phreatomagmatic volcanic activity at Mt. Takahe, West Antarctica, based on tephra layers in the Byrd ice core and field observations as Mt. Takahe",
+            "authors": [
+                "JMPalais",
+                "PRKyle",
+                "WCMcintosh",
+                "DSeward"
+            ],
+            "journal": "J. Volcanol. Geotherm. Res",
+            "date": "1988",
+            "pages": {
+                "from": "295",
+                "to": "317"
+            }
+        },
+        {
+            "title": "Geology of the side crater of the Erebus volcano",
+            "authors": [
+                "KSPanter",
+                "BWinter"
+            ],
+            "journal": "J. Volcanol. Geotherm. Res",
+            "date": "2008",
+            "pages": {
+                "from": "578",
+                "to": "588"
+            }
+        },
+        {
+            "title": "A new Holocene eruptive history of Erebus volcano, Antarctica using cosmogenic 3 He and 36 Cl",
+            "authors": [
+                "DParmelee"
+            ],
+            "journal": "Dep. of Earth and Environ. Sci., N. M. Tech",
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Structure and age of volcanic fissures on Mount Morning: A new constraint on Neogene to contemporary stress in the West Antarctic Rift, southern Victoria Land",
+            "authors": [
+                "TSPaulsen",
+                "TJWilson"
+            ],
+            "journal": "Geol. Soc. Am. Bull",
+            "date": "1987",
+            "pages": {
+                "from": "91",
+                "to": "7613"
+            }
+        },
+        {
+            "title": "A compilation of new and published major and trace element data for NIST SRM 610 and NIST SRM 612 glass reference materials",
+            "authors": [
+                "NJ GPearce",
+                "WTPerkins",
+                "JAWestgate",
+                "MPGorton",
+                "SEJackson",
+                "CRNeal",
+                "SPChenery"
+            ],
+            "journal": "Geostand. Newsl",
+            "date": "1997",
+            "pages": {
+                "from": "115",
+                "to": "144"
+            }
+        },
+        {
+            "title": "Trace-element microanalysis by LA-ICP-MS: The quest for comprehensive chemical characterisation of single, sub-10 mu m volcanic glass shards",
+            "authors": [
+                "NJ GPearce",
+                "WTPerkins",
+                "JAWestgate",
+                "SCWade"
+            ],
+            "journal": "Quat. Int",
+            "date": "2011",
+            "pages": {
+                "from": "57",
+                "to": "81"
+            }
+        },
+        {
+            "title": "Intercalibration of standards, absolute ages and uncertainties in Ar-40/Ar-39 dating",
+            "authors": [
+                "PRRenne",
+                "CCSwisher",
+                "ALDeino",
+                "DBKarner",
+                "TLOwens",
+                "DJDepaolo"
+            ],
+            "journal": "Chem. Geol",
+            "date": "1998",
+            "pages": {
+                "from": "117",
+                "to": "152"
+            }
+        },
+        {
+            "title": "Development of a precise and accurate age-depth model based on Ar-40/Ar-39 dating of volcanic material in the ANDRILL (1B) drill core",
+            "authors": [
+                "JIRoss",
+                "WCMcintosh",
+                "NWDunbar"
+            ],
+            "journal": "Southern McMurdo Sound, Antarctica, Global Planet. Change",
+            "date": "2012",
+            "pages": {
+                "from": "96",
+                "to": "97"
+            }
+        },
+        {
+            "title": "Seismic and acoustic observations at Mount Erebus Volcano",
+            "authors": [
+                "CARowe",
+                "RCAster",
+                "PRKyle",
+                "RRDibble",
+                "JWSchlue"
+            ],
+            "journal": "J. Volcanol. Geotherm. Res",
+            "date": "1994",
+            "pages": {
+                "from": "105",
+                "to": "128"
+            }
+        },
+        {
+            "title": "Interpretation of pyroclast surface-features using SEM images",
+            "authors": [
+                "MFSheridan",
+                "JRMarshall"
+            ],
+            "journal": "J. Volcanol. Geotherm. Res",
+            "date": "1983",
+            "pages": {
+                "from": "153",
+                "to": "159"
+            }
+        },
+        {
+            "title": "Discrimination of grain-size subpopulations in pyroclastic deposits",
+            "authors": [
+                "MFSheridan",
+                "KHWohletz",
+                "JDehn"
+            ],
+            "journal": "Geology",
+            "date": "1987",
+            "pages": {
+                "from": "367",
+                "to": "370"
+            }
+        },
+        {
+            "title": "A Sr, Nd, Hf, and Pb isotope perspective on the genesis and long-term evolution of alkaline magmas from Erebus volcano",
+            "authors": [
+                "KW WSims",
+                "JBlichert-Toft",
+                "PRKyle",
+                "SPichat",
+                "P.-JGauthier",
+                "JBlusztajn",
+                "PKelly",
+                "LBall",
+                "GLayne"
+            ],
+            "journal": "J. Volcanol. Geotherm. Res",
+            "date": "2008",
+            "pages": {
+                "from": "606",
+                "to": "618"
+            }
+        },
+        {
+            "title": "The upper Cenozoic tephra record in the south polar region: A review",
+            "authors": [
+                "JLSmellie"
+            ],
+            "journal": "Global Planet. Change",
+            "date": "1999",
+            "pages": {
+                "from": "51",
+                "to": "70"
+            }
+        },
+        {
+            "title": "Implications for interpreting monotonous, crystal-rich, mafic arc stratigraphies",
+            "authors": [
+                "MJStreck",
+                "MADungan",
+                "FBussy",
+                "EMalavassi"
+            ],
+            "journal": null,
+            "date": "2005",
+            "pages": {
+                "from": "133",
+                "to": "155"
+            }
+        },
+        {
+            "title": "Residence time estimates and controls on crystallization patterns for anorthoclase phenocrysts in phonolite magma, Erebus volcano",
+            "authors": [
+                "CL KSumner"
+            ],
+            "journal": "Dep. of Earth and Environ. Sci., N. M. Tech",
+            "date": "2007",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Dating the Siple Dome (Antarctica) ice core by manual and computer interpretation of annual layering",
+            "authors": [
+                "KCTaylor"
+            ],
+            "journal": "J. Glaciol",
+            "date": "2004",
+            "pages": {
+                "from": "453",
+                "to": "461"
+            }
+        },
+        {
+            "title": "Tephrochronological studies in Iceland)",
+            "authors": [
+                "SThorarinsson"
+            ],
+            "journal": null,
+            "date": "1944",
+            "pages": {
+                "from": "1",
+                "to": "2"
+            }
+        },
+        {
+            "title": "Surtsey: The New Island in the North Atlantic",
+            "authors": [
+                "SThorarinsson"
+            ],
+            "journal": null,
+            "date": "1966",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Grain-size characteristics of pyroclastic deposits",
+            "authors": [
+                "GP LWalker"
+            ],
+            "journal": "J. Geol",
+            "date": "1971",
+            "pages": {
+                "from": "696",
+                "to": "714"
+            }
+        },
+        {
+            "title": "Characteristics of some basaltic pyroclastics",
+            "authors": [
+                "GP LWalker",
+                "RCrosdale"
+            ],
+            "journal": "Bull. Volcanol",
+            "date": "1972",
+            "pages": {
+                "from": "303",
+                "to": "317"
+            }
+        },
+        {
+            "title": "Late Quaternary volcanic activity in Marie Byrd Land: Potential 40Ar/39Ar-dated time horizons in West Antarctic ice and marine cores",
+            "authors": [
+                "TIWilch",
+                "WCMcintosh",
+                "NWDunbar"
+            ],
+            "journal": "Geol. Soc. Am. Bull",
+            "date": "1999",
+            "pages": {
+                "from": "1563",
+                "to": "1580"
+            }
+        },
+        {
+            "title": "The Middle Scoria sequence: A Holocene violent strombolian, subplinian and phreatomagmatic eruption of Okmok volcano",
+            "authors": [
+                "LJWong",
+                "JFLarsen"
+            ],
+            "journal": "Alaska, Bull. Volcanol",
+            "date": "2010",
+            "pages": {
+                "from": "17",
+                "to": "31"
+            }
+        },
+        {
+            "title": "The Mt. Melbourne volcanic field",
+            "authors": [
+                "GWorner",
+                "HNiephaus",
+                "JHertogen",
+                "LViereck"
+            ],
+            "journal": "Geochem. Magma Gen. Geol. Jahrb., E",
+            "date": "1989",
+            "pages": {
+                "from": "395",
+                "to": "433"
+            }
+        },
+        {
+            "title": "Royal society range, in Volcanism of the Antarctic Plate and Southern Oceans",
+            "authors": [
+                "ACWright",
+                "PRKyle"
+            ],
+            "journal": "Antarct. Res. Ser",
+            "date": "1990",
+            "pages": {
+                "from": "131",
+                "to": "133"
+            }
+        },
+        {
+            "title": "The volcanic ash problem",
+            "authors": [
+                "BZimanowski",
+                "KWohletz",
+                "PDellino",
+                "RButtner"
+            ],
+            "journal": "J. Volcanol. Geotherm. Res",
+            "date": "2003",
+            "pages": {
+                "from": "1",
+                "to": "5"
+            }
+        }
+    ]
+}

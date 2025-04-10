@@ -1,0 +1,15 @@
+README.md
+setup.py
+src/metadata_extractor.py
+src/pdf_extractor.py
+src/pdf_loader.py
+src/preprocess.py
+src/data_preprocessing.egg-info/PKG-INFO
+src/data_preprocessing.egg-info/SOURCES.txt
+src/data_preprocessing.egg-info/dependency_links.txt
+src/data_preprocessing.egg-info/entry_points.txt
+src/data_preprocessing.egg-info/requires.txt
+src/data_preprocessing.egg-info/top_level.txt
+tests/test_metadata_extractor.py
+tests/test_pdf_extractor.py
+tests/test_pdf_loader.py

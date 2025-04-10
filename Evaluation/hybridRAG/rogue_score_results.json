@@ -1,0 +1,42 @@
+[
+    {
+        "Query": "What is the estimated initiation age of the Makran arc magmatism based on zircon U-Pb dating?",
+        "Predicted_Category": "Explicit Fact",
+        "Score": 0.02275769745649264
+    },
+    {
+        "Query": "What are the three main volcanic centers of the Makran arc?",
+        "Predicted_Category": "Explicit Fact",
+        "Score": 0.02785145888594165
+    },
+    {
+        "Query": "How does the presence of calc-alkaline magmatism confirm the subduction origin of the Makran arc?",
+        "Predicted_Category": "Implicit Fact",
+        "Score": 0.10176991150442477
+    },
+    {
+        "Query": "Why does the geochemical similarity between the Mirabad pluton and Taftan volcanic rocks support an earlier onset of magmatism?",
+        "Predicted_Category": "Implicit Fact",
+        "Score": 0.22879684418145954
+    },
+    {
+        "Query": "Why is the Makran arc considered a \"window\" into the transition between subduction and continental collision?",
+        "Predicted_Category": "Hidden Rationale",
+        "Score": 0.08333333333333334
+    },
+    {
+        "Query": "Why does the depletion of high-field-strength elements (HFSEs) in Makran arc magmas indicate a subduction-modified mantle source?",
+        "Predicted_Category": "Hidden Rationale",
+        "Score": 0.4530386740331491
+    },
+    {
+        "Query": "What implications do the geochemical trends of the Makran arc have for understanding the larger Neotethyan subduction system?",
+        "Predicted_Category": "Interpretable Rationale",
+        "Score": 0.19474497681607417
+    },
+    {
+        "Query": "Could the Makran arc represent an intermediate stage before a complete continent-continent collision like the Himalayas? Why or why not?",
+        "Predicted_Category": "Interpretable Rationale",
+        "Score": 0.14880952380952378
+    }
+]

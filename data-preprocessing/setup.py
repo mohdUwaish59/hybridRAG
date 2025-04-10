@@ -1,0 +1,47 @@
+from setuptools import setup, find_packages
+
+setup(
+    name="data-preprocessing",
+    version="1.0.0",
+    description="A modular pipeline for extracting text, metadata, and more from research papers.",
+    author="Mohd Uwaish",
+    author_email="mohd.uwaish@sub.uni-goettingen.de",
+    python_requires=">=3.10",
+    packages=find_packages(),
+    #package_dir={"": "src"},
+    install_requires=[
+        "numpy>=1.26.4",
+        "pandas>=2.2.3",
+        "python-dotenv>=1.0.1",
+        "requests>=2.32.3",
+        "pdfminer.six>=20231228",
+        "PyMuPDF>=1.24.10",
+        "pillow>=10.4.0",
+        "pdfplumber>=0.11.4",
+        "camelot-py[cv]>=0.9.0",
+        "spacy>=3.7.6",
+        "nltk>=3.9.1",
+        "loguru>=0.7.2",
+        "sentence-transformers>=2.2.2",
+        "scikit-learn>=1.2.0",
+        "pytest>=7.2.0",
+        "tokenizers>=0.13.3",
+        "bs4>=0.0.2",
+        "lxml>=5.3.0",
+    ],
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+    ],
+    entry_points={
+        "console_scripts": [
+            "pdf-loader=pdf_loader:main",
+            "pdf-extractor=pdf_extractor:main",
+            "metadata-extractor=metadata_extractor:main",
+            "run-pipeline=preprocess:main",
+        ],
+    },
+    long_description=open("README.md").read() if os.path.exists("README.md") else "",
+    long_description_content_type="text/markdown",
+)

@@ -1,0 +1,2160 @@
+{
+    "metadata": {
+        "title": "The Cobb hot spot: HIMU-DMM mixing and melting controlled by a progressively thinning lithospheric lid",
+        "abstract": "The Cobb Seamount Chain in the northeast Pacific basin records the composition of the Cobb hot spot for the past 33 Myr, as the migrating Juan de Fuca Ridge approached and ultimately overran it ca. 0.5 Myr ago. In this first comprehensive geochemical study of the Cobb chain, major and trace element compositions and Sr, Nd, Pb, and Hf isotopic ratios were measured for whole-rock samples from throughout the chain, and He isotopes were acquired for olivine phenocrysts from one seamount. Trace element modeling indicates increased melting along the chain over time, with progressively more depleted lavas as the ridge approached the hot spot. The isotopic data reveal the first evidence of the high m (m 5 238 U/ 204 Pb) (HIMU) mantle component in the north Pacific basin and are consistent with a progressively decreasing mixing proportion of HIMU melts relative to those from depleted mid-ocean ridge basalt mantle (DMM) in the chain over time. Decreasing lithospheric thickness over the Cobb hot spot due to the approach of the migrating Juan de Fuca ridge allowed adiabatic melting to continue to shallower depths, leading to increased melt fractions of the refractory DMM component in the hot spot and more depleted and MORBlike lavas in the younger Cobb seamounts.",
+        "authors": [
+            {
+                "name": "JohnChadwick",
+                "affiliation": [
+                    {
+                        "department": "Department of Geology and Environmental Geosciences",
+                        "institution": null,
+                        "address": {
+                            "settlement": "Charleston",
+                            "region": "South Carolina",
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "RandallKeller",
+                "affiliation": [
+                    {
+                        "department": "Depart- ment of Geosciences",
+                        "institution": "Oregon State University",
+                        "address": {
+                            "settlement": "Corvallis",
+                            "region": "Oregon",
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "GeorgeKamenov",
+                "affiliation": [
+                    {
+                        "department": "Department of Geological Sciences",
+                        "institution": "University of Florida",
+                        "address": {
+                            "settlement": "Gainesville",
+                            "region": "Florida",
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "GeneYogodzinski",
+                "affiliation": [
+                    {
+                        "department": "Department of Geological Sciences",
+                        "institution": "University of South Carolina",
+                        "address": {
+                            "settlement": "Columbia South Caro- lina",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "JohnLupton",
+                "affiliation": [
+                    {
+                        "department": "NOAA/PMEL Hatfield Marine Science Center",
+                        "institution": null,
+                        "address": {
+                            "settlement": "Newport",
+                            "region": "Oregon",
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "CJBallentine",
+                "affiliation": []
+            },
+            {
+                "name": "DCLee",
+                "affiliation": []
+            },
+            {
+                "name": "ANHalliday",
+                "affiliation": []
+            },
+            {
+                "name": "ABouvier",
+                "affiliation": []
+            },
+            {
+                "name": "JDVervoort",
+                "affiliation": []
+            },
+            {
+                "name": "JPPatchett",
+                "affiliation": []
+            },
+            {
+                "name": "TFBudinger",
+                "affiliation": []
+            },
+            {
+                "name": "BJEnbysk",
+                "affiliation": []
+            },
+            {
+                "name": "MCarpentier",
+                "affiliation": []
+            },
+            {
+                "name": "CChauvel",
+                "affiliation": []
+            },
+            {
+                "name": "RMaury",
+                "affiliation": []
+            },
+            {
+                "name": "NMattielli",
+                "affiliation": []
+            },
+            {
+                "name": "JChadwick",
+                "affiliation": []
+            },
+            {
+                "name": "MPerfit",
+                "affiliation": []
+            },
+            {
+                "name": "IRidley",
+                "affiliation": []
+            },
+            {
+                "name": "IJonasson",
+                "affiliation": []
+            },
+            {
+                "name": "GKamenov",
+                "affiliation": []
+            },
+            {
+                "name": "WChadwick",
+                "affiliation": []
+            },
+            {
+                "name": "REmbley",
+                "affiliation": []
+            },
+            {
+                "name": "PLe Roux",
+                "affiliation": []
+            },
+            {
+                "name": "MSmith",
+                "affiliation": []
+            },
+            {
+                "name": "WWChadwick",
+                "affiliation": []
+            },
+            {
+                "name": "RWEmbley",
+                "affiliation": []
+            },
+            {
+                "name": "HBMilburn",
+                "affiliation": []
+            },
+            {
+                "name": "CMeinig",
+                "affiliation": []
+            },
+            {
+                "name": "MStapp",
+                "affiliation": []
+            },
+            {
+                "name": "CChauvel",
+                "affiliation": []
+            },
+            {
+                "name": "JBlichert-Toft",
+                "affiliation": []
+            },
+            {
+                "name": "CChauvel",
+                "affiliation": []
+            },
+            {
+                "name": "AHofmann",
+                "affiliation": []
+            },
+            {
+                "name": "PVidal",
+                "affiliation": []
+            },
+            {
+                "name": "QCheng",
+                "affiliation": []
+            },
+            {
+                "name": "KHPark",
+                "affiliation": []
+            },
+            {
+                "name": "JDMacdougall",
+                "affiliation": []
+            },
+            {
+                "name": "AZindler",
+                "affiliation": []
+            },
+            {
+                "name": "GWLugmair",
+                "affiliation": []
+            },
+            {
+                "name": "HStaudigel",
+                "affiliation": []
+            },
+            {
+                "name": "JHawkins",
+                "affiliation": []
+            },
+            {
+                "name": "PLonsdale",
+                "affiliation": []
+            },
+            {
+                "name": "QCCheng",
+                "affiliation": []
+            },
+            {
+                "name": "JDMacdougall",
+                "affiliation": []
+            },
+            {
+                "name": "PZhu",
+                "affiliation": []
+            },
+            {
+                "name": "DAClague",
+                "affiliation": []
+            },
+            {
+                "name": "GBDalyrmple",
+                "affiliation": []
+            },
+            {
+                "name": "BDalrymple",
+                "affiliation": []
+            },
+            {
+                "name": "DClague",
+                "affiliation": []
+            },
+            {
+                "name": "TVallier",
+                "affiliation": []
+            },
+            {
+                "name": "WMenard",
+                "affiliation": []
+            },
+            {
+                "name": "Agu",
+                "affiliation": []
+            },
+            {
+                "name": "DCWashington",
+                "affiliation": []
+            },
+            {
+                "name": "DDesonie",
+                "affiliation": []
+            },
+            {
+                "name": "RDuncan",
+                "affiliation": []
+            },
+            {
+                "name": "AVDubinin",
+                "affiliation": []
+            },
+            {
+                "name": "RADuncan",
+                "affiliation": []
+            },
+            {
+                "name": "DAClague",
+                "affiliation": []
+            },
+            {
+                "name": "CDupuy",
+                "affiliation": []
+            },
+            {
+                "name": "PVidal",
+                "affiliation": []
+            },
+            {
+                "name": "RMaury",
+                "affiliation": []
+            },
+            {
+                "name": "GGuille",
+                "affiliation": []
+            },
+            {
+                "name": "RPDziak",
+                "affiliation": []
+            },
+            {
+                "name": "JHHaxel",
+                "affiliation": []
+            },
+            {
+                "name": "DRBohnenstiehl",
+                "affiliation": []
+            },
+            {
+                "name": "WWChadwickJr",
+                "affiliation": []
+            },
+            {
+                "name": "SLNooner",
+                "affiliation": []
+            },
+            {
+                "name": "MJFowler",
+                "affiliation": []
+            },
+            {
+                "name": "HMatsumoto",
+                "affiliation": []
+            },
+            {
+                "name": "DAButterfield",
+                "affiliation": []
+            },
+            {
+                "name": "JEaby",
+                "affiliation": []
+            },
+            {
+                "name": "DAClague",
+                "affiliation": []
+            },
+            {
+                "name": "JRDelaney",
+                "affiliation": []
+            },
+            {
+                "name": "RMEllam",
+                "affiliation": []
+            },
+            {
+                "name": "RWEmbley",
+                "affiliation": []
+            },
+            {
+                "name": "WWChadwick",
+                "affiliation": []
+            },
+            {
+                "name": "DClague",
+                "affiliation": []
+            },
+            {
+                "name": "DStakes",
+                "affiliation": []
+            },
+            {
+                "name": "GFaure",
+                "affiliation": []
+            },
+            {
+                "name": "MRFisk",
+                "affiliation": []
+            },
+            {
+                "name": "RADuncan",
+                "affiliation": []
+            },
+            {
+                "name": "ANBaxter",
+                "affiliation": []
+            },
+            {
+                "name": "JDGreenough",
+                "affiliation": []
+            },
+            {
+                "name": "RBHargraves",
+                "affiliation": []
+            },
+            {
+                "name": "YTatsumi",
+                "affiliation": []
+            },
+            {
+                "name": "ShipboardScientific",
+                "affiliation": []
+            },
+            {
+                "name": "Party",
+                "affiliation": []
+            },
+            {
+                "name": "FAFrey",
+                "affiliation": []
+            },
+            {
+                "name": "DWeis",
+                "affiliation": []
+            },
+            {
+                "name": "FAFrey",
+                "affiliation": []
+            },
+            {
+                "name": "DWeis",
+                "affiliation": []
+            },
+            {
+                "name": "HYang",
+                "affiliation": []
+            },
+            {
+                "name": "KNicolaysen",
+                "affiliation": []
+            },
+            {
+                "name": "HLeyrit",
+                "affiliation": []
+            },
+            {
+                "name": "AGiret",
+                "affiliation": []
+            },
+            {
+                "name": "SJGaler",
+                "affiliation": []
+            },
+            {
+                "name": "RKO'nions",
+                "affiliation": []
+            },
+            {
+                "name": "IGautier",
+                "affiliation": []
+            },
+            {
+                "name": "DWeis",
+                "affiliation": []
+            },
+            {
+                "name": "JMennessier",
+                "affiliation": []
+            },
+            {
+                "name": "PVidal",
+                "affiliation": []
+            },
+            {
+                "name": "AGiret",
+                "affiliation": []
+            },
+            {
+                "name": "MLoubet",
+                "affiliation": []
+            },
+            {
+                "name": "DJGeist",
+                "affiliation": []
+            },
+            {
+                "name": "TRNaumann",
+                "affiliation": []
+            },
+            {
+                "name": "JJStandish",
+                "affiliation": []
+            },
+            {
+                "name": "MDKurz",
+                "affiliation": []
+            },
+            {
+                "name": "KSHarpp",
+                "affiliation": []
+            },
+            {
+                "name": "WMWhite",
+                "affiliation": []
+            },
+            {
+                "name": "DJFornari",
+                "affiliation": []
+            },
+            {
+                "name": "SAGibson",
+                "affiliation": []
+            },
+            {
+                "name": "DGeist",
+                "affiliation": []
+            },
+            {
+                "name": "ARGoss",
+                "affiliation": []
+            },
+            {
+                "name": "MRPerfit",
+                "affiliation": []
+            },
+            {
+                "name": "WIRidley",
+                "affiliation": []
+            },
+            {
+                "name": "KHRubin",
+                "affiliation": []
+            },
+            {
+                "name": "GDKamenov",
+                "affiliation": []
+            },
+            {
+                "name": "SASoule",
+                "affiliation": []
+            },
+            {
+                "name": "AFundis",
+                "affiliation": []
+            },
+            {
+                "name": "DJFornari",
+                "affiliation": []
+            },
+            {
+                "name": "DWGraham",
+                "affiliation": []
+            },
+            {
+                "name": "AZindler",
+                "affiliation": []
+            },
+            {
+                "name": "MKurz",
+                "affiliation": []
+            },
+            {
+                "name": "WJenkins",
+                "affiliation": []
+            },
+            {
+                "name": "RBatiza",
+                "affiliation": []
+            },
+            {
+                "name": "HStaudigel",
+                "affiliation": []
+            },
+            {
+                "name": "KMHaase",
+                "affiliation": []
+            },
+            {
+                "name": "THanyu",
+                "affiliation": []
+            },
+            {
+                "name": "IKaneoka",
+                "affiliation": []
+            },
+            {
+                "name": "KSHarpp",
+                "affiliation": []
+            },
+            {
+                "name": "VDWanless",
+                "affiliation": []
+            },
+            {
+                "name": "RHOtto",
+                "affiliation": []
+            },
+            {
+                "name": "KHoernle",
+                "affiliation": []
+            },
+            {
+                "name": "RWerner",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "EHegner",
+                "affiliation": []
+            },
+            {
+                "name": "MTatsumato",
+                "affiliation": []
+            },
+            {
+                "name": "AWHofmann",
+                "affiliation": []
+            },
+            {
+                "name": "EHumphreys",
+                "affiliation": []
+            },
+            {
+                "name": "YNiu",
+                "affiliation": []
+            },
+            {
+                "name": "DMJohnson",
+                "affiliation": []
+            },
+            {
+                "name": "PRHooper",
+                "affiliation": []
+            },
+            {
+                "name": "RMConrey",
+                "affiliation": []
+            },
+            {
+                "name": "GDKamenov",
+                "affiliation": []
+            },
+            {
+                "name": "PMueller",
+                "affiliation": []
+            },
+            {
+                "name": "MPerfit",
+                "affiliation": []
+            },
+            {
+                "name": "GDKamenov",
+                "affiliation": []
+            },
+            {
+                "name": "MRPerfit",
+                "affiliation": []
+            },
+            {
+                "name": "PAMueller",
+                "affiliation": []
+            },
+            {
+                "name": "IRJonasson",
+                "affiliation": []
+            },
+            {
+                "name": "JLKarsten",
+                "affiliation": []
+            },
+            {
+                "name": "JLKarsten",
+                "affiliation": []
+            },
+            {
+                "name": "JRDelaney",
+                "affiliation": []
+            },
+            {
+                "name": "RKeller",
+                "affiliation": []
+            },
+            {
+                "name": "RDuncan",
+                "affiliation": []
+            },
+            {
+                "name": "MFisk",
+                "affiliation": []
+            },
+            {
+                "name": "RKeller",
+                "affiliation": []
+            },
+            {
+                "name": "MFisk",
+                "affiliation": []
+            },
+            {
+                "name": "RDuncan",
+                "affiliation": []
+            },
+            {
+                "name": "WWhite",
+                "affiliation": []
+            },
+            {
+                "name": "RAKeller",
+                "affiliation": []
+            },
+            {
+                "name": "MRFisk",
+                "affiliation": []
+            },
+            {
+                "name": "WMWhite",
+                "affiliation": []
+            },
+            {
+                "name": "HKitagawa",
+                "affiliation": []
+            },
+            {
+                "name": "KKobayashi",
+                "affiliation": []
+            },
+            {
+                "name": "AMakishima",
+                "affiliation": []
+            },
+            {
+                "name": "ENakamura",
+                "affiliation": []
+            },
+            {
+                "name": "JELupton",
+                "affiliation": []
+            },
+            {
+                "name": "DWGraham",
+                "affiliation": []
+            },
+            {
+                "name": "JRDelaney",
+                "affiliation": []
+            },
+            {
+                "name": "HPJohnson",
+                "affiliation": []
+            },
+            {
+                "name": "EMartin",
+                "affiliation": []
+            },
+            {
+                "name": "SBlair",
+                "affiliation": []
+            },
+            {
+                "name": "GDKamenov",
+                "affiliation": []
+            },
+            {
+                "name": "HScher",
+                "affiliation": []
+            },
+            {
+                "name": "EBourbon",
+                "affiliation": []
+            },
+            {
+                "name": "CBasak",
+                "affiliation": []
+            },
+            {
+                "name": "DNewkirk",
+                "affiliation": []
+            },
+            {
+                "name": "CMorgan",
+                "affiliation": []
+            },
+            {
+                "name": "C",
+                "affiliation": []
+            },
+            {
+                "name": "SWeyer",
+                "affiliation": []
+            },
+            {
+                "name": "EScherer",
+                "affiliation": []
+            },
+            {
+                "name": "KMezger",
+                "affiliation": []
+            },
+            {
+                "name": "ONebel",
+                "affiliation": []
+            },
+            {
+                "name": "RArculus",
+                "affiliation": []
+            },
+            {
+                "name": "WVan Westrenen",
+                "affiliation": []
+            },
+            {
+                "name": "JWoodhead",
+                "affiliation": []
+            },
+            {
+                "name": "FJenner",
+                "affiliation": []
+            },
+            {
+                "name": "YNebel-Jacobsen",
+                "affiliation": []
+            },
+            {
+                "name": "MWillie",
+                "affiliation": []
+            },
+            {
+                "name": "SEggins",
+                "affiliation": []
+            },
+            {
+                "name": "YLNiu",
+                "affiliation": []
+            },
+            {
+                "name": "MJO'hara",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            },
+            {
+                "name": "ALChadwick",
+                "affiliation": []
+            },
+            {
+                "name": "GNowell",
+                "affiliation": []
+            },
+            {
+                "name": "PKempton",
+                "affiliation": []
+            },
+            {
+                "name": "SNoble",
+                "affiliation": []
+            },
+            {
+                "name": "JFitton",
+                "affiliation": []
+            },
+            {
+                "name": "ASaunders",
+                "affiliation": []
+            },
+            {
+                "name": "JMahoney",
+                "affiliation": []
+            },
+            {
+                "name": "RTaylor",
+                "affiliation": []
+            },
+            {
+                "name": "BParsons",
+                "affiliation": []
+            },
+            {
+                "name": "JSclater",
+                "affiliation": []
+            },
+            {
+                "name": "MRegelous",
+                "affiliation": []
+            },
+            {
+                "name": "AWHofmann",
+                "affiliation": []
+            },
+            {
+                "name": "WAbouchami",
+                "affiliation": []
+            },
+            {
+                "name": "SGaler",
+                "affiliation": []
+            },
+            {
+                "name": "JMRhodes",
+                "affiliation": []
+            },
+            {
+                "name": "CMorgan",
+                "affiliation": []
+            },
+            {
+                "name": "RALiias",
+                "affiliation": []
+            },
+            {
+                "name": "VSalters",
+                "affiliation": []
+            },
+            {
+                "name": "VSalters",
+                "affiliation": []
+            },
+            {
+                "name": "WWhite",
+                "affiliation": []
+            },
+            {
+                "name": "JTShafer",
+                "affiliation": []
+            },
+            {
+                "name": "CRNeal",
+                "affiliation": []
+            },
+            {
+                "name": "MRegelous",
+                "affiliation": []
+            },
+            {
+                "name": "ISilva",
+                "affiliation": []
+            },
+            {
+                "name": "DWeis",
+                "affiliation": []
+            },
+            {
+                "name": "JBarling",
+                "affiliation": []
+            },
+            {
+                "name": "JSScoates",
+                "affiliation": []
+            },
+            {
+                "name": "MSmith",
+                "affiliation": []
+            },
+            {
+                "name": "CAStein",
+                "affiliation": []
+            },
+            {
+                "name": "SStein",
+                "affiliation": []
+            },
+            {
+                "name": "AStracke",
+                "affiliation": []
+            },
+            {
+                "name": "MBizimis",
+                "affiliation": []
+            },
+            {
+                "name": "VSalters",
+                "affiliation": []
+            },
+            {
+                "name": "AStracke",
+                "affiliation": []
+            },
+            {
+                "name": "AWHofmann",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "S.-SSun",
+                "affiliation": []
+            },
+            {
+                "name": "WFMcdonough",
+                "affiliation": []
+            },
+            {
+                "name": "MATivey",
+                "affiliation": []
+            },
+            {
+                "name": "HPJohnson",
+                "affiliation": []
+            },
+            {
+                "name": "DLTurcotte",
+                "affiliation": []
+            },
+            {
+                "name": "GSchubert ; Cambridge",
+                "affiliation": []
+            },
+            {
+                "name": "UKVervoort",
+                "affiliation": []
+            },
+            {
+                "name": "JD",
+                "affiliation": []
+            },
+            {
+                "name": "TPlank",
+                "affiliation": []
+            },
+            {
+                "name": "JPrytulak",
+                "affiliation": []
+            },
+            {
+                "name": "BLWeaver",
+                "affiliation": []
+            },
+            {
+                "name": "JAWelhan",
+                "affiliation": []
+            },
+            {
+                "name": "DAWood",
+                "affiliation": []
+            },
+            {
+                "name": "JWoodhead",
+                "affiliation": []
+            },
+            {
+                "name": "MYamamoto",
+                "affiliation": []
+            },
+            {
+                "name": "JPMorgan",
+                "affiliation": []
+            },
+            {
+                "name": "WJMorgan",
+                "affiliation": []
+            },
+            {
+                "name": "AZindler",
+                "affiliation": []
+            },
+            {
+                "name": "SHart",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            }
+        ],
+        "publication_date": "2014",
+        "funder": [
+            "Department of Geology and Environmental Geosciences at the College of Charleston",
+            "NOAA WCNURP and NOAA OE"
+        ]
+    },
+    "sections": {
+        "Introduction": "Introduction\nAs young oceanic lithosphere recedes from a spreading ridge, it cools and thickens in proportion to the square root of its age, until about 70 Myr when it reaches a maximum thickness of about 125 km\n[Ellam, 1992;\nTurcotte and Schubert, 2002;\nStein and Stein, 1992;\nParsons and Sclater, 1977]\n. Oceanic lithosphere can act as a ''lid'' over rising mantle at hot spots as it undergoes depressurization melting, and the thickness of the lid may control the extent of melting in the production of Ocean Island Basalt (OIB) lavas. Thinner lithosphere allows melting to proceed to shallower depths and to generate higher melt fractions than when rising under thick lithosphere\n[Dupuy et al., 1993;\nEllam, 1992;\nHaase, 1996;\nHumphreys and Niu, 2009]\n. The thickness of the lithosphere may also influence the proportions of fertile and refractory mantle mixing components in OIB\n[Cheng et al., 1999;\nFrey and Weis, 1995;\nGautier et al., 1990;\nKeller et al., 2000;\nRegelous et al., 2003]\n.\nSystematic relationships between OIB compositions and the age of the overlying lithosphere at the time of eruption have been reported for hot spot-related seamounts where the seamount-lithosphere age difference is less than about 70 Myr. Lavas from the Hawaiian-Emperor\n[Keller et al., 2000]\n, Reunion\n[Fisk et al., 1989;\nEllam, 1992]\n, Easter\n[Cheng et al., 1999]\n, and Kerguelen\n[Frey et al., 2000;\nFrey and Weis, 1995;\nGautier et al., 1990]\nisland/seamount chains exhibit systematic geochemical trends that are attributed to lithospheric age and thickness at the time of eruption. Other hot spot chains, such as Louisville\n[Cheng et al., 1987]\n, show no evidence of such temporal geochemical trends. Although lithospheric thickness in the Galapagos archipelago does not directly correspond to distance from the Galapagos Spreading Center due to ridge jumps,\nGibson and Geist [2010]\nattributed much of the geochemical variation in the Galapagos Islands to lithospheric thickness.\nThe interaction between the Cobb hot spot and Juan de Fuca Ridge (JdFR) spreading center in the northeast Pacific basin is one of the few locations on Earth where an active spreading ridge lies directly astride an active hot spot. This ridge-hot spot interaction began when a segment of the ridge, which had been migrating toward the hot spot from the SE, merged with it about 0.5 Myr ago\n[Karsten and Delaney, 1989\n; Tivey Geochemistry, Geophysics, Geosystems PUBLICATIONS and\nJohnson, 1990]\n. As the JdFR approached, the lithosphere over the hot spot became younger with time, and Cobb lavas were erupted through progressively thinner lithosphere. The oldest seamounts in the chain formed when the ridge and hot spot were separated by about 550 km [Desonie and\nDuncan, 1990]\n, on lithosphere that was about 12 Myr old\n[Dalrymple et al., 1987]\nand about 45 km thick at the time of eruption (using a calculation for oceanic lithosphere thickness 5 2.32 (r t) 1/2 where t is the age and r is thermal diffusivity)\n[Turcotte and Schubert, 2002]\n. The younger seamounts were erupted on progressively thinner lithosphere near and directly astride the JdFR. The Cobb Seamount Chain records the composition of the hot spot lavas over time and provides a rare opportunity to study the effects of the progressive convergence of an active mid-ocean ridge system on the geochemical characteristics of a hot spot. This paper is the first comprehensive geochemical study of lavas from throughout the Cobb chain and includes new major and trace element compositions for 21 rock samples and Sr, Nd, Pb, and Hf isotopic ratios for 16 of these samples from 10 seamounts, and He isotopic ratios for olivine phenocrysts from 1 sample. The geochemical data are used here to characterize compositional variability of Cobb lavas over time to evaluate the effects of the progressively thinner overlying lithosphere. The new isotopic data are also used to identify an OIB mantle source component for the Cobb hot spot, which was previously described as derived from an intrinsically MORB-like mantle source based on a study of some of the younger seamounts in the chain [Desonie and\nDuncan, 1990]\n.",
+        "Geologic Setting": "Geologic Setting\nThe northeastern Pacific Ocean is notable for abundant seamounts, many occurring in two NW-SE trending chains that align with Pacific plate motion\n[Dalrymple et al., 1987]\n. The southern of these is the Cobb chain, which extends about 1850 km from the JdFR to the Aleutian Trench (Figure\n1\n). The 10 seamounts in the Cobb chain that have been dated are age-progressive from SE to NW, consistent with their formation by the passage of the Pacific plate over a long-lived (>33 Myr) melt source, the Cobb hot spot [Desonie and\nDuncan, 1990;\nKeller et al., 1997]\n.\nAxial Seamount is the youngest in the Cobb chain and the current locus of Cobb hot spot volcanism (Figure\n1\n), located about 300 km from the west coast of North America. Axial Seamount lies astride the JdFR   forming a rare ridge-hot spot association. Its last eruptions were in 2011 and 1998\n[Chadwick et al., 1999;\nEmbley et al., 1999;\nDziak et al., 2012]\n. Axial Seamount lavas have incompatible element enrichments relative to N-MORB but N-MORB-like Sr, Nd, Pb, and He isotopic compositions\n[Eaby et al., 1984;\nRhodes et al., 1990;\nLupton et al., 1993;\nChadwick et al., 2005]\n.\nThe Cobb chain extends to the NW from Axial Seamount on the Pacific plate. The seamounts in this study that formed nearest to the JdFR include Brown Bear, Cobb, Pipe, Gluttony, Lust, Sloth, Warwick, and Eickelberg (Figure\n1\n). Previous geochemical studies of these seamounts have been geographically limited, and few isotopic analyses have been reported.\nMorgan [1985]\nanalyzed major and trace elements for samples from Cobb and Brown Bear Seamounts and reported tholeiitic basalts. Desonie and\nDuncan [1990]\nmeasured major and trace elements and Sr, Nd, and Pb isotopic ratios for rocks from four of the younger seamounts (Eickelberg, Warwick, Cobb, and an unnamed seamount near Cobb) and reported trace element enrichments relative to MORB but MORB-like isotopic ratios similar to those at Axial Seamount.\nFor the next 600 km to the northwest of Forster Seamount, there are three large and several smaller unnamed edifices that fall along the trend of the Cobb chain that have not been sampled. On the NW end of the chain near the Aleutian Trench, Miller, Murray, Patton, and several smaller seamounts comprise the oldest members of the chain (Figure\n1\n). Major and trace element data for Miller, Murray, and Patton Seamounts by\nDalrymple et al. [1987]\nrevealed tholeiitic to transitional alkalic basalts for Miller and mostly hawaiities (and a few mugearites and benmorites) for Murray and Patton. Ocean Drilling Program (ODP) core 887 from the Patton-Murray seamount platform sampled tholeiitic and some higher alkali flows with N-MORB-like Sr and Nd isotopes\n[Keller et al., 1995\n[Keller et al., , 1997]]\n.\nDuncan and Clague [1985]\ndemonstrated that the seamounts in the chain could all be formed by the Cobb hot spot based on rigid Pacific plate motion models. The ages of all dated seamounts increase with distance from the Cobb hot spot along the chain as expected from a fixed hot spot [Desonie and\nDuncan, 1990;\nDalrymple et al., 1987;\nKeller et al., 1997]\n. Two of the seamounts in this study (Marchand and an unnamed edifice) have not been dated, but were sampled and analyzed (for major and trace elements only; no isotopic data were analyzed for these and they are not included in any modeling) since they lie near Patton and may also be associated with the Cobb hot spot. The relation of Murray and Patton to the hot spot was questioned by\nDalrymple et al. [1987]\nbased on ages of 27.6 and 29.7 Myr, respectively. Although these ages were older than Miller and age-progressive as expected, they were considered too young based on the plate motion models of\nDuncan and Clague [1985]\n. However,\nKeller et al. [1997]\nreported a 33 Myr age for a flow in ODP core 887 adjacent to Murray Seamount, which exactly coincides with the expected age for Cobb hot spot magmatism at that location. A stratigraphically higher alkalic flow in the same core yielded a 27 Myr age similar to that reported by\nDalrymple et al. [1987]\n, which\nKeller et al. [1997]\ninterpreted as the result of postshield activity. Such late-stage alkalic, postshield, and rejuvenated activity is common in hot spot chains such as the Hawaiian-Emperor Chain and can occur millions of years after the volcanic edifice has left the hot spot [e.g.,\nClague and Dalrymple, 1988;\nShafer et al., 2005]\n.\nAlthough the progressive ages of the Cobb Seamounts are consistent with their formation by a mantle hot spot, the MORB-like isotopic characteristics identified for the younger seamounts by Desonie and\nDuncan [1990]\nled them to suggest they were derived from an inherently MORB-like mantle source, an apparent contradiction to the OIB paradigm of comparatively deep mantle sources with distinct isotopic characteristics. Depleted MORB mantle (DMM) is invoked as a mixing component in some\nOIB [e.g., Geist et al., 2005;\nHarpp et al., 2005]\n, but hot spots rarely produce lavas that are exclusively N-MORB-like.",
+        "Samples and Analytical Procedures": "Samples and Analytical Procedures\nA total of 21 rock samples from 13 seamounts in the Cobb chain were analyzed in this study (Table\n1\n). Eight of the samples (one from Warwick, one from Murray, three from Patton, one from Marchand, and two from an unnamed seamount near Patton) were collected with the Alvin submersible during R.V. Atlantis cruises in 1999 and 2002. The other 13 samples were archived rocks collected for previous research and provided to the authors for this study. Some of these were not analyzed at all during the earlier work, and some were analyzed only for major elements and a limited suite of trace elements using older analytical methods\n[Dalrymple et al., 1987;\nMorgan, 1985]\nor only for age analysis\n[Dalrymple et al., 1987;\nDesonie and Duncan, 1990]\n. Archived samples from the younger seamounts were collected during three R.V. Thomas Thompson cruises:\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005334 by dredge during\nTT080 in 1973 and\nTT175 in 1983\nand by the Pisces submersible during cruise TT170 in 1981\n[Morgan, 1985]\n. The archived samples from the older seamounts were dredged during a U.S. Geological Survey R.V. Sea Sounder cruise in 1979 (Table\n1\n).\nMost of the samples from the older seamounts had very little or no glass, and all analyses in this study are for whole rocks. Hand samples were crushed in a tungsten carbide jaw crusher creating small (<5 mm) chips. Some samples had a subtle yellow discoloration on their outer surfaces indicating contamination or alteration by seawater, particularly those from the older seamounts, but the interiors of these rocks appeared relatively fresh. All chips were cleaned three times in equal parts trace metal grade 2M HCl and 30% hydrogen peroxide for a total of 45 min in a warm ultrasonic bath. The supernatant was decanted and the chips were rinsed three times with distilled (18 MX) water. Any chips with visible discoloration following the cleaning procedure and any with visible phenocrysts (plagioclase or olivine) were identified under a microscope and removed. Subsets of the cleaned chips were finely powdered in a tungsten carbide shatterbox, and the powders (3.5 g) were mixed with dilithium tetraborate flux (7.0 g) and fused in graphite crucibles for 10 min in a muffle furnace at 1000 C. The beads were reground and fused a second time, and then polished and cleaned for major element analysis on the XRF spectrometer in the GeoAnalytical Laboratory at Washington State University\n[Johnson et al., 1999\n; also see the WSU Analytical Laboratory website\nhttp://www.sees.wsu.edu/ Geolab/note/xrf.html\nfor further analytical details].\nAnother 0.05 g of cleaned chips from each sample were digested using trace metal grade HF and HNO 3 , dried, and re-dissolved in 5% HNO 3 spiked with Re and Rh and diluted to 2000x. Trace element analyses were performed at the University of Florida on an Element2 HR-ICP-MS in medium resolution with Re and Rh used as internal standards. A procedural blank was prepared with the samples and subtracted from the sample signal intensities. A detailed description of standard reference materials reproducibility data for the equipment and protocol used are given in\nGoss et al. [2010]\n. Quantification of the results was done by external calibration using USGS rock standards (AGV-1, BIR-1, and BCR-2) following methods described in\nKamenov et al. [2008]\n.\nAdditional subsets of chips from 16 of the above samples were selected for isotopic analyses and leached in 6M HCl and 30% hydrogen peroxide for 30 min, rinsed, and dried. This more rigorous leaching has been shown in previous studies to more thoroughly remove alteration products for isotopic analyses\n[Regelous et al., 2003;\nSilva et al., 2009]\n, but also potentially leads to concentration of plagioclase and stripping of some more mobile elements, and was therefore not used for the major or trace element analyses. The Geochemistry, Geophysics, Geosystems 10.1002/2014GC005334\nsamples were digested with HF and HNO 3 and dried, and chromatographic methods\n[Goss et al., 2010]\nwere used to separate Sr, Nd, and Pb from the matrix. Sr isotopic compositions were determined at the University of Florida on a ''Nu-Plasma'' MC-ICP-MS following a method described in\nKamenov et al. [2008]\n. 87 Sr/ 86 Sr ratio was corrected for mass-bias using exponential law and 86 Sr/ 88 Sr 5 0.1194. Repeated analyses of NBS 987 Sr isotope standard measured together with the samples yielded an average 87 Sr/ 86 Sr 5 0.710246 (60.000030, 2r). Nd isotopic compositions were also determined on a ''Nu-Plasma'' MC-ICP-MS following a method described in\nKamenov et al. [2008]\n. 143 Nd/ 144 Nd ratio was corrected for mass-bias using exponential law and 146 Nd/ 144 Nd 5 0.7219. Repeated analyses of the JNdi-1 Nd standard produced mean values of 0.512103 (60.000018, 2r). The Pb isotope data were acquired with Tl-normalization following methods described in\nKamenov et al. [2004]\n2r)\n. Multiple procedural Sr-Nd-Pb blanks prepared with and around the time of these sample analyses show the following ranges: Sr from 0.04 ng to 0.08 ng, Nd from 0.005 ng to 0.05 ng, and Pb from 0.003 ng to 0.03 ng. Isotopic ratios were age-corrected\n[Faure, 1986]\nfor plotting in figures using trace element concentrations for each sample reported in Tables\n2\nand\n3",
+        "Results": "Results\nThe geochemical properties of rocks from most of the Cobb chain are largely related to their eruptive age and distance from the JdFR (Figure\n2\n). Samples from the eight younger seamounts are generally the most depleted and have isotopic properties that partly overlap with N-MORB values. Rocks from the five older seamounts, produced at a time when the\nDuncan [1990]\nand\nHegner and Tatsumato [1987]\nfor younger seamounts, and\nDalrymple et al. [1987]\nfor older seamounts. Axial Seamount data from\nChadwick et al. [2005]\nand Juan de Fuca Ridge data from\nSmith [1999]\nand\nHegner and Tatsumato [1987]\n. See data tables for analytical errors for the plotted data. In all figures, analytical errors are smaller than the sizes of plotted symbols.\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005334 spreading ridge was further from the hot spot, are generally the most enriched and have isotopic properties that are more distinct from N-MORB.",
+        "Younger Seamounts": "Younger Seamounts\nSamples from the eight younger seamounts (Brown Bear, Pipe, Cobb, Gluttony, Sloth, Lust, Warwick, and Eickelberg) are all basalts (SiO 2 < 51%) with tholeiitic to transitional alkalic compositions (e.g., K 2 O 1 Na 2 O: 2.8-4.0 wt %; Figure\n3\n) that range to more enriched values than the JdFR (<3.0 wt %)\n[Smith, 1999]\nand Axial Seamount (<3.3 wt %)\n[Chadwick et al., 2005]\n. Their MgO and Mg# values (4.25-9.34 wt % and 22.2-46.7, respectively) exhibit more limited variability and are more evolved than most JdFR MORB.\nIncompatible trace element concentrations and ratios for the younger seamounts overlap with those of Axial Seamount and JdFR N-MORB but also extend to more enriched compositions. Following the classification scheme of\nWood [1980]\n, a ternary plot of Hf-Ta-Th concentrations categorizes JdFR and most Axial Seamount lavas as MORB, but all but two of the younger Cobb lavas are classified as tholeiitic OIB (Figure\n4a\n), reflecting the influence of the Cobb hot spot. The younger seamounts have flat rare earth element (REE) patterns to modest enrichments in light rare earth elements (LREE) (chondrite-normalized La/Yb average is 1.45; see Figures\n5a\nand\n5b\n[Wood, 1980]\nclassifies most of the younger seamounts as tholeiitic OIB (distinct from the N-MORB from the JdFR and reflecting the influence of the Cobb hot spot), and the older seamounts as tholeiitic or alkalic OIB. In Figure\n4b\n, samples from older seamounts are generally more enriched in incompatible trace elements and younger seamounts trend toward more depleted compositions. Trends in basaltic samples (basalts and trachybasalts only; two evolved samples from Marchand and the unnamed seamount (3438-6 and 3804-2) are not shown) generally follow equilibrium batch melting curves (0.2%-20% melt fractions) for garnet peridotite (>75 km; 53% ol, 4% opx, 38% cpx, 5% gt) and spinel peridotite (<75 km; 53% ol, 15% opx, 30% cpx, 2% spinel); distribution coefficients and mineral proportions from\nSalters [1996]\n, consistent with increased melt fractions over time as lithospheric thickness decreased with the approach of the Juan de Fuca Ridge.\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005334 2005] and depleted patterns for JdFR N-MORB\n[Smith, 1999]\n, excluding E-MORB from the Endeavor Segment\n[Karsten, 1988]\n.\nIncompatible trace element enrichments in the younger group are generally correlated with seamount age. Warwick and Eickelberg, the two oldest, have modestly enriched REE patterns and higher average incompatible element concentrations and ratios compared to the younger Sloth, Lust, Gluttony, Pipe, Brown Bear, and Axial Seamounts (chondrite-normalized La/Yb averages 1.7 versus 1.2). However, Cobb Seamount, one of the youngest in the chain, has a more enriched composition similar to rocks from Warwick and Eickelberg (Figures\n4\nand\n5a\n).\nThe isotopic data for the younger seamounts (Figure\n6\n) show Sr and Nd ratios that largely overlap with published Pacific and JdFR N-MORB and Axial Seamount values, but several samples extend to slightly higher 87 Sr/ 86 Sr values due to possible seawater Sr contamination. The younger group has some samples with higher Pb and lower Hf isotopes that extend beyond N-MORB ranges (Figure\n6\n). Reflecting the incompatible element compositions in the young seamount group, Pb and Hf isotopic ratios are most distinct from MORB for Warwick, Eickelberg, and Cobb Seamounts.\nOlivine phenocrysts separated from Gluttony Seamount yielded 3.29 3 10 215 mmol/g of 3 He, 3.00 3 10 210 mmol/g of 4 He, and 4.86 e 211 mmol/g of 20 Ne. The average blanks for a crusher analysis contained about 10% of the He and 20% of the Ne released by the samples analysis, thus a significant blank correction was required. Furthermore, the He/Ne/(He/Ne)air was 22, indicating the presence of a significant atmospheric component. After applying a blank correction and an additional correction for He addition from air saturated seawater based on the He/Ne ratio, the 3 He/ 4 He ratio was R/R A 5 7.88 6 0.5 (where R A is the atmospheric helium ratio), which is within the range for JdFR MORB and Axial Seamount\n[Lupton et al., 1993]\n.",
+        "Older Seamounts": "Older Seamounts\nThe new major element data for the five older seamounts in this study reveal distinct differences from the younger group (also see major element data for these seamounts in\nDalrymple et al. [1987]\n). They are more heterogeneous as a group, most are more alkali-rich, and some are more evolved (Figure\n3\n). Murray and Patton samples include alkali-rich basalts and hawaiities (high-Na variety of trachybasalt), and the three Geochemistry, Geophysics, Geosystems 10.1002/2014GC005334 samples from Marchand and the unnamed seamount near Patton include a hawaiite, a mugearite, and a benmoreite (high-Na varieties of basaltic trachyandesite and trachyandesite) with SiO 2 up to 58.3% and total alkalis up to 9.2% (Figure\n3\n). The MgO and Mg# values (0.57-5.17 wt % and 4.4-27.4, respectively) are lower than the younger seamounts and lowest for the mugearite and benmorite, consistent with more extensive fractionation to produce the higher-silica lavas. Miller Seamount, the youngest member of the older group, is less evolved and enriched than the others, with higher MgO and Mg# and lower alkali enrichments (Na 2 O 1 K 2 O < 3.4%) similar to the more depleted and primitive lavas typical of the younger part of the chain (Figure\n3\n). Most of the older seamounts are enriched in incompatible trace elements and have the highest concentrations and ratios in the chain (Figures\n2\nand\n4b\n). The basaltic samples are classified as tholeiitic OIB and alkalic OIB based on their Hf-Th-Ta concentrations (Figure\n4a\n) and have REE patterns that are distinctly more enriched than those in the younger group (chondrite-normalized La/Yb average is 5.02; see Figures\n5c\nand\n5d\n). Miller Seamount, however, is again the exception, with incompatible trace element enrichments Geochemistry, Geophysics, Geosystems 10.1002/2014GC005334 that are similar to Warwick and Eickelberg in the younger part of the chain. Chondrite-normalized La/Yb ratios for alkali basalts (SiO 2 < 51%) range from 1.5 to 2.2 for Miller and from 4.7 to 6.6 for the rest of the older group.\nA few of the older samples\n(3805-2, 3437-1, and 3438-6)\nhave minor U, P, K, Rb, Sr, and/or Ba enrichments or Ce depletions that indicate they may have retained traces of residual seawater alteration products or secondary phases [e.g.,\nDalrymple et al., 1987;\nDubinin, 2004;\nMartin et al., 2010]\nthat were not completely removed by the cleaning process.\nAge-corrected Sr isotopic ratios for the older group overlap with Pacific N-MORB ranges, but Nd and Pb values are distinct from MORB (Figures\n6a\nand\n6b\n). Hf isotopic ratios overlap with MORB ranges, but define a trend that is distinctly lower than MORB for a given Pb, Sr, or Nd isotopic value (Figures\n6c\nand\n6d\n). Miller Seamount also has higher Pb and lower Hf isotope ratios than MORB, but they overlap with the values for the younger seamounts.",
+        "Discussion": "Discussion\nA large body of research has been directed toward understanding the implications of the compositional variety of OIB lavas. A group of distinct isotopic mantle source compositions for hot spot magmas have been identified (e.g., EMI, EMII, HIMU, and FOZO) [e.g.,\nZindler and Hart, 1986;\nStracke et al., 2005]\n, and studies of the various processes that modify their chemical characteristics prior to eruption have led to an improved understanding of the composition and dynamics of the Earth's mantle. The thickness of the overlying oceanic lithosphere has been revealed to be an important factor controlling hot spot compositional variety\n[Ellam, 1992;\nHaase, 1996;\nNiu and O'Hara, 2007]\n.\nA primary consequence of the migration of the JdFR toward the Cobb hot spot over the 33 Myr eruptive history of the Cobb chain was a progressively thinner lithosphere at the hot spot. The oldest seamounts were erupted on 12 Myr old oceanic lithosphere\n[Dalrymple et al., 1987]\nthat was about 550 km from the Juan de Fuca Ridge [Desonie and\nDuncan, 1990]\nand 45 km thick at the time of eruption. The younger seamounts formed closer to the encroaching JdFR on lithosphere that was <3 Myr older than the seamounts and <20 km thick. Oceanic lithosphere is postulated to act as a ''lid'' or barrier to plumes as they rise and undergo adiabatic decompression melting. (Previous workers have described the Cobb hot spot as the result of a mantle plume [e.g., Desonie and\nDuncan, 1990\n]. In the discussion that follows, the term ''plume'' is used to describe a relatively fixed location of upwelling mantle and melting. This term is used with no implication regarding the source depth of the upwelling.) The thickness of the lithosphere may control the depth to which an upwelling parcel can ascend and thus limit the mean extent and pressure of melting in a plume\n[Ellam, 1992;\nHaase, 1996;\nNiu and O'Hara, 2007]\n. The extent of melting exerts substantial control on incompatible element enrichment of magmas; thinner lithosphere allows plume melting to occur over a longer column length and continue to shallower depths, resulting in higher extents of melting at lower pressures and less enriched magmas.\nHumphreys and Niu [2009]\ndemonstrated a correlation between lithospheric thickness at the time of eruption and major and trace element compositions of OIB in a study of islandaveraged geochemical data for basalts (<53% SiO 2 ) from 49 oceanic hot spots (not including the Cobb chain). They noted systematic variations in major and trace element compositions that varied with lithospheric thickness, with thicker lithosphere resulting in more enriched lavas.\nThe curves in Figure\n4b\nshow predicted compositional trends for progressively increasing melt fractions from spinel (shallow <75 km) and garnet (deep >75 km) peridotite compared with Lu/Hf and Sm/Yb ratios for the basaltic (basalts and trachybasalts) Cobb seamount samples. The Cobb data show a curved pattern that is consistent with the general trends in the melt models, indicating progressively higher fractions of melting with decreasing age and lithospheric thickness. Pacific MORB and Axial Seamount reside at the most depleted, highest-melting terminus of the trends in the Cobb Seamount data.\nTrends in the isotopic data (Figure\n6\n) demonstrate that Cobb lavas are derived from more than one mantle component. The trends indicate binary mixing between Pacific DMM and a component with modestly lower Nd ratios and somewhat more radiogenic Sr compared to MORB, and distinctly higher Pb and distinctly lower Hf isotope ratios. The younger seamounts have isotopic characteristics that largely overlap with MORB values, and the lavas are increasingly distinct from MORB with increasing age, extending beyond Geochemistry, Geophysics, Geosystems 10.1002/2014GC005334 MORB ranges. The trace element data support this, with the youngest Cobb lavas classified as MORB-like and progressively older seamounts having increasingly distinct OIB characteristics (Figure\n4a\n). Taken together, these observations are consistent with control of both melt fractions and mixing proportions by lithospheric thickness, with higher melt fractions, less enrichment, and a higher proportion of the refractory DMM component as the Juan de Fuca Ridge drew closer.\nThe Cobb Seamount isotopic data trend directly toward the distinct characteristics of the HIMU (''High m''; mantle with high time-integrated U/Pb ratios) mantle reservoir, which is considered to be derived from recycled and altered oceanic crust\n[Weaver, 1991;\nHofmann, 1997;\nStracke et al., 2003]\n. The HIMU component is found at Ocean Islands in both the Pacific and Atlantic, including St. Helena and some of the Cook-Austral Islands\n[Zindler and Hart, 1986;\nStracke et al., 2005]\nand has highly radiogenic Pb ratios ( 206 Pb/ 204 Pb > 20.5), 87 Sr/ 86 Sr ratios that extend to modestly higher values than MORB (<0.703)\n[Hart, 1988;\nZindler and Hart, 1986]\n, and a Hf-Nd isotopic array that diverges from other OIB (deviates from the terrestrial array)\n[Vervoort et al., 2011]\n, with lower 176 Hf/ 177 Hf for a given 143 Nd/ 144 Nd than MORB and other OIB\n[Chauvel et al., 1992;\nBallentine et al., 1997;\nNebel et al., 2013]\n. The factor DEHf, a measure of the offset from the Hf-Nd terrestrial array (EHf 5 1.55 3 ENd 1 1.21) [Vervoort et al., 2011] (Figure\n6d\n) and a diagnostic indicator of HIMU Geochemistry, Geophysics, Geosystems 10.1002/2014GC005334\n[Carpentier et al., 2009;\nNebel et al., 2013]\n, is variable up to 27.8 for the older Cobb Seamounts (Table\n4\n). These values are similar to those from Mangaia in the Cook Islands, which is considered the most extreme HIMU composition yet found\n[Woodhead, 1996]\n.\nUsing a large MORB and OIB isotopic database,\nStracke et al. [2005]\ncalculated mixing lines between HIMU and depleted MORB end-members in Pb-Pb isotopic space and asserted that mixing between MORB and HIMU must be rare. However, the isotopic data in this study align with binary mixing lines trending directly between Pacific MORB and HIMU compositions, with consistent end-member mixing proportions for all four isotopic systems, indicating that the Cobb hot spot is an example of HIMU-DMM mixing (Figure\n6\n).\nMixing modeling between HIMU and DMM end-members (Figure\n6\n) shows the highest proportion of HIMU to be between about 10 and 15% for samples from Patton and Murray Seamounts in the oldest part of the chain, decreasing to less than 5% for the younger seamounts. The results are consistent with a HIMU composition for the Cobb plume that is mixed extensively with DMM. It should be noted that the ''endmember'' HIMU samples from the Cook-Austral Islands that were used in the mixing modeling are the most extreme examples of the HIMU composition yet found\n[Woodhead, 1996;\nNebel et al., 2013]\n, but they may nevertheless be the product of extensive mixing with DMM\n[Nebel et al., 2013]\n, and the proportions of HIMU in the Cobb seamounts may be significantly lower than calculated here.\nCobb lavas became progressively more MORB-like in their isotopic characteristics as the Juan de Fuca Ridge approached and the lithosphere became thinner, allowing the plume to rise to shallower depths and pass through thicker asthenosphere, possibly entraining increasing amounts of DMM (Figure\n7\n).\nKeller et al. [2000]\nnoted that the Hawaiian hot spot erupted lavas with MORB-like isotopic characteristics 81 Myr ago when it was located near a mid-ocean ridge system and attributed this to entrainment of asthenosphere by the Hawaiian plume. Alternatively, DMM entrainment by plumes may occur where they form at the mantle Geochemistry, Geophysics, Geosystems 10.1002/2014GC005334\ntransition zone\n[Nebel et al., 2013]\n. In either case, the longer and shallower melt column under thinner lithosphere would lead to higher melt fractions and higher proportions of melting of refractory DMM in the plume relative to the more fertile HIMU component, leading to magmas with an increasingly MORB-like composition. The control of mixing proportions by lithospheric thickness in this manner has been proposed for the variable OIB compositions in several other hot spot-related chains, including the Easter, Kerguelen, and Hawaiian-Emperor chains\n[Cheng et al., 1999;\nFrey and Weis, 1995;\nGautier et al., 1990;\nRegelous et al., 2003]\n. The proximity of the younger seamounts to the partial melt zone associated with the JdFR, which may extend at least 130 km from the spreading axis [Desonie and\nDuncan, 1990]\n, may also have had a role in enhancing DMM melting and diluting the HIMU signature.\nThe 3 He/ 4 He ratio for the olivine separates from Gluttony Seamount (R/R a 5 7.88 6 0.5) is within the range of compositions for Pacific MORB and is similar to the lowest values measured for JdFR (7.8-8.8 R A ) and Axial Seamount basalts (7.9-8.4 R A )\n[Lupton et al., 1993]\n. This low ratio supports a model of mixing between DMM and HIMU, as HIMU lavas from the Cook-Austral Archipelago and St. Helena have uniform and relatively low 3 He/ 4 He ratios (6.8 6 0.9 R A ), slightly lower than Pacific MORB\n[Hanyu and Kaneoka, 1997]\n. A small contribution of the HIMU mixing component at Gluttony (<5%; Figure\n6\n) would lead to a subtle decrease below average N-MORB ranges observed at the JdFR. Additional He isotopic analyses from the Cobb chain, particularly for the older seamounts, are required to confirm the He characteristics of the Cobb plume.\nThe major element compositional variability and high-alkali characteristics observed in some of the older seamounts (Figure\n3\n) may be a consequence of off-axis volcanism. These late-stage lavas, notably observed in the Hawaiian-Emperor chain, are added as a carapace to largely tholeiitic volcanoes after an edifice has moved beyond the hot spot, and are enriched in alkalis due to lower extents of melting\n[Clague and Dalrymple, 1988;\nShafer et al., 2005]\n. Small chains of near-ridge seamounts near the East Pacific Rise with similar late-stage alkalic lavas erupted on top of primarily tholeiitic volcanoes are also attributed to smaller degrees of melting beneath thick lithosphere away from the ridge axis\n[Graham et al., 1988]\n.\nCobb and Miller Seamounts conspicuously differ from the temporal trends observed for the other 11 seamounts in this study. Based on its relatively young age, Cobb Seamount would be expected to have erupted on relatively thin lithosphere and to have a more depleted composition, and the older Miller Seamount Geochemistry, Geophysics, Geosystems 10.1002/2014GC005334\nwould be expected to be more enriched. Instead, they both have compositions that are similar to the intermediate-aged Eickelberg and Warwick Seamounts.\nKitagawa et al. [2008]\nsuggested that similar temporal variations in the chemistry of Tertiary Iceland hot spot lavas are associated with changes in magma productivity caused by varying proportions of fertile enriched and refractory depleted mantle components in the source region. More enriched lavas are erupted during periods of higher melt production due to an increase in the availability of an enriched component. A similar process may have occurred along the Cobb chain, and we cannot rule out a role for heterogeneities in the upwelling hot spot source mantle to explain the compositional incongruities of these two seamounts. Gaps and the lack of islands in the chain indicate that the Cobb hot spot is associated with an irregular and relatively weak plume\n[Yamamoto et al., 2007]\n, and it has been inconsistent and intermittently ceased and resumed its production over the past 33 Myr (Figure\n1\n). Miller Seamount lies adjacent to a gap in the chain (Figure\n1\n) and formed just prior to a hiatus in magma production from the Cobb plume. We speculate that when Miller was formed, a decrease in the availability of HIMU mantle may have led to decreased melting and more depleted lavas that resemble those from the intermediateaged Eickelberg and Warwick. Cobb Seamount, which is more enriched than its young neighbors, may represent a temporary surge in plume production due to an increase in the fertile HIMU component in the rising mantle beneath the hot spot. Indeed, Cobb Seamount is the largest of the younger edifices and currently rises to a depth of only 34 m below sea level and was likely once an island\n[Budinger and Enbysk, 1960]\n.",
+        "Conclusions": "Conclusions\nThe Cobb Seamount Chain in the northeast Pacific records the composition of the Cobb hot spot over the past 33 Myr as the migrating Juan de Fuca spreading ridge converged on the hot spot. Major and trace element and Sr-Nd-Pb-Hf isotopic compositions from Cobb seamounts show that lavas became generally more depleted and MORB-like over time as the spreading center approached and the overlying oceanic lithosphere became thinner. High Pb isotopes and distinct Hf-Nd isotopic trends identify the HIMU OIB component in the Cobb lavas. The chemical data are consistent with variable melting of and mixing between DMM and HIMU in the plume, with a progressively increasing contribution of the DMM component over time. The lithospheric thickness likely controlled both melting and mixing proportions, with progressively thinner lithosphere over time leading to longer melt columns rising to shallower levels and increased melt fractions of the refractory DMM component in the plume."
+    },
+    "references": [
+        {
+            "title": "The Cobb hot spot: HIMU-DMM mixing and melting controlled by a progressively thinning lithospheric lid",
+            "authors": [
+                "JohnChadwick",
+                "RandallKeller",
+                "GeorgeKamenov",
+                "GeneYogodzinski",
+                "JohnLupton"
+            ],
+            "journal": null,
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Hafnium isotope studies of the Camaroon line and new HIMU paradoxes",
+            "authors": [
+                "CJBallentine",
+                "DCLee",
+                "ANHalliday"
+            ],
+            "journal": "Chem. Geol",
+            "date": "1997",
+            "pages": {
+                "from": "111",
+                "to": "124"
+            }
+        },
+        {
+            "title": "The Lu-Hf and Sm-Nd isotopic composition of CHUR: Constraints from unequilibrated chondrites and implications for the bulk composition of terrestrial planets",
+            "authors": [
+                "ABouvier",
+                "JDVervoort",
+                "JPPatchett"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2008",
+            "pages": {
+                "from": "48",
+                "to": "57"
+            }
+        },
+        {
+            "title": "Cobb Seamount, a deep-sea feature off the Washington coast",
+            "authors": [
+                "TFBudinger",
+                "BJEnbysk"
+            ],
+            "journal": null,
+            "date": "1960",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The ''zircon effect'' as recorded by the chemical and Hf isotopic compositions of Lesser Antilles forearc sediments",
+            "authors": [
+                "MCarpentier",
+                "CChauvel",
+                "RMaury",
+                "NMattielli"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2009",
+            "pages": {
+                "from": "86",
+                "to": "89"
+            }
+        },
+        {
+            "title": "Magmatic effects of the Cobb hot spot on the Juan de Fuca Ridge",
+            "authors": [
+                "JChadwick",
+                "MPerfit",
+                "IRidley",
+                "IJonasson",
+                "GKamenov",
+                "WChadwick",
+                "REmbley",
+                "PLe Roux",
+                "MSmith"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "2005",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Evidence for deformation associated with the 1998 eruption of Axial Volcano, Juan de Fuca Ridge, from acoustic extensometer measurements",
+            "authors": [
+                "WWChadwick",
+                "RWEmbley",
+                "HBMilburn",
+                "CMeinig",
+                "MStapp"
+            ],
+            "journal": "Geophys. Res. Lett",
+            "date": "1999",
+            "pages": {
+                "from": "3441",
+                "to": "3444"
+            }
+        },
+        {
+            "title": "A hafnium isotope and trace element perspective on melting of the depleted mantle",
+            "authors": [
+                "CChauvel",
+                "JBlichert-Toft"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2001",
+            "pages": {
+                "from": "137",
+                "to": "151"
+            }
+        },
+        {
+            "title": "HIMU-EM: The French Polynesian connection",
+            "authors": [
+                "CChauvel",
+                "AHofmann",
+                "PVidal"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1992",
+            "pages": {
+                "from": "99",
+                "to": "119"
+            }
+        },
+        {
+            "title": "Isotopic evidence for a hotspot origin of the Louisville Seamount Chain",
+            "authors": [
+                "QCheng",
+                "KHPark",
+                "JDMacdougall",
+                "AZindler",
+                "GWLugmair",
+                "HStaudigel",
+                "JHawkins",
+                "PLonsdale"
+            ],
+            "journal": null,
+            "date": "1987",
+            "pages": {
+                "from": "283",
+                "to": "296"
+            }
+        },
+        {
+            "title": "Isotopic constraints on the Easter Seamount Chain source",
+            "authors": [
+                "QCCheng",
+                "JDMacdougall",
+                "PZhu"
+            ],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": "1999",
+            "pages": {
+                "from": "225",
+                "to": "233"
+            }
+        },
+        {
+            "title": "Age and petrology of alkalic postshield and rejuvenated-stage lava from",
+            "authors": [
+                "DAClague",
+                "GBDalyrmple"
+            ],
+            "journal": null,
+            "date": "1988",
+            "pages": {
+                "from": "202",
+                "to": "218"
+            }
+        },
+        {
+            "title": "The Cobb-Eickelberg seamount chain: Hotspot volcanism with a mid-ocean ridge basalt affinity",
+            "authors": [
+                "BDalrymple",
+                "DClague",
+                "TVallier",
+                "WMenard",
+                "Agu",
+                "DCWashington",
+                "DDesonie",
+                "RDuncan"
+            ],
+            "journal": null,
+            "date": "1987",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Geochemistry of rare earth elements in the ocean",
+            "authors": [
+                "AVDubinin"
+            ],
+            "journal": null,
+            "date": "2004",
+            "pages": {
+                "from": "289",
+                "to": "307"
+            }
+        },
+        {
+            "title": "Pacific plate motion recorded by linear volcanic chains",
+            "authors": [
+                "RADuncan",
+                "DAClague"
+            ],
+            "journal": null,
+            "date": "1985",
+            "pages": {
+                "from": "89",
+                "to": "121"
+            }
+        },
+        {
+            "title": "Basalts from Mururoa, Fangataufa, and Gambier Islands (French Polynesia): Geochemical dependence on the age of the lithosphere",
+            "authors": [
+                "CDupuy",
+                "PVidal",
+                "RMaury",
+                "GGuille"
+            ],
+            "journal": null,
+            "date": "1993",
+            "pages": {
+                "from": "89",
+                "to": "100"
+            }
+        },
+        {
+            "title": "Seismic precursors and magma ascent before the April 2011 eruption at Axial Seamount",
+            "authors": [
+                "RPDziak",
+                "JHHaxel",
+                "DRBohnenstiehl",
+                "WWChadwickJr",
+                "SLNooner",
+                "MJFowler",
+                "HMatsumoto",
+                "DAButterfield"
+            ],
+            "journal": "Nat. Geosci",
+            "date": "2012",
+            "pages": {
+                "from": "478",
+                "to": "482"
+            }
+        },
+        {
+            "title": "Sr isotopic variations along the Juan de Fuca Ridge",
+            "authors": [
+                "JEaby",
+                "DAClague",
+                "JRDelaney"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1984",
+            "pages": {
+                "from": "7883",
+                "to": "7890"
+            }
+        },
+        {
+            "title": "Lithospheric thickness as a control on basalt geochemistry",
+            "authors": [
+                "RMEllam"
+            ],
+            "journal": "Geology",
+            "date": "1992",
+            "pages": {
+                "from": "153",
+                "to": "156"
+            }
+        },
+        {
+            "title": "The 1998 Eruption of Axial Volcano: Multibeam anomalies and seafloor observations",
+            "authors": [
+                "RWEmbley",
+                "WWChadwick",
+                "DClague",
+                "DStakes"
+            ],
+            "journal": "Geophys. Res. Lett",
+            "date": "1999",
+            "pages": {
+                "from": "3425",
+                "to": "2428"
+            }
+        },
+        {
+            "title": "Principles of Isotope Geology",
+            "authors": [
+                "GFaure"
+            ],
+            "journal": null,
+            "date": "1986",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Reunion hotspot magma chemistry over the past 65 M.y.: Results from Leg 115 of the ODP",
+            "authors": [
+                "MRFisk",
+                "RADuncan",
+                "ANBaxter",
+                "JDGreenough",
+                "RBHargraves",
+                "YTatsumi",
+                "ShipboardScientific",
+                "Party"
+            ],
+            "journal": "Geology",
+            "date": "1989",
+            "pages": {
+                "from": "934",
+                "to": "937"
+            }
+        },
+        {
+            "title": "Temporal evolution of the Kerguelen plume: Geochemical evidence from 38 to 82 Ma lavas forming the Ninetyeast Ridge",
+            "authors": [
+                "FAFrey",
+                "DWeis"
+            ],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": "1995",
+            "pages": {
+                "from": "12",
+                "to": "28"
+            }
+        },
+        {
+            "title": "Temporal geochemical trends in Kerguelen Archipelago basalts, evidence for decreasing magma supply from the Kerguelen plume",
+            "authors": [
+                "FAFrey",
+                "DWeis",
+                "HYang",
+                "KNicolaysen",
+                "HLeyrit",
+                "AGiret"
+            ],
+            "journal": "Chem. Geol",
+            "date": "2000",
+            "pages": {
+                "from": "61",
+                "to": "80"
+            }
+        },
+        {
+            "title": "Residence time of thorium, uranium, and lead in the mantle with implications for mantle convection",
+            "authors": [
+                "SJGaler",
+                "RKO'nions"
+            ],
+            "journal": "Nature",
+            "date": "1985",
+            "pages": {
+                "from": "778",
+                "to": "782"
+            }
+        },
+        {
+            "title": "Petrology and geochemistry of the Kerguelen Archipelago basalts (South Indian Ocean): Evolution of the mantle sources from ridge to intraplate position",
+            "authors": [
+                "IGautier",
+                "DWeis",
+                "JMennessier",
+                "PVidal",
+                "AGiret",
+                "MLoubet"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1990",
+            "pages": {
+                "from": "59",
+                "to": "76"
+            }
+        },
+        {
+            "title": "Wolf Volcano, Gal apagos Archipelago: Melting and magmatic evolution at the margins of a mantle plume",
+            "authors": [
+                "DJGeist",
+                "TRNaumann",
+                "JJStandish",
+                "MDKurz",
+                "KSHarpp",
+                "WMWhite",
+                "DJFornari"
+            ],
+            "journal": "J. Petrol",
+            "date": "2005",
+            "pages": {
+                "from": "2197",
+                "to": "2224"
+            }
+        },
+        {
+            "title": "Geochemical and geophysical estimates of lithospheric thickness variation beneath Gal apagos",
+            "authors": [
+                "SAGibson",
+                "DGeist"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2010",
+            "pages": {
+                "from": "275",
+                "to": "286"
+            }
+        },
+        {
+            "title": "Geochemistry of lavas from the 2005-2006 eruption at the East Pacific Rise, 9 46 0 N-9 56 0 N: Implications for ridge crest plumbing and decadal changes in magma chamber compositions",
+            "authors": [
+                "ARGoss",
+                "MRPerfit",
+                "WIRidley",
+                "KHRubin",
+                "GDKamenov",
+                "SASoule",
+                "AFundis",
+                "DJFornari"
+            ],
+            "journal": null,
+            "date": "2010",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "He, Pb, Sr, and Nd isotope constraints on magma genesis and mantle heterogeneity beneath young Pacific seamounts",
+            "authors": [
+                "DWGraham",
+                "AZindler",
+                "MKurz",
+                "WJenkins",
+                "RBatiza",
+                "HStaudigel"
+            ],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": "1988",
+            "pages": {
+                "from": "446",
+                "to": "463"
+            }
+        },
+        {
+            "title": "The relationship between the age of the lithosphere and the composition of oceanic magmas: Constraints on partial melting, mantle sources and the thermal structure of the plates",
+            "authors": [
+                "KMHaase"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1996",
+            "pages": {
+                "from": "75",
+                "to": "92"
+            }
+        },
+        {
+            "title": "The uniform and low 3 He/ 4 He ratios of HIMU basalts as evidence for their origin as recycled materials",
+            "authors": [
+                "THanyu",
+                "IKaneoka"
+            ],
+            "journal": "Nature",
+            "date": "1997",
+            "pages": {
+                "from": "273",
+                "to": "276"
+            }
+        },
+        {
+            "title": "The Cocos and Carnegie Ridges: A trace element record of longterm plume-ridge interaction",
+            "authors": [
+                "KSHarpp",
+                "VDWanless",
+                "RHOtto",
+                "KHoernle",
+                "RWerner"
+            ],
+            "journal": "J. Petrol",
+            "date": "2005",
+            "pages": {
+                "from": "109",
+                "to": "133"
+            }
+        },
+        {
+            "title": "Heterogeneous mantle domains-Signatures, genesis and mixing chronologies",
+            "authors": [
+                "SRHart"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1988",
+            "pages": {
+                "from": "273",
+                "to": "296"
+            }
+        },
+        {
+            "title": "Pb, Sr, and Nd isotopes in basalts and sulfides from the Juan de Fuca Ridge",
+            "authors": [
+                "EHegner",
+                "MTatsumato"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1987",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Mantle geochemistry: The message from oceanic volcanism",
+            "authors": [
+                "AWHofmann"
+            ],
+            "journal": "Nature",
+            "date": "1997",
+            "pages": {
+                "from": "219",
+                "to": "229"
+            }
+        },
+        {
+            "title": "On the composition of ocean island basalts (OIB): The effects of lithospheric thickness variation and mantle metasomatism",
+            "authors": [
+                "EHumphreys",
+                "YNiu"
+            ],
+            "journal": "Lithos",
+            "date": "2009",
+            "pages": {
+                "from": "118",
+                "to": "136"
+            }
+        },
+        {
+            "title": "XRF analysis of rocks and minerals for major and trace elements on a single low dilution Li-tetraborate fused bead",
+            "authors": [
+                "DMJohnson",
+                "PRHooper",
+                "RMConrey"
+            ],
+            "journal": "Adv. X Ray Anal",
+            "date": "1999",
+            "pages": {
+                "from": "843",
+                "to": "867"
+            }
+        },
+        {
+            "title": "Optimization of mixed Pb-Tl solutions for high precision isotopic analyses by MC-ICP-MS",
+            "authors": [
+                "GDKamenov",
+                "PMueller",
+                "MPerfit"
+            ],
+            "journal": "J. Anal. Atomic Spectrom",
+            "date": "2004",
+            "pages": {
+                "from": "1262",
+                "to": "1267"
+            }
+        },
+        {
+            "title": "Controls on magmatism in an island arc environment: Study of lavas and sub-arc xenoliths from the Tabar-Lihir-Tanga-Feni island chain",
+            "authors": [
+                "GDKamenov",
+                "MRPerfit",
+                "PAMueller",
+                "IRJonasson"
+            ],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": "2008",
+            "pages": {
+                "from": "635",
+                "to": "656"
+            }
+        },
+        {
+            "title": "Spatial and temporal variations in the petrology, morphology and tectonics of a migrating spreading center: The Endeavor segment of the Juan de Fuca Ridge",
+            "authors": [
+                "JLKarsten"
+            ],
+            "journal": null,
+            "date": "1988",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Hotspot-ridge crest convergence in the northeast Pacific",
+            "authors": [
+                "JLKarsten",
+                "JRDelaney"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1989",
+            "pages": {
+                "from": "700",
+                "to": "712"
+            }
+        },
+        {
+            "title": "Geochemistry and 40 Ar/ 39 Ar geochronology of basalts from ODP Leg 145 (North Pacific Transect",
+            "authors": [
+                "RKeller",
+                "RDuncan",
+                "MFisk"
+            ],
+            "journal": null,
+            "date": "1995",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "m.y. of hotspot and nonhotspot volcanism on the Patton-Murray seamount platform, Gulf of Alaska",
+            "authors": [
+                "RKeller",
+                "MFisk",
+                "RDuncan",
+                "WWhite"
+            ],
+            "journal": "Geology",
+            "date": "1997",
+            "pages": {
+                "from": "511",
+                "to": "514"
+            }
+        },
+        {
+            "title": "Isotopic evidence for Late Cretaceous plume-ridge interaction at the Hawaiian hotspot",
+            "authors": [
+                "RAKeller",
+                "MRFisk",
+                "WMWhite"
+            ],
+            "journal": "Nature",
+            "date": "2000",
+            "pages": {
+                "from": "673",
+                "to": "676"
+            }
+        },
+        {
+            "title": "Multiple pulses of the mantle plume: Evidence from Tertiary Icelandic lavas",
+            "authors": [
+                "HKitagawa",
+                "KKobayashi",
+                "AMakishima",
+                "ENakamura"
+            ],
+            "journal": "J. Petrol",
+            "date": "2008",
+            "pages": {
+                "from": "1365",
+                "to": "1396"
+            }
+        },
+        {
+            "title": "Helium isotope variations in Juan De Fuca Ridge basalts",
+            "authors": [
+                "JELupton",
+                "DWGraham",
+                "JRDelaney",
+                "HPJohnson"
+            ],
+            "journal": "Geophys. Res. Lett",
+            "date": "1993",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Nd isotopes from bulk sediments for paleoceanographic studies on Cenozoic time scales",
+            "authors": [
+                "EMartin",
+                "SBlair",
+                "GDKamenov",
+                "HScher",
+                "EBourbon",
+                "CBasak",
+                "DNewkirk"
+            ],
+            "journal": "Chem. Geol",
+            "date": "2010",
+            "pages": {
+                "from": "414",
+                "to": "431"
+            }
+        },
+        {
+            "title": "Separation of high field strength elements (Nb, Ta, Zr, Hf) and Lu from rock samples for MC-ICPMS measurements",
+            "authors": [
+                "CMorgan",
+                "C",
+                "SWeyer",
+                "EScherer",
+                "KMezger"
+            ],
+            "journal": null,
+            "date": "1985",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Coupled Hf-Nd-Pb isotope co-variations of HIMU oceanic island basalts from Mangaia, Cook-Austral islands",
+            "authors": [
+                "ONebel",
+                "RArculus",
+                "WVan Westrenen",
+                "JWoodhead",
+                "FJenner",
+                "YNebel-Jacobsen",
+                "MWillie",
+                "SEggins"
+            ],
+            "journal": null,
+            "date": "2013",
+            "pages": {
+                "from": "87",
+                "to": "101"
+            }
+        },
+        {
+            "title": "Varying Ni in OIB olivines-Product of process not source",
+            "authors": [
+                "YLNiu",
+                "MJO'hara"
+            ],
+            "journal": "Geochim. Cosmochim. Acta",
+            "date": "2007",
+            "pages": {
+                "from": "721",
+                "to": "A721"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "ALChadwick"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "High precision Hf isotope measurements of MORB and OIB by thermal ionization mass spectrometry: Insights into the depleted mantle",
+            "authors": [
+                "GNowell",
+                "PKempton",
+                "SNoble",
+                "JFitton",
+                "ASaunders",
+                "JMahoney",
+                "RTaylor"
+            ],
+            "journal": "Chem. Geol",
+            "date": "1998",
+            "pages": {
+                "from": "211",
+                "to": "233"
+            }
+        },
+        {
+            "title": "An analysis of the variation of ocean floor bathymetry and heat flow with age",
+            "authors": [
+                "BParsons",
+                "JSclater"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1977",
+            "pages": {
+                "from": "803",
+                "to": "827"
+            }
+        },
+        {
+            "title": "Geochemistry of lavas from the Emperor Seamounts, and the geochemical evolution of Hawaiian magmatism from 85 to 42 Ma",
+            "authors": [
+                "MRegelous",
+                "AWHofmann",
+                "WAbouchami",
+                "SGaler"
+            ],
+            "journal": "J. Petrol",
+            "date": "2003",
+            "pages": {
+                "from": "113",
+                "to": "140"
+            }
+        },
+        {
+            "title": "Geochemistry of Axial Seamount Lavas: Magmatic relationship between the Cobb Hotspot and the Juan de Fuca Ridge",
+            "authors": [
+                "JMRhodes",
+                "CMorgan",
+                "RALiias"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1990",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The generation of mid-ocean ridge basalts from the Hf and Nd isotope perspective",
+            "authors": [
+                "VSalters"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1996",
+            "pages": {
+                "from": "109",
+                "to": "123"
+            }
+        },
+        {
+            "title": "Hf isotope constraints on mantle evolution",
+            "authors": [
+                "VSalters",
+                "WWhite"
+            ],
+            "journal": null,
+            "date": "1998",
+            "pages": {
+                "from": "447",
+                "to": "460"
+            }
+        },
+        {
+            "title": "Petrogenesis of Hawaiian postshield lavas: Evidence from Nintoku Seamount, Emperor Seamount Chain",
+            "authors": [
+                "JTShafer",
+                "CRNeal",
+                "MRegelous"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2005",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Leaching systematics and matrix elimination for the determination of high-precision Pb isotope compositions of ocean island basalts",
+            "authors": [
+                "ISilva",
+                "DWeis",
+                "JBarling",
+                "JSScoates"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2009",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Geochemistry of eastern Pacific MORB: Implications for MORB petrogenesis and the nature of crustal accretion within the neovolcanic zone of two recently active ridge segments",
+            "authors": [
+                "MSmith"
+            ],
+            "journal": "Dep. of Geol. Sci., Univ. of Fla",
+            "date": "1999",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "A model for the global variation in oceanic depth and heat flow with lithospheric age",
+            "authors": [
+                "CAStein",
+                "SStein"
+            ],
+            "journal": "Nature",
+            "date": "1992",
+            "pages": {
+                "from": "123",
+                "to": "129"
+            }
+        },
+        {
+            "title": "Recycling oceanic crust: Quantitative constraints",
+            "authors": [
+                "AStracke",
+                "MBizimis",
+                "VSalters"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2003",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "FOZO, HIMU, and the rest of the mantle zoo",
+            "authors": [
+                "AStracke",
+                "AWHofmann",
+                "SRHart"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2005",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Chemical and isotopic systematics of oceanic basalts: Implications for mantle composition and process",
+            "authors": [
+                "S.-SSun",
+                "WFMcdonough"
+            ],
+            "journal": "Geol. Soc. Spec. Publ",
+            "date": "1989",
+            "pages": {
+                "from": "313",
+                "to": "345"
+            }
+        },
+        {
+            "title": "The magnetic structure of Axial Seamount, Juan de Fuca Ridge",
+            "authors": [
+                "MATivey",
+                "HPJohnson"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1990",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The Hf-Nd isotopic composition of marine sediments",
+            "authors": [
+                "DLTurcotte",
+                "GSchubert ; Cambridge",
+                "UKVervoort",
+                "JD",
+                "TPlank",
+                "JPrytulak"
+            ],
+            "journal": null,
+            "date": "2002",
+            "pages": {
+                "from": "5903",
+                "to": "5926"
+            }
+        },
+        {
+            "title": "The origin of ocean island basalt end-member compositions: Trace element and isotopic constraints",
+            "authors": [
+                "BLWeaver"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1991",
+            "pages": {
+                "from": "381",
+                "to": "397"
+            }
+        },
+        {
+            "title": "Carbon and hydrogen gases in hydrothermal systems: The search for a mantle source",
+            "authors": [
+                "JAWelhan"
+            ],
+            "journal": null,
+            "date": "1981",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The application of a Th-Hf-Ta diagram to problems of tectonomagmatic classification and to establishing the nature of crustal contamination of basaltic lavas of the British Tertiary Volcanic Province",
+            "authors": [
+                "DAWood"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1980",
+            "pages": {
+                "from": "11",
+                "to": "30"
+            }
+        },
+        {
+            "title": "Extreme HIMU in an oceanic setting: The geochemistry of Mangaia Island (Polynesia), and temporal evolution of the Cook-Austral hotspot",
+            "authors": [
+                "JWoodhead"
+            ],
+            "journal": "J. Volcanol. Geotherm. Res",
+            "date": "1996",
+            "pages": {
+                "from": "1",
+                "to": "19"
+            }
+        },
+        {
+            "title": "Global plume-fed asthenosphere flow: (1) Motivation and model development",
+            "authors": [
+                "MYamamoto",
+                "JPMorgan",
+                "WJMorgan"
+            ],
+            "journal": "Spec. Pap. Geol. Soc. Am",
+            "date": "2007",
+            "pages": {
+                "from": "165",
+                "to": "188"
+            }
+        },
+        {
+            "title": "Chemical geodynamics",
+            "authors": [
+                "AZindler",
+                "SHart"
+            ],
+            "journal": "Annu. Rev. Earth Planet. Sci",
+            "date": "1986",
+            "pages": {
+                "from": "493",
+                "to": "571"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        }
+    ]
+}

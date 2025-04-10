@@ -1,0 +1,4961 @@
+{
+    "metadata": {
+        "title": "Approximately 1.78 Ga mafic dykes in the L\u20ac uliang Complex, North China Craton: Zircon ages and Lu-Hf isotopes, geochemistry, and implications",
+        "abstract": "Mafic dyke swarms are excellent time markers and paleostress indicators. Numerous late Paleoproterozoic mafic dykes are exposed throughout the Trans-North China Orogen (TNCO). Most of these dykes trend NW-SE or NNW-SSE, nearly parallel to the orogen, while a series of E-W trending mafic dykes are restricted in the L\u20ac uliang and southern Taihang areas in the central segment of the TNCO. These dykes were mostly considered to be linked with breakup of the supercontinent Columbia previously. In this study, 16 mafic dykes were investigated in the L\u20ac uliang Complex. Zircon LA-ICP-MS dating of four samples yields magmatic crystallization ages of 1.78-1.79 Ga. These dykes belong to the tholeiite series and consist of basalt, basaltic andesite, and andesite. They are enriched in LREE and LILE and depleted in HFSE, and have negative zircon eHf (t) values of 21.7 to 212.2. The E-W trending mafic dykes show similar geochemical and isotopic features compared to the NW-SE trending dykes in other complexes. They were most likely originated from a lithospheric mantle metasomatized by subduction-related fluids and later emplaced along extensional fractures in a postcollisional setting. NW-SE trending fractures were formed due to gravitational collapse and thinning of the lithosphere. E-W trending fractures in the central segment of the orogen constitute a transverse accommodation belt to equilibrate the different amounts of extension between the northern and southern TNCO. The impact of the postorogenic extension might have continued to approximately 1680 Ma as evidenced by the presence of abundant approximately 1750-1680 Ma anorthositegabbro-mangerite-rapakivi granite suites (AMCG-like) occurring in the northern NCC.",
+        "authors": [
+            {
+                "name": "XiWang",
+                "affiliation": [
+                    {
+                        "department": "Department of Earth Sciences",
+                        "institution": "Nanjing University",
+                        "address": {
+                            "settlement": "Nanjing",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "WenbinZhu",
+                "affiliation": [
+                    {
+                        "department": "Department of Earth Sciences",
+                        "institution": "Nanjing University",
+                        "address": {
+                            "settlement": "Nanjing",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "MengLuo",
+                "affiliation": [
+                    {
+                        "department": "Department of Civil Engineering",
+                        "institution": "Wentian College",
+                        "address": {
+                            "settlement": "Ma'anshan",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "XingminRen",
+                "affiliation": [
+                    {
+                        "department": "Department of Earth Sciences",
+                        "institution": "Nanjing University",
+                        "address": {
+                            "settlement": "Nanjing",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "XiangCui",
+                "affiliation": [
+                    {
+                        "department": "Department of Earth Sciences",
+                        "institution": "Nanjing University",
+                        "address": {
+                            "settlement": "Nanjing",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "TAndersen",
+                "affiliation": []
+            },
+            {
+                "name": "JBlichert-Toft",
+                "affiliation": []
+            },
+            {
+                "name": "FAlbare",
+                "affiliation": []
+            },
+            {
+                "name": "De",
+                "affiliation": []
+            },
+            {
+                "name": "KCCondie",
+                "affiliation": []
+            },
+            {
+                "name": "CYDong",
+                "affiliation": []
+            },
+            {
+                "name": "MZMa",
+                "affiliation": []
+            },
+            {
+                "name": "SJLiu",
+                "affiliation": []
+            },
+            {
+                "name": "HQXie",
+                "affiliation": []
+            },
+            {
+                "name": "DYLiu",
+                "affiliation": []
+            },
+            {
+                "name": "XMLi",
+                "affiliation": []
+            },
+            {
+                "name": "YSWan",
+                "affiliation": []
+            },
+            {
+                "name": "LLDu",
+                "affiliation": []
+            },
+            {
+                "name": "CHYang",
+                "affiliation": []
+            },
+            {
+                "name": "LDRen",
+                "affiliation": []
+            },
+            {
+                "name": "HXSong",
+                "affiliation": []
+            },
+            {
+                "name": "YSGeng",
+                "affiliation": []
+            },
+            {
+                "name": "YSWan",
+                "affiliation": []
+            },
+            {
+                "name": "REErnst",
+                "affiliation": []
+            },
+            {
+                "name": "JWHead",
+                "affiliation": []
+            },
+            {
+                "name": "EParfitt",
+                "affiliation": []
+            },
+            {
+                "name": "EGrosfils",
+                "affiliation": []
+            },
+            {
+                "name": "LWilson",
+                "affiliation": []
+            },
+            {
+                "name": "FAFrey",
+                "affiliation": []
+            },
+            {
+                "name": "DHGreen",
+                "affiliation": []
+            },
+            {
+                "name": "SDRoy",
+                "affiliation": []
+            },
+            {
+                "name": "JFGao",
+                "affiliation": []
+            },
+            {
+                "name": "JJLu",
+                "affiliation": []
+            },
+            {
+                "name": "MYLai",
+                "affiliation": []
+            },
+            {
+                "name": "YPLin",
+                "affiliation": []
+            },
+            {
+                "name": "WPu",
+                "affiliation": []
+            },
+            {
+                "name": "WGao",
+                "affiliation": []
+            },
+            {
+                "name": "CHZhang",
+                "affiliation": []
+            },
+            {
+                "name": "LZGao",
+                "affiliation": []
+            },
+            {
+                "name": "XYShi",
+                "affiliation": []
+            },
+            {
+                "name": "YMLiu",
+                "affiliation": []
+            },
+            {
+                "name": "BSong",
+                "affiliation": []
+            },
+            {
+                "name": "YSGeng",
+                "affiliation": []
+            },
+            {
+                "name": "YSWan",
+                "affiliation": []
+            },
+            {
+                "name": "CHYang",
+                "affiliation": []
+            },
+            {
+                "name": "YSGeng",
+                "affiliation": []
+            },
+            {
+                "name": "CHYang",
+                "affiliation": []
+            },
+            {
+                "name": "BSong",
+                "affiliation": []
+            },
+            {
+                "name": "YSWan",
+                "affiliation": []
+            },
+            {
+                "name": "YSGeng",
+                "affiliation": []
+            },
+            {
+                "name": "CHYang",
+                "affiliation": []
+            },
+            {
+                "name": "YSWan",
+                "affiliation": []
+            },
+            {
+                "name": "ILGibson",
+                "affiliation": []
+            },
+            {
+                "name": "RJKirkpatrick",
+                "affiliation": []
+            },
+            {
+                "name": "REmmerman",
+                "affiliation": []
+            },
+            {
+                "name": "HUSchmincke",
+                "affiliation": []
+            },
+            {
+                "name": "GPritchard",
+                "affiliation": []
+            },
+            {
+                "name": "PJOakley",
+                "affiliation": []
+            },
+            {
+                "name": "RSThorpe",
+                "affiliation": []
+            },
+            {
+                "name": "GFMarriner",
+                "affiliation": []
+            },
+            {
+                "name": "JHGuo",
+                "affiliation": []
+            },
+            {
+                "name": "PJO'brien",
+                "affiliation": []
+            },
+            {
+                "name": "MZhai",
+                "affiliation": []
+            },
+            {
+                "name": "JHGuo",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "FKChen",
+                "affiliation": []
+            },
+            {
+                "name": "MGZhai",
+                "affiliation": []
+            },
+            {
+                "name": "HCHalls",
+                "affiliation": []
+            },
+            {
+                "name": "JHLi",
+                "affiliation": []
+            },
+            {
+                "name": "DDavis",
+                "affiliation": []
+            },
+            {
+                "name": "GTHou",
+                "affiliation": []
+            },
+            {
+                "name": "BXZhang",
+                "affiliation": []
+            },
+            {
+                "name": "XLQian",
+                "affiliation": []
+            },
+            {
+                "name": "BFHan",
+                "affiliation": []
+            },
+            {
+                "name": "LZhang",
+                "affiliation": []
+            },
+            {
+                "name": "YMWang",
+                "affiliation": []
+            },
+            {
+                "name": "BSong",
+                "affiliation": []
+            },
+            {
+                "name": "JMHanchar",
+                "affiliation": []
+            },
+            {
+                "name": "WVWestrenen",
+                "affiliation": []
+            },
+            {
+                "name": "YHHe",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "YHHe",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "GTHou",
+                "affiliation": []
+            },
+            {
+                "name": "JHLi",
+                "affiliation": []
+            },
+            {
+                "name": "XLQian",
+                "affiliation": []
+            },
+            {
+                "name": "GTHou",
+                "affiliation": []
+            },
+            {
+                "name": "YLLiu",
+                "affiliation": []
+            },
+            {
+                "name": "JHLi",
+                "affiliation": []
+            },
+            {
+                "name": "AWJin",
+                "affiliation": []
+            },
+            {
+                "name": "GTHou",
+                "affiliation": []
+            },
+            {
+                "name": "YLLiu",
+                "affiliation": []
+            },
+            {
+                "name": "JHLi",
+                "affiliation": []
+            },
+            {
+                "name": "GTHou",
+                "affiliation": []
+            },
+            {
+                "name": "MSantosh",
+                "affiliation": []
+            },
+            {
+                "name": "XLQian",
+                "affiliation": []
+            },
+            {
+                "name": "GSLister",
+                "affiliation": []
+            },
+            {
+                "name": "JHLi",
+                "affiliation": []
+            },
+            {
+                "name": "GTHou",
+                "affiliation": []
+            },
+            {
+                "name": "JHLi",
+                "affiliation": []
+            },
+            {
+                "name": "MHYang",
+                "affiliation": []
+            },
+            {
+                "name": "WHYao",
+                "affiliation": []
+            },
+            {
+                "name": "CCWang",
+                "affiliation": []
+            },
+            {
+                "name": "YXWang",
+                "affiliation": []
+            },
+            {
+                "name": "KJHou",
+                "affiliation": []
+            },
+            {
+                "name": "YHLi",
+                "affiliation": []
+            },
+            {
+                "name": "TRZou",
+                "affiliation": []
+            },
+            {
+                "name": "XMQu",
+                "affiliation": []
+            },
+            {
+                "name": "YRShi",
+                "affiliation": []
+            },
+            {
+                "name": "GQXie",
+                "affiliation": []
+            },
+            {
+                "name": "GHHu",
+                "affiliation": []
+            },
+            {
+                "name": "JLHu",
+                "affiliation": []
+            },
+            {
+                "name": "WChen",
+                "affiliation": []
+            },
+            {
+                "name": "TPZhao",
+                "affiliation": []
+            },
+            {
+                "name": "JLHu",
+                "affiliation": []
+            },
+            {
+                "name": "TPZhao",
+                "affiliation": []
+            },
+            {
+                "name": "YHXu",
+                "affiliation": []
+            },
+            {
+                "name": "WChen",
+                "affiliation": []
+            },
+            {
+                "name": "SInger",
+                "affiliation": []
+            },
+            {
+                "name": "TNIrvine",
+                "affiliation": []
+            },
+            {
+                "name": "WR ABaragar",
+                "affiliation": []
+            },
+            {
+                "name": "SEJackson",
+                "affiliation": []
+            },
+            {
+                "name": "NJPearson",
+                "affiliation": []
+            },
+            {
+                "name": "WLGriffin",
+                "affiliation": []
+            },
+            {
+                "name": "EABelousova",
+                "affiliation": []
+            },
+            {
+                "name": "NJiang",
+                "affiliation": []
+            },
+            {
+                "name": "JHGuo",
+                "affiliation": []
+            },
+            {
+                "name": "MGZhai",
+                "affiliation": []
+            },
+            {
+                "name": "PKepezhinskas",
+                "affiliation": []
+            },
+            {
+                "name": "FMcdermott",
+                "affiliation": []
+            },
+            {
+                "name": "MJDefant",
+                "affiliation": []
+            },
+            {
+                "name": "AHochstaedter",
+                "affiliation": []
+            },
+            {
+                "name": "MSDrummond",
+                "affiliation": []
+            },
+            {
+                "name": "AKr\u20ac Oner",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "JHLi",
+                "affiliation": []
+            },
+            {
+                "name": "KYWang",
+                "affiliation": []
+            },
+            {
+                "name": "AKr\u20ac Oner",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "PJO'brien",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "DYLiu",
+                "affiliation": []
+            },
+            {
+                "name": "YSWan",
+                "affiliation": []
+            },
+            {
+                "name": "SWLiu",
+                "affiliation": []
+            },
+            {
+                "name": "JHGuo",
+                "affiliation": []
+            },
+            {
+                "name": "TMKusky",
+                "affiliation": []
+            },
+            {
+                "name": "JHLi",
+                "affiliation": []
+            },
+            {
+                "name": "MRLafle `che",
+                "affiliation": []
+            },
+            {
+                "name": "GCamir",
+                "affiliation": []
+            },
+            {
+                "name": "GAJenner",
+                "affiliation": []
+            },
+            {
+                "name": "LeBas",
+                "affiliation": []
+            },
+            {
+                "name": "MJ",
+                "affiliation": []
+            },
+            {
+                "name": "RWLe Maitre",
+                "affiliation": []
+            },
+            {
+                "name": "AStreckeisen",
+                "affiliation": []
+            },
+            {
+                "name": "BZanettin",
+                "affiliation": []
+            },
+            {
+                "name": "LeFort",
+                "affiliation": []
+            },
+            {
+                "name": "P",
+                "affiliation": []
+            },
+            {
+                "name": "MCuney",
+                "affiliation": []
+            },
+            {
+                "name": "CDeniel",
+                "affiliation": []
+            },
+            {
+                "name": "CFLanord",
+                "affiliation": []
+            },
+            {
+                "name": "SM FSheppard",
+                "affiliation": []
+            },
+            {
+                "name": "BNUpreti",
+                "affiliation": []
+            },
+            {
+                "name": "PVidal",
+                "affiliation": []
+            },
+            {
+                "name": "HKLi",
+                "affiliation": []
+            },
+            {
+                "name": "SNLu",
+                "affiliation": []
+            },
+            {
+                "name": "WBSu",
+                "affiliation": []
+            },
+            {
+                "name": "ZQXiang",
+                "affiliation": []
+            },
+            {
+                "name": "HYZhou",
+                "affiliation": []
+            },
+            {
+                "name": "YQZhang",
+                "affiliation": []
+            },
+            {
+                "name": "SZLi",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "SZLi",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "ZZHan",
+                "affiliation": []
+            },
+            {
+                "name": "GTZhao",
+                "affiliation": []
+            },
+            {
+                "name": "DFHao",
+                "affiliation": []
+            },
+            {
+                "name": "SZLi",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "JZhang",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "GWZhang",
+                "affiliation": []
+            },
+            {
+                "name": "LMDai",
+                "affiliation": []
+            },
+            {
+                "name": "SZLi",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "MSantosh",
+                "affiliation": []
+            },
+            {
+                "name": "XLiu",
+                "affiliation": []
+            },
+            {
+                "name": "LMLai",
+                "affiliation": []
+            },
+            {
+                "name": "YHSuo",
+                "affiliation": []
+            },
+            {
+                "name": "MCSong",
+                "affiliation": []
+            },
+            {
+                "name": "PCWang",
+                "affiliation": []
+            },
+            {
+                "name": "XPLi",
+                "affiliation": []
+            },
+            {
+                "name": "ZYYang",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "RGrapes",
+                "affiliation": []
+            },
+            {
+                "name": "JHGuo",
+                "affiliation": []
+            },
+            {
+                "name": "CHLiu",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "FYWu",
+                "affiliation": []
+            },
+            {
+                "name": "JHYang",
+                "affiliation": []
+            },
+            {
+                "name": "CQYin",
+                "affiliation": []
+            },
+            {
+                "name": "WHLeung",
+                "affiliation": []
+            },
+            {
+                "name": "CHLiu",
+                "affiliation": []
+            },
+            {
+                "name": "FLLiu",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "SLiu",
+                "affiliation": []
+            },
+            {
+                "name": "CXFeng",
+                "affiliation": []
+            },
+            {
+                "name": "BMJahn",
+                "affiliation": []
+            },
+            {
+                "name": "RZHu",
+                "affiliation": []
+            },
+            {
+                "name": "SGao",
+                "affiliation": []
+            },
+            {
+                "name": "GYFeng",
+                "affiliation": []
+            },
+            {
+                "name": "SCLai",
+                "affiliation": []
+            },
+            {
+                "name": "YHYang",
+                "affiliation": []
+            },
+            {
+                "name": "YQQi",
+                "affiliation": []
+            },
+            {
+                "name": "IMCoulson",
+                "affiliation": []
+            },
+            {
+                "name": "SWLiu",
+                "affiliation": []
+            },
+            {
+                "name": "JHLi",
+                "affiliation": []
+            },
+            {
+                "name": "YMPan",
+                "affiliation": []
+            },
+            {
+                "name": "JZhang",
+                "affiliation": []
+            },
+            {
+                "name": "QGLi",
+                "affiliation": []
+            },
+            {
+                "name": "SWLiu",
+                "affiliation": []
+            },
+            {
+                "name": "YMPan",
+                "affiliation": []
+            },
+            {
+                "name": "JHLi",
+                "affiliation": []
+            },
+            {
+                "name": "QGLi",
+                "affiliation": []
+            },
+            {
+                "name": "JZhang",
+                "affiliation": []
+            },
+            {
+                "name": "SWLiu",
+                "affiliation": []
+            },
+            {
+                "name": "QGLi",
+                "affiliation": []
+            },
+            {
+                "name": "LFZhang",
+                "affiliation": []
+            },
+            {
+                "name": "SWLiu",
+                "affiliation": []
+            },
+            {
+                "name": "QGLi",
+                "affiliation": []
+            },
+            {
+                "name": "CHLiu",
+                "affiliation": []
+            },
+            {
+                "name": "YJ",
+                "affiliation": []
+            },
+            {
+                "name": "FZhang",
+                "affiliation": []
+            },
+            {
+                "name": "SNLu",
+                "affiliation": []
+            },
+            {
+                "name": "HKLi",
+                "affiliation": []
+            },
+            {
+                "name": "HMLi",
+                "affiliation": []
+            },
+            {
+                "name": "BSong",
+                "affiliation": []
+            },
+            {
+                "name": "SYWang",
+                "affiliation": []
+            },
+            {
+                "name": "HYZhou",
+                "affiliation": []
+            },
+            {
+                "name": "HChen",
+                "affiliation": []
+            },
+            {
+                "name": "SNLu",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "HCWang",
+                "affiliation": []
+            },
+            {
+                "name": "GJHao",
+                "affiliation": []
+            },
+            {
+                "name": "WFMcdonough",
+                "affiliation": []
+            },
+            {
+                "name": "SSSun",
+                "affiliation": []
+            },
+            {
+                "name": "MMeschede",
+                "affiliation": []
+            },
+            {
+                "name": "AMiyashiro",
+                "affiliation": []
+            },
+            {
+                "name": "ML AMorel",
+                "affiliation": []
+            },
+            {
+                "name": "ONebel",
+                "affiliation": []
+            },
+            {
+                "name": "YJNebel-Jacobsen",
+                "affiliation": []
+            },
+            {
+                "name": "JSMiller",
+                "affiliation": []
+            },
+            {
+                "name": "PZVroon",
+                "affiliation": []
+            },
+            {
+                "name": "JAPearce",
+                "affiliation": []
+            },
+            {
+                "name": "MJNorry",
+                "affiliation": []
+            },
+            {
+                "name": "FPPei",
+                "affiliation": []
+            },
+            {
+                "name": "YFYe",
+                "affiliation": []
+            },
+            {
+                "name": "FWang",
+                "affiliation": []
+            },
+            {
+                "name": "HHGao",
+                "affiliation": []
+            },
+            {
+                "name": "SMLu",
+                "affiliation": []
+            },
+            {
+                "name": "DBYang",
+                "affiliation": []
+            },
+            {
+                "name": "PPeng",
+                "affiliation": []
+            },
+            {
+                "name": "MGZhai",
+                "affiliation": []
+            },
+            {
+                "name": "JHGuo",
+                "affiliation": []
+            },
+            {
+                "name": ";EHanski",
+                "affiliation": []
+            },
+            {
+                "name": "SMertanen",
+                "affiliation": []
+            },
+            {
+                "name": "TRam\u20ac O",
+                "affiliation": []
+            },
+            {
+                "name": "JVuollo",
+                "affiliation": []
+            },
+            {
+                "name": "PPeng",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            },
+            {
+                "name": "PPeng",
+                "affiliation": []
+            },
+            {
+                "name": "MGZhai",
+                "affiliation": []
+            },
+            {
+                "name": "HFZhang",
+                "affiliation": []
+            },
+            {
+                "name": "TPZhao",
+                "affiliation": []
+            },
+            {
+                "name": "ZYNi",
+                "affiliation": []
+            },
+            {
+                "name": "PPeng",
+                "affiliation": []
+            },
+            {
+                "name": "MGZhai",
+                "affiliation": []
+            },
+            {
+                "name": "HFZhang",
+                "affiliation": []
+            },
+            {
+                "name": "JHGuo",
+                "affiliation": []
+            },
+            {
+                "name": "PPeng",
+                "affiliation": []
+            },
+            {
+                "name": "MGZhai",
+                "affiliation": []
+            },
+            {
+                "name": "JHGuo",
+                "affiliation": []
+            },
+            {
+                "name": "TKusky",
+                "affiliation": []
+            },
+            {
+                "name": "TPZhao",
+                "affiliation": []
+            },
+            {
+                "name": "PPeng",
+                "affiliation": []
+            },
+            {
+                "name": "MGZhai",
+                "affiliation": []
+            },
+            {
+                "name": "REErnst",
+                "affiliation": []
+            },
+            {
+                "name": "JHGuo",
+                "affiliation": []
+            },
+            {
+                "name": "FLiu",
+                "affiliation": []
+            },
+            {
+                "name": "BHu",
+                "affiliation": []
+            },
+            {
+                "name": "PPeng",
+                "affiliation": []
+            },
+            {
+                "name": "FLiu",
+                "affiliation": []
+            },
+            {
+                "name": "MGZhai",
+                "affiliation": []
+            },
+            {
+                "name": "JHGuo",
+                "affiliation": []
+            },
+            {
+                "name": "PPeng",
+                "affiliation": []
+            },
+            {
+                "name": "WBleeker",
+                "affiliation": []
+            },
+            {
+                "name": "REErnst",
+                "affiliation": []
+            },
+            {
+                "name": "US\u20ac",
+                "affiliation": []
+            },
+            {
+                "name": "VMcnicoll",
+                "affiliation": []
+            },
+            {
+                "name": "PPeng",
+                "affiliation": []
+            },
+            {
+                "name": "JHGuo",
+                "affiliation": []
+            },
+            {
+                "name": "MGZhai",
+                "affiliation": []
+            },
+            {
+                "name": "BFWindley",
+                "affiliation": []
+            },
+            {
+                "name": "TSLi",
+                "affiliation": []
+            },
+            {
+                "name": "FLiu",
+                "affiliation": []
+            },
+            {
+                "name": "TPPeng",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "WMFan",
+                "affiliation": []
+            },
+            {
+                "name": "BXPeng",
+                "affiliation": []
+            },
+            {
+                "name": "YSMao",
+                "affiliation": []
+            },
+            {
+                "name": "APolat",
+                "affiliation": []
+            },
+            {
+                "name": "TKusky",
+                "affiliation": []
+            },
+            {
+                "name": "JHLi",
+                "affiliation": []
+            },
+            {
+                "name": "BFryer",
+                "affiliation": []
+            },
+            {
+                "name": "RKerrich",
+                "affiliation": []
+            },
+            {
+                "name": "KPatrick",
+                "affiliation": []
+            },
+            {
+                "name": "APolat",
+                "affiliation": []
+            },
+            {
+                "name": "CHerzberg",
+                "affiliation": []
+            },
+            {
+                "name": "CUnker",
+                "affiliation": []
+            },
+            {
+                "name": "RRodgers",
+                "affiliation": []
+            },
+            {
+                "name": "TKusky",
+                "affiliation": []
+            },
+            {
+                "name": "JHLi",
+                "affiliation": []
+            },
+            {
+                "name": "BFryer",
+                "affiliation": []
+            },
+            {
+                "name": "JDelaney",
+                "affiliation": []
+            },
+            {
+                "name": "RLRudnick",
+                "affiliation": []
+            },
+            {
+                "name": "DMFountain",
+                "affiliation": []
+            },
+            {
+                "name": "JAShao",
+                "affiliation": []
+            },
+            {
+                "name": "MGZhai",
+                "affiliation": []
+            },
+            {
+                "name": "LQZhang",
+                "affiliation": []
+            },
+            {
+                "name": "DMLi",
+                "affiliation": []
+            },
+            {
+                "name": "YRShi",
+                "affiliation": []
+            },
+            {
+                "name": "DYLiu",
+                "affiliation": []
+            },
+            {
+                "name": "AKr\u20ac Oner",
+                "affiliation": []
+            },
+            {
+                "name": "PJian",
+                "affiliation": []
+            },
+            {
+                "name": "LCMiao",
+                "affiliation": []
+            },
+            {
+                "name": "FQZhang",
+                "affiliation": []
+            },
+            {
+                "name": "Ma",
+                "affiliation": []
+            },
+            {
+                "name": "WLShu",
+                "affiliation": []
+            },
+            {
+                "name": "GTHou",
+                "affiliation": []
+            },
+            {
+                "name": "CCWang",
+                "affiliation": []
+            },
+            {
+                "name": "FFXiao",
+                "affiliation": []
+            },
+            {
+                "name": "LLi",
+                "affiliation": []
+            },
+            {
+                "name": "JSl Ama",
+                "affiliation": []
+            },
+            {
+                "name": "US\u20ac Oderlund",
+                "affiliation": []
+            },
+            {
+                "name": "PJPatchett",
+                "affiliation": []
+            },
+            {
+                "name": "JDVervoort",
+                "affiliation": []
+            },
+            {
+                "name": "CEIsachsen",
+                "affiliation": []
+            },
+            {
+                "name": "SSSun",
+                "affiliation": []
+            },
+            {
+                "name": "WFMcdonough",
+                "affiliation": []
+            },
+            {
+                "name": "PYTam",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "SZLi",
+                "affiliation": []
+            },
+            {
+                "name": "YIizukac",
+                "affiliation": []
+            },
+            {
+                "name": "SKMa",
+                "affiliation": []
+            },
+            {
+                "name": "CQYin",
+                "affiliation": []
+            },
+            {
+                "name": "YHHe",
+                "affiliation": []
+            },
+            {
+                "name": "MLWu",
+                "affiliation": []
+            },
+            {
+                "name": "PYTam",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "SZLi",
+                "affiliation": []
+            },
+            {
+                "name": "MLWu",
+                "affiliation": []
+            },
+            {
+                "name": "CQYin",
+                "affiliation": []
+            },
+            {
+                "name": "YSWan",
+                "affiliation": []
+            },
+            {
+                "name": "YSGeng",
+                "affiliation": []
+            },
+            {
+                "name": "QHShen",
+                "affiliation": []
+            },
+            {
+                "name": "RXZhang",
+                "affiliation": []
+            },
+            {
+                "name": "YSWan",
+                "affiliation": []
+            },
+            {
+                "name": "BSong",
+                "affiliation": []
+            },
+            {
+                "name": "DYLiu",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "JAWu",
+                "affiliation": []
+            },
+            {
+                "name": "YRShi",
+                "affiliation": []
+            },
+            {
+                "name": "XYYin",
+                "affiliation": []
+            },
+            {
+                "name": "HYZhou",
+                "affiliation": []
+            },
+            {
+                "name": "YSWan",
+                "affiliation": []
+            },
+            {
+                "name": "ZYXu",
+                "affiliation": []
+            },
+            {
+                "name": "CYDong",
+                "affiliation": []
+            },
+            {
+                "name": "ANutman",
+                "affiliation": []
+            },
+            {
+                "name": "MZMa",
+                "affiliation": []
+            },
+            {
+                "name": "HQXie",
+                "affiliation": []
+            },
+            {
+                "name": "SJLiu",
+                "affiliation": []
+            },
+            {
+                "name": "DYLiu",
+                "affiliation": []
+            },
+            {
+                "name": "HCWang",
+                "affiliation": []
+            },
+            {
+                "name": "HCu",
+                "affiliation": []
+            },
+            {
+                "name": "FWang",
+                "affiliation": []
+            },
+            {
+                "name": "XPLi",
+                "affiliation": []
+            },
+            {
+                "name": "HChu",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "HZWang",
+                "affiliation": []
+            },
+            {
+                "name": "XXMo",
+                "affiliation": []
+            },
+            {
+                "name": "WWang",
+                "affiliation": []
+            },
+            {
+                "name": "SWLiu",
+                "affiliation": []
+            },
+            {
+                "name": "XBai",
+                "affiliation": []
+            },
+            {
+                "name": "QGLi",
+                "affiliation": []
+            },
+            {
+                "name": "PTYang",
+                "affiliation": []
+            },
+            {
+                "name": "YZhao",
+                "affiliation": []
+            },
+            {
+                "name": "SHZhang",
+                "affiliation": []
+            },
+            {
+                "name": "RRGuo",
+                "affiliation": []
+            },
+            {
+                "name": "WWang",
+                "affiliation": []
+            },
+            {
+                "name": "SWLiu",
+                "affiliation": []
+            },
+            {
+                "name": "MSantosh",
+                "affiliation": []
+            },
+            {
+                "name": "ZBDeng",
+                "affiliation": []
+            },
+            {
+                "name": "BRGuo",
+                "affiliation": []
+            },
+            {
+                "name": "YZhao",
+                "affiliation": []
+            },
+            {
+                "name": "SHZhang",
+                "affiliation": []
+            },
+            {
+                "name": "PTYang",
+                "affiliation": []
+            },
+            {
+                "name": "XBai",
+                "affiliation": []
+            },
+            {
+                "name": "RRGuo",
+                "affiliation": []
+            },
+            {
+                "name": "WWang",
+                "affiliation": []
+            },
+            {
+                "name": "SWLiu",
+                "affiliation": []
+            },
+            {
+                "name": "MSantosh",
+                "affiliation": []
+            },
+            {
+                "name": "LFZhang",
+                "affiliation": []
+            },
+            {
+                "name": "XBai",
+                "affiliation": []
+            },
+            {
+                "name": "YZhao",
+                "affiliation": []
+            },
+            {
+                "name": "SHZhang",
+                "affiliation": []
+            },
+            {
+                "name": "RRGuo",
+                "affiliation": []
+            },
+            {
+                "name": "XWang",
+                "affiliation": []
+            },
+            {
+                "name": "WBZhu",
+                "affiliation": []
+            },
+            {
+                "name": "RFGe",
+                "affiliation": []
+            },
+            {
+                "name": "MLuo",
+                "affiliation": []
+            },
+            {
+                "name": "XQZhu",
+                "affiliation": []
+            },
+            {
+                "name": "QLZhang",
+                "affiliation": []
+            },
+            {
+                "name": "LSWang",
+                "affiliation": []
+            },
+            {
+                "name": "XMRen",
+                "affiliation": []
+            },
+            {
+                "name": "XLWang",
+                "affiliation": []
+            },
+            {
+                "name": "SYJiang",
+                "affiliation": []
+            },
+            {
+                "name": "BZDai",
+                "affiliation": []
+            },
+            {
+                "name": "JKern",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            },
+            {
+                "name": "YJWang",
+                "affiliation": []
+            },
+            {
+                "name": "WMFan",
+                "affiliation": []
+            },
+            {
+                "name": "YZhang",
+                "affiliation": []
+            },
+            {
+                "name": "FGuo",
+                "affiliation": []
+            },
+            {
+                "name": "YJWang",
+                "affiliation": []
+            },
+            {
+                "name": "WMFan",
+                "affiliation": []
+            },
+            {
+                "name": "YHZhang",
+                "affiliation": []
+            },
+            {
+                "name": "FGuo",
+                "affiliation": []
+            },
+            {
+                "name": "HFZhang",
+                "affiliation": []
+            },
+            {
+                "name": "TPPeng",
+                "affiliation": []
+            },
+            {
+                "name": "YJWang",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "WMFan",
+                "affiliation": []
+            },
+            {
+                "name": "TPPeng",
+                "affiliation": []
+            },
+            {
+                "name": "LHSun",
+                "affiliation": []
+            },
+            {
+                "name": "XPXia",
+                "affiliation": []
+            },
+            {
+                "name": "YJWang",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "PACawood",
+                "affiliation": []
+            },
+            {
+                "name": "WMFan",
+                "affiliation": []
+            },
+            {
+                "name": "TPPeng",
+                "affiliation": []
+            },
+            {
+                "name": "LHSun",
+                "affiliation": []
+            },
+            {
+                "name": "ZHWang",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "JLWan",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "MWilson",
+                "affiliation": []
+            },
+            {
+                "name": "JAWinchester",
+                "affiliation": []
+            },
+            {
+                "name": "PAFloyd",
+                "affiliation": []
+            },
+            {
+                "name": "FYWu",
+                "affiliation": []
+            },
+            {
+                "name": "YHYang",
+                "affiliation": []
+            },
+            {
+                "name": "LWXie",
+                "affiliation": []
+            },
+            {
+                "name": "JHYang",
+                "affiliation": []
+            },
+            {
+                "name": "PXu",
+                "affiliation": []
+            },
+            {
+                "name": "LQXia",
+                "affiliation": []
+            },
+            {
+                "name": "ZCXia",
+                "affiliation": []
+            },
+            {
+                "name": "XYXu",
+                "affiliation": []
+            },
+            {
+                "name": "XMLi",
+                "affiliation": []
+            },
+            {
+                "name": "ZPMa",
+                "affiliation": []
+            },
+            {
+                "name": "ZQXiang",
+                "affiliation": []
+            },
+            {
+                "name": "HKLi",
+                "affiliation": []
+            },
+            {
+                "name": "SNLu",
+                "affiliation": []
+            },
+            {
+                "name": "HYZhou",
+                "affiliation": []
+            },
+            {
+                "name": "HMLi",
+                "affiliation": []
+            },
+            {
+                "name": "HCWang",
+                "affiliation": []
+            },
+            {
+                "name": "ZHChen",
+                "affiliation": []
+            },
+            {
+                "name": "JNiu",
+                "affiliation": []
+            },
+            {
+                "name": "XSXu",
+                "affiliation": []
+            },
+            {
+                "name": "KSuzuki",
+                "affiliation": []
+            },
+            {
+                "name": "LLiu",
+                "affiliation": []
+            },
+            {
+                "name": "DZWang",
+                "affiliation": []
+            },
+            {
+                "name": "JHYang",
+                "affiliation": []
+            },
+            {
+                "name": "FYWu",
+                "affiliation": []
+            },
+            {
+                "name": "XMLiu",
+                "affiliation": []
+            },
+            {
+                "name": "LWXie",
+                "affiliation": []
+            },
+            {
+                "name": "KFYang",
+                "affiliation": []
+            },
+            {
+                "name": "HRFan",
+                "affiliation": []
+            },
+            {
+                "name": "MSantosh",
+                "affiliation": []
+            },
+            {
+                "name": "FFHu",
+                "affiliation": []
+            },
+            {
+                "name": "KYWang",
+                "affiliation": []
+            },
+            {
+                "name": "CQYin",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "JHGuo",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "XWZhou",
+                "affiliation": []
+            },
+            {
+                "name": "JZhang",
+                "affiliation": []
+            },
+            {
+                "name": "XPXia",
+                "affiliation": []
+            },
+            {
+                "name": "CHLiu",
+                "affiliation": []
+            },
+            {
+                "name": "CQYin",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "CJWei",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "JHGuo",
+                "affiliation": []
+            },
+            {
+                "name": "XWZhou",
+                "affiliation": []
+            },
+            {
+                "name": "LJZeng",
+                "affiliation": []
+            },
+            {
+                "name": "ZWBao",
+                "affiliation": []
+            },
+            {
+                "name": "TPZhao",
+                "affiliation": []
+            },
+            {
+                "name": "JMYao",
+                "affiliation": []
+            },
+            {
+                "name": "DZhou",
+                "affiliation": []
+            },
+            {
+                "name": "MGZhai",
+                "affiliation": []
+            },
+            {
+                "name": "AGBian",
+                "affiliation": []
+            },
+            {
+                "name": "TPZhao",
+                "affiliation": []
+            },
+            {
+                "name": "CZhang",
+                "affiliation": []
+            },
+            {
+                "name": "GTHou",
+                "affiliation": []
+            },
+            {
+                "name": "XLQian",
+                "affiliation": []
+            },
+            {
+                "name": "CLZhang",
+                "affiliation": []
+            },
+            {
+                "name": "DSYang",
+                "affiliation": []
+            },
+            {
+                "name": "HYWang",
+                "affiliation": []
+            },
+            {
+                "name": "YTakahashi",
+                "affiliation": []
+            },
+            {
+                "name": "HMYe",
+                "affiliation": []
+            },
+            {
+                "name": "JZhang",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "SZLi",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "SWLiu",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "AKr\u20ac",
+                "affiliation": []
+            },
+            {
+                "name": "CQYin",
+                "affiliation": []
+            },
+            {
+                "name": "JZhang",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "SZLi",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "SWLiu",
+                "affiliation": []
+            },
+            {
+                "name": "CQYin",
+                "affiliation": []
+            },
+            {
+                "name": "JZhang",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "SZLi",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "LSChan",
+                "affiliation": []
+            },
+            {
+                "name": "WLShen",
+                "affiliation": []
+            },
+            {
+                "name": "SWLiu",
+                "affiliation": []
+            },
+            {
+                "name": "JSZhang",
+                "affiliation": []
+            },
+            {
+                "name": "SZhang",
+                "affiliation": []
+            },
+            {
+                "name": "SLiu",
+                "affiliation": []
+            },
+            {
+                "name": "YZhao",
+                "affiliation": []
+            },
+            {
+                "name": "JYang",
+                "affiliation": []
+            },
+            {
+                "name": "BSong",
+                "affiliation": []
+            },
+            {
+                "name": "XLiu",
+                "affiliation": []
+            },
+            {
+                "name": "SHZhang",
+                "affiliation": []
+            },
+            {
+                "name": "YZhao",
+                "affiliation": []
+            },
+            {
+                "name": "ZYYang",
+                "affiliation": []
+            },
+            {
+                "name": "ZFHe",
+                "affiliation": []
+            },
+            {
+                "name": "HWu",
+                "affiliation": []
+            },
+            {
+                "name": "SHZhang",
+                "affiliation": []
+            },
+            {
+                "name": "YZhao",
+                "affiliation": []
+            },
+            {
+                "name": "MSantosh",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "MGZhai",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            },
+            {
+                "name": "ALWang",
+                "affiliation": []
+            },
+            {
+                "name": "V C",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "PACawood",
+                "affiliation": []
+            },
+            {
+                "name": "LZLu",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "PACawood",
+                "affiliation": []
+            },
+            {
+                "name": "LZLu",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "PACawood",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "LZLu",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "PACawood",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "PACawood",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "LZLu",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "SZLi",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "SZLi",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "SZLi",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "JHGuo",
+                "affiliation": []
+            },
+            {
+                "name": "AKr\u20ac Oner",
+                "affiliation": []
+            },
+            {
+                "name": "SZLi",
+                "affiliation": []
+            },
+            {
+                "name": "XPLi",
+                "affiliation": []
+            },
+            {
+                "name": "JZhang",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "SZLi",
+                "affiliation": []
+            },
+            {
+                "name": "XPLi",
+                "affiliation": []
+            },
+            {
+                "name": "JZhang",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "YHHe",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "JHGuo",
+                "affiliation": []
+            },
+            {
+                "name": "PACawood",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "XPLi",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "SZLi",
+                "affiliation": []
+            },
+            {
+                "name": "GCZhao",
+                "affiliation": []
+            },
+            {
+                "name": "PACawood",
+                "affiliation": []
+            },
+            {
+                "name": "SAWilde",
+                "affiliation": []
+            },
+            {
+                "name": "MSun",
+                "affiliation": []
+            },
+            {
+                "name": "JZhang",
+                "affiliation": []
+            },
+            {
+                "name": "YHHe",
+                "affiliation": []
+            },
+            {
+                "name": "CQYin",
+                "affiliation": []
+            },
+            {
+                "name": "TPZhao",
+                "affiliation": []
+            },
+            {
+                "name": "FKChen",
+                "affiliation": []
+            },
+            {
+                "name": "MGZhai",
+                "affiliation": []
+            },
+            {
+                "name": "BXia",
+                "affiliation": []
+            },
+            {
+                "name": "TPZhao",
+                "affiliation": []
+            },
+            {
+                "name": "WChen",
+                "affiliation": []
+            },
+            {
+                "name": "MFZhou",
+                "affiliation": []
+            },
+            {
+                "name": "WBZhu",
+                "affiliation": []
+            },
+            {
+                "name": "BHZheng",
+                "affiliation": []
+            },
+            {
+                "name": "LSShu",
+                "affiliation": []
+            },
+            {
+                "name": "DSMa",
+                "affiliation": []
+            },
+            {
+                "name": "JLWan",
+                "affiliation": []
+            },
+            {
+                "name": "DWZheng",
+                "affiliation": []
+            },
+            {
+                "name": "ZZZhang",
+                "affiliation": []
+            },
+            {
+                "name": "XQZhu",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            }
+        ],
+        "publication_date": "2014",
+        "funder": [
+            "State Key Laboratory for Mineral Deposits Research of Nanjing University",
+            "Natural Science Foundation of China",
+            "National S&T Major Project of China",
+            "unknown"
+        ]
+    },
+    "sections": {
+        "Introduction": "Introduction\nThe North China Craton (NCC), the largest and oldest known craton in China, is composed of two Precambrian blocks, i.e., the Eastern Block and the Western Block, separated by the intervening Trans-North China Orogen (TNCO)\n[Zhao et al., 1998\n[Zhao et al., , 2001a]]\n. Two major tectonic models have been proposed to account for when and how the Eastern and Western blocks were assembled to form the coherent basement of the NCC. One suggests the collision occurred at 1.85 Ga after an eastward subduction of the Western Block\n[Zhao et al., 2000a\n[Zhao et al., , 2001a\n[Zhao et al., , 2005\n[Zhao et al., , 2010;;\nWilde et al., 2002;\nKr\u20ac oner et al., 2005;\nWilde and Zhao, 2005;\nZhang et al., 2007a\nZhang et al., , 2009a]]\n, whereas the other model proposes westward subduction with collision at 2.5 Ga\n[Zhai et al., 2000;\nKusky and Li, 2003;\nPolat et al., 2005\nPolat et al., , 2006]]\n. Although cratonization of the NCC is a still controversial issue, recent studies indicated an extensional environment for the NCC at 1.8 Ga\n[Zhai et al., 2000;\nWang et al., 2003;\nPeng et al., 2006;\nGeng et al., 2006;\nZhang et al., 2007a\nZhang et al., , 2009a]]\n. Soon afterwards, rifting affected the NCC throughout the Meso to Neoproterozoic. Among the various rift-related rocks in this period, a giant 1.78 Ga mafic dyke swarm is the most conspicuous, because it is the largest and best preserved Precambrian dyke swarm in the NCC\n[Peng et al., 2004]\n.\nMafic dyke swarms occur in a wide variety of environments and over a wide range of scales\n[Ernst et al., 1995]\n. They provide important information on large-scale extension occurring in the continental lithosphere. They are also useful to constrain the tectonic environment, because they typically have a short life span and preserve well their original chemical characteristics in spite of later metamorphism\n[Peng et al., 2012]\n. There are several generations of mafic dykes in the Precambrian NCC, which can be divided into metamorphosed and unmetamorphosed types. The metamorphosed mafic dykes mainly include those Geochemistry, Geophysics, Geosystems PUBLICATIONS 2.5, 2.3, 2.2-2.1, 2.0-1.9 Ga dykes in the TNCO\n[Liu et al., 2002a\n[Liu et al., , 2002b;;\nPeng et al., 2005\nPeng et al., , 2012;;\nKr\u20ac oner et al., 2006;\nZhao et al., 2008a;\nWang et al., 2010\n, Wang et al., 2014c]\n, 2.45, 1.92-1.93, 1.85 Ga dykes in the Khondalite Belt\n[Peng, 2010;\nZhao and Zhai, 2013;\nWan et al., 2013]\n, and 2.11 Ga dykes in the Jiao-Liao-Ji Belt\n[Dong et al., 2012]\n. These dykes, metamorphosed into amphibolites or granulites, provide important insights into the tectonic evolution of the NCC between 2.5 and 1.85 Ga, representing two most important tectonic periods of the Precambrian North China Craton. These unmetamorphosed dykes/sills generally vary from basalt to andesite with tholeiitic affinity\n[Peng et al., 2008]\n. They include those 1.84 Ga dykes in the Shandong Province of the Eastern Block\n[Hou et al., 2006;\nWang et al., 2007]\n, 1.78-1.76 Ga dykes throughout the NCC but mainly along the TNCO\n[Halls et al., 2000;\nWang et al., 2004;\nPeng et al., 2005\nPeng et al., , 2006;;\nHan et al., 2007]\n, 1.73 Ga dykes in the Miyun area\n[Peng et al., 2011a]\n, 1.6 Ga dykes in the Huai'an Complex\n[Shao et al., 2005]\n, 1.2-1.3 Ga dykes that are widespread in the northern part of the NCC\n[Zhang et al., 2009b\n[Zhang et al., , 2012b;;\nYang et al., 2011;\nWang et al., 2014b]\n, and 1.1-0.8 Ga dykes in the TNCO and the Eastern Block\n[Hou et al., 2005;\nPeng et al., 2011b]\n. These dykes, mostly younger than 1.8 Ga, provide useful indicators in deciphering the history of the North China Craton following the juxtaposition of the Eastern and Western blocks at 1.85 Ga. The tectonic setting of the 1.78 Ga mafic dykes has long been controversial. One school of thought speculates that they were products of a mantle plume event that was coincident with the breakup of the supercontinent Columbia leading to the break-off of the NCC from an unknown continental fragment along its southern margin\n[Peng et al., 2006;\nPeng, 2010;\nHou et al., 2008a\nHou et al., , 2008b]]\n, whereas others argue that they were postorogenic and related to the 1880-1820 Ma collision between the Eastern and Western blocks\n[Wang et al., 2004\n[Wang et al., , 2008;;\nHu et al., 2010]\n. Because it also has long been debated about when the NCC was fragmented from the supercontinent Columbia and where the rifted location was (e.g., along its northern or southern margin?), the tectonic setting of the 1.78 Ga mafic dyke swarm and whether they represented fragmentation of the NCC from the Columbia are of vital importance.\nNumerous 1.78 Ga mafic dykes are distributed around the Shanxi-Hebei-Inner Mogolia borders and the Hengshan-Wutai-L\u20ac uliang areas in the northern and central parts of the TNCO (Figure\n1\n), whereas relatively small numbers of these dykes are reported in the Zhongtiao-Songshan areas in the southern part\n[Hu et al., 2010;\nShu et al., 2011]\n. Contemporaneous mafic dykes also occur in the Fengzhen area of the Western Block Geochemistry, Geophysics, Geosystems 10.1002/2014GC005378\n[Peng et al., 2005]\n. The 1.78 Ga dyke swarm consists dominantly of NNW-SSE trending dykes occurring throughout the NCC as well as a few E-W trending dykes restricted to the L\u20ac uliang, southern Taihang, and Zhongtiao areas; there are also some NE-SW trending dykes in the Southern Taihang Mountains\n[Peng, 2010]\n. These dykes intrude Archean and Paleoproterozoic granitoids and associated supracrustal rocks, but are locally overlain by unmetamorphosed Changcheng Group sediments with an age of <1700 Ma, e.g., in the southern Taihang Mountains\n[Wang et al., 2003]\n. The 1.78 Ga mafic dykes were divided into a little differentiated group and a highly differentiated group by\nPeng et al. [2007]\n, of which the former was called the low-Ti group and the latter were further subdivided into NW and EW groups. These dykes were thought to be followed by a group of younger dykes with ages of 1.76-1.73 Ga, which have distinctly different compositions when compared with the 1.78 Ga dykes; they were grouped as the high-Ti group by\nPeng et al. [2007]\nin the Miyun-Beitai area. Similar age data were reported from dykes in the Fengzhen, Datong, and Daqingshan areas\n[Halls et al., 2000;\nShao et al., 2005;\nHan et al., 2007;\nPeng et al., 2011a]\n.\nWang et al. [2004]\nalso divided the mafic dykes with ages of 1.78-1.76 Ga into three groups on the basis of their different FeO t contents and Nb/La and Th/Nb ratios. Geochemical characteristics were used to explore the source regions and subsequent magma processes including fractional crystallization and crustal contamination.\nAlthough considerable research, including paleostress, paleomagnetism, geochronology, geochemistry, and Sr-Nd-Pb isotopic features, has been conducted previously, the Lu-Hf isotopic measurements on zircons from these dykes, which could provide important information of the magma source, are relatively rare\n[Han et al., 2007]\n. Although unmetamorphosed mafic dykes in the L\u20ac uliang area were identified by their E-W trends and thus mentioned in many studies, little detailed work was undertaken on these dykes, except for some geochemical and paleomagnetic studies\n[Zhang et al., 1994;\nHou et al., 2000;\nPeng et al., 2004\nPeng et al., , 2007]]\n.\nHere we present the first comprehensive zircon U-Pb and Lu-Hf isotopic results and major and trace element geochemical analyses of the unmetamorphosed mafic dykes in the L\u20ac uliang Complex and compare them with the synchronous mafic dykes and rift-related rocks in other parts of the NCC, in order to investigate the petrogenesis and geological significance of the dykes.",
+        "Geological Setting": "Geological Setting\nThe North China Craton consists of an Archean to Paleoproterozoic metamorphosed basement and overlying Mesoproterozoic unmetamorphosed sedimentary cover\n[Wang and Mo, 1995;\nLu et al., 2008;\nZhao, 2014]\n. The basement of the NCC can be divided into the Longgang, Nangrim, Yinshan, and Ordos blocks (Figure\n1\n)\n[Zhao et al., 2005]\n, of which the Yinshan and Ordos blocks collided along the E-W trending Khondalite Belt to form the Western Block at 1.95-1.92 Ga\n[Li et al., 2011;\nYin et al., 2011\nYin et al., , 2014;;\nWang et al., 2011]\n, whereas the Longgang and Nangrim blocks amalgamated along the Jiao-Liao-Ji Belt to form the Eastern Block at 1.9 Ga\n[Li et al., 2006\n[Li et al., , 2012;;\nLi and Zhao, 2007;\nTam et al., 2012a\nTam et al., , 2012b]]\n. Finally, the Western and Eastern blocks collided along the N-S trending Trans-North China Orogen to form the coherent basement of the NCC at 1.85 Ga\n[Zhao et al., 2005]\n. The Mesoproterozoic sedimentary cover sequences are mainly distributed in a series of rifts and aulacogens (Figure\n2a\n) that propagated across the craton at the end of the Paleoproterozoic and during the Mesoproterozoic\n[Hou et al., 2005\n[Hou et al., , 2008a]]\n. Five major rifts were reported by\nHou et al. [2006\nHou et al. [ , 2008a] ]\nand\nXia et al. [2013]\n, including the Xiong'er-Zhongtiao, Yanliao, Jinshan, Zhaertai-Bayan Obo, and Helanshan rifts, although the Jinshan and Helanshan rifts remain poorly studied, and it is uncertain whether they were rifts.\nAs an important basement exposure in the TNCO, the L\u20ac uliang Complex (Figure\n2b\n) is located in centralwestern Shanxi Province and mainly consists of Paleoproterozoic supracrustal rocks and granitoid intrusions\n[Zhao et al., 2010]\n. The supracrustal rocks include the Jiehekou Group, the L\u20ac uliang Group, the Yejishan Group, and the Lanxian Group, which are dominantly exposed in the northwestern part of the complex and occur as isolated outcrops in other places due to invasion by granitoids. The Jiehekou Group was generally considered the lowest part of the complex and has rock units similar to ''khondalite series'' in the Western Block\n[Wan et al., 2000\n[Wan et al., , 2006;;\nLiu et al., 2011\n, C. H. Liu et al., 2013]\n. The L\u20ac uliang Group consists mainly of greenschist-amphibolite facies metasedimentary assemblages with banded iron formation (BIF) in the lower part and bimodal volcanic rocks in its upper part\n[Liu et al., 2011]\n. It was considered to have formed in a continental rift at 2.1 Ga by\nGeng et al. [2003]\n, or a postorogenic setting by\nDu et al. [2012]\n, or a back-arc basin environment by\nWang et al. [2010]\n. The Yejishan and Lanxian groups are relatively young. The former is Geochemistry, Geophysics, Geosystems 10.1002/2014GC005378 composed of terrigenous clastic rocks and thick layered basalts, whereas the latter comprises coarsegrained sandstones and conglomerates. Controversy exists in their formation ages and tectonic settings\n[Geng et al., 2003;\nLiu et al., 2009a\nLiu et al., , 2011]]\n.\nThese supracrustal rocks were intruded by various granitoids that comprise both metamorphosed and unmetamorphosed types. The metamorphosed type includes the 2.5 Ga Yunzhongshan TTG gneisses\n[Zhao et al., 2008b]\nwhich are considered to be equivalents of the Wutai gneisses\n[Geng et al., 2006]\n, the 2.3 Ga Gaijiazhuang gneisses exposed in a small area near Lanxian County\n[Geng et al., 2006;\nZhao et al., 2008b]\n, and the 2.2-2.1 Ga Chijianling-Guandishan gneisses which are widespread in the complex and composed mainly of plagioclasegneisses, monzogranitic gneisses, tonalitic gneisses, and migmatitic gneisses\n[Zhao et al., 2008b;\nDu et al., 2012]\n. It also contains the 1.9-1.85 Ga Huijiazhuang and Shizhuang gneissic granites, which were considered to be formed by anatexis of the Chijianling-guandishan gneisses\n[Geng et al., 2006;\nZhao et al., 2008b;\nLiu et al., 2009b]\n. The tectonic settings of these gneisses are still on debate. The unmetamorphosed type comprises the Luyashan, Luchaogou, Tangershang, and Dacaoping granites, which were generally considered to be formed at 1.8 Ga in a postorogenic setting\n[Geng et al., 2004;\nZhao et al., 2008b]\n.\nA large number of mafic dykes were intruded to the L\u20ac uliang Complex. These mafic dykes can also be divided into metamorphosed and unmetamorphosed types. Most of the metamorphosed mafic dykes intrude into the Chijianling gneisses in the western part of the complex and occur as amphibolites due to an amphibolite facies metamorphism. Most recently, X.\nWang et al. [2014c]\nrecognized two suites of Geochemistry, Geophysics, Geosystems 10.1002/2014GC005378 metamorphosed dykes with ages of 2.11 and 1.94 Ga, respectively, and suggest that the 2.11 Ga dykes represent a rift event whereas the 1.94 Ga dykes are arc-related. The unmetamorphosed mafic dykes (Figure\n3\n) are dominated by dolerite and are widespread in the L\u20ac uliang Complex. Thin-section observations indicate that these dykes have typical ophitic texture and mainly consist of euhedral lath-shaped plagioclase (60-70%) and granular mafic minerals (30-40%) (Figures\n3e\nand\n3f\n). Mafic minerals include clinopyroxene, chlorite, epidote, zoisite, and magnetite. Plagioclases do not show significant sericitization, whereas clinopyroxenes show variable chloritization and epidotization. In sample 11FS-06, almost all of the clinopyroxenes have been altered; mafic minerals only consist of chlorite, epidote, zoisite, and magnetite (Figure\n3e\n). Most of the mafic dykes are distributed in the central-south part of the complex and intrude granites or gneissic granites. Three trends (E-W, NW-SE, and NE-SW) were identified in the L\u20ac uliang area. Among these, the E-W trending mafic dykes are dominant. The dykes are vertical to subvertical, and in sharp contact with the country rocks and have chilled margins. These dykes are typically 15-50 m in width, Geochemistry, Geophysics, Geosystems 10.1002/2014GC005378 and up to 10-15 km in length. Two road sections were investigated in the Chijianling-Guandishan Granitoids. One section is on the way from Madihui to Zhongzhuang along Road S320 and another is along Road X466 nearby the Beiwudangshan Mountain (Figure\n2b\n). Sixteen fresh samples from 16 mafic dykes along these two road sections were collected in this study. Four samples (11FS-06, 12LX-02, 12PQG-02, and 12PQG-09) were selected for U-Pb dating and Lu-Hf isotope analysis. Precise location of these four age samples is shown in Figure\n2b\n. The four age samples and the twelve additional were also used for major and trace elements analyses.",
+        "Analytical Methods": "Analytical Methods",
+        "Zircon U-Pb Dating": "Zircon U-Pb Dating\nZircon crystals were prepared for analysis using standard rock crushing and heavy mineral separation techniques. Individual zircons were hand-picked under a binocular microscope, and grains with visible fractures, inclusions, or compositional zoning were avoided. Zircons were mounted on double-sided adhesive tape, enclosed in epoxy resin and then polished to about half their thickness and photographed in reflected and transmitted light. In order to identify internal structures of each grain and choose target sites for U-Pb analyses, cathodoluminescence (CL) imaging (see Figure\n4\n) was performed using a Mono CL31 (Gatan, USA) attached to a scanning electron microscope (Quanta 400 FEG) at the State Key Laboratory of Continental Dynamics, Northwest University, Xi'an. The U-Pb isotope analyses were conducted at the State Key Laboratory for Mineral Deposits Research, Nanjing University, using an Agilent 7500s ICP-MS attached to a New Wave 213nm Laser ablation system with an in-house sample cell. Detailed analytical procedures are similar to those described by\nXu et al. [2010]\n. Zircon GEMOC GJ-1 ( 207 Pb/ 206 Pb age of 608.5 6 1.5 Ma) was used as the standard and Mud Tank (intercept age of 732 6 5 Ma) was used to control the accuracy\n[Jackson et al., 2004]\n. A total of 20-24 spots per sample were analyzed for age determination. Each run includes five zircon standards and about 10 analyses. All the analyses were carried out using a beam with 25 lm diameter and a repetition rate of 5 Hz. U-Pb ages were calculated from the raw signal data using the online software package GLITTER (ver. 4.4). Common lead correction was carried out using the EXCEL program ComPbCorr#3 15G\n[Anderson, 2002]\n. U-Pb analytical results are presented in Table\nS1\nof supporting information.",
+        "Zircon Lu-Hf Isotopes": "Zircon Lu-Hf Isotopes\nIn situ zircon Hf isotope analysis was carried out using a Neptune multicollector ICP-MS coupled to a New Wave UP213 laser-ablation microprobe, at the Key Laboratory of Metallogeny and Mineral Assessment, Institute of Mineral Resources, Chinese Academy of Geological Science, Beijing. Lu-Hf spots are partly or totally Geochemistry, Geophysics, Geosystems 10.1002/2014GC005378 superimposed, or in the same domain, as that of previous U-Pb dating. All analyses were conducted using a beam with a diameter of 55 lm and a repetition rate of 20 Hz. Detailed instrumental conditions and data acquisition procedures were described by\nHou et al. [2007]\nand\nWu et al. [2006]\n. GJ1 and Plesovice were repeatedly measured as the two zircon standards before analyzing unknown samples, in order to check the reliability and stability of the instrument. These reference zircons gave 176 Hf/ 177 Hf 5 0.282021 6 0.000008 (2r) and 0.282481 6 0.000008 (2r), respectively, which are identical to average published values on solutions of 0.282000 6 0.000005 (2r) for GJ1\n[Morel et al., 2008]\nand 0.282482 6 0.000013 (2r) for Plesovice\n[Sl ama et al., 2008]\n. The measured 176 Lu/ 177 Hf ratios and 176 Lu decay constant of 1.867 3 10 211 year 21 by S\u20ac oderlund et al.\n[2004]\nwere used to calculate the initial 176 Hf/ 177 Hf ratios. The Chondritic values of 176 Hf/ 177 Hf (0.282772) and 176 Lu/ 177 Hf (0.0332) by Blichert-Toft and Albare `\nde [1997]\nwere adopted for the calculation of the epsilon Hf values. The results of Lu-Hf analyses are presented in supporting information Table\nS2\n.",
+        "Rock Geochemistry": "Rock Geochemistry\nAll samples were crushed into powder of less than 200 mesh size in an agate shatterbox. Major elements were determined by ARL-9800 X-ray fluorescence (XRF) at the Center of Modern Analysis, Nanjing University, with precision better than 2%. All samples were analyzed twice for trace elements. Trace element contents were determined at the State Key Laboratory for Mineral Deposits Research, Nanjing University, by a Finnigan Element k inductively coupled plasma mass spectrometry (ICP-MS). The results have less than a 10% deviation from the recommended values for the international standard BCR-2. Detailed analytical procedure followed\n[Gao et al., 2003]\n. Major and trace element data are presented in supporting information Table\nS3\n.",
+        "Results": "Results",
+        "U-Pb Zircon Dating": "U-Pb Zircon Dating\nSample 11FS-06 (N37 54 0 38.8 00 , E111 22 0 15.7 00 ) was collected at the entrance of the Pangquangou Nature Reserve. The wall rocks include gneisses and quartz-mica schists of the Jiehekou Group. Zircons in this sample are transparent, gray to light brown in color, and euhedral to subeuhedral with long axes ranging from 50 to 150 lm in length. Many zircons have nebulous structures in CL images, although some have wide concentric zones with variable luminescence, typical of magmatic zircon (Figures\n4a-4c\n). Nineteen U-Pb analyses were carried out, and they have variable U and Th concentrations (32-19,369 ppm and 34-11,790 ppm, respectively), with a range of Th/U ratios from 0.32 to 1.89, also suggesting a magmatic origin. Eleven of these analyses can be fitted to a discordia line with an upper intercept age of 1786 6 16 Ma (MSWD 5 0.35) (Figure\n5a\n), consistent with the weighted mean 207 Pb/ 206 Pb age of 1784 6 30 Ma (MSWD 5 0.016) yielded by the four concordant analyses. Of the remaining eight analyses, three highly discordant spots give scattered and younger ages between 1038 and 1351 Ma, and five concordant spots yield older ages ranging from 1850 to 2325 Ma. We interpret the age of 1786 6 16 Ma as the crystallization age of the dyke. The younger analyses reflect later Pb loss and the older concordant ages are xenocrysts. Sample 12LX-02 (N38 28 0 09.9 00 , E111 39 0 52.5 00 ) was collected from a mafic dyke that intrudes basalts of the Yejishan Group from a roadside exposure in Zhaishang Village. Zircons from this sample are colorless, transparent, and euhedral, with the long axes most between 100 and 150 lm in length. CL images show that these zircons commonly have concentric oscillatory zoning with low to medium luminescence (Figures\n4d-4f\n) and thus indicate a magmatic origin. Twenty-two U-Pb analyses were performed. They yield U contents of 42-1652 ppm, Th contents of 33-3318 ppm, and Th/U ratios of 0.66-2.01. Twenty-one analyses fall on or below the concordia line and form a discordia line with an upper intercept age of 1779 6 15 Ma (MSWD 5 0.061), consistent with the weighted mean 207 Pb/ 206 Pb age of 1779 6 15 Ma (MSWD 5 0.015) yielded by the seven nearly concordant analyses (Figure\n5b\n). We consider the age of 1779 6 15 Ma as the magmatic crystallization age of the dyke. In addition, one analysis with a discordant 207 Pb/ 206 Pb age of 2164 6 29 Ma represents a xenocryst. Sample 12PQG-02 (N37 45 0 56.7 00 , E111 30 0 11.1 00 ) was collected from a mafic dyke that intrudes into the gray granites in the Shanshui Village along Road S320. The dyke is E-W trending and about 20 m in width. Zircons in this sample are euhedral to subeuhedral with long axes mostly ranging between 100 and 150 lm in length. CL images indicate that most zircons have concentric, oscillatory zoning, although they are dull Geochemistry, Geophysics, Geosystems 10.1002/2014GC005378 and blurry (Figures\n4g-4i\n). Zircons are variable in color and Th and U concentrations and can be accordingly divided into two groups. Grains in Group 1 are mostly cloudy, brown to dark brown. They have U contents of 1593-5498 ppm, Th contents of 25-661 ppm, and Th/U ratios of 0.01-0.15. In contrast, Group 2 zircons are mostly transparent, gray to light brown, and have U contents of 46-2665 ppm, Th contents of 64-747 ppm, and Th/U ratios of 0.07-2.31. Twenty-six analyses were measured, of which eight analyses were performed on Group 1 grains and eighteen on Group 2. The eight analyses of Group 1 zircons are highly discordant, with 207 Pb/ 206 Pb ages varying between 1077 and 1579 Ma. For Group 2, 12 analyses constitute a well-defined regression line with an upper intercept age of 1781 6 21 Ma (MSWD 5 0.064). Of these analyses, four concordant analyses yield a weighted mean 207 Pb/ 206 Pb age of 1777 6 32 Ma, consistent with the upper intercept age (Figure\n5c\n). We interpreted the age of 1781 6 21 Ma as the crystallization age of the dyke. The other six analyses in Group 2, three concordant and three discordant, with 207 Pb/ 206 Pb ages ranging from 1858 to 2317 Ma, are considered to be xenocrysts captured during dyke emplacement. The eight analyses in Group 1 have experienced multiple phases of Pb-loss, since they have highly discordant, scattered ages, and low Th/U ratios. Sample 12PQG-09 (N37 42 0 42.4 00 , E111 34 0 18.9 00 ) was collected from a mafic dyke intruding the gray granites in the Shizhuang Village along Road S320. The dyke is vertical to subvertical and has a NWW (300 ) trend. Zircons from this sample are colorless and transparent. They are mostly anhedral and variable in size with the long axes ranging from less than 100 lm to over 200 lm in length. Twenty-two analyses give a Geochemistry, Geophysics, Geosystems 10.1002/2014GC005378 wide range in Th (15-453 ppm) and U (19-431 ppm) contents, and Th/U ratios (0.75-1.63). CL images show the zircons are generally highly luminescent, with distinct banding structures (Figures\n4j\nand\n4k\n). Based on zircon morphology, CL images and the high Th/U ratios, the zircons are considered to be igneous in origin. Twenty-one analyses are concordant or nearly concordant, and 20 of them define a weighted mean 207 Pb/ 206 Pb of 1775 6 16 Ma (MSWD 5 0.1), interpreted as the crystallization age of the dyke (Figure\n5d\n). One analysis that has a discordant 207 Pb/ 206 Pb age of 1947 6 44 Ma is considered to be a xenocryst.",
+        "Zircon Hf Isotopes": "Zircon Hf Isotopes\nZircon crystals from sample 12LX-02 record similar Lu-Hf isotope features with those of sample 12PQG-09. The Lu-Hf data show initial 176 Hf/ 177 Hf from 0.281456 to 0.281602 for 12LX-02 and from 0.281494 to 0.281605 for 12PQG-09, corresponding to a variation of eHf (t) from 21.7 to 26.9 and from 21.7 to 25.7, respectively (Figure\n6\n). Zircons from samples 11FS-06 and 12PQG-02 yield slightly lower initial 176 Hf/ 177 Hf ratios of 0.281301-0.281521 and 0.281375-0.281588, respectively, which correspond to more negative eHf (t) values ranging from 24.4 to 212.2 and from 22.2 to 29.7, respectively (Figure\n6\n).",
+        "Major and Trace Elements": "Major and Trace Elements\nThe mafic dykes display some variation in major oxide compositions, with SiO 2 5 48.29-61.11%, MgO 5 1.77-8.02%, FeO t 5 8.51-11.15%, TiO 2 5 0.85-2.08%, and Al 2 O 3 5 13.07-16.63%. They have K 2 O 5 0.83-3.15% and total alkalis (Na 2 O 1 K 2 O) 5 3.79-6.66%, with K 2 O/Na 2 O 5 0.22-1.19. All but one of these mafic dykes are classified as subalkaline on the total alkali-silica (TAS) diagram [Le\nBas et al., 1986]\nand Zr/TiO 2 versus Nb/Y diagram\n[Winchester and Floyd, 1977]\n(Figures\n7a\nand\n7b\n). They straddle the boundaries of basalt, trachybasalt, basaltic andesite, andesite, and trachybasalt (Figures\n7a\nand\n7b\n). On the FeO t /MgO versus SiO 2 diagram\n[Miyashiro, 1974]\n, most of the samples plot in the field of tholeiite series, although several plot close to the calc-alkaline boundary (Figure\n7c\n). The magnesium numbers (Mg # ) are in the range of 0.27-0.60 and have been taken as the reference value because of its wide range and important behavior during fractional crystallization of basaltic melts. The samples exhibit a negative correlation of P 2 O 5 , TiO 2 , SiO 2 , K 2 O, and a positive correlation of Al 2 O 3 and CaO with Mg # (Figure\n8\n).\nThe mafic samples have high and variable total rare earth element (REE) concentrations ranging from 72.7 to 447 ppm (average 320 ppm). The chondrite-normalized REE patterns (Figure\n9a\n) show that these mafic dykes exhibit strong fractionation of LREE relative to HREE, with La N /Yb N ratios varying between 4.25 and 18.21. All of the REE patterns show moderate or small negative Eu anomalies (Eu/Eu* 5 0.58-0.95) indicating fractional crystallization of plagioclase. On the primitive-mantlenormalized spider diagram, these rocks are characterized by marked Nb-Ta, Ti, Sr negative anomalies, with weaker Zr-Hf anomalies (Figure\n9b\n).",
+        "Discussion and Implications": "Discussion and Implications",
+        "Petrogenesis 5.1.1. Alteration Effects on Chemical Compositions": "Petrogenesis 5.1.1. Alteration Effects on Chemical Compositions\nMost of the samples have suffered variable degrees of alteration, which can be verified by their variable loss on ignition (LOI) values of 0.59-5.53 (Table\nS3\nof supporting information). Geochemistry, Geophysics, Geosystems",
+        "10.1002/2014GC005378": "10.1002/2014GC005378\nZirconium in igneous rocks is generally considered as the most immobile element during low to medium-grade metamorphism and severe seafloor hydrothermal alteration\n[Gibson et al., 1982]\n. Thus, Cr, Ni, Rb, Sr, Y, Nb, Ba, La, Ce, Nd, Hf, and Ta are plotted against Zr, to evaluate the effects of alteration on the chemical compositions of these dykes (Figure\n10\n).\nThe data suggest that most of the high field-strength elements (REEs and other HFSEs, e.g., Nb, Ta, and Hf) increase with increasing Zr with limited scatter, indicating they are immobile during alteration. According to\nGibson et al. [1982]\n, Y is also immobile during metamorphism and it forms a positive correlation with Zr, whereas the correlation is scattered when the Zr concentrations exceed 300 ppm. It is quite similar to the variation characteristic of Y in our samples. Strontium and Ba form a weak positive correlation with Zr, whereas other large-ion lithophile elements (Cs, Rb) are scattered, suggesting their mobility during alteration, as also demonstrated by the considerable scatter in primitive-mantle-normalized patterns shown in Figure\n9\n. Compatible elements such as Ni and Cr are also scattered but little can be said about their mobility because the original pattern of variation cannot be estimated\n[Gibson et al., 1982]\n. In the following sections, immobile elements and some of the compatible elements are used in the petrogenetic discussion.",
+        "Magmatic Evolution": "Magmatic Evolution\nThe mafic dyke samples in the L\u20ac uliang Complex do not Geochemistry, Geophysics, Geosystems 10.1002/2014GC005378 represent primary melts as judged from their variable Mg # of 0.22-0.60. Furthermore, transition elements such as Cr (10-189 ppm), Co (21-61 ppm), and Ni (8-112 ppm) are much lower than those of typical primary basaltic magmas (Cr: 300-500 ppm; Co: 50-70 ppm; Ni: 300-400 ppm)\n[Frey et al., 1978]\n, indicating that their precursor magma underwent variable degrees of fractional crystallization in the magma chambers prior to their emplacement\n[Zhu et al., 2011]\n.  Geochemistry, Geophysics, Geosystems 10.1002/2014GC005378\nThe rocks may have experienced fractionation of olivine and clinopyroxene from the parental magma, as indicated by positive correlations between Mg # and Cr, Co, Ni (Figure\n8\n). CaO and Al 2 O 3 decrease as Mg # decreases from 0.6 (the maximum) to 0.22 (the minimum), demonstrating that plagioclase fractionation took place before Mg # decreases to 0.6 in the residual magma (Figure\n8\n). This is in accordance with the negative Eu and Sr anomalies of most samples (Figures\n9a\nand\n9b\n). When plotted against Mg # (Figure\n8\n), light-middle REEs (e.g., La, Ce, and Nd) and some HFSEs (e.g., Zr, Y, and Ta) show regular variations and each of them has a significant inflection point as Mg # decreases to about 0.45. HREEs also have such inflections, although weak, when Mg # decreases to about 0.5. For major elements, such trends and inflections only occur for P 2 O 5 , and the corresponding Mg # is also 0.45. Because REE is highly compatible in many accessory minerals that form during the final stage of magma crystallization, rather than in the main rock-forming minerals\n[Hanchar and Westrenen, 2007]\n, the inflection points might represent the onset of crystallization of monzazite, zircon, apatite, and xenotime.\nAll the rocks are systematically enriched in large-ion lithophile elements (LILE, e.g., Rb, Ba) and LREE (e.g., La-Sm) when compared with the primitive mantle, and depleted in Nb-Ta and Zr-Hf-Ti relative to their adjacent elements. This cannot be explained only by crystal fractionation alone but indicate involvement of a crustal component in the generation of these dykes. Both magma contamination en route and source enrichment may account for these features\n[Wang et al., 2007;\nZhang et al., 2011]\n.",
+        "Nature of the Magma Source": "Nature of the Magma Source\nIn the Nb/Th versus Nb/La diagram (Figure\n11a\n), the samples (except 12PQG-07) exhibit a relatively large range of Nb/Th, but constant Nb/La ratios, indicating insignificant crustal contamination during their ascent. Otherwise both Nb/La and Nb/Th ratios would systematically decrease with increases in crustal material addition. Similarly, in the Ta/La versus La/Yb diagram (Figure\n11b\n), the samples show constant Ta/La ratios as La/Yb changes, also indicating negligible crustal assimilation.\nThe unmetamorphosed mafic dykes from L\u20ac uliang display pronounced Nb-Ta-Ti and weak Zr-Hf negative anomalies (Figure\n9b\n). Although the Nb-Ta troughs are typical of arc-related magma, rocks forming in an intraplate environment significantly contaminated by crustal materials or derived from a metasomatized subcontinental lithospheric mantle (SCLM) may also show Nb-Ta negative anomalies\n[Zhu et al., 2011]\n. As shown above, the samples experienced insignificant crustal contamination en route. However, we still need to evaluate whether the rocks formed in an intraplate setting and were derived from SCLM or whether they formed in an arc. Geochemistry, Geophysics, Geosystems 10.1002/2014GC005378\nIn the Nb-Zr-Y tectonic discrimination diagram (Figure\n12a\n), the data plot in the within-plate basalt (A) and within-plate and volcanic arc basalt (C) fields, except for sample 12PQG-07 that plots in the N-MORB and volcanic arc basalt (D) fields. Overall, the data generally correspond to the within-plate basalt fields and are clearly distinguished from the 1.94 Ga arc-related mafic dykes in the L\u20ac uliang area reported in our previous study [X.\nWang et al., 2014c]\n. For the 1.78 Ga dykes, the high Zr contents, high Zr/Y (most are greater than 200 ppm and 4, respectively) and Zr/Sm ratios (average 26), are also consistent with those of intraplate basalts (Zr/Y > 3.5, Zr/Sm 30) but different from those of typical island arc basalts, which generally have Zr/Y ratios less than 3.5 and Zr/Sm ratios less than 20\n[Wilson, 1989]\n. As shown in the Zr/Y versus Zr diagram (Figure\n12b\n), most of the samples plot in the within-plate basalt field\n[Pearce and Norry, 1979]\n. The low TiO 2 (0.85-2.24%), Cr (10-189 ppm), and Co (21-61 ppm) concentrations imply a negligible contribution from the asthenospheric mantle. According to the geochemical features outlined above, the 1.78 Ga dykes were probably derived from metasomatized subcontinental lithospheric mantle in an intraplate setting rather than an arc.\nIn the (Hf/Sm) N versus (Ta/La) N diagram (Figure\n13a\n), all of the data plot in or near the field of subductionrelated fluid metasomatism. The high (Hf/Sm) N and low (Ta/La) N ratios of the 1.78 Ga L\u20ac uliang mafic dykes suggest that the cause of metasomatism may be subduction rather than a carbonatite-related process. In the Nb/Zr versus Th/Zr diagram (Figure\n13b\n), the dominate trend is also consistent with an increase in hydrous metasomatism in the source. However, it is also partially consistent with ''melt-related enrichment,'' indicating that the lithospheric mantle might have also been influenced by subduction-related melt. In addition, all of the samples (except 12PQG-07) show high Ba/Nb (63-146), Ba/Zr (3-10), Ba/Th (183-737), and Th/U (3-8) ratios relative to the primitive mantle (Ba/Nb 5 10, Ba/Zr 5 0.6, Ba/Th 5 82, and Th/U 5 4)\n[Sun and McDonough, 1989\n]. These ratios are even higher than those of the average upper crust (Ba/Nb 5 52, Ba/Zr 5 4, Ba/Th 5 216, Th/U 5 6)\n[Rudnick and Fountain, 1995]\n, suggesting that they were probably derived from a mantle source significantly modified by hydrous fluids\n[Zhang et al., 2011]\n, although the melt influence cannot be excluded. Th/Ta and La/Yb ratios in mafic dykes provide an important constraint on their magma source\n[Condie, 1997]\n. However, most of our samples show very high element ratios (higher than the upper crust, figure not shown). It is consistent with a source with involvement of a Ta-depleted and high La/Yb component, probably the subduction-related fluids, as discussed above. Geochemistry, Geophysics, Geosystems 10.1002/2014GC005378\nThe highly scattered eHf (t) values of 21.7 to 212.2 (Figure\n6\n) indicate a heterogeneous source for these dykes. The negative epsilon values might be attributed to the possible influence of subduction-related melt, or an enriched lithospheric mantle source.",
+        "Tectonic Implications": "Tectonic Implications\nAs mentioned earlier, there are two end-member tectonic models for generation of the 1.78 Ga mafic dykes in the TNCO. One favors postorogenic activity\n[Hu et al., 2010;\nWang et al., 2004\nWang et al., , 2007\nWang et al., , 2008;;\nZhang et al., 2007b;\nZhao et al., 2012]\n, whereas the other considers that they are riftrelated during breakup of the supercontinent Columbia\n[Hou et al., 2005\n[Hou et al., , 2008a\n[Hou et al., , 2008b;;\nPeng, et al., 2006;\nPeng, 2010]\n. Our data for mafic dykes in the L\u20ac uliang area indicate that the magma was derived from subcontinental lithospheric mantle metasomatized mainly by subduction-related fluids. However, both the postcollisional and plume-related models are compatible with such a magma source, considering that the 1880-1820 Ma collisional event occurred in the TNCO and a subduction might have affected the area before emplacement of the mafic dykes.\nAlthough late Paleoproterozoic unmetamorphosed mafic dykes are widespread in the NCC, as described by\nHou et al. [2006\nHou et al. [ , 2008b] ]\nand\nPeng et al. [2005\nPeng et al. [ , 2008]]\n, the majority of them are exposed in the TNCO and its adjacent areas (Figure\n2a\n). In the Eastern Block, they are represented by 1840 Ma dolerite dykes in western Shandong Province\n[Hou et al., 2006;\nWang et al., 2007]\n. These dykes were emplaced about 60 My earlier than those in the central NCC and have distinct positive whole-rock eNd (t) values ranging from 3.8 to 7.4, whereas the 1780 Ma mafic dyke swarm in the TNCO and its adjacent areas generally have negative eNd (t) values from 20.6 to 27.8\n[Wang et al., 2004;\nPeng et al., 2007]\nand zircon eHf (t) values from 26.4 to 0.4\n[Han et al., 2007]\nor from 21.8 to 212.4 in this study, though both groups show similar geochemical trends.\nWang et al. [2007]\nsuggested an intracontinental extension or failed back-arc basin setting within the Eastern Block, which is related to the 1850 Ma amalgamation of the Western and Eastern blocks for these dykes. In the Western Block, the late Paleoproterozoic mafic dykes are mainly exposed in the Fengzhen area, with SHRIMP zircon U-Pb crystallization ages of 1778 Ma\n[Peng et al., 2005]\n. Although they also occur in the Khondalite Belt, the area is adjacent to the TNCO.\nIf the 1780 Ma mafic dykes are plume-related, it is quite difficult to explain why almost all of them are exposed along or near the TNCO. Some researchers suggested that the Xiong'er volcanic belt along the southern margin of the NCC is the extrusive counterpart of the 1780 Ma dyke swarm and they together define a large igneous province, which is considered to have been related to the break-off of the NCC along Geochemistry, Geophysics, Geosystems 10.1002/2014GC005378 its southern margin from other blocks of the Supercontinent Columbia\n[Hou et al., 2008a;\nPeng et al., 2005\nPeng et al., , 2006;;\nPeng, 2010]\n. However, this is inconsistent with the fact that mafic dykes that occur in the northern and middle parts of the TNCO are more abundant than those exposed in the Xiong'er volcanic Belt\n[Peng et al., 2005\n[Peng et al., , 2008;;\nWang et al., 2014a]\n. Moreover,\nHe et al. [2008\nHe et al. [ , 2010] ]\nargued that the Xiong'er volcanic Belt developed as a continental arc along the southern margin of the NCC. When our new data are incorporated with recently published geochemical data for the 1780 Ma mafic dykes and the Xiong'er volcanic rocks\n[Peng et al., 2004\n[Peng et al., , 2008;;\nWang et al., 2004\nWang et al., , 2008;;\nZhao et al., 2009a]\n, it is evident that almost all of them show enrichment in LILEs and LREEs, but record negative Nb, Ta, Ti anomalies; they also generally have negative zircon eHf (t) or eNd (t) values. This suggests they were all generated from an enriched subcontinental lithospheric mantle (SCLM) with a crustal component incorporated en route or close to the source. They do not show any OIB-like or asthenospheric mantle signatures, and all of these features are significantly different from those of plume-related magmatic rocks. Our study of the 1.78 Ga mafic dykes in the NCC do not support the view that at this time the NCC was rifted from the Columbia along its southern margin.\nWe suggest that the 1.78 Ga dyke swarms in the NCC was generated in a postcollisional setting. After three episodes of collisional-related compressional deformation (1880 to 1790 Ma, D 1 -D 3 by\nZhang et al. [2009a\nZhang et al. [ , 2012a] ]\nand\nLi et al. [2010]\n), the thickened crust in the TNCO became gravitationally unstable. The orogen could not be supported by the contractional boundary forces and the buoyancy of the lithosphere\n[Inger, 1994]\n, finally leading to gravitational collapse and thinning of the previously thickened crust. In the early stage, collapse of the upper and middle crust occurred first in the TNCO. Rapid decompression provided internal heating which caused partial melting of the middle crust and generated large amounts of felsic magma in the study areas, possibly similar to the leucogranites reported in the High Himalaya\n[Le Fort et al., 1987;\nZhang, 1995]\n. Postcollisional felsic intrusions in the TNCO are mainly exposed in the L\u20ac uliang Complex, including the Luchaogou porphyritic granites, the Guandishan massive granites, and the Yunzhongshan massive granites, which were emplaced at 1800 Ma\n[Geng et al., 2004\n[Geng et al., , 2006;;\nZhao et al., 2008b]\n. Such felsic intrusions in other areas of the TNCO might have been eroded due to later uplift. In the late stage of postcollisional extension, further collapse of the thickened crust led to thinning of the whole lithosphere and uprising of asthenospheric mantle. This produced a number of extensional fractures that trended roughly parallel to the TNCO (nearly N-S trend). This allowed uprise of convective mantle to heat overlying lithospheric mantle that was previously metasomatized by subduction-related fluids and caused partial melting of the SCLM to form large amounts of mafic magma. The mafic magma emplaced into these fractures at 1780 Ma formed abundant nearly N-S trending mafic dykes along the TNCO (Figure\n2a\n). Considering that high-pressure granulite and retrograded eclogite occur along a NE-SW trending zone in the northern part of the TNCO\n[Guo et al., 2002\n[Guo et al., , 2005;;\nZhao et al., 2001b]\nand that the grade of metamorphism and amount of deformation are generally higher in the north than in the south\n[Zhao et al., 2000b]\n, the northern part of the TNCO might have experienced a more intense collisional event and thus more intense postcollisional events than the southern part. This is consistent with the presence of more abundant 1780 Ma mafic dykes in the northern and middle parts of the TNCO.\nA series of E-W trending mafic dykes also occur in the L\u20ac uliang and southern Taihang areas. As reported by\nPeng et al. [2008]\n, the E-W trending dykes locally crosscut NW-SE trending dykes in the Lvliang area, whereas there is also evidence that the NW-SE trending dykes change their trends gradually into E-W in the southern Taihang area. There is no age difference between the two suites of dykes, and our new data from a few E-W trending dykes in the L\u20ac uliang area do not show significant geochemical differences (Figure\n9\n) compared to the NW suite reported by\nPeng et al. [2004]\n. We suggest that the two groups of dykes were generated in the same magmatic event and that any geochemical variations among the 1780 Ma mafic dykes\n[Peng et al., 2004;\nWang et al., 2004]\nare unrelated to their occurrences. However, the previous E-W and NW-SE fractures may have resulted from different mechanisms. The NW fractures were formed due to postcollisional extension as we mentioned above, thus their trends roughly parallel the orogen.\nFor the E-W trending fractures, they occurred nearly perpendicular to the orogen and might be syncollisional, that is, as the crust thickened to the maximum, extensional fractures formed along directions of the compressional stresses\n[Zhang, 1995]\n. Nevertheless, such a model cannot explain why the E-W trending fractures are present only in the L\u20ac uliang and Taihang areas instead of being widespread in the TNCO. We propose an accommodation zone in the middle TNCO (the L\u20ac uliang and southern Taihang areas) based Geochemistry, Geophysics, Geosystems 10.1002/2014GC005378 on the different intensities of extension between the north and south. Such differences in the degree of extension between the northern and southern TNCO were also reflected in subsequent magmatism, as discussed below.\nFollowing the emplacement of the 1.78 Ga mafic dykes, abundant approximately 1.68-1.75 Ga magmatic intrusions were emplaced along the northern part of the NCC. They include the 1693-1753 Ma Damiao anorthosite\n[Zhao et al., 2004b\n[Zhao et al., , 2009b]]\n, the 1680 Ma Miyun rapakivi granite\n[Yang et al., 2005;\nGao et al., 2008]\n, the 1697 Ma Wenquan A-type granite\n[Jiang et al., 2011]\n, the 1692-1753 Ma Lanying-Changsaoying-Gubeikou K-feldspar granitoid and anorthosite\n[Zhang et al., 2007b]\n, and the 1690-1721 Ma Jianping diorite-monzonite-syenite suite\n[Wang et al., 2013a]\n. These rocks occur within or near the TNCO and generally have negative whole-rock eNd (t) and zircon eHf (t) values, implying that they were derived from the late Archean lower crust. They constitute an anorthosite-gabbro-mangerite-rapakivi granite suite resembling AMCG suites (anorthosite-mangeritecharnockite-granite) that are generally considered to form in response to delamination of subcontinental lithosphere following crustal thickening\n[Lu et al., 2008]\n. In addition, the Yanliao rift was initiated at approximately 1680 Ma in the northern part of the NCC (Figure\n2a\n) as reported by\nWang et al. [2013b]\nand\nLi et al. [2013]\n. The initiation of the rift and the 1.68-1.75 Ga magmatic rocks both occurred during postorogenic extension after emplacement of the 1.78 Ga mafic dykes\n[Zhang et al., 2007b;\nWang et al., 2013a]\n. However, the evidence of postorogenic extension in this period is quite rare in the southern part of the NCC.\nFrom 1.6 Ga to 1.2 Ga, magmatic rocks were emplaced widespread across the NCC. These rocks mainly formed in two stages at 1.6 Ga and 1.3-1.2 Ga, except for minor 1496 Ma syenites in the southern NCC, as reported by\nZeng et al. [2013]\n. The 1.6 Ga magmatism includes mafic dykes in the northern NCC and Western Shandong Province [S.\nLiu et al., 2013;\nXiang et al., 2012]\n, the Dahongyu alkaline volcanic rocks in the upper part of the Changcheng Group\n[Hu et al., 2007;\nWang et al., 2014a]\n, and the Longwangzhuang alkaline granite in the southern part of the NCC\n[Lu et al., 2003;\nX. L. Wang et al., 2013b]\n. These rocks formed mainly in the northern NCC at the time of initiation of the Bayan Obo-Zhaertai rift\n[Peng et al., 2013]\n(Figure\n2a\n) and generally have some OIB-like characteristics. This is consistent with the view that the NCC rifted from the Columbia supercontinent at about 1.6 Ga along its northern margin as proposed by\nZhao et al. [2004a]\n, though some other researchers have argued for a postorogenic setting for these rocks\n[Wang et al., 2013a]\n. The 1.3-1.2 Ga rocks principally consist of mafic dykes and A-type granites, including 1.24 Ga mafic dykes in Jilin Province\n[Pei et al., 2013]\n, 1.23 Ga mafic dykes in Liaoning and Eastern Hebei\n[Wang et al., 2014b]\n, 1.35 Ga carbonatitic dykes and 1.23 Ga mafic dykes in the Bayan Obo rift\n[Yang et al., 2011]\n, 1.33 Ga mafic diabase sills in the Shangdu-Huade-Xiahancheng-Pingguan-Chaoyang areas\n[Zhang et al., 2009b\n[Zhang et al., , 2012b]]\n, 1.21 Ga gabbros in Western Shandong\n[Peng et al., 2013]\n, and 1.32 Ga A-type granites in the Jining area\n[Shi et al., 2012]\n. These rocks are exposed mainly in the northern part of the NCC and generally are thought to be products of the final breakup of the Columbia supercontinent in the late Mesoproterozoic\n[Zhao et al., 2003\n[Zhao et al., , 2011]]\n.",
+        "Conclusions": "Conclusions\n1. Four mafic dykes from the L\u20ac uliang Complex yield zircon U-Pb ages of 1786 6 16 Ma, 1779 6 15 Ma, 1781 6 21 Ma, and 1775 6 16 Ma, respectively. According to their geochemical and Hf isotopic features, these dykes were most likely originated from a lithospheric mantle previously metasomatized by subduction-related fluids.\n2. Combining with 1.78 Ga mafic dykes in other areas of the TNCO, we suggest that the geochemical variations among these dykes are unrelated to their occurrences. All of these dykes were formed because of postcollisional extension following collision of the Eastern and Western blocks of the NCC at approximately 1.87-1.82 Ga.\n3. NW trending extensional fractures along the TNCO formed due to collapse of thickened crust and thinning of the lithosphere, whereas E-W trending fractures constitute a transverse accommodation belt so as to compensate for differential amounts of extension between the northern and southern TNCO.\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005378 4. The effect of the postcollisional extension might have continued to 1680 Ma, producing large amounts of approximately 1750-1680 Ma AMCG-like rocks in the northern part of the NCC. However, postcollisional rocks are rare in the southern parts of the TNCO. Such difference might reflect different extensional intensity between the northern and southern parts of the TNCO."
+    },
+    "references": [
+        {
+            "title": "Approximately 1.78 Ga mafic dykes in the L\u20ac uliang Complex, North China Craton: Zircon ages and Lu-Hf isotopes, geochemistry, and implications",
+            "authors": [
+                "XiWang",
+                "WenbinZhu",
+                "MengLuo",
+                "XingminRen",
+                "XiangCui"
+            ],
+            "journal": null,
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Correction of common lead in U-Pb analyses that do not report 204 Pb",
+            "authors": [
+                "TAndersen"
+            ],
+            "journal": "Chem. Geol",
+            "date": "2002",
+            "pages": {
+                "from": "59",
+                "to": "79"
+            }
+        },
+        {
+            "title": "The Lu-Hf isotope geochemistry of chondrites and the evolution of the mantle-crust system",
+            "authors": [
+                "JBlichert-Toft",
+                "FAlbare",
+                "De"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1997",
+            "pages": {
+                "from": "243",
+                "to": "258"
+            }
+        },
+        {
+            "title": "Sources of Proterozoic mafic dyke swarms: Constraints from Th/Ta and La/Yb ratios",
+            "authors": [
+                "KCCondie"
+            ],
+            "journal": "Precambrian Res",
+            "date": "1997",
+            "pages": {
+                "from": "3",
+                "to": "14"
+            }
+        },
+        {
+            "title": "Middle Paleoproterozoic crustal extensional regime in the North China Craton: New evidence from SHRIMP zircon U-Pb dating and whole-rock geochemistry of meta-gabbro in the Anshan-Gongchangling area",
+            "authors": [
+                "CYDong",
+                "MZMa",
+                "SJLiu",
+                "HQXie",
+                "DYLiu",
+                "XMLi",
+                "YSWan"
+            ],
+            "journal": "Acta Petrol. Sin",
+            "date": "2012",
+            "pages": {
+                "from": "2785",
+                "to": "2792"
+            }
+        },
+        {
+            "title": "The 2.2-2.1Ga magmatic event and its tectonic implication in the L\u20ac uliang Mountains, North China Craton",
+            "authors": [
+                "LLDu",
+                "CHYang",
+                "LDRen",
+                "HXSong",
+                "YSGeng",
+                "YSWan"
+            ],
+            "journal": "Acta Petrol. Sin",
+            "date": "2012",
+            "pages": {
+                "from": "2751",
+                "to": "2769"
+            }
+        },
+        {
+            "title": "Giant radiating dyke swarms on earth and Venus",
+            "authors": [
+                "REErnst",
+                "JWHead",
+                "EParfitt",
+                "EGrosfils",
+                "LWilson"
+            ],
+            "journal": "Earth Sci. Rev",
+            "date": "1995",
+            "pages": {
+                "from": "1",
+                "to": "58"
+            }
+        },
+        {
+            "title": "Integrated models of basalt petrogenesis: A study of quartz tholeiites to olivine melilitites from southeastern Australia utilizing geochemical and experimental petrological data",
+            "authors": [
+                "FAFrey",
+                "DHGreen",
+                "SDRoy"
+            ],
+            "journal": "J. Petrol",
+            "date": "1978",
+            "pages": {
+                "from": "463",
+                "to": "513"
+            }
+        },
+        {
+            "title": "Analysis of trace elements in rock samples using HR-ICPMS",
+            "authors": [
+                "JFGao",
+                "JJLu",
+                "MYLai",
+                "YPLin",
+                "WPu"
+            ],
+            "journal": "J. Nanjing Univ. (Nat. Sci.)",
+            "date": "2003",
+            "pages": {
+                "from": "844",
+                "to": "850"
+            }
+        },
+        {
+            "title": "and its tectono-stratigraphic implications",
+            "authors": [
+                "WGao",
+                "CHZhang",
+                "LZGao",
+                "XYShi",
+                "YMLiu",
+                "BSong"
+            ],
+            "journal": null,
+            "date": "2008",
+            "pages": {
+                "from": "793",
+                "to": "798"
+            }
+        },
+        {
+            "title": "The Palaeoproterozoic rift-type volcanism in L\u20ac uliangshan Area, Shanxi Province, and its geological significance",
+            "authors": [
+                "YSGeng",
+                "YSWan",
+                "CHYang"
+            ],
+            "journal": "Acta Geosic. Sin",
+            "date": "2003",
+            "pages": {
+                "from": "97",
+                "to": "104"
+            }
+        },
+        {
+            "title": "Post-orogenic granites with an age of 1800 Ma in L\u20ac uliang area",
+            "authors": [
+                "YSGeng",
+                "CHYang",
+                "BSong",
+                "YSWan"
+            ],
+            "journal": null,
+            "date": "2004",
+            "pages": {
+                "from": "477",
+                "to": "487"
+            }
+        },
+        {
+            "title": "Paleoproterozoic granitic magmatism in the L\u20ac uliang area",
+            "authors": [
+                "YSGeng",
+                "CHYang",
+                "YSWan"
+            ],
+            "journal": null,
+            "date": "2006",
+            "pages": {
+                "from": "305",
+                "to": "314"
+            }
+        },
+        {
+            "title": "The trace element composition of the lavas and dikes from a 3-km vertical section through the lava pile of eastern Iceland",
+            "authors": [
+                "ILGibson",
+                "RJKirkpatrick",
+                "REmmerman",
+                "HUSchmincke",
+                "GPritchard",
+                "PJOakley",
+                "RSThorpe",
+                "GFMarriner"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1982",
+            "pages": {
+                "from": "6532",
+                "to": "6546"
+            }
+        },
+        {
+            "title": "High-pressure granulites in the Sanggan area, North China Craton: Metamorphic evolution, P-T paths and geotectonic significance",
+            "authors": [
+                "JHGuo",
+                "PJO'brien",
+                "MZhai"
+            ],
+            "journal": "J. Metamorph. Geol",
+            "date": "2002",
+            "pages": {
+                "from": "741",
+                "to": "756"
+            }
+        },
+        {
+            "title": "Sm-Nd and SHRIMP U-Pb zircon geochronology of high-pressure granulites in the Sanggan area, North China Craton: Timing of Paleoproterozoic continental collision",
+            "authors": [
+                "JHGuo",
+                "MSun",
+                "FKChen",
+                "MGZhai"
+            ],
+            "journal": "J. Asian Earth Sci",
+            "date": "2005",
+            "pages": {
+                "from": "629",
+                "to": "642"
+            }
+        },
+        {
+            "title": "A precisely dated Proterozoic palaeomagnetic pole from the North China craton, and its relevance to palaeocontinental reconstruction",
+            "authors": [
+                "HCHalls",
+                "JHLi",
+                "DDavis",
+                "GTHou",
+                "BXZhang",
+                "XLQian"
+            ],
+            "journal": "Geophys. J. Int",
+            "date": "2000",
+            "pages": {
+                "from": "185",
+                "to": "203"
+            }
+        },
+        {
+            "title": "Enriched mantle source for Paleoproterozoic high Mg and low Ti-P mafic dykes in central part of the North China craton: Constraints from zircon Hf isotopic compositions",
+            "authors": [
+                "BFHan",
+                "LZhang",
+                "YMWang",
+                "BSong"
+            ],
+            "journal": "Acta Petrol. Sin",
+            "date": "2007",
+            "pages": {
+                "from": "277",
+                "to": "284"
+            }
+        },
+        {
+            "title": "Rare earth element behavior in zircon-melt systems",
+            "authors": [
+                "JMHanchar",
+                "WVWestrenen"
+            ],
+            "journal": "Elements",
+            "date": "2007",
+            "pages": {
+                "from": "37",
+                "to": "42"
+            }
+        },
+        {
+            "title": "Geochemistry, isotope systematics and petrogenesis of the volcanic rocks in the Zhongtiao Mountain: An alternative interpretation for the evolution of the southern margin of the North China Craton",
+            "authors": [
+                "YHHe",
+                "GCZhao",
+                "MSun",
+                "SAWilde"
+            ],
+            "journal": "Lithos",
+            "date": "2008",
+            "pages": {
+                "from": "158",
+                "to": "178"
+            }
+        },
+        {
+            "title": "Geochemical and isotopic study of the Xiong'er volcanic rocks at the southern margin of the North China Craton: Petrogenesis and tectonic implications",
+            "authors": [
+                "YHHe",
+                "GCZhao",
+                "MSun"
+            ],
+            "journal": "J. Geol",
+            "date": "2010",
+            "pages": {
+                "from": "417",
+                "to": "433"
+            }
+        },
+        {
+            "title": "The paleomagnetism of dyke swarms in the central North China Craton and their tectonic significance",
+            "authors": [
+                "GTHou",
+                "JHLi",
+                "XLQian"
+            ],
+            "journal": "Sci. China, Ser. D",
+            "date": "2000",
+            "pages": {
+                "from": "602",
+                "to": "608"
+            }
+        },
+        {
+            "title": "The SHRIMP U-Pb chronology of mafic dyke swarms: A case study of Laiwu diabase dykes in western Shandong",
+            "authors": [
+                "GTHou",
+                "YLLiu",
+                "JHLi",
+                "AWJin"
+            ],
+            "journal": "Acta Petrol. Mineral",
+            "date": "2005",
+            "pages": {
+                "from": "179",
+                "to": "185"
+            }
+        },
+        {
+            "title": "Evidence for 1.8Ga extension of the Eastern Block of the North China Craton from SHRIMP U-Pb dating of mafic dyke swarms in Shandong Province",
+            "authors": [
+                "GTHou",
+                "YLLiu",
+                "JHLi"
+            ],
+            "journal": "J. Asian Earth Sci",
+            "date": "2006",
+            "pages": {
+                "from": "392",
+                "to": "401"
+            }
+        },
+        {
+            "title": "Configuration of the Late Paleoproterozoic supercontinent Columbia: Insights from radiating mafic dyke swarms",
+            "authors": [
+                "GTHou",
+                "MSantosh",
+                "XLQian",
+                "GSLister",
+                "JHLi"
+            ],
+            "journal": "Gondwana Res",
+            "date": "2008",
+            "pages": {
+                "from": "395",
+                "to": "409"
+            }
+        },
+        {
+            "title": "Geochemical constraints on the tectonic environment of the Late Paleoproterozoic mafic dyke swarms in the North China Craton",
+            "authors": [
+                "GTHou",
+                "JHLi",
+                "MHYang",
+                "WHYao",
+                "CCWang",
+                "YXWang"
+            ],
+            "journal": "Gondwana Res",
+            "date": "2008",
+            "pages": {
+                "from": "103",
+                "to": "116"
+            }
+        },
+        {
+            "title": "LA-MC-ICP-MS technique for Hf isotope microanalysis of zircon and its geological applications",
+            "authors": [
+                "KJHou",
+                "YHLi",
+                "TRZou",
+                "XMQu",
+                "YRShi",
+                "GQXie"
+            ],
+            "journal": null,
+            "date": "2007",
+            "pages": {
+                "from": "2595",
+                "to": "2604"
+            }
+        },
+        {
+            "title": "Geochemistry and tectonic setting of the 1.78 Ga mafic dyke swarms in the Mt. Zhongtiao and Mt. Song areas, the southern margin of the North China Craton",
+            "authors": [
+                "GHHu",
+                "JLHu",
+                "WChen",
+                "TPZhao"
+            ],
+            "journal": "Acta Petrol. Sin",
+            "date": "2010",
+            "pages": {
+                "from": "1563",
+                "to": "1576"
+            }
+        },
+        {
+            "title": "Geochemistry and petrogenesis of the high-K volcanic rocks in the Dahongyu Formation, North China Craton",
+            "authors": [
+                "JLHu",
+                "TPZhao",
+                "YHXu",
+                "WChen"
+            ],
+            "journal": "J. Mineral. Petrol",
+            "date": "2007",
+            "pages": {
+                "from": "70",
+                "to": "77"
+            }
+        },
+        {
+            "title": "Magmagenesis associated with extension in erogenic belts: Examples from the Himalaya and Tibet",
+            "authors": [
+                "SInger"
+            ],
+            "journal": "Tectonophysics",
+            "date": "1994",
+            "pages": {
+                "from": "138",
+                "to": "197"
+            }
+        },
+        {
+            "title": "A guide to the chemical classification of the common volcanic rocks",
+            "authors": [
+                "TNIrvine",
+                "WR ABaragar"
+            ],
+            "journal": "Can. J. Earth Sci",
+            "date": "1971",
+            "pages": {
+                "from": "523",
+                "to": "548"
+            }
+        },
+        {
+            "title": "The application of laser ablation-inductively coupled plasma-mass spectrometry to in situ U-Pb zircon geochronology",
+            "authors": [
+                "SEJackson",
+                "NJPearson",
+                "WLGriffin",
+                "EABelousova"
+            ],
+            "journal": "Chem. Geol",
+            "date": "2004",
+            "pages": {
+                "from": "47",
+                "to": "69"
+            }
+        },
+        {
+            "title": "Nature and origin of the Wenquan granite: Implications for the provenance of Proterozoic A-type granites in the North China craton",
+            "authors": [
+                "NJiang",
+                "JHGuo",
+                "MGZhai"
+            ],
+            "journal": "J. Asian Earth Sci",
+            "date": "2011",
+            "pages": {
+                "from": "76",
+                "to": "82"
+            }
+        },
+        {
+            "title": "Trace element and Sr-Nd-Pb isotopic constraints on a three-component model of Kamchatka Arc petrogenesis",
+            "authors": [
+                "PKepezhinskas",
+                "FMcdermott",
+                "MJDefant",
+                "AHochstaedter",
+                "MSDrummond"
+            ],
+            "journal": "Geochim. Cosmochim. Acta",
+            "date": "1997",
+            "pages": {
+                "from": "577",
+                "to": "600"
+            }
+        },
+        {
+            "title": "Age and evolution of a late Archean to Paleoproterozoic upper to lower crustal section in the Wutaishan/Hengshan/Fuping terrain of northern China",
+            "authors": [
+                "AKr\u20ac Oner",
+                "SAWilde",
+                "JHLi",
+                "KYWang"
+            ],
+            "journal": "J. Asian Earth Sci",
+            "date": "2005",
+            "pages": {
+                "from": "577",
+                "to": "595"
+            }
+        },
+        {
+            "title": "Zircon geochronology and metamorphic evolution of mafic dykes in the Hengshan Complex of northern China: Evidence for late Palaeoproterozoic extension and subsequent high-pressure metamorphism in the North China Craton",
+            "authors": [
+                "AKr\u20ac Oner",
+                "SAWilde",
+                "GCZhao",
+                "PJO'brien",
+                "MSun",
+                "DYLiu",
+                "YSWan",
+                "SWLiu",
+                "JHGuo"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2006",
+            "pages": {
+                "from": "45",
+                "to": "67"
+            }
+        },
+        {
+            "title": "Paleoproterozoic tectonic evolution of the North China Craton",
+            "authors": [
+                "TMKusky",
+                "JHLi"
+            ],
+            "journal": "J. Asian Earth Sci",
+            "date": "2003",
+            "pages": {
+                "from": "383",
+                "to": "397"
+            }
+        },
+        {
+            "title": "Geochemistry of post-Acadian, Carboniferous continental intraplate basalts from the Maritimes basin, Magdalen islands, Qu ebec",
+            "authors": [
+                "MRLafle `che",
+                "GCamir",
+                "GAJenner"
+            ],
+            "journal": null,
+            "date": "1998",
+            "pages": {
+                "from": "115",
+                "to": "136"
+            }
+        },
+        {
+            "title": "A chemical classification of volcanic rocks based on the total alkali-silica diagram",
+            "authors": [
+                "LeBas",
+                "MJ",
+                "RWLe Maitre",
+                "AStreckeisen",
+                "BZanettin"
+            ],
+            "journal": "J. Petrol",
+            "date": "1986",
+            "pages": {
+                "from": "459",
+                "to": "469"
+            }
+        },
+        {
+            "title": "Crustal generation of the Himalayan leucogranites",
+            "authors": [
+                "LeFort",
+                "P",
+                "MCuney",
+                "CDeniel",
+                "CFLanord",
+                "SM FSheppard",
+                "BNUpreti",
+                "PVidal"
+            ],
+            "journal": "Tectonophysics",
+            "date": "1987",
+            "pages": {
+                "from": "39",
+                "to": "57"
+            }
+        },
+        {
+            "title": "Recent advances in the study of the Mesoproterozoic geochronology in the North China Craton",
+            "authors": [
+                "HKLi",
+                "SNLu",
+                "WBSu",
+                "ZQXiang",
+                "HYZhou",
+                "YQZhang"
+            ],
+            "journal": "J. Asian Earth Sci",
+            "date": "2013",
+            "pages": {
+                "from": "216",
+                "to": "227"
+            }
+        },
+        {
+            "title": "SHRIMP U-Pb zircon geochronology of the Liaoji granitoids: Constraints on the evolution of the Paleoproterozoic Jiao-Liao-Ji belt in the Eastern Block of the North China Craton",
+            "authors": [
+                "SZLi",
+                "GCZhao"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2007",
+            "pages": {
+                "from": "1",
+                "to": "16"
+            }
+        },
+        {
+            "title": "Are the South and North Liaohe Groups of the North China Craton different exotic terranes? Nd isotope constraints",
+            "authors": [
+                "SZLi",
+                "GCZhao",
+                "MSun",
+                "ZZHan",
+                "GTZhao",
+                "DFHao"
+            ],
+            "journal": "Gondwana Res",
+            "date": "2006",
+            "pages": {
+                "from": "198",
+                "to": "208"
+            }
+        },
+        {
+            "title": "Deformation history of the Hengshan-Wutai-Fuping Complexes: Implications for the evolution of the Trans-North China Orogen",
+            "authors": [
+                "SZLi",
+                "GCZhao",
+                "SAWilde",
+                "JZhang",
+                "MSun",
+                "GWZhang",
+                "LMDai"
+            ],
+            "journal": "Gondwana Res",
+            "date": "2010",
+            "pages": {
+                "from": "611",
+                "to": "631"
+            }
+        },
+        {
+            "title": "Paleoproterozoic structural evolution of the southern segment of the Jiao-Liao-Ji Belt, North China Craton",
+            "authors": [
+                "SZLi",
+                "GCZhao",
+                "MSantosh",
+                "XLiu",
+                "LMLai",
+                "YHSuo",
+                "MCSong",
+                "PCWang"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2012",
+            "pages": {
+                "from": "59",
+                "to": "73"
+            }
+        },
+        {
+            "title": "Geochronology of khondalite-series rocks of the Jining Complex: Confirmation of depositional age and tectonometamorphic evolution of the North China craton",
+            "authors": [
+                "XPLi",
+                "ZYYang",
+                "GCZhao",
+                "RGrapes",
+                "JHGuo"
+            ],
+            "journal": "Int. Geol. Rev",
+            "date": "2011",
+            "pages": {
+                "from": "1194",
+                "to": "1211"
+            }
+        },
+        {
+            "title": "U-Pb and Hf isotopic study of detrital zircons from the Yejishan Group of the L\u20ac uliang Complex: Constraints on the timing of collision between the Eastern and Western Blocks, North China Craton",
+            "authors": [
+                "CHLiu",
+                "GCZhao",
+                "MSun",
+                "FYWu",
+                "JHYang",
+                "CQYin",
+                "WHLeung"
+            ],
+            "journal": "Sediment. Geol",
+            "date": "2011",
+            "pages": {
+                "from": "129",
+                "to": "140"
+            }
+        },
+        {
+            "title": "Provenance and tectonic setting of the Jiehekou Group in the Lu\u20ac uliang Complex: Constraints from zircon U-Pb age and Hf isotopic studies",
+            "authors": [
+                "CHLiu",
+                "FLLiu",
+                "GCZhao"
+            ],
+            "journal": "Acta Petrol. Sin",
+            "date": "2013",
+            "pages": {
+                "from": "517",
+                "to": "553"
+            }
+        },
+        {
+            "title": "Geochemical, Sr-Nd isotopic, and zircon U-Pb geochronological constraints on the petrogenesis of Late Paleoproterozoic mafic dykes within the northern North China Craton",
+            "authors": [
+                "SLiu",
+                "CXFeng",
+                "BMJahn",
+                "RZHu",
+                "SGao",
+                "GYFeng",
+                "SCLai",
+                "YHYang",
+                "YQQi",
+                "IMCoulson"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2013",
+            "pages": {
+                "from": "182",
+                "to": "192"
+            }
+        },
+        {
+            "title": "An Archean continental block in the Taihangshan and Hengshan regions: Constraints from geochronology and geochemistry",
+            "authors": [
+                "SWLiu",
+                "JHLi",
+                "YMPan",
+                "JZhang",
+                "QGLi"
+            ],
+            "journal": null,
+            "date": "2002",
+            "pages": {
+                "from": "568",
+                "to": "576"
+            }
+        },
+        {
+            "title": "Geological and isotopic geochemical constraints on the evolution of the Fuping Complex, North China Craton",
+            "authors": [
+                "SWLiu",
+                "YMPan",
+                "JHLi",
+                "QGLi",
+                "JZhang"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2002",
+            "pages": {
+                "from": "41",
+                "to": "56"
+            }
+        },
+        {
+            "title": "Geology, geochemistry of metamorphic volcanic rock suite in Precambrian Yejishan Group, L\u20ac uliang mountains and its tectonic implications",
+            "authors": [
+                "SWLiu",
+                "QGLi",
+                "LFZhang"
+            ],
+            "journal": "Acta Petrol. Sin",
+            "date": "2009",
+            "pages": {
+                "from": "547",
+                "to": "560"
+            }
+        },
+        {
+            "title": "Guandishan granitoids of the Paleoproterozoic L\u20ac uliang metamorphic complex in the Trans-North China Orogen: SHRIMP zircon ages, petrogenesis and tectonic implications",
+            "authors": [
+                "SWLiu",
+                "QGLi",
+                "CHLiu",
+                "YJ",
+                "FZhang"
+            ],
+            "journal": "Acta Geol. Sin",
+            "date": "2009",
+            "pages": {
+                "from": "580",
+                "to": "602"
+            }
+        },
+        {
+            "title": "U-Pb isotopic ages and their significance of Alkaline Granite in the southern margin of the North China Craton",
+            "authors": [
+                "SNLu",
+                "HKLi",
+                "HMLi",
+                "BSong",
+                "SYWang",
+                "HYZhou",
+                "HChen"
+            ],
+            "journal": "Geol. Bull. China",
+            "date": "2003",
+            "pages": {
+                "from": "762",
+                "to": "768"
+            }
+        },
+        {
+            "title": "Precambrian metamorphic basement and sedimentary cover of the North China Craton: A review",
+            "authors": [
+                "SNLu",
+                "GCZhao",
+                "HCWang",
+                "GJHao"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2008",
+            "pages": {
+                "from": "77",
+                "to": "93"
+            }
+        },
+        {
+            "title": "The composition of the Earth",
+            "authors": [
+                "WFMcdonough",
+                "SSSun"
+            ],
+            "journal": "Chem. Geol",
+            "date": "1995",
+            "pages": {
+                "from": "223",
+                "to": "253"
+            }
+        },
+        {
+            "title": "A method of discriminating between different type of middle ocean ridge basalts and continental tholeiites with the Nb-Zr-Y diagram",
+            "authors": [
+                "MMeschede"
+            ],
+            "journal": "Chem. Geol",
+            "date": "1986",
+            "pages": {
+                "from": "207",
+                "to": "218"
+            }
+        },
+        {
+            "title": "Volcanic rock series in island arcs and active continental margins",
+            "authors": [
+                "AMiyashiro"
+            ],
+            "journal": "Am. J. Sci",
+            "date": "1974",
+            "pages": {
+                "from": "321",
+                "to": "355"
+            }
+        },
+        {
+            "title": "Hafnium isotope characterization of the GJ-1 zircon reference material by solution and laser-ablation MC-ICPMS",
+            "authors": [
+                "ML AMorel",
+                "ONebel",
+                "YJNebel-Jacobsen",
+                "JSMiller",
+                "PZVroon"
+            ],
+            "journal": "Chem. Geol",
+            "date": "2008",
+            "pages": {
+                "from": "231",
+                "to": "235"
+            }
+        },
+        {
+            "title": "Petrogenetic implications of Ti, Zr, Y, and Nb variations in volcanic rocks",
+            "authors": [
+                "JAPearce",
+                "MJNorry"
+            ],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": "1979",
+            "pages": {
+                "from": "33",
+                "to": "47"
+            }
+        },
+        {
+            "title": "Discovery of Mesoproterozoic diabase dyke in Tonghua region, Jilin Province and its tectonic implications",
+            "authors": [
+                "FPPei",
+                "YFYe",
+                "FWang",
+                "HHGao",
+                "SMLu",
+                "DBYang"
+            ],
+            "journal": "J. Jilin Univ. (Earth Sci. Ed.)",
+            "date": "2013",
+            "pages": {
+                "from": "110",
+                "to": "118"
+            }
+        },
+        {
+            "title": "75 Ga mafic dyke swarms in the central North China Craton implications for a plumerelated break-up event",
+            "authors": [
+                "PPeng",
+                "MGZhai",
+                "JHGuo",
+                ";EHanski",
+                "SMertanen",
+                "TRam\u20ac O",
+                "JVuollo"
+            ],
+            "journal": null,
+            "date": "2006",
+            "pages": {
+                "from": "99",
+                "to": "112"
+            }
+        },
+        {
+            "title": "Reconstruction and interpretation of giant mafic dyke swarms: A case study of 1.78 Ga magmatism in the North China craton",
+            "authors": [
+                "PPeng"
+            ],
+            "journal": null,
+            "date": "2010",
+            "pages": {
+                "from": "163",
+                "to": "178"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Geochemistry and geological significance of the 1.8 Ga mafic dyke swarms in the North China Craton: An example from the juncture of Shanxi, Hebei and Inner Mongolia",
+            "authors": [
+                "PPeng",
+                "MGZhai",
+                "HFZhang",
+                "TPZhao",
+                "ZYNi"
+            ],
+            "journal": "Acta Petrol. Sin",
+            "date": "2004",
+            "pages": {
+                "from": "439",
+                "to": "456"
+            }
+        },
+        {
+            "title": "Geochronological constraints on the Paleoproterozoic evolution of the North China Craton: SHRIMP zircon ages of different types of mafic dikes",
+            "authors": [
+                "PPeng",
+                "MGZhai",
+                "HFZhang",
+                "JHGuo"
+            ],
+            "journal": "Int. Geol. Rev",
+            "date": "2005",
+            "pages": {
+                "from": "492",
+                "to": "508"
+            }
+        },
+        {
+            "title": "Nature of mantle source contributions and crystal differentiation in the petrogenesis of the 1.78 Ga mafic dykes in the central North China craton",
+            "authors": [
+                "PPeng",
+                "MGZhai",
+                "JHGuo",
+                "TKusky",
+                "TPZhao"
+            ],
+            "journal": "Gondwana Res",
+            "date": "2007",
+            "pages": {
+                "from": "29",
+                "to": "46"
+            }
+        },
+        {
+            "title": "A 1.78 Ga large igneous province in the North China craton: The Xiong'er volcanic Province and the North China dyke swarm",
+            "authors": [
+                "PPeng",
+                "MGZhai",
+                "REErnst",
+                "JHGuo",
+                "FLiu",
+                "BHu"
+            ],
+            "journal": "Lithos",
+            "date": "2008",
+            "pages": {
+                "from": "260",
+                "to": "280"
+            }
+        },
+        {
+            "title": "Age of the Miyun dyke swarm: Constraints on the maximum depositional age of the Changcheng System",
+            "authors": [
+                "PPeng",
+                "FLiu",
+                "MGZhai",
+                "JHGuo"
+            ],
+            "journal": "Chin. Sci. Bull",
+            "date": "2011",
+            "pages": {
+                "from": "2975",
+                "to": "2980"
+            }
+        },
+        {
+            "title": "U-Pb baddeleyite ages, distribution and geochemistry of 925 Ma mafic dykes and 900 Ma sills in the North China craton: Evidence for a Neoproterozoic mantle plume",
+            "authors": [
+                "PPeng",
+                "WBleeker",
+                "REErnst",
+                "US\u20ac",
+                "VMcnicoll"
+            ],
+            "journal": "Lithos",
+            "date": "2011",
+            "pages": {
+                "from": "210",
+                "to": "221"
+            }
+        },
+        {
+            "title": "Genesis of the Hengling magmatic belt in the North China Craton: Implications for Paleoproterozoic tectonics",
+            "authors": [
+                "PPeng",
+                "JHGuo",
+                "MGZhai",
+                "BFWindley",
+                "TSLi",
+                "FLiu"
+            ],
+            "journal": null,
+            "date": "2012",
+            "pages": {
+                "from": "27",
+                "to": "44"
+            }
+        },
+        {
+            "title": "Mesoproterozoic high Fe-Ti mafic magmatism in western Shandong, North China Craton: Petrogenesis and implications for the final breakup of the Columbia supercontinent",
+            "authors": [
+                "TPPeng",
+                "SAWilde",
+                "WMFan",
+                "BXPeng",
+                "YSMao"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2013",
+            "pages": {
+                "from": "190",
+                "to": "207"
+            }
+        },
+        {
+            "title": "Ga) volcanic and ophiolitic rocks in the Wutaishan greenstone belt, central orogenic belt, North China Craton: Implications for geodynamic setting and continental growth",
+            "authors": [
+                "APolat",
+                "TKusky",
+                "JHLi",
+                "BFryer",
+                "RKerrich",
+                "KPatrick"
+            ],
+            "journal": null,
+            "date": "2005",
+            "pages": {
+                "from": "1387",
+                "to": "1399"
+            }
+        },
+        {
+            "title": "Geochemical and petrological evidence for a suprasubduction zone origin of Neoarchean (ca. 2.5 Ga) peridotites, central orogenic belt, North China craton",
+            "authors": [
+                "APolat",
+                "CHerzberg",
+                "CUnker",
+                "RRodgers",
+                "TKusky",
+                "JHLi",
+                "BFryer",
+                "JDelaney"
+            ],
+            "journal": "Geol. Soc. Am. Bull",
+            "date": "2006",
+            "pages": {
+                "from": "771",
+                "to": "784"
+            }
+        },
+        {
+            "title": "Nature and composition of the continental crust: A lower crustal perspective",
+            "authors": [
+                "RLRudnick",
+                "DMFountain"
+            ],
+            "journal": "Rev. Geophys",
+            "date": "1995",
+            "pages": {
+                "from": "267",
+                "to": "309"
+            }
+        },
+        {
+            "title": "Identification of 5 time-groups of dike swarms in Shanxi-Hebei-Inner Mongulia border area and its tectonic implications",
+            "authors": [
+                "JAShao",
+                "MGZhai",
+                "LQZhang",
+                "DMLi"
+            ],
+            "journal": "Acta Geol. Sin",
+            "date": "2005",
+            "pages": {
+                "from": "56",
+                "to": "66"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "YRShi",
+                "DYLiu",
+                "AKr\u20ac Oner",
+                "PJian",
+                "LCMiao",
+                "FQZhang"
+            ],
+            "journal": null,
+            "date": "2012",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "A-type granite on the northern margin of the North China Craton: Implications for intraplate extension of the Columbia supercontinent",
+            "authors": [
+                "Ma"
+            ],
+            "journal": "Lithos",
+            "date": null,
+            "pages": {
+                "from": "1",
+                "to": "9"
+            }
+        },
+        {
+            "title": "Geochemistry and geological implications of Mafic dyke swarms in the southwestern area of Zhongtiao Mountains",
+            "authors": [
+                "WLShu",
+                "GTHou",
+                "CCWang",
+                "FFXiao",
+                "LLi"
+            ],
+            "journal": "Acta Sci. Nat. Univ. Pekin",
+            "date": "2011",
+            "pages": {
+                "from": "1055",
+                "to": "1062"
+            }
+        },
+        {
+            "title": "Ple sovice zircon-A new natural reference material for U-Pb and Hf isotopic microanalysis",
+            "authors": [
+                "JSl Ama"
+            ],
+            "journal": "Chem. Geol",
+            "date": "2008",
+            "pages": {
+                "from": "1",
+                "to": "35"
+            }
+        },
+        {
+            "title": "The 176Lu decay constant determined by Lu-Hf and U-Pb isotope systematics of Precambrian mafic intrusions",
+            "authors": [
+                "US\u20ac Oderlund",
+                "PJPatchett",
+                "JDVervoort",
+                "CEIsachsen"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2004",
+            "pages": {
+                "from": "311",
+                "to": "324"
+            }
+        },
+        {
+            "title": "Chemical and isotopic systematics of oceanic basalt: Implication for mantle composition and processes",
+            "authors": [
+                "SSSun",
+                "WFMcdonough"
+            ],
+            "journal": null,
+            "date": "1989",
+            "pages": {
+                "from": "528",
+                "to": "548"
+            }
+        },
+        {
+            "title": "Metamorphic P-T path and tectonic implications of medium-pressure pelitic granulites from the Jiaobei massif in the Jiao-Liao-Ji Belt, North China Craton",
+            "authors": [
+                "PYTam",
+                "GCZhao",
+                "MSun",
+                "SZLi",
+                "YIizukac",
+                "SKMa",
+                "CQYin",
+                "YHHe",
+                "MLWu"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2012",
+            "pages": {
+                "from": "177",
+                "to": "191"
+            }
+        },
+        {
+            "title": "Petrology and metamorphic P-T path of high-pressure mafic granulites from the Jiaobei massif in the Jiao-Liao-Ji Belt, North China Craton",
+            "authors": [
+                "PYTam",
+                "GCZhao",
+                "MSun",
+                "SZLi",
+                "MLWu",
+                "CQYin"
+            ],
+            "journal": "Lithos",
+            "date": "2012",
+            "pages": {
+                "from": "94",
+                "to": "109"
+            }
+        },
+        {
+            "title": "Khondalite series-Geochronology and geochemistry of the Jiehekou Group in Luliang area",
+            "authors": [
+                "YSWan",
+                "YSGeng",
+                "QHShen",
+                "RXZhang"
+            ],
+            "journal": "Acta Petrol. Sin",
+            "date": "2000",
+            "pages": {
+                "from": "49",
+                "to": "58"
+            }
+        },
+        {
+            "title": "SHRIMP U-Pb zircon geochronology of Palaeoproterozoic metasedimentary rocks in the North China Craton: Evidence for a major Late Palaeoproterozoic tectonothermal event",
+            "authors": [
+                "YSWan",
+                "BSong",
+                "DYLiu",
+                "SAWilde",
+                "JAWu",
+                "YRShi",
+                "XYYin",
+                "HYZhou"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2006",
+            "pages": {
+                "from": "249",
+                "to": "271"
+            }
+        },
+        {
+            "title": "Episodic Paleoproterozoic (2.45, 1.95 and 1.85 Ga) mafic magmatism and associated high temperature metamorphism in the Daqingshan area",
+            "authors": [
+                "YSWan",
+                "ZYXu",
+                "CYDong",
+                "ANutman",
+                "MZMa",
+                "HQXie",
+                "SJLiu",
+                "DYLiu",
+                "HCWang",
+                "HCu"
+            ],
+            "journal": null,
+            "date": "2013",
+            "pages": {
+                "from": "71",
+                "to": "93"
+            }
+        },
+        {
+            "title": "Petrology and metamorphism of khondalites from Jining Complex in the North China Craton",
+            "authors": [
+                "FWang",
+                "XPLi",
+                "HChu",
+                "GCZhao"
+            ],
+            "journal": "Int. Geol. Rev",
+            "date": "2011",
+            "pages": {
+                "from": "212",
+                "to": "229"
+            }
+        },
+        {
+            "title": "An outline of the tectonic evolution of China",
+            "authors": [
+                "HZWang",
+                "XXMo"
+            ],
+            "journal": "Episodes",
+            "date": "1995",
+            "pages": {
+                "from": "6",
+                "to": "16"
+            }
+        },
+        {
+            "title": "Geochemistry and zircon U-Pb-Hf isotopes of the late Paleoproterozoic Jianping diorite-monzonite-syenite suite of the North China Craton: Implications for petrogenesis and geodynamic setting",
+            "authors": [
+                "WWang",
+                "SWLiu",
+                "XBai",
+                "QGLi",
+                "PTYang",
+                "YZhao",
+                "SHZhang",
+                "RRGuo"
+            ],
+            "journal": "Lithos",
+            "date": "2013",
+            "pages": {
+                "from": "175",
+                "to": "194"
+            }
+        },
+        {
+            "title": "Late Paleoproterozoic geodynamics of the North China Craton: Geochemical and zircon U-Pb-Hf records from a volcanic suite in the Yanliao rift",
+            "authors": [
+                "WWang",
+                "SWLiu",
+                "MSantosh",
+                "ZBDeng",
+                "BRGuo",
+                "YZhao",
+                "SHZhang",
+                "PTYang",
+                "XBai",
+                "RRGuo"
+            ],
+            "journal": "Gondwana Res",
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Ga mafic dykes in the North China Craton and their implications for the reconstruction of the Columbia supercontinent",
+            "authors": [
+                "WWang",
+                "SWLiu",
+                "MSantosh",
+                "LFZhang",
+                "XBai",
+                "YZhao",
+                "SHZhang",
+                "RRGuo"
+            ],
+            "journal": "Gondwana Res",
+            "date": "2014",
+            "pages": {
+                "from": "1",
+                "to": "23"
+            }
+        },
+        {
+            "title": "Two episodes of Paleoproterozoic metamorphosed mafic dykes in the Lvliang Complex: Implications for the evolution of the Trans-North China Orogen",
+            "authors": [
+                "XWang",
+                "WBZhu",
+                "RFGe",
+                "MLuo",
+                "XQZhu",
+                "QLZhang",
+                "LSWang",
+                "XMRen"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2014",
+            "pages": {
+                "from": "133",
+                "to": "148"
+            }
+        },
+        {
+            "title": "Lithospheric thinning and reworking of Late Archean juvenile crust on the southern margin of the North China Craton: Evidence from the Longwangzhuang Paleoproterozoic A-type granites and their surrounding Cretaceous adakite-like granites",
+            "authors": [
+                "XLWang",
+                "SYJiang",
+                "BZDai",
+                "JKern"
+            ],
+            "journal": "Geol. J",
+            "date": "2013",
+            "pages": {
+                "from": "498",
+                "to": "515"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Structural evolution and 40 Ar/ 39 Ar dating of the Zanhuang metamorphic domain in the North China Craton: Constraints on Paleoproterozoic tectonothermal overprinting",
+            "authors": [
+                "YJWang",
+                "WMFan",
+                "YZhang",
+                "FGuo"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2003",
+            "pages": {
+                "from": "159",
+                "to": "182"
+            }
+        },
+        {
+            "title": "Geochemical, 40 Ar/ 39 Ar geochronological and Sr-Nd isotopic constraints on the origin of Paleoproterozoic mafic dikes from the southern Taihang Mountains and implications for the ca. 1800 Ma event of the North China Craton",
+            "authors": [
+                "YJWang",
+                "WMFan",
+                "YHZhang",
+                "FGuo",
+                "HFZhang",
+                "TPPeng"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2004",
+            "pages": {
+                "from": "55",
+                "to": "77"
+            }
+        },
+        {
+            "title": "LA-ICP-MS U-Pb zircon geochronology and geochemistry of Paleoproterozoic mafic dykes from western Shandong Province: Implications for back-arc basin magmatism in the Eastern Block, North China Craton",
+            "authors": [
+                "YJWang",
+                "GCZhao",
+                "WMFan",
+                "TPPeng",
+                "LHSun",
+                "XPXia"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2007",
+            "pages": {
+                "from": "107",
+                "to": "124"
+            }
+        },
+        {
+            "title": "Geochemistry of Paleoproterozoic (1770 Ma) mafic dikes from the Trans-North China Orogen and tectonic implications",
+            "authors": [
+                "YJWang",
+                "GCZhao",
+                "PACawood",
+                "WMFan",
+                "TPPeng",
+                "LHSun"
+            ],
+            "journal": "J. Asian Earth Sci",
+            "date": "2008",
+            "pages": {
+                "from": "61",
+                "to": "77"
+            }
+        },
+        {
+            "title": "Tectonic setting and significance of 2.3-2.1 Ga magmatic events in the Trans-North China Orogen: New constraints from the Yanmenguan mafic-ultramafic intrusion in the Hengshan-Wutai-Fuping area",
+            "authors": [
+                "ZHWang",
+                "SAWilde",
+                "JLWan"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2010",
+            "pages": {
+                "from": "27",
+                "to": "42"
+            }
+        },
+        {
+            "title": "Archean to Paleoproterozoic evolution of the North China Craton",
+            "authors": [
+                "SAWilde",
+                "GCZhao"
+            ],
+            "journal": "J. Asian Earth Sci",
+            "date": "2005",
+            "pages": {
+                "from": "519",
+                "to": "522"
+            }
+        },
+        {
+            "title": "Development of the North China Craton during the Late Archaean and its final amalgamation at 1.8 Ga: Some speculations on its position within a global Palaeoproterozoic supercontinent",
+            "authors": [
+                "SAWilde",
+                "GCZhao",
+                "MSun"
+            ],
+            "journal": "Gondwana Res",
+            "date": "2002",
+            "pages": {
+                "from": "70892",
+                "to": "70893"
+            }
+        },
+        {
+            "title": "Igneous Petrogenesis",
+            "authors": [
+                "MWilson"
+            ],
+            "journal": null,
+            "date": "1989",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Geochemical discrimination of different magma series and their differentiation products using immobile elements",
+            "authors": [
+                "JAWinchester",
+                "PAFloyd"
+            ],
+            "journal": "Chem. Geol",
+            "date": "1977",
+            "pages": {
+                "from": "325",
+                "to": "343"
+            }
+        },
+        {
+            "title": "Hf isotopic compositions of the standard zircons and baddeleyites used in U-Pb geochronology",
+            "authors": [
+                "FYWu",
+                "YHYang",
+                "LWXie",
+                "JHYang",
+                "PXu"
+            ],
+            "journal": "Chem. Geol",
+            "date": "2006",
+            "pages": {
+                "from": "105",
+                "to": "126"
+            }
+        },
+        {
+            "title": "Late Paleoproterozoic rift-related magmatic rocks in the North China Craton: Geological records of rifting in the Columbia supercontinent",
+            "authors": [
+                "LQXia",
+                "ZCXia",
+                "XYXu",
+                "XMLi",
+                "ZPMa"
+            ],
+            "journal": "Earth Sci. Rev",
+            "date": "2013",
+            "pages": {
+                "from": "69",
+                "to": "86"
+            }
+        },
+        {
+            "title": "Emplacement age of the gabbro-diabase dike in the Hongmen scenic region of Mount Tai",
+            "authors": [
+                "ZQXiang",
+                "HKLi",
+                "SNLu",
+                "HYZhou",
+                "HMLi",
+                "HCWang",
+                "ZHChen",
+                "JNiu"
+            ],
+            "journal": null,
+            "date": "2012",
+            "pages": {
+                "from": "2831",
+                "to": "2842"
+            }
+        },
+        {
+            "title": "Petrogenesis and tectonic implications of Late Mesozoic granites in the NE Yangtze Block, China: Further insights from the Jiuhuashan-Qingyang complex",
+            "authors": [
+                "XSXu",
+                "KSuzuki",
+                "LLiu",
+                "DZWang"
+            ],
+            "journal": "Geol. Mag",
+            "date": "2010",
+            "pages": {
+                "from": "219",
+                "to": "232"
+            }
+        },
+        {
+            "title": "Zircon U-Pb ages and Hf isotopes and their geological significance of the Miyun rapakivi granites from Beijing",
+            "authors": [
+                "JHYang",
+                "FYWu",
+                "XMLiu",
+                "LWXie"
+            ],
+            "journal": null,
+            "date": "2005",
+            "pages": {
+                "from": "1633",
+                "to": "1644"
+            }
+        },
+        {
+            "title": "Mesoproterozoic mafic and carbonatitic dykes from the northern margin of the North China Craton: Implications for the final breakup of Columbia supercontinent",
+            "authors": [
+                "KFYang",
+                "HRFan",
+                "MSantosh",
+                "FFHu",
+                "KYWang"
+            ],
+            "journal": "Tectonophysics",
+            "date": "2011",
+            "pages": {
+                "from": "1",
+                "to": "10"
+            }
+        },
+        {
+            "title": "U-Pb and Hf isotopic study of zircons of the Helanshan Complex: Constrains on the evolution of the Khondalite Belt in the Western Block of the North China Craton",
+            "authors": [
+                "CQYin",
+                "GCZhao",
+                "JHGuo",
+                "MSun",
+                "XWZhou",
+                "JZhang",
+                "XPXia",
+                "CHLiu"
+            ],
+            "journal": "Lithos",
+            "date": "2011",
+            "pages": {
+                "from": "25",
+                "to": "38"
+            }
+        },
+        {
+            "title": "Metamorphism and partial melting of high-pressure pelitic granulites from the Qianlishan Complex: Constraints on the tectonic evolution of the Khondalite Belt in the North China Craton",
+            "authors": [
+                "CQYin",
+                "GCZhao",
+                "CJWei",
+                "MSun",
+                "JHGuo",
+                "XWZhou"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2014",
+            "pages": {
+                "from": "172",
+                "to": "186"
+            }
+        },
+        {
+            "title": "Geochronology and geochemistry of the Mesoproterozoic Panhe syenites in the southern margin of North China Craton and its tectonic implications",
+            "authors": [
+                "LJZeng",
+                "ZWBao",
+                "TPZhao",
+                "JMYao",
+                "DZhou"
+            ],
+            "journal": "Acta Petrol. Sin",
+            "date": "2013",
+            "pages": {
+                "from": "2425",
+                "to": "2436"
+            }
+        },
+        {
+            "title": "The amalgamation of the supercontinent of North China Craton at the end of Neo-Archaean and its breakup during late Palaeoproterozoic and Meso-Proterozoic",
+            "authors": [
+                "MGZhai",
+                "AGBian",
+                "TPZhao"
+            ],
+            "journal": "Sci. China Ser. D",
+            "date": "2000",
+            "pages": {
+                "from": "219",
+                "to": "232"
+            }
+        },
+        {
+            "title": "Magnetic fabric evidence of the style of emplacement of late Precambrian mafic dyke swarms in the Lvliang-northern Shanxi region, North China",
+            "authors": [
+                "CZhang",
+                "GTHou",
+                "XLQian"
+            ],
+            "journal": "Geol. Rev",
+            "date": "1994",
+            "pages": {
+                "from": "245",
+                "to": "251"
+            }
+        },
+        {
+            "title": "Neoproterozoic mafic-ultramafic layered intrusion in Quruqtagh of northeastern Tarim Block, NW China: Two phases of mafic igneous activity with different mantle sources",
+            "authors": [
+                "CLZhang",
+                "DSYang",
+                "HYWang",
+                "YTakahashi",
+                "HMYe"
+            ],
+            "journal": "Gondwana Res",
+            "date": "2011",
+            "pages": {
+                "from": "177",
+                "to": "190"
+            }
+        },
+        {
+            "title": "Deformation history of the Hengshan Complex: Implications for the tectonic evolution of the Trans-North China Orogen",
+            "authors": [
+                "JZhang",
+                "GCZhao",
+                "SZLi",
+                "MSun",
+                "SWLiu",
+                "SAWilde",
+                "AKr\u20ac",
+                "CQYin"
+            ],
+            "journal": "J. Struct. Geol",
+            "date": "2007",
+            "pages": {
+                "from": "933",
+                "to": "949"
+            }
+        },
+        {
+            "title": "Polyphase deformation of the Fuping Complex, Trans-North China Orogen: Structures, SHRIMP U-Pb zircon ages and tectonic implications",
+            "authors": [
+                "JZhang",
+                "GCZhao",
+                "SZLi",
+                "MSun",
+                "SAWilde",
+                "SWLiu",
+                "CQYin"
+            ],
+            "journal": "J. Struct. Geol",
+            "date": "2009",
+            "pages": {
+                "from": "177",
+                "to": "193"
+            }
+        },
+        {
+            "title": "Structural pattern of the Wutai Complex and its constraints on the tectonic framework of the Trans-North China Orogen",
+            "authors": [
+                "JZhang",
+                "GCZhao",
+                "SZLi",
+                "MSun",
+                "LSChan",
+                "WLShen",
+                "SWLiu"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2012",
+            "pages": {
+                "from": "212",
+                "to": "229"
+            }
+        },
+        {
+            "title": "A review on late orogenic extension studies",
+            "authors": [
+                "JSZhang"
+            ],
+            "journal": "Earth Sci. Frontiers",
+            "date": "1995",
+            "pages": {
+                "from": "67",
+                "to": "84"
+            }
+        },
+        {
+            "title": "The 1.75-1.68 Ga anorthosite-mangerite-alkaligranitoid-rapakivi granite suite from the northern North China Craton: Magmatism related to a Paleoproterozoic orogen",
+            "authors": [
+                "SZhang",
+                "SLiu",
+                "YZhao",
+                "JYang",
+                "BSong",
+                "XLiu"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2007",
+            "pages": {
+                "from": "287",
+                "to": "312"
+            }
+        },
+        {
+            "title": "The 1.35 Ga diabase sills from the northern North China Craton: Implications for breakup of the Columbia (Nuna) supercontinent",
+            "authors": [
+                "SHZhang",
+                "YZhao",
+                "ZYYang",
+                "ZFHe",
+                "HWu"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2009",
+            "pages": {
+                "from": "588",
+                "to": "600"
+            }
+        },
+        {
+            "title": "Mid-Mesoproterozoic bimodal magmatic rocks in the northern North China Craton: Implications for magmatism related to breakup of the Columbia supercontinent",
+            "authors": [
+                "SHZhang",
+                "YZhao",
+                "MSantosh"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2012",
+            "pages": {
+                "from": "339",
+                "to": "367"
+            }
+        },
+        {
+            "title": "Precambrian Evolution of the North China Craton",
+            "authors": [
+                "GCZhao"
+            ],
+            "journal": null,
+            "date": "0194",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Lithotectonic elements of Precambrian basement in the North China Craton: Review and tectonic implications",
+            "authors": [
+                "GCZhao",
+                "MGZhai"
+            ],
+            "journal": "Gondwana Res",
+            "date": "2013",
+            "pages": {
+                "from": "1207",
+                "to": "1240"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "ALWang",
+                "V C"
+            ],
+            "journal": null,
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Thermal evolution of Archean basement rocks from the Eastern part of the North China Craton and its bearing on tectonic setting",
+            "authors": [
+                "GCZhao",
+                "SAWilde",
+                "PACawood",
+                "LZLu"
+            ],
+            "journal": "Int. Geol. Rev",
+            "date": "1998",
+            "pages": {
+                "from": "706",
+                "to": "721"
+            }
+        },
+        {
+            "title": "Petrology and P-T path of the Fuping mafic granulites: Implications for tectonic evolution of the central zone of the North China Craton",
+            "authors": [
+                "GCZhao",
+                "SAWilde",
+                "PACawood",
+                "LZLu"
+            ],
+            "journal": "J. Metamorph. Geol",
+            "date": "2000",
+            "pages": {
+                "from": "375",
+                "to": "391"
+            }
+        },
+        {
+            "title": "Metamorphism of basement rocks in the Central Zone of the North China Craton: Implications for Paleoproterozoic tectonic evolution",
+            "authors": [
+                "GCZhao",
+                "PACawood",
+                "SAWilde",
+                "LZLu"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2000",
+            "pages": {
+                "from": "55",
+                "to": "88"
+            }
+        },
+        {
+            "title": "Archean blocks and their boundaries in the North China Craton: Lithological, geochemical, structural and P-T path constraints and tectonic evolution",
+            "authors": [
+                "GCZhao",
+                "SAWilde",
+                "PACawood",
+                "MSun"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2001",
+            "pages": {
+                "from": "154",
+                "to": "156"
+            }
+        },
+        {
+            "title": "High-pressure granulite (retrograded eclogites) from the Hengshan Complex, North China Craton: Petrology and tectonic implications",
+            "authors": [
+                "GCZhao",
+                "PACawood",
+                "SAWilde",
+                "LZLu"
+            ],
+            "journal": "J. Petrol",
+            "date": "2001",
+            "pages": {
+                "from": "1141",
+                "to": "1170"
+            }
+        },
+        {
+            "title": "Assembly, accretion and breakup of the Paleo-Mesoproterozoic Columbia Supercontinent: Records in the North China Craton",
+            "authors": [
+                "GCZhao",
+                "MSun",
+                "SAWilde",
+                "SZLi"
+            ],
+            "journal": "Gondwana Res",
+            "date": "2003",
+            "pages": {
+                "from": "417",
+                "to": "434"
+            }
+        },
+        {
+            "title": "A Paleo-Mesoproterozoic supercontinent: Assembly, growth and breakup",
+            "authors": [
+                "GCZhao",
+                "MSun",
+                "SAWilde",
+                "SZLi"
+            ],
+            "journal": null,
+            "date": "2004",
+            "pages": {
+                "from": "91",
+                "to": "123"
+            }
+        },
+        {
+            "title": "Late Archean to Paleoproterozoic evolution of the North China Craton: Key issues revisited",
+            "authors": [
+                "GCZhao",
+                "MSun",
+                "SAWilde",
+                "SZLi"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2005",
+            "pages": {
+                "from": "177",
+                "to": "202"
+            }
+        },
+        {
+            "title": "SHRIMP U-Pb zircon geochronology of the Huai'an Complex: Constraints on Late Archean to Paleoproterozoic magmatic and metamorphic events in the Trans-North China Orogen",
+            "authors": [
+                "GCZhao",
+                "SAWilde",
+                "MSun",
+                "JHGuo",
+                "AKr\u20ac Oner",
+                "SZLi",
+                "XPLi",
+                "JZhang"
+            ],
+            "journal": "Am. J. Sci",
+            "date": "2008",
+            "pages": {
+                "from": "270",
+                "to": "303"
+            }
+        },
+        {
+            "title": "SHRIMP U-Pb zircon ages of granitoid rocks in the L\u20ac uliang Complex: Implications for the accretion and evolution of the Trans-North China Orogen",
+            "authors": [
+                "GCZhao",
+                "SAWilde",
+                "MSun",
+                "SZLi",
+                "XPLi",
+                "JZhang"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2008",
+            "pages": {
+                "from": "213",
+                "to": "226"
+            }
+        },
+        {
+            "title": "The Xiong'er volcanic belt at the southern margin of the North China Craton: Petrographic and geochemical evidence for its outboard position in the Paleo-Mesoproterozoic Columbia Supercontinent",
+            "authors": [
+                "GCZhao",
+                "YHHe",
+                "MSun"
+            ],
+            "journal": "Gondwana Res",
+            "date": "2009",
+            "pages": {
+                "from": "170",
+                "to": "181"
+            }
+        },
+        {
+            "title": "Single zircon grains record two Paleoproterozoic collisional events in the North China Craton",
+            "authors": [
+                "GCZhao",
+                "SAWilde",
+                "JHGuo",
+                "PACawood",
+                "MSun",
+                "XPLi"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2010",
+            "pages": {
+                "from": "266",
+                "to": "276"
+            }
+        },
+        {
+            "title": "Assembly, accretion and breakup of the Columbia Supercontinent: Records in the North China Craton revisited",
+            "authors": [
+                "GCZhao",
+                "MSun",
+                "SAWilde",
+                "SZLi"
+            ],
+            "journal": "Int. Geol. Rev",
+            "date": "2011",
+            "pages": {
+                "from": "1331",
+                "to": "1356"
+            }
+        },
+        {
+            "title": "Amalgamation of the North China Craton: Key issues and discussion",
+            "authors": [
+                "GCZhao",
+                "PACawood",
+                "SAWilde",
+                "MSun",
+                "JZhang",
+                "YHHe",
+                "CQYin"
+            ],
+            "journal": null,
+            "date": "2012",
+            "pages": {
+                "from": "55",
+                "to": "76"
+            }
+        },
+        {
+            "title": "Single zircon U-Pb ages and their geological significance of the Damiao anorthosite complex, Hebei Province",
+            "authors": [
+                "TPZhao",
+                "FKChen",
+                "MGZhai",
+                "BXia"
+            ],
+            "journal": "Acta Petrol. Sin",
+            "date": "2004",
+            "pages": {
+                "from": "685",
+                "to": "690"
+            }
+        },
+        {
+            "title": "Geochemical and Nd-Hf isotopic constraints on the origin of the 1.74 Ga Damiao anorthosite complex, North China Craton",
+            "authors": [
+                "TPZhao",
+                "WChen",
+                "MFZhou"
+            ],
+            "journal": "Lithos",
+            "date": "2009",
+            "pages": {
+                "from": "673",
+                "to": "690"
+            }
+        },
+        {
+            "title": "Geochemistry and SHRIMP U-Pb zircon geochronology of the Korla mafic dykes: Constrains on the Neoproterozoic continental breakup in the Tarim Block, northwest China",
+            "authors": [
+                "WBZhu",
+                "BHZheng",
+                "LSShu",
+                "DSMa",
+                "JLWan",
+                "DWZheng",
+                "ZZZhang",
+                "XQZhu"
+            ],
+            "journal": "J. Asian Earth Sci",
+            "date": "2011",
+            "pages": {
+                "from": "791",
+                "to": "804"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        }
+    ]
+}

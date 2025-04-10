@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: data-preprocessing
+Version: 1.0.0
+Summary: A modular pipeline for extracting text, metadata, and more from research papers.
+Author: Mohd Uwaish
+Author-email: mohd.uwaish@sub.uni-goettingen.de
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.26.4
+Requires-Dist: pandas>=2.2.3
+Requires-Dist: python-dotenv>=1.0.1
+Requires-Dist: requests>=2.32.3
+Requires-Dist: pdfminer.six>=20231228
+Requires-Dist: PyMuPDF>=1.24.10
+Requires-Dist: pillow>=10.4.0
+Requires-Dist: pdfplumber>=0.11.4
+Requires-Dist: camelot-py[cv]>=0.9.0
+Requires-Dist: spacy>=3.7.6
+Requires-Dist: nltk>=3.9.1
+Requires-Dist: loguru>=0.7.2
+Requires-Dist: sentence-transformers>=2.2.2
+Requires-Dist: scikit-learn>=1.2.0
+Requires-Dist: pytest>=7.2.0

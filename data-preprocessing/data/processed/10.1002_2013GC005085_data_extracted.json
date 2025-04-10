@@ -1,0 +1,2061 @@
+{
+    "metadata": {
+        "title": "Deep plume origin of the Louisville hotspot: Noble gas evidence",
+        "abstract": "Noble gas compositions have been reported for basaltic core samples from Louisville seamounts recovered during IODP Expedition 330. The in-vacuum crushing techniques were employed to extract noble gases from fresh olivine phenocrysts and submarine glasses with ages between 50 and 74 Ma.Stepwise crushing tests confirmed the extraction of magmatic noble gases from the olivine samples with minimal release of posteruption radiogenic nuclides; however, this was not always the case for the glass samples. The 3 He/ 4 He ratios of the studied samples range from a value similar to those of mid-ocean ridge basalts (MORB) to slightly elevated ratios up to 10.6 Ra. These ratios are not as high as those observed in other ocean island basalts, suggesting that the Louisville mantle plume was weak or the samples represent late-stage magmatic activity of the seamounts. However, two Louisville seamount basalts exhibit a primordial Ne isotopic signature that can be clearly discriminated from MORB Ne ratios. The He and Ne isotopic compositions of the Louisville seamount basalts can be explained by the mixing of less degassed mantle and depleted upper mantle with different He/Ne ratios. The presence of the less degassed mantle component in the source of the Louisville seamounts documents a deep origin of their mantle plume.",
+        "authors": [
+            {
+                "name": "TakeshiHanyu",
+                "affiliation": [
+                    {
+                        "department": "Institute for Research on Earth Evolution",
+                        "institution": null,
+                        "address": {
+                            "settlement": null,
+                            "region": null,
+                            "postcode": null
+                        }
+                    },
+                    {
+                        "department": "Agency for Marine-Earth Science and Technology",
+                        "institution": null,
+                        "address": {
+                            "settlement": "Yokosuka",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "CJAlle `gre",
+                "affiliation": []
+            },
+            {
+                "name": "AWHofmann",
+                "affiliation": []
+            },
+            {
+                "name": "KO'nions",
+                "affiliation": []
+            },
+            {
+                "name": "TAlthaus",
+                "affiliation": []
+            },
+            {
+                "name": "SNiedermann",
+                "affiliation": []
+            },
+            {
+                "name": "JErzinger",
+                "affiliation": []
+            },
+            {
+                "name": "MDBallmer",
+                "affiliation": []
+            },
+            {
+                "name": "GIto",
+                "affiliation": []
+            },
+            {
+                "name": "JVan Hunen",
+                "affiliation": []
+            },
+            {
+                "name": "PJTackley",
+                "affiliation": []
+            },
+            {
+                "name": "CBeier",
+                "affiliation": []
+            },
+            {
+                "name": "LVanderkluysen",
+                "affiliation": []
+            },
+            {
+                "name": "MRegelous",
+                "affiliation": []
+            },
+            {
+                "name": "JJMahoney",
+                "affiliation": []
+            },
+            {
+                "name": "DGarbe-Sch\u20ac Onberg",
+                "affiliation": []
+            },
+            {
+                "name": "QCheng",
+                "affiliation": []
+            },
+            {
+                "name": "KHPark",
+                "affiliation": []
+            },
+            {
+                "name": "JDMacdougall",
+                "affiliation": []
+            },
+            {
+                "name": "AZindler",
+                "affiliation": []
+            },
+            {
+                "name": "GWLugmair",
+                "affiliation": []
+            },
+            {
+                "name": "HStaudigel",
+                "affiliation": []
+            },
+            {
+                "name": "JWHawkins",
+                "affiliation": []
+            },
+            {
+                "name": "PFLonsdale",
+                "affiliation": []
+            },
+            {
+                "name": "DAClague",
+                "affiliation": []
+            },
+            {
+                "name": "GBDalrymple",
+                "affiliation": []
+            },
+            {
+                "name": "VClouard",
+                "affiliation": []
+            },
+            {
+                "name": "MGerbault",
+                "affiliation": []
+            },
+            {
+                "name": "VCourtillot",
+                "affiliation": []
+            },
+            {
+                "name": "ADavaille",
+                "affiliation": []
+            },
+            {
+                "name": "JBesse",
+                "affiliation": []
+            },
+            {
+                "name": "JStock",
+                "affiliation": []
+            },
+            {
+                "name": "DJDepaolo",
+                "affiliation": []
+            },
+            {
+                "name": "JGBryce",
+                "affiliation": []
+            },
+            {
+                "name": "ADodson",
+                "affiliation": []
+            },
+            {
+                "name": "DLShuster",
+                "affiliation": []
+            },
+            {
+                "name": "BMKennedy",
+                "affiliation": []
+            },
+            {
+                "name": "ETDixon",
+                "affiliation": []
+            },
+            {
+                "name": "ETDixon",
+                "affiliation": []
+            },
+            {
+                "name": "MHonda",
+                "affiliation": []
+            },
+            {
+                "name": "IMcdougall",
+                "affiliation": []
+            },
+            {
+                "name": "IHCampbell",
+                "affiliation": []
+            },
+            {
+                "name": "ISigurdsson",
+                "affiliation": []
+            },
+            {
+                "name": "EF\u20ac Uri",
+                "affiliation": []
+            },
+            {
+                "name": "DRHilton",
+                "affiliation": []
+            },
+            {
+                "name": "SAHalld Orsson",
+                "affiliation": []
+            },
+            {
+                "name": "PHBarry",
+                "affiliation": []
+            },
+            {
+                "name": "DHahm",
+                "affiliation": []
+            },
+            {
+                "name": "TPFischer",
+                "affiliation": []
+            },
+            {
+                "name": "KGr\u20ac",
+                "affiliation": []
+            },
+            {
+                "name": "DWGraham",
+                "affiliation": []
+            },
+            {
+                "name": "DWGraham",
+                "affiliation": []
+            },
+            {
+                "name": "WJJenkins",
+                "affiliation": []
+            },
+            {
+                "name": "MDKurz",
+                "affiliation": []
+            },
+            {
+                "name": "RBatiza",
+                "affiliation": []
+            },
+            {
+                "name": "CHamelin",
+                "affiliation": []
+            },
+            {
+                "name": "LDosso",
+                "affiliation": []
+            },
+            {
+                "name": "BBHanan",
+                "affiliation": []
+            },
+            {
+                "name": "MMoreira",
+                "affiliation": []
+            },
+            {
+                "name": "APKositsky",
+                "affiliation": []
+            },
+            {
+                "name": "MYThomas",
+                "affiliation": []
+            },
+            {
+                "name": "THanyu",
+                "affiliation": []
+            },
+            {
+                "name": "TJDunai",
+                "affiliation": []
+            },
+            {
+                "name": "GRDavies",
+                "affiliation": []
+            },
+            {
+                "name": "IKaneoka",
+                "affiliation": []
+            },
+            {
+                "name": "SNohda",
+                "affiliation": []
+            },
+            {
+                "name": "KUto",
+                "affiliation": []
+            },
+            {
+                "name": "THanyu",
+                "affiliation": []
+            },
+            {
+                "name": "KT MJohnson",
+                "affiliation": []
+            },
+            {
+                "name": "NHirano",
+                "affiliation": []
+            },
+            {
+                "name": "Z.-YRen",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "EHHauri",
+                "affiliation": []
+            },
+            {
+                "name": "LAOschmann",
+                "affiliation": []
+            },
+            {
+                "name": "JAWhitehead",
+                "affiliation": []
+            },
+            {
+                "name": "JWHawkins",
+                "affiliation": []
+            },
+            {
+                "name": "PFLonsdale",
+                "affiliation": []
+            },
+            {
+                "name": "RBatiza",
+                "affiliation": []
+            },
+            {
+                "name": "MHonda",
+                "affiliation": []
+            },
+            {
+                "name": "IMcdougall",
+                "affiliation": []
+            },
+            {
+                "name": "DBPatterson",
+                "affiliation": []
+            },
+            {
+                "name": "ADoulgeris",
+                "affiliation": []
+            },
+            {
+                "name": "DAClague",
+                "affiliation": []
+            },
+            {
+                "name": "MHonda",
+                "affiliation": []
+            },
+            {
+                "name": "IMcdougall",
+                "affiliation": []
+            },
+            {
+                "name": "DBPatterson",
+                "affiliation": []
+            },
+            {
+                "name": "ADoulgeris",
+                "affiliation": []
+            },
+            {
+                "name": "DAClague",
+                "affiliation": []
+            },
+            {
+                "name": "GIto",
+                "affiliation": []
+            },
+            {
+                "name": "JJMahoney",
+                "affiliation": []
+            },
+            {
+                "name": "GIto",
+                "affiliation": []
+            },
+            {
+                "name": "JJMahoney",
+                "affiliation": []
+            },
+            {
+                "name": "MGJackson",
+                "affiliation": []
+            },
+            {
+                "name": "MDKurz",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "RKWorkman",
+                "affiliation": []
+            },
+            {
+                "name": "MGJackson",
+                "affiliation": []
+            },
+            {
+                "name": "MDKurz",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "RAKeller",
+                "affiliation": []
+            },
+            {
+                "name": "DWGraham",
+                "affiliation": []
+            },
+            {
+                "name": "KAFarley",
+                "affiliation": []
+            },
+            {
+                "name": "RADuncan",
+                "affiliation": []
+            },
+            {
+                "name": "JELupton",
+                "affiliation": []
+            },
+            {
+                "name": "SDKing",
+                "affiliation": []
+            },
+            {
+                "name": "DLAnderson",
+                "affiliation": []
+            },
+            {
+                "name": "JGKonter",
+                "affiliation": []
+            },
+            {
+                "name": "BBHanan",
+                "affiliation": []
+            },
+            {
+                "name": "JBlichert-Toft",
+                "affiliation": []
+            },
+            {
+                "name": "AA PKoppers",
+                "affiliation": []
+            },
+            {
+                "name": "TPlank",
+                "affiliation": []
+            },
+            {
+                "name": "HStaudigel",
+                "affiliation": []
+            },
+            {
+                "name": "AA PKoppers",
+                "affiliation": []
+            },
+            {
+                "name": "HStaudigel",
+                "affiliation": []
+            },
+            {
+                "name": "MSPringle",
+                "affiliation": []
+            },
+            {
+                "name": "JRWijbrans",
+                "affiliation": []
+            },
+            {
+                "name": "AA PKoppers",
+                "affiliation": []
+            },
+            {
+                "name": "RADuncan",
+                "affiliation": []
+            },
+            {
+                "name": "BSteinberger",
+                "affiliation": []
+            },
+            {
+                "name": "AA PKoppers",
+                "affiliation": []
+            },
+            {
+                "name": "TYamazaki",
+                "affiliation": []
+            },
+            {
+                "name": "JGeldmacher",
+                "affiliation": []
+            },
+            {
+                "name": "AA PKoppers",
+                "affiliation": []
+            },
+            {
+                "name": "MDGowen",
+                "affiliation": []
+            },
+            {
+                "name": "LEColwell",
+                "affiliation": []
+            },
+            {
+                "name": "JSGee",
+                "affiliation": []
+            },
+            {
+                "name": "PFLonsdale",
+                "affiliation": []
+            },
+            {
+                "name": "JJMahoney",
+                "affiliation": []
+            },
+            {
+                "name": "RADuncan",
+                "affiliation": []
+            },
+            {
+                "name": "AA PKoppers",
+                "affiliation": []
+            },
+            {
+                "name": "AA PKoppers",
+                "affiliation": []
+            },
+            {
+                "name": "TYamazaki",
+                "affiliation": []
+            },
+            {
+                "name": "J",
+                "affiliation": []
+            },
+            {
+                "name": "MDKurz",
+                "affiliation": []
+            },
+            {
+                "name": "JCurtice",
+                "affiliation": []
+            },
+            {
+                "name": "DELott",
+                "affiliation": []
+            },
+            {
+                "name": "Iii",
+                "affiliation": []
+            },
+            {
+                "name": "ASolow",
+                "affiliation": []
+            },
+            {
+                "name": "MDKurz",
+                "affiliation": []
+            },
+            {
+                "name": "MMoreira",
+                "affiliation": []
+            },
+            {
+                "name": "JCurtice",
+                "affiliation": []
+            },
+            {
+                "name": "DELott",
+                "affiliation": []
+            },
+            {
+                "name": "Iii",
+                "affiliation": []
+            },
+            {
+                "name": "JJMahoney",
+                "affiliation": []
+            },
+            {
+                "name": "JMSinton",
+                "affiliation": []
+            },
+            {
+                "name": "MDKurz",
+                "affiliation": []
+            },
+            {
+                "name": "JCurtice",
+                "affiliation": []
+            },
+            {
+                "name": "DFornari",
+                "affiliation": []
+            },
+            {
+                "name": "DGeist",
+                "affiliation": []
+            },
+            {
+                "name": "MMoreira",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            },
+            {
+                "name": "Hanyu V C",
+                "affiliation": []
+            },
+            {
+                "name": "PFLonsdale",
+                "affiliation": []
+            },
+            {
+                "name": "TMatsumoto",
+                "affiliation": []
+            },
+            {
+                "name": "ASeta",
+                "affiliation": []
+            },
+            {
+                "name": "JMatsuda",
+                "affiliation": []
+            },
+            {
+                "name": "MTakebe",
+                "affiliation": []
+            },
+            {
+                "name": "YLChen",
+                "affiliation": []
+            },
+            {
+                "name": "SArai",
+                "affiliation": []
+            },
+            {
+                "name": "MKMcnutt",
+                "affiliation": []
+            },
+            {
+                "name": "DWCaress",
+                "affiliation": []
+            },
+            {
+                "name": "JReynolds",
+                "affiliation": []
+            },
+            {
+                "name": "KAJordahl",
+                "affiliation": []
+            },
+            {
+                "name": "RADuncan",
+                "affiliation": []
+            },
+            {
+                "name": "AMeibom",
+                "affiliation": []
+            },
+            {
+                "name": "DLAnderson",
+                "affiliation": []
+            },
+            {
+                "name": "NHSleep",
+                "affiliation": []
+            },
+            {
+                "name": "RFrei",
+                "affiliation": []
+            },
+            {
+                "name": "CPChamberlain",
+                "affiliation": []
+            },
+            {
+                "name": "MTHren",
+                "affiliation": []
+            },
+            {
+                "name": "JLWooden",
+                "affiliation": []
+            },
+            {
+                "name": "MMoreira",
+                "affiliation": []
+            },
+            {
+                "name": "JKunz",
+                "affiliation": []
+            },
+            {
+                "name": "CAlle `gre",
+                "affiliation": []
+            },
+            {
+                "name": "MMoreira",
+                "affiliation": []
+            },
+            {
+                "name": "KBreddam",
+                "affiliation": []
+            },
+            {
+                "name": "JCurtice",
+                "affiliation": []
+            },
+            {
+                "name": "MDKurz",
+                "affiliation": []
+            },
+            {
+                "name": "MMoreira",
+                "affiliation": []
+            },
+            {
+                "name": "JEscartin",
+                "affiliation": []
+            },
+            {
+                "name": "EGayer",
+                "affiliation": []
+            },
+            {
+                "name": "CHamelin",
+                "affiliation": []
+            },
+            {
+                "name": "ABezos",
+                "affiliation": []
+            },
+            {
+                "name": "FGuillon",
+                "affiliation": []
+            },
+            {
+                "name": "MCannat",
+                "affiliation": []
+            },
+            {
+                "name": "MAMoreira",
+                "affiliation": []
+            },
+            {
+                "name": "LDosso",
+                "affiliation": []
+            },
+            {
+                "name": "HOndr",
+                "affiliation": []
+            },
+            {
+                "name": "WJMorgan",
+                "affiliation": []
+            },
+            {
+                "name": "SMukhopadhyay",
+                "affiliation": []
+            },
+            {
+                "name": "SNiedermann",
+                "affiliation": []
+            },
+            {
+                "name": "WBach",
+                "affiliation": []
+            },
+            {
+                "name": "JErzinger",
+                "affiliation": []
+            },
+            {
+                "name": "RJPoreda",
+                "affiliation": []
+            },
+            {
+                "name": "KAFarley",
+                "affiliation": []
+            },
+            {
+                "name": "MRegelous",
+                "affiliation": []
+            },
+            {
+                "name": "JAGamble",
+                "affiliation": []
+            },
+            {
+                "name": "SPTurner",
+                "affiliation": []
+            },
+            {
+                "name": "PSarda",
+                "affiliation": []
+            },
+            {
+                "name": "TStaudacher",
+                "affiliation": []
+            },
+            {
+                "name": "CJAlle `gre",
+                "affiliation": []
+            },
+            {
+                "name": "PSarda",
+                "affiliation": []
+            },
+            {
+                "name": "MMoreira",
+                "affiliation": []
+            },
+            {
+                "name": "TStaudacher",
+                "affiliation": []
+            },
+            {
+                "name": "J.-GSchilling",
+                "affiliation": []
+            },
+            {
+                "name": "CJAlle `gre",
+                "affiliation": []
+            },
+            {
+                "name": "PScarsi",
+                "affiliation": []
+            },
+            {
+                "name": "BSteinberger",
+                "affiliation": []
+            },
+            {
+                "name": "MAntretter",
+                "affiliation": []
+            },
+            {
+                "name": "BSteinberger",
+                "affiliation": []
+            },
+            {
+                "name": "RSutherland",
+                "affiliation": []
+            },
+            {
+                "name": "RJO'connell",
+                "affiliation": []
+            },
+            {
+                "name": "AStracke",
+                "affiliation": []
+            },
+            {
+                "name": "AWHofmann",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "JTarduno",
+                "affiliation": []
+            },
+            {
+                "name": "NH.-P. Bunge",
+                "affiliation": []
+            },
+            {
+                "name": "USleep",
+                "affiliation": []
+            },
+            {
+                "name": "Hansen",
+                "affiliation": []
+            },
+            {
+                "name": "JATarduno",
+                "affiliation": []
+            },
+            {
+                "name": "MTrieloff",
+                "affiliation": []
+            },
+            {
+                "name": "JKunz",
+                "affiliation": []
+            },
+            {
+                "name": "DAClague",
+                "affiliation": []
+            },
+            {
+                "name": "DHarrison",
+                "affiliation": []
+            },
+            {
+                "name": "CJAlle `gre",
+                "affiliation": []
+            },
+            {
+                "name": "PJValbracht",
+                "affiliation": []
+            },
+            {
+                "name": "HStaudigel",
+                "affiliation": []
+            },
+            {
+                "name": "MHonda",
+                "affiliation": []
+            },
+            {
+                "name": "IMcdougall",
+                "affiliation": []
+            },
+            {
+                "name": "GRDavies",
+                "affiliation": []
+            },
+            {
+                "name": "LVanderkluysen",
+                "affiliation": []
+            },
+            {
+                "name": "JJMahoney",
+                "affiliation": []
+            },
+            {
+                "name": "AAKoppers",
+                "affiliation": []
+            },
+            {
+                "name": "PFLonsdale",
+                "affiliation": []
+            },
+            {
+                "name": "ABWatts",
+                "affiliation": []
+            },
+            {
+                "name": "JKWeissel",
+                "affiliation": []
+            },
+            {
+                "name": "RADuncan",
+                "affiliation": []
+            },
+            {
+                "name": "RLLarson",
+                "affiliation": []
+            },
+            {
+                "name": "PWessel",
+                "affiliation": []
+            },
+            {
+                "name": "LKroenke",
+                "affiliation": []
+            },
+            {
+                "name": "WMWhite",
+                "affiliation": []
+            },
+            {
+                "name": "RYokochi",
+                "affiliation": []
+            },
+            {
+                "name": "BMarty",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            },
+            {
+                "name": "Hanyu V C",
+                "affiliation": []
+            }
+        ],
+        "publication_date": "2014",
+        "funder": [
+            "Integrated Ocean Drilling ProgramIODP",
+            "IODP Expedition 330",
+            "Center of Deep Earth Exploration (CDEX)"
+        ]
+    },
+    "sections": {
+        "Introduction": "Introduction\nIntraplate volcanic chains consisting of aligned ocean islands and seamounts are the manifestation of magmatism unrelated to plate boundary processes. The sources of heat and magma for such intraplate volcanism have been a matter of debate in mantle geochemistry and geodynamics. Existing models include decompression melting by passive mantle upwelling along lithospheric cracks or by small-scale sublithospheric convection\n[McNutt et al., 1997;\nKing and Anderson, 1998;\nClouard and Gerbault, 2008;\nBallmer et al., 2010]\n. However, some volcanic chains, particularly long-lived ones with coherent age progression along the tracks, have been best explained by a hotspot theory in which melt production is caused by hot deep-rooted mantle plumes impinging beneath moving plates\n[Morgan, 1971;\nWhite, 2010]\n.\nCourtillot et al. [2003]\npresented a guide for identifying hotspot volcanism by deep mantle plumes based on the following five criteria: (1) the existence of seamount chains, (2) an association with plateau volcanism that could have formed from a starting plume head, (3) large buoyancy fluxes estimated from topography, (4) primordial noble gases in basalts, and (5) low shear velocity anomaly in the mantle transition zone beneath volcanoes.\nIn the Pacific, there are several continuous and intermittent volcanic chains that have existed for several tens of millions of years\n[Clague and Dalrymple, 1987;\nKoppers et al., 2003;\nKonter et al., 2008]\n. The ages and positions of the volcanic chains have been used as a fixed reference frame to constrain the motion of the Pacific plate and true polar wander. Of these, the Hawaiian-Emperor and Louisville seamount chains are of particular importance, because they may provide a continuous record of such a reference frame over the past 80 Myr\n[Wessel and Kroenke, 1997]\n. However, a difficulty has arisen concerning the fixity of hotspots because of paleomagnetic studies of the Hawaiian-Emperor seamount chain using drill cores recovered during Ocean Drilling Program (ODP) Leg 197\n[Tarduno et al., 2003]\n. Although Hawaii is one of the hotspots with the highest score for diagnosing a deep plume origin\n[Courtillot et al., 2003]\n, it has been documented that the Hawaiian hotspot has in reality shown substantial southward migration of 15 from 80 to 50 Ma\n[Tarduno et al., 2003]\n. The migration of the Hawaiian hotspot is perfectly consistent with the estimate from the geodynamic models in which conduits of the upwelling mantle plume are being tilted and drifted by lateral deep mantle flows\n[Steinberger et al., 2004]\n.\nThe Integrated Ocean Drilling Program (IODP) Expedition 330 was designed to drill several Louisville seamounts covering ages from 50 to 74 Ma\n[Koppers et al., 2010]\n(Figure\n1\n). The primary objective of the drilling was to assess whether the migration of the Louisville hotspot, contrary to the Hawaiian hotspot, had only a longitudinal component as predicted by the geodynamic modeling\n[Steinberger and Antretter, 2006]\n. Other fundamental issues to be elucidated by drilling into the seamount basement rocks were the source materials, the melting conditions, and their variation within individual seamounts and along the seamount chain\n[Koppers et al., 2010]\n.\nIn this paper, I present noble gas compositions of the drill cores from four of the five seamounts drilled during IODP Expedition 330. Although 3 He/ 4 He of the studied samples were not as high as those of comparable Hawaiian basalts, primordial Ne isotopic compositions were detected in the Louisville seamount basalts, which documents the presence of a less degassed mantle component in the mantle plume source. This fact, which was not available in Courtillot et al.'s diagnosis, increases the probability of a deep origin of the Louisville hotspot, therefore supporting the hypothesis of the deep-rooted Louisville mantle plume that is typically assumed in the geodynamic models.",
+        "Geological Background and Samples": "Geological Background and Samples\nThe Louisville seamount chain consists of numerous guyots and seamounts (all referred to as seamounts hereafter) aligned over 4300 km. The linear relationship between the ages and the localities of the seamounts is consistent with the theory that they were created by hotspot volcanism on the moving Pacific plate\n[Watts et al., 1988;\nKoppers et al., 2004\nKoppers et al., , 2011]]\n. Although hotspot activity has been waning since 20 Ma, the hotspot could be presently located in the vicinity of the seamount dated at 1.1 Ma in the southeastern end of the seamount chain\n[Koppers et al., 2004]\n. The 80 Ma Osbourn Guyot in the northwestern end of the chain is to be subducted into the Tonga-Kermadec trench, and the presence of even older (hidden) seamounts on the subducted plate has been suggested by a geochemical anomaly underneath the Tafahi and Niuatoputapu volcanoes in the northern Tonga arc\n[Regelous et al., 2010]\n.\nKoppers et al. [2004\nKoppers et al. [ , 2011\nKoppers et al. [ , 2012] ]\nGeochemistry, Geophysics, Geosystems 10.1002/2013GC005085 Volcanic rocks were recovered by dredge hauls from whole sections of the Louisville seamount chain prior to drilling\n[Lonsdale, 1988;\nBeier et al., 2011;\nKoppers et al., 2011]\n. Typically these dredge samples include lava flow and pillow fragments and conglomerates variously altered by hydrothermal and low-temperature fluids. These volcanic rocks are predominantly silica-undersaturated and have elevated incompatible trace element abundance, which is typically observed in alkalic ocean island basalts (OIB)\n[Hawkins et al., 1987;\nLonsdale, 1988;\nBeier et al., 2011]\n. They show more enriched radiogenic isotopic compositions than midocean ridge basalts (MORB) with limited isotopic variations\n[Cheng et al., 1987;\nVanderkluysen et al., 2007;\nBeier et al., 2011]\n. More detailed descriptions of the previous dredge results can be found in\nBeier et al. [2011]\nand\nKoppers et al. [2011]\n.\nThe IODP Expedition 330 drilled and cored five Louisville seamounts: Canopus (Site U1372; 74 Ma), Rigil (Sites U1373 and U1374; 67-71 Ma), Burton (Site U1376; 64 Ma), Achernar (Site U1375; 59 Ma), and Hadar (Site U1377; 50 Ma)\n[Expedition 330 Scientists, 2011;\nKoppers et al., 2012]\n(Figure\n1\n). The ages of these seamounts were determined by 40 Ar/ 39 Ar dating on previously dredge samples and drilled rocks\n[Koppers et al., 2004\n[Koppers et al., , 2011\n[Koppers et al., , 2012]]\n. With the exception of Site U1375 on Achernar, the volcanic basement was reached after drilling through an old seamount sedimentary cover never thicker than 50 m\n[Koppers et al., 2013]\n. The deepest drilling reached 522 m below seafloor (mbsf) at Site U1374 on Rigil. The basement rocks include lava flows, pillow basalts, intrusive lavas, scoriaceous and blocky breccias, and peperites. The variety of rock types drilled from the seamounts documents the change in eruption environment from submarine to subaerial\n[Expedition 330 Scientists, 2011;\nKoppers et al., 2013]\n. Although the drilled rocks were variously altered, we occasionally found fresh basalts in which olivine phenocrysts and submarine glasses were well preserved. Major element compositions of the drilled rocks mostly overlap with those of the dredge samples, but the former have narrower compositional ranges than the latter (shipboard geochemical data after Expedition 330 Scientists\n[2011]\n). The drilled rocks are mainly alkali basalts and basanites, but transitional basalts are also common at Sites U1372 and U1376. Alkali basalts show higher incompatible element concentrations than transitional basalts as a group, but no systematic downhole variation has been observed in terms of alkalinity or trace element ratios (e.g., Ba/Y and Zr/Ti)\n[Expedition 330 Scientists, 2011]\n. Consequently, no distinction between shield and postshield stages of volcanism can be made using major and trace element compositions\n[Koppers et al., 2013]\n. Likewise, the drilled samples exhibit limited variations of radiogenic isotopes that overlap with the isotopic fields defined by the previous dredge samples\n[Vanderkluysen et al., 2007;\nBeier et al., 2011;\nR. Williams, personal communication, 2013]\n.\nOlivine phenocrysts and submarine glasses were used as samples for noble gas measurements. Sample descriptions and downhole locations are presented in Table\n1\n, and more detailed information can be referred to Expedition 330 Scientists\n[2011]\n. Most of the olivine samples were from lava flows, pillows, and pillow breccias in the volcanic sequences beneath the seamount sediment cover at Sites U1372, U1373, U1374, and U1376. The exceptions are two olivine samples (U1372A 8R1 108/122 and U1373A 1R2 127/142) collected from olivine-phyric clasts in the upper sedimentary units. The olivines have euhedral shape with typical grain size of 1-3 mm. All the glass samples from Site U1377B and one glass sample from Site U1376 (U1376A 16R3 106/109) were collected from quenched rinds of pillows and pillow breccias (1 cm thick). The other glass sample from Site U1376 (U1376A 22R6 1/6) was from a dike margin. The glass sample from Site U1374 (U1374A 54R1 31/35) was taken from volcaniclastic sequences including glassy fragments with typical size of 0.5-3 cm.",
+        "Analytical Method": "Analytical Method\nOlivine grains and glass pieces were handpicked under a binocular microscope to remove altered portion and contaminants. They were soaked in diluted HNO 3 in an ultrasonic bath, then washed in acetone, ethanol, and deionized water. After drying, the samples were weighed and loaded in crushing tubes for in-vacuum crushing gas extraction. The crusher consists of a metal tube with a flat bottom and a piston that is lifted by a solenoid coil outside the vacuum system. The crushing tubes and samples were baked overnight at 150 C to reduce the blank level.\nThe olivine samples were pulverized for 100 strokes for gas extraction in the routine measurements. Prior to these measurements, stepwise crushing tests were conducted for two selected olivine samples to evaluate the gas extraction efficiency and possible contamination from posteruption radiogenic nuclides in the Geochemistry, Geophysics, Geosystems 10.1002/2013GC005085 The glass samples were pulverized stepwise for 10, 30, and 100 strokes, but the second or third crushing steps were abandoned for some samples that were probably degassed or severely contaminated by the atmospheric component.\nThe noble gases were purified with activated Ti-Zr sponges. He and Ne were separated from Ar-Kr-Xe fractions using an activated charcoal trap cooled by liquid nitrogen. Then, Ne was separated from He using a stainless sponge trap cooled by a cryogenic pump at 22 K. He, Ne, Ar, Kr, and Xe abundance and He, Ne, and Ar isotope ratios were measured on a GV5400 (GV Instruments) mass spectrometer at the Institute for Research on Earth Evolution, Japan Agency for Marine-Earth Science and Technology. The resolving power of this instrument is about 600, which is sufficient to separate 3 He 1 from HD 1 and 3 H 1 . During He and Ne isotope measurements, a liquid nitrogen trap close to the ion source was used to reduce the background level in the mass spectrometer.\nFor Ne analyses, the intensity of 40 Ar 1 and CO 1 2 was monitored before and after each run. Because residual Ar was very low in the mass spectrometer and thereby interference of 40 Ar 11 on 20 Ne 1 peak was small during the period of measurements, I measured the 20 Ne 1 intensity at higher mass side on the flat peak to avoid possible 40 Ar 11 interference that might appear at lower mass side. Interference of CO 11 2 on 22 Ne 1 peak was not negligible, and therefore, it was corrected using CO 11 2 =CO 1 2 ratio of 0.008. The validity of interference correction and reproducibility were checked by measuring air standards with various amount of Ne and CO 11 2 = 22 Ne 1 . The raw ratios of these measurements (n 5 9) were in the range of 10.03-10.13 and 0.02917-0.02940 for 20 Ne/ 22 Ne and 21 Ne/ 22 Ne, respectively. The typical blanks were less than 5 pcm 3 STP for 4 He, 1 pcm 3 STP for 20 Ne, and 0.6 pcm 3 STP for 36 Ar. All the reported data were calibrated by repeated measurements of air and in-house He standards. A detailed description of the analytical method is presented by\nHanyu et al. [2007]\n.",
+        "Results": "Results\nThe results from the noble gas measurements are shown in Table\n1\n. During the stepwise crushing tests for olivine, the amount of the extracted gases per stroke generally decreases as stepwise crushing proceeds, and the decrease is more striking for lighter noble gases (i.e., He and Ne) than for heavier noble gases (i.e., Ar, Kr, and Xe). 3 He/ 4 He are nearly constant for the first four steps (440 strokes in total; Figure\n2\n). However, 3 He/ 4 He in the fifth step (additional 700 strokes) are lower than in the previous steps for both samples, presumably due to release of posteruption radiogenic 4 He from the olivine matrix by enhanced crushing. To avoid release of posteruption radiogenic nuclides, I decided to limit the pulverization of the olivine samples to 100 strokes in the routine measurements. During the stepwise crushing, 40 Ar/ 36 Ar are varying, whereby the positive trend between 40 Ar/ 36 Ar and 1/[ 36 Ar] (inverse of the 36 Ar concentration) is  The 3 He/ 4 He determined for the olivine samples by a single-step gas extraction (100 strokes) range between 6.5 and 10.6 Ra (Figure\n3\n). No clear correlation between 3 He/ 4 He and [ 4 He] is observed. These values mostly overlap with the 3 He/ 4 He range defined by a majority of the Pacific MORB (8.1 6 1.0 Ra)\n[Graham, 2002]\n, but a few samples exhibit 3 He/ 4 He outside the MORB range. While most samples have Ne isotope ratios indistinguishable from atmospheric Ne within analytical uncertainties, the two samples from Site U1376 show 20 Ne/ 22 Ne around 10.3, which are higher than the atmospheric 20 Ne/ 22 Ne of 9.8. 40 Ar/ 36 Ar range from the value close to the atmospheric ratio up to 2180. The overall 40 Ar/ 36 Ar variation among olivine samples is correlated with 1/[ 36 Ar], as also observed in the stepwise crushing tests. It should be noted that elevated 3 He/ 4 He relative to MORB and elevated 20 Ne/ 22 Ne and 40 Ar/ 36 Ar relative to atmospheric values do not always occur in a single sample, because Ne and Ar isotope signatures are easily masked by atmospheric contamination, whereas the He isotope signature is not.\nAs illustrated in Figure\n4\n, the observed excess of 20 Ne/ 22 Ne and 21 Ne/ 22 Ne from atmospheric values are small relative to other oceanic basalts. One of these samples may be plotted close to the mass fractionation line extending from atmospheric Ne isotopic compositions. However, they do not show any systematic difference from the other samples in terms of Ne concentrations or Ne/Ar ratios (Table\n1\n). More importantly, these samples have relatively high 40\n3\n. Hotspot OIB and MORB define linear mixing trends between their peculiar mantle sources and atmospheric contaminants as shown by the gray lines and the yellow stripe\n[Sarda et al., 1988;\nHonda et al., 1991;\nMoreira et al., 1998;\nTrieloff et al., 2000;\nMoreira et al., 2001;\nHanyu et al., 2001;\nF\u20ac uri et al., 2010]\n. The dashed gray line is the mass fractionation line (mfl) from atmospheric Ne. Error bars denote 1r analytical uncertainties.\nGeochemistry, Geophysics, Geosystems 10.1002/2013GC005085 in-vacuum crushing in the laboratory.\nNoble gases were extracted stepwise from glass samples (Table\n1\n). The two glass samples from Site U1376 show large [ 4 He] variation from 250 to 5500 ncm 3 /g with nearly constant 3 He/ 4 He between 7.3 and 7.8 Ra. I interpret that these samples trapped magmatic He (see below). In contrast, the other glass samples show variously low [ 4 He] and 3 He/ 4 He relative to the glass samples from Site U1376. I suspect that the He in these glasses was modified by the coupled effects of magma degassing and posteruption radiogenic ingrowth of 4 He due to U and Th decay. All the glasses show atmospheric Ne isotope ratios and have 40 Ar/ 36 Ar up to 409, which is much lower than those in the olivine samples. It therefore is unlikely that the glass samples retained magmatic Ne or Ar signatures because of the predominant syn or posteruption atmospheric contamination.",
+        "Discussion": "Discussion",
+        "Determination of Noble Gas Isotopic Compositions for Aged Samples": "Determination of Noble Gas Isotopic Compositions for Aged Samples\nThe ages of the Louisville seamount samples in this study range from 50 Ma (U1377) to 74 Ma (U1372)\n[Koppers et al., 2012]\n. It is generally difficult to determine noble gas isotope ratios for aged rocks because of modification of noble gas compositions by alteration, cosmogenic nuclide production, and posteruption radiogenic ingrowth. Rocks previously dredged from the flank of the Louisville seamounts were variously altered; accordingly, fresh olivines or submarine glasses, which are potential containers of magmatic noble gases, were unavailable\n[Lonsdale, 1988;\nBeier et al., 2011]\n. IODP Expedition 330 successfully recovered drill cores from deep inside the igneous basement of these seamounts. Although traces of hydrothermal activity were observed in the drill cores, some parts of the rock samples were remarkably fresh including wellpreserved olivine phenocrysts and submarine glasses\n[Expedition 330 Scientists, 2011]\n.\nBecause of the submarine eruptive environment, the effect of cosmogenic nuclide production by exposure to cosmic rays is negligible for most of the samples analyzed. However, the cores from Sites U1372, U1373, and U1374 show evidence for a transition from submarine to shallow-water or subaerial eruptions, and therefore, some of the host rocks of olivines from the upper part of the drill cores might have been emplaced subaerially or close to the sea surface\n[Expedition 330 Scientists, 2011]\n. Based on the ship-board descriptions, these samples include U1372A 8R1 108/122, U1372A 9R6 0/15, U1373A 1R2 127/142, U1373A 7R2 117/124, and U1374A 3R3 14/22 (Table\n1\n). Although they do not show anomalously high 3 He/ 4 He or 21 Ne/ 22 Ne by addition of cosmogenic nuclides, I cannot completely rule out this effect for U1372A 9R6 0/15, which shows the highest 3 He/ 4 He (10.6 Ra) among the studied samples.\nPosteruption radiogenic ingrowth of 4 He, 21 Ne, and 40 Ar may not be disregarded in aged olivines. The sources of the radiogenic nuclides are twofold: U, Th, and K in the olivine matrix and those in the groundmass adjacent to the olivines. Because of the binary radiogenic sources, it is difficult to determine the initial He, Ne, and Ar isotope ratios by bulk gas extraction (i.e., in-vacuum heating) combined with correction for posteruption radiogenic ingrowth. The in-vacuum crushing techniques have been recognized as the best method for selective extraction of magmatic gases from inclusions in phenocrysts with minimal release of the posteruption radiogenic nuclides\n[Scarsi, 2000;\nMatsumoto et al., 2002;\nKeller et al., 2004]\n. I confirmed it by stepwise crushing tests that radiogenic 4 He was released from the olivine matrix only when samples were crushed into fine powder by repeated pulverization (>440 strokes; Figure\n2\n). More attention must be drawn to possible modification of the measured noble gas compositions in aged glass samples\n[Graham et al., 1987]\n. The magmatic gases are likely trapped in vesicles in submarine glasses. I found nearly constant 3 He/ 4 He within individual glass samples during stepwise crushing of up to 140 strokes, which suggests selective extraction of gases from glass vesicles without substantial release of matrix-sited radiogenic nuclides. However, 3 He/ 4 He differ between different glass samples, and samples with low [ 4 He] tend to show low 3 He/ 4 He (Figure\n3\n). This can be interpreted as high U and Th concentrations in alkalic glasses (A. R. L. Nichols et al., Geochemistry of volcanic glasses from the Louisville Seamount Trail (IODP Expedition 330): implications for eruption environments and mantle melting, submitted to\nGeochemistry, Geophysics, Geosystems, 2013)\n. Accordingly, glass vesicles may have acquired large numbers of a-particles ( 4 He) emitted from matrix-sited U and Th located in the a-stopping distance (20 mm) from vesicles. Because the studied glasses have 0.6-1.1 ppm U and 1.8-4.1 ppm Th, the radiogenic 4 He produced in 50 Myr amounts to approximately 1 3 10 4 ncm 3 STP/g. The efficiency of Geochemistry, Geophysics, Geosystems 10.1002/2013GC005085 HANYU V C 2014. American Geophysical Union. All Rights Reserved. radiogenic 4 He implantation into vesicles from matrix-sited U and Th is highly dependent on the vesicularity, vesicle sizes, and vesicle distribution in glass\n[Graham et al., 1987;\nYokochi and Marty, 2004]\n; however, 3 He/ 4 He might have been significantly lowered by addition of posteruption radiogenic 4 He in the degassed glasses from Sites U1374 and U1377 with relatively low [ 4 He] (1.2-210 ncm 3 STP/g). In contrast, the glasses from Site U1376 have relatively high [ 4 He] (250-5500 ncm 3 STP/g), and thus reduction of 3 He/ 4 He by implantation of radiogenic 4 He might have been small in these samples. In reality, the glasses from Site U1376 exhibit slightly lower 3 He/ 4 He than those for olivine samples from the same site as a group, but still have 3 He/ 4 He within the range defined by Pacific MORB.",
+        "Source Characteristics of the Drilled Samples": "Source Characteristics of the Drilled Samples\nNoble gases have been generally used as tracers for mantle plumes derived from primordial less degassed mantle. Many studied samples from Louisville seamounts have 3 He/ 4 He values indistinguishable from the MORB values; however, a few samples may exhibit higher 3 He/ 4 He over the 1r deviation than the 3 He/ 4 He range defined by a majority of the Pacific MORB (8.1 6 1.0 Ra; Figure\n3\n)\n[Graham et al. 2002]\n. In fact, the Pacific MORB show some regional variation of 3 He/ 4 He. The Louisville seamounts stands on the oceanic plate produced at the Pacific-Antarctic Ridge, and the MORB at this ridge have 3 He/ 4 He between 7.1 and 8.1 Ra, corresponding to the lower half of the 3 He/ 4 He range defined by the Pacific MORB\n[Moreira et al., 2008;\nHamelin et al., 2011]\n. In contrast, the East Pacific Rise 17 S anomaly due north of the Pacific-Antarctic Ridge is characterized by the highest 3 He/ 4 He of 11 Ra, although this region is apart from any known hotspots\n[Kurz et al., 2005]\n. If these basalts give the upper limit of the 3 He/ 4 He range in the Pacific MORB, the excess of 3 He/ 4 He from the MORB value is small or nil in the Louisville seamount basalts.\nThe Ne isotope systematics in Figure\n4\nillustrate that the two olivine samples from Site U1376 are clearly plotted away from the trend defined by a majority of MORB\n[Moreira et al., 1998;\nSarda et al., 1988]\n(Figure\n4\n). Individual hotspots such as Hawaii, Iceland, Reunion, and Galapagos define a mixing trend between their own peculiar mantle source and an atmospheric contaminant in the 20 Ne/ 22 Ne-21 Ne/ 22 Ne isotope space\n[Honda et al., 1991;\nTrieloff et al., 2000;\nMoreira et al., 2001;\nHanyu et al., 2001;\nF\u20ac uri et al., 2010]\n. Unfortunately, the Louisville trend cannot be tightly constrained in this diagram, because only two samples show a small deviation of 20 Ne/ 22 Ne and 21 Ne/ 22 Ne from atmospheric values. Nevertheless, ( 21 Ne/ 22 Ne) ex for the Louisville seamount basalts, which are defined as the 21 Ne/ 22 Ne values calculated by subtracting atmospheric Ne until 20 Ne/ 22 Ne are equal to the assumed primordial value of 13.8\n[Honda et al., 1993;\nMukhopadhyay, 2012]\n, are clearly lower than that of MORB over 1r uncertainties (Figure\n5\n). Low ( 21 Ne/ 22 Ne) ex of Louisville seamounts, similar to some other hotspot OIB, reflect the high time-integrated Ne/(U1Th) of a less degassed primordial mantle source.\nIn reality, low ( 21 Ne/ 22 Ne) ex together with high 3 He/ 4 He signatures have been occasionally observed in some MORB where clear plume-ridge interaction is documented [e.g.,\nNiedermann et al., 1997;\nSarda et al., 2000;\nMoreira et al., 2011]\n. This is simply explained by mixing the primordial noble gases transferred from the deep mantle by upwelling mantle plumes with the upper mantle noble gases. The exception is the MORB near 17 S anomaly along the East Pacific Rise, as mentioned above, which also show primordial He and Ne isotope signatures despite no apparent hotspot influence being recognized (Figure\n5\n)\n[Kurz et al., 2005]\n. Although some models invoke intrinsic chemical heterogeneity with high 3 He/ 4 He (and primordial Ne) in the upper mantle\n[Meibom et al., 2003;\nIto and Mahoney, 2006]\n,\nKurz et al. [2005]\nsuggested that the primordial noble gas signatures together with radiogenic isotopes, crustal volume, and gravity anomalies near 17 S is best explained by the embedded heterogeneity caused by a mantle flow from the deep mantle. Given the long-lived hotspot setting, the primordial noble gases in Louisville seamount basalts could be supplied by a steady mantle upwelling from the deep mantle. These noble gas isotopic signatures are consistent with Nd, Hf, and Pb isotopic compositions of the dredged and drilled samples from Louisville seamounts that are more enriched than those of Pacific MORB\n[Vanderkluysen et al., 2007;\nBeier et al., 2011;\nR. Williams, personal communication, 2013]\n. These isotopic compositions are plotted close to the field of ''FOZO,'' the mantle endmember common to many OIB and MORB source regions presumably existing in the deep mantle domain with a primordial noble gas signature\n[Hart et al., 1992;\nStracke et al., 2005;\nJackson et al., 2007]\n.\nThe Louisville seamount basalts exhibit primordial noble gas signatures more clearly in Ne isotopes than in He isotopes. This is illustrated in the 4 He/ 3 He-( 21 Ne/ 22 Ne) ex diagram, where the Louisville seamounts data Geochemistry, Geophysics, Geosystems 10.1002/2013GC005085 are plotted well below the straight mixing line between primordial less degassed mantle (PM) and degassed upper mantle (DM) (Figure\n5\n). Such apparent decoupling between He and Ne isotopes is widely observed in OIB from Iceland, Reunion, Samoa, and Galapagos\n[Moreira et al., 2001;\nHanyu et al., 2001;\nDixon, 2003;\nJackson et al., 2009;\nKurz et al., 2009;\nF\u20ac uri et al., 2010]\n. Moreover, Hawaiian basalts including drill cores from the Mauna Kea section of the Hawaii Scientific Drilling Project (HSDP) exhibit nearly constant ( 21 Ne/ 22 Ne) ex (i.e., defining a tight trend in Figure\n4\n) over a large range of 3 He/ 4 He\n[Honda et al., 1991;\nTrieloff et al., 2000;\nAlthaus et al., 2003;\nHanyu et al., 2007]\n. The He-Ne decoupling within an individual hotspot and between hotspots can be interpreted as the consequence of two-component mixing between PM and DM with different He/Ne ratios. However, recent studies suggest that the He/Ne ratios of PM and DM differ by only a factor of two\n[Mukhopadhyay, 2012]\n; therefore, bulk mixing does not form the highly curved mixing hyperbola that accounts for many OIB data (Figure\n5\n). In addition to the source He/Ne differences, He/Ne might have been further fractionated during partial melting and/or subsequent degassing in either or both of the components prior to mixing\n[Dixon, 2003;\nF\u20ac uri et al., 2010]\n.\nThe He isotopes should be sensitive to the proportion of PM in the mixed source. In this respect, the supply of PM by the mantle plume may have been weak in the source of the studied Louisville seamount basalts relative to other OIB with high 3 He/ 4 He. There are two possible explanations for it that need to be investigated in future studies. One model indicates that the Louisville mantle plume was indeed weak, and therefore, the primordial He signature from PM was diluted by He from entrained ambient mantle or enriched material in the mantle plume. This could happen if the melt production from PM is less robust because of its higher solidus than that from the ambient material or enriched material in the situation where a small-scale mantle plume encountered a thick lithospheric lid\n[Ito and Mahoney, 2005]\n. This model may be consistent with low plume buoyancy fluxes, domination of alkalic basalts by low-degree partial melting beneath thick lithosphere, and small volcanic edifices by low melt production rate in the Louisville seamounts\n[Courtillot et al., 2003;\nBeier et al., 2011]\n. The other model indicates that the drilled samples represent late-stage magmatic activity in the course of volcano growth with waning plume flux\n[Hawkins et al., 1987;\nDePaolo et al., 2001]\n. In Hawaiian volcanoes, the temporal variation of 3 He/ 4 He has been documented during growth of a volcano. The best example is the Manua Kea section of the HSDP in which the downhole He isotopic variation displays a gradual increase of 3 He/ 4 He; 6-8.5 Ra in the postshield alkalic lava layers between 250 and 400 mbsf, followed by a tholeiitic lava sequence associated with continuous rise of 3 He/ 4 He to the baseline 3 He/ 4 He values of 10-14 Ra below 1000 mbsf with some very high 3 He/ 4 He spikes\n[Kurz et al., 2004]\n. Note that the primordial Ne isotope signature was observed in these core samples irrespective of their 3 He/ 4 He (Figure\n5\n)\n[Althaus et al., 2003]\n. The temporal 3 He/ 4 He change may suggest waning plume fluxes from the tholeiitic shield-building stage to the alkalic postshield stage. It is not certain Geochemistry, Geophysics, Geosystems 10.1002/2013GC005085 if this evolutionary scheme observed in the Hawaiian volcanoes is also applicable to the Louisville seamounts, which arguably had a much smaller plume buoyancy flux, but it should be stressed that the He and Ne isotopic characteristics of the studied samples resemble those of the Hawaiian basalts in the last phase of the shield-building stage and postshield stage.",
+        "Deep Origin of the Louisville Mantle Plume": "Deep Origin of the Louisville Mantle Plume\nThe primordial noble gas signature in the studied samples documents the presence of a less degassed mantle component in the Louisville mantle plume. The locality of the less degassed mantle component in the convecting mantle has been a matter of debate; however, it should exist at least below the depleted and degassed upper mantle\n[Alle `gre et al., 1996]\n. The present noble gas data support the hypothesis that the Louisville hotspot is related to a primary mantle plume that is rooted deep in the mantle\n[Courtillot et al., 2003]\n.\nThe deep origin of the Louisville hotspot is the premise of the geodynamic models. One of the major objectives of the IODP Expedition 330 was to test the theory that predicts lateral advection of mantle plumes in the convecting mantle\n[Koppers et al., 2004;\nSteinberger and Antretter, 2006]\n. In this theory, the overall mantle flow is driven by the mantle density structure, surface plate motion, the downgoing slab, and the large-scale mantle upwelling (i.e., superplume). The trajectory of a plume conduit is influenced by the overall mantle flow, which can be monitored by the hotspot drift on the Earth's surface\n[Tarduno et al., 2009]\n. A combination of paleolatitude measurements and radiometric dating for the drilled samples from the Emperor seamount chain during ODP Leg 197 clearly revealed a 15 southward drift of the Hawaiian hotspot from 80 to 50 Ma, thus, showing excellent consistency with the Hawaii hotspot drift deduced from the theory\n[Tarduno et al., 2003;\nSteinberger et al., 2004]\n. Assuming deep-rooted mantle plumes, the theory further predicted the independent behavior of the Louisville hotspot from the Hawaiian hotspot; that is, migration of the Louisville hotspot with only a longitudinal component at the time when the Hawaiian hotspot showed latitudinal drift\n[Koppers et al., 2004;\nSteinberger and Antretter, 2006]\n. The paleomagnetic and dating results from IODP Expedition 330 verified the geodynamic modeling predictions and validated the presumed presence of deep-rooted mantle plumes below Hawaii and Louisville\n[Koppers et al., 2012\n[Koppers et al., , 2013]]\n. These results are consistent with the noble gas measurements for the Louisville seamounts.",
+        "Concluding Remarks": "Concluding Remarks\nNoble gas compositions were successfully determined for fresh olivine phenocrysts and submarine glasses in the drill cores obtained from the Louisville seamounts. Magmatic gases were selectively extracted without posteruption radiogenic nuclides from olivine phenocrysts and some submarine glasses in 50-74 Ma samples using the in-vacuum crushing techniques. Similar to other geochemical and isotopic signatures, the variation of 3 He/ 4 He in the Louisville seamount samples is small ranging from a value similar to those of mid-ocean ridge basalts (MORB) to slightly elevated ratios up to 10.6 Ra. These ratios are not as high as those observed in other ocean island basalts. In contrast, two samples have 20 Ne/ 22 Ne and 21 Ne/ 22 Ne that are higher than the atmospheric values. These isotope ratios are clearly distinguished from MORB values, indicating involvement of primordial noble gases in the source of the Louisville seamount basalts."
+    },
+    "references": [
+        {
+            "title": "Deep plume origin of the Louisville hotspot: Noble gas evidence",
+            "authors": [
+                "TakeshiHanyu"
+            ],
+            "journal": null,
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The argon constraints on mantle structure",
+            "authors": [
+                "CJAlle `gre",
+                "AWHofmann",
+                "KO'nions"
+            ],
+            "journal": "Geophys. Res. Lett",
+            "date": "1996",
+            "pages": {
+                "from": "3555",
+                "to": "3557"
+            }
+        },
+        {
+            "title": "Noble gases in olivine phenocrysts from drill core samples of the Hawaii Scientific Drilling Project (HSDP) pilot and main holes",
+            "authors": [
+                "TAlthaus",
+                "SNiedermann",
+                "JErzinger"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2003",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Small-scale sublithospheric convection reconciles geochemistry and geochronology of 'Superplume' volcanism in the western and south Pacific",
+            "authors": [
+                "MDBallmer",
+                "GIto",
+                "JVan Hunen",
+                "PJTackley"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2010",
+            "pages": {
+                "from": "224",
+                "to": "232"
+            }
+        },
+        {
+            "title": "Lithospheric control on geochemical composition along the Louisville Seamount Chain",
+            "authors": [
+                "CBeier",
+                "LVanderkluysen",
+                "MRegelous",
+                "JJMahoney",
+                "DGarbe-Sch\u20ac Onberg"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2011",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Isotopic evidence for a hotspot origin of the Louisville seamount chain",
+            "authors": [
+                "QCheng",
+                "KHPark",
+                "JDMacdougall",
+                "AZindler",
+                "GWLugmair",
+                "HStaudigel",
+                "JWHawkins",
+                "PFLonsdale"
+            ],
+            "journal": null,
+            "date": "1987",
+            "pages": {
+                "from": "283",
+                "to": "296"
+            }
+        },
+        {
+            "title": "The Hawaiian-Emperor volcanic chain, part 1, Geologic evolution",
+            "authors": [
+                "DAClague",
+                "GBDalrymple"
+            ],
+            "journal": null,
+            "date": "1350",
+            "pages": {
+                "from": "5",
+                "to": "54"
+            }
+        },
+        {
+            "title": "Break-up spots: Could the Pacific open as a consequence of plate kinematics?",
+            "authors": [
+                "VClouard",
+                "MGerbault"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2008",
+            "pages": {
+                "from": "195",
+                "to": "208"
+            }
+        },
+        {
+            "title": "Three distinct types of hotspots in the Earth's mantle",
+            "authors": [
+                "VCourtillot",
+                "ADavaille",
+                "JBesse",
+                "JStock"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2003",
+            "pages": {
+                "from": "295",
+                "to": "308"
+            }
+        },
+        {
+            "title": "Isotopic evolution of Mauna Loa and the chemical structure of the Hawaiian plume",
+            "authors": [
+                "DJDepaolo",
+                "JGBryce",
+                "ADodson",
+                "DLShuster",
+                "BMKennedy"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2001",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Interpretation of helium and neon isotopic heterogeneity in Icelandic basalts",
+            "authors": [
+                "ETDixon"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2003",
+            "pages": {
+                "from": "83",
+                "to": "99"
+            }
+        },
+        {
+            "title": "Preservation of near-solar neon isotopic ratios in Icelandic basalts",
+            "authors": [
+                "ETDixon",
+                "MHonda",
+                "IMcdougall",
+                "IHCampbell",
+                "ISigurdsson"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2000",
+            "pages": {
+                "from": "309",
+                "to": "324"
+            }
+        },
+        {
+            "title": "Louisville Seamount Trail: implications for geodynamic mantle flow models and the geochemical evolution of primary hotspots",
+            "authors": [],
+            "journal": null,
+            "date": "2011",
+            "pages": {
+                "from": "1",
+                "to": "174"
+            }
+        },
+        {
+            "title": "Apparent decoupling of the He and Ne isotope systematics of the Icelandic mantle: The role of He depletion, melt mixing, degassing fractionation and air interaction",
+            "authors": [
+                "EF\u20ac Uri",
+                "DRHilton",
+                "SAHalld Orsson",
+                "PHBarry",
+                "DHahm",
+                "TPFischer",
+                "KGr\u20ac"
+            ],
+            "journal": "Geochim. Cosmochim. Acta",
+            "date": "2010",
+            "pages": {
+                "from": "3307",
+                "to": "3332"
+            }
+        },
+        {
+            "title": "Noble gas isotope geochemistry of mid-ocean ridge and ocean island basalts: Characterization of mantle source reservoirs, in Noble Gases",
+            "authors": [
+                "DWGraham"
+            ],
+            "journal": null,
+            "date": "2002",
+            "pages": {
+                "from": "247",
+                "to": "318"
+            }
+        },
+        {
+            "title": "Helium isotope disequilibrium and geochronology of glassy submarine basalts",
+            "authors": [
+                "DWGraham",
+                "WJJenkins",
+                "MDKurz",
+                "RBatiza"
+            ],
+            "journal": "Nature",
+            "date": "1987",
+            "pages": {
+                "from": "384",
+                "to": "386"
+            }
+        },
+        {
+            "title": "Geochemical portray of the Pacific Ridge: New isotopic data and statistical techniques",
+            "authors": [
+                "CHamelin",
+                "LDosso",
+                "BBHanan",
+                "MMoreira",
+                "APKositsky",
+                "MYThomas"
+            ],
+            "journal": null,
+            "date": "2011",
+            "pages": {
+                "from": "154",
+                "to": "162"
+            }
+        },
+        {
+            "title": "Noble gas study of the Reunion hotspot: Evidence for distinct less-degassed mantle sources",
+            "authors": [
+                "THanyu",
+                "TJDunai",
+                "GRDavies",
+                "IKaneoka",
+                "SNohda",
+                "KUto"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2001",
+            "pages": {
+                "from": "83",
+                "to": "98"
+            }
+        },
+        {
+            "title": "Implications to the temporal change of magma source and the structural evolution of the submarine ridge",
+            "authors": [
+                "THanyu",
+                "KT MJohnson",
+                "NHirano",
+                "Z.-YRen"
+            ],
+            "journal": null,
+            "date": "2007",
+            "pages": {
+                "from": "1",
+                "to": "18"
+            }
+        },
+        {
+            "title": "Mantle plumes and entrainment: Isotopic evidence",
+            "authors": [
+                "SRHart",
+                "EHHauri",
+                "LAOschmann",
+                "JAWhitehead"
+            ],
+            "journal": "Science",
+            "date": "1992",
+            "pages": {
+                "from": "517",
+                "to": "520"
+            }
+        },
+        {
+            "title": "Petrologic evolution of the Louisville seamount chain",
+            "authors": [
+                "JWHawkins",
+                "PFLonsdale",
+                "RBatiza"
+            ],
+            "journal": null,
+            "date": "1987",
+            "pages": {
+                "from": "235",
+                "to": "254"
+            }
+        },
+        {
+            "title": "Possible solar noble-gas component in Hawaiian basalts",
+            "authors": [
+                "MHonda",
+                "IMcdougall",
+                "DBPatterson",
+                "ADoulgeris",
+                "DAClague"
+            ],
+            "journal": "Nature",
+            "date": "1991",
+            "pages": {
+                "from": "149",
+                "to": "151"
+            }
+        },
+        {
+            "title": "Noble gases in submarine pillow basalt glasses from Loihi and Kilauea, Hawaii: A solar component in the Earth",
+            "authors": [
+                "MHonda",
+                "IMcdougall",
+                "DBPatterson",
+                "ADoulgeris",
+                "DAClague"
+            ],
+            "journal": "Geochim. Cosmochim. Acta",
+            "date": "1993",
+            "pages": {
+                "from": "859",
+                "to": "874"
+            }
+        },
+        {
+            "title": "Flow and melting of a heterogeneous mantle: 1: Method and importance to the geochemistry of ocean island and mid-ocean ridge basalts",
+            "authors": [
+                "GIto",
+                "JJMahoney"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2005",
+            "pages": {
+                "from": "29",
+                "to": "46"
+            }
+        },
+        {
+            "title": "Melting a high 3 He/ 4 He source in a heterogeneous mantle",
+            "authors": [
+                "GIto",
+                "JJMahoney"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2006",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "New Samoan lavas from Ofu Island reveal a hemispherically heterogeneous high He-3/He-4 mantle",
+            "authors": [
+                "MGJackson",
+                "MDKurz",
+                "SRHart",
+                "RKWorkman"
+            ],
+            "journal": null,
+            "date": "2007",
+            "pages": {
+                "from": "360",
+                "to": "374"
+            }
+        },
+        {
+            "title": "Helium and neon isotopes in phenocrysts from Samoan lavas: Evidence for heterogeneity in the terrestrial high 3 He/ 4 He mantle",
+            "authors": [
+                "MGJackson",
+                "MDKurz",
+                "SRHart"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2009",
+            "pages": {
+                "from": "519",
+                "to": "528"
+            }
+        },
+        {
+            "title": "Cretaceous-to-recent record of elevated 3 He/ 4 He along the Hawaiian-Emperor volcanic chain",
+            "authors": [
+                "RAKeller",
+                "DWGraham",
+                "KAFarley",
+                "RADuncan",
+                "JELupton"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2004",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Edge-driven convection",
+            "authors": [
+                "SDKing",
+                "DLAnderson"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1998",
+            "pages": {
+                "from": "289",
+                "to": "296"
+            }
+        },
+        {
+            "title": "One hundred million years of mantle geochemical history suggest the retiring of mantle plumes is premature",
+            "authors": [
+                "JGKonter",
+                "BBHanan",
+                "JBlichert-Toft",
+                "AA PKoppers",
+                "TPlank",
+                "HStaudigel"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2008",
+            "pages": {
+                "from": "285",
+                "to": "295"
+            }
+        },
+        {
+            "title": "Short-lived and discontinuous intraplate volcanism in the South Pacific: Hot spots or extensional volcanism?",
+            "authors": [
+                "AA PKoppers",
+                "HStaudigel",
+                "MSPringle",
+                "JRWijbrans"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2003",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Implications of a nonlinear 40 Ar/ 39 Ar age progression along the Louisville seamount trail for models of fixed and moving hot spots",
+            "authors": [
+                "AA PKoppers",
+                "RADuncan",
+                "BSteinberger"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2004",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Louisville Seamount Trail: Implications for geodynamic mantle flow models and geochemical evolution of primary hotspots",
+            "authors": [
+                "AA PKoppers",
+                "TYamazaki",
+                "JGeldmacher"
+            ],
+            "journal": "IODP Sci. Prosp",
+            "date": "2010",
+            "pages": {
+                "from": "1",
+                "to": "85"
+            }
+        },
+        {
+            "title": "New 40 Ar/ 39 Ar age progression for the Louisville hot spot trail and implications for inter-hot spot motion",
+            "authors": [
+                "AA PKoppers",
+                "MDGowen",
+                "LEColwell",
+                "JSGee",
+                "PFLonsdale",
+                "JJMahoney",
+                "RADuncan"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2011",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Limited latitudinal mantle plume motion for the Louisville hotspot",
+            "authors": [
+                "AA PKoppers"
+            ],
+            "journal": "Nat. Geosci",
+            "date": "2012",
+            "pages": {
+                "from": "911",
+                "to": "917"
+            }
+        },
+        {
+            "title": "Drilling the Louisville Seamount Trail in the SW Pacific",
+            "authors": [
+                "AA PKoppers",
+                "TYamazaki",
+                "J"
+            ],
+            "journal": null,
+            "date": "2013",
+            "pages": {
+                "from": "11",
+                "to": "22"
+            }
+        },
+        {
+            "title": "Rapid helium isotopic variability in Mauna Kea shield lavas from the Hawaiian Scientific Drilling Project",
+            "authors": [
+                "MDKurz",
+                "JCurtice",
+                "DELott",
+                "Iii",
+                "ASolow"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2004",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Correlated helium, neon, and melt production on the super-fast spreading East Pacific Rise near 17 S",
+            "authors": [
+                "MDKurz",
+                "MMoreira",
+                "JCurtice",
+                "DELott",
+                "Iii",
+                "JJMahoney",
+                "JMSinton"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2005",
+            "pages": {
+                "from": "125",
+                "to": "142"
+            }
+        },
+        {
+            "title": "Primitive neon from the center of the Gal apagos hotspot",
+            "authors": [
+                "MDKurz",
+                "JCurtice",
+                "DFornari",
+                "DGeist",
+                "MMoreira"
+            ],
+            "journal": null,
+            "date": "2009",
+            "pages": {
+                "from": "23",
+                "to": "34"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "Hanyu V C"
+            ],
+            "journal": null,
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Geography and history of the Louisville Hotspot Chain in the southwest Pacific",
+            "authors": [
+                "PFLonsdale"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1988",
+            "pages": {
+                "from": "3078",
+                "to": "3104"
+            }
+        },
+        {
+            "title": "Helium in the Archean komatiites revisited: Significantly high",
+            "authors": [
+                "TMatsumoto",
+                "ASeta",
+                "JMatsuda",
+                "MTakebe",
+                "YLChen",
+                "SArai"
+            ],
+            "journal": null,
+            "date": "2002",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "He ratios revealed by fractional crushing gas extraction",
+            "authors": [],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": null,
+            "pages": {
+                "from": "602",
+                "to": "603"
+            }
+        },
+        {
+            "title": "Failure of plume theory to explain midplate volcanism in the southern Austral islands",
+            "authors": [
+                "MKMcnutt",
+                "DWCaress",
+                "JReynolds",
+                "KAJordahl",
+                "RADuncan"
+            ],
+            "journal": "Nature",
+            "date": "1997",
+            "pages": {
+                "from": "479",
+                "to": "482"
+            }
+        },
+        {
+            "title": "Are high 3 He/ 4 He ratios in oceanic basalts an indicator of deep-mantle plume components?",
+            "authors": [
+                "AMeibom",
+                "DLAnderson",
+                "NHSleep",
+                "RFrei",
+                "CPChamberlain",
+                "MTHren",
+                "JLWooden"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2003",
+            "pages": {
+                "from": "197",
+                "to": "204"
+            }
+        },
+        {
+            "title": "Rare gas systematics in popping rock: Isotopic and elemental compositions in the upper mantle",
+            "authors": [
+                "MMoreira",
+                "JKunz",
+                "CAlle `gre"
+            ],
+            "journal": "Science",
+            "date": "1998",
+            "pages": {
+                "from": "1178",
+                "to": "1181"
+            }
+        },
+        {
+            "title": "Solar neon in the Icelandic mantle: New evidence for an undegassed lower mantle",
+            "authors": [
+                "MMoreira",
+                "KBreddam",
+                "JCurtice",
+                "MDKurz"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2001",
+            "pages": {
+                "from": "15",
+                "to": "23"
+            }
+        },
+        {
+            "title": "Evidence for efficient homogenization in a long-lived magma chamber system?",
+            "authors": [
+                "MMoreira",
+                "JEscartin",
+                "EGayer",
+                "CHamelin",
+                "ABezos",
+                "FGuillon",
+                "MCannat"
+            ],
+            "journal": null,
+            "date": "2011",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Helium isotopes on the Pacific-Antarctic ridge",
+            "authors": [
+                "MAMoreira",
+                "LDosso",
+                "HOndr"
+            ],
+            "journal": null,
+            "date": "2008",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Convection plumes in the lower mantle",
+            "authors": [
+                "WJMorgan"
+            ],
+            "journal": "Nature",
+            "date": "1971",
+            "pages": {
+                "from": "42",
+                "to": "43"
+            }
+        },
+        {
+            "title": "Early differentiation and volatile accretion recorded in deep-mantle neon and xenon",
+            "authors": [
+                "SMukhopadhyay"
+            ],
+            "journal": "Nature",
+            "date": "2012",
+            "pages": {
+                "from": "101",
+                "to": "104"
+            }
+        },
+        {
+            "title": "Noble gas evidence for a lower mantle component in MORBs from the southern East Pacific Rise: Decoupling of helium and neon isotope systematics",
+            "authors": [
+                "SNiedermann",
+                "WBach",
+                "JErzinger"
+            ],
+            "journal": "Geochim. Cosmochim. Acta",
+            "date": "1997",
+            "pages": {
+                "from": "102",
+                "to": "106"
+            }
+        },
+        {
+            "title": "Rare gases in Samoan xenoliths",
+            "authors": [
+                "RJPoreda",
+                "KAFarley"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1992",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Mechanism and timing of Pb transport from subducted oceanic crust and sediment to the mantle source of arc lavas",
+            "authors": [
+                "MRegelous",
+                "JAGamble",
+                "SPTurner"
+            ],
+            "journal": "Chem. Geol",
+            "date": "2010",
+            "pages": {
+                "from": "46",
+                "to": "54"
+            }
+        },
+        {
+            "title": "Neon isotopes in submarine basalts",
+            "authors": [
+                "PSarda",
+                "TStaudacher",
+                "CJAlle `gre"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1988",
+            "pages": {
+                "from": "90152",
+                "to": "90155"
+            }
+        },
+        {
+            "title": "Rare gas systematics on the southernmost Mid-Atlantic Ridge: Constraints on the lower mantle and the Dupal source",
+            "authors": [
+                "PSarda",
+                "MMoreira",
+                "TStaudacher",
+                "J.-GSchilling",
+                "CJAlle `gre"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "2000",
+            "pages": {
+                "from": "5973",
+                "to": "5996"
+            }
+        },
+        {
+            "title": "Fractional extraction of helium by crushing of olivine and clinopyroxene phenocrysts: Effects on the 3 He/ 4 He measured ratio",
+            "authors": [
+                "PScarsi"
+            ],
+            "journal": "Geochim. Cosmochim. Acta",
+            "date": "2000",
+            "pages": {
+                "from": "3751",
+                "to": "3762"
+            }
+        },
+        {
+            "title": "Conduit diameter and buoyant rising speed of mantle plumes: Implications for the motion of hot spots and shape of plume conduits",
+            "authors": [
+                "BSteinberger",
+                "MAntretter"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2006",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Prediction of Emperor-Hawaii seamount locations from a revised model of global plate motion and mantle flow",
+            "authors": [
+                "BSteinberger",
+                "RSutherland",
+                "RJO'connell"
+            ],
+            "journal": "Nature",
+            "date": "2004",
+            "pages": {
+                "from": "167",
+                "to": "173"
+            }
+        },
+        {
+            "title": "FOZO, HIMU, and the rest of the mantle zoo",
+            "authors": [
+                "AStracke",
+                "AWHofmann",
+                "SRHart"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2005",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The bent Hawaiian-Emperor hotspot track: Inheriting the mantle wind",
+            "authors": [
+                "JTarduno",
+                "NH.-P. Bunge",
+                "USleep",
+                "Hansen"
+            ],
+            "journal": null,
+            "date": "2009",
+            "pages": {
+                "from": "50",
+                "to": "53"
+            }
+        },
+        {
+            "title": "The Emperor Seamounts: Southward motion of the Hawaiian hotspot plume in Earth's mantle",
+            "authors": [
+                "JATarduno"
+            ],
+            "journal": "Science",
+            "date": "2003",
+            "pages": {
+                "from": "1064",
+                "to": "1069"
+            }
+        },
+        {
+            "title": "The nature of pristine noble gases in mantle plumes",
+            "authors": [
+                "MTrieloff",
+                "JKunz",
+                "DAClague",
+                "DHarrison",
+                "CJAlle `gre"
+            ],
+            "journal": "Science",
+            "date": "2000",
+            "pages": {
+                "from": "1036",
+                "to": "1038"
+            }
+        },
+        {
+            "title": "Isotopic tracing of volcanic source regions from Hawaii: Decoupling of gaseous from lithophile magma components",
+            "authors": [
+                "PJValbracht",
+                "HStaudigel",
+                "MHonda",
+                "IMcdougall",
+                "GRDavies"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1996",
+            "pages": {
+                "from": "185",
+                "to": "198"
+            }
+        },
+        {
+            "title": "Geochemical evolution of the Louisville seamount chain",
+            "authors": [
+                "LVanderkluysen",
+                "JJMahoney",
+                "AAKoppers",
+                "PFLonsdale"
+            ],
+            "journal": null,
+            "date": "2007",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Origin of the Louisville Ridge and its relationship to the Eltanin Fracture Zone System",
+            "authors": [
+                "ABWatts",
+                "JKWeissel",
+                "RADuncan",
+                "RLLarson"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1988",
+            "pages": {
+                "from": "3051",
+                "to": "3077"
+            }
+        },
+        {
+            "title": "A geometric technique for relocating hotspots and refining absolute plate motions",
+            "authors": [
+                "PWessel",
+                "LKroenke"
+            ],
+            "journal": "Nature",
+            "date": "1997",
+            "pages": {
+                "from": "365",
+                "to": "369"
+            }
+        },
+        {
+            "title": "Oceanic island basalts and mantle plumes: The geochemical perspective",
+            "authors": [
+                "WMWhite"
+            ],
+            "journal": "Ann. Rev. Earth Planet. Sci",
+            "date": "2010",
+            "pages": {
+                "from": "133",
+                "to": "160"
+            }
+        },
+        {
+            "title": "A determination of the neon isotopic composition of the deep mantle",
+            "authors": [
+                "RYokochi",
+                "BMarty"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2004",
+            "pages": {
+                "from": "77",
+                "to": "88"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "Hanyu V C"
+            ],
+            "journal": null,
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,1045 @@
+2025-01-14T22:54:45.204512+0100 | INFO | Running Step 2: Structured Content Extraction...
+2025-01-14T22:54:45.204512+0100 | INFO | Initializing GrobidExtractor...
+2025-01-14T22:54:45.204512+0100 | INFO | Starting GROBID extraction...
+2025-01-14T22:55:11.086837+0100 | INFO | Parsing XML and saving as JSON...
+2025-01-14T22:55:11.284514+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\paperr_data_extracted.json
+2025-01-14T22:55:51.735002+0100 | INFO | Running Step 3: Clean and Index Extracted Sections...
+2025-01-14T22:55:51.735002+0100 | INFO | Initializing TextCleaner...
+2025-01-14T22:55:51.735002+0100 | INFO | Starting cleaning and indexing of extracted sections...
+2025-01-14T22:55:51.735002+0100 | INFO | Cleaning section 1: Introduction
+2025-01-14T22:55:51.735002+0100 | INFO | Cleaning section 2: Related Work
+2025-01-14T22:55:51.735002+0100 | INFO | Cleaning section 3: Problem Formulation
+2025-01-14T22:55:51.750089+0100 | INFO | Cleaning section 4: References Analysis Technique Generalization Bound Result
+2025-01-14T22:55:51.750089+0100 | INFO | Cleaning section 5: Arora et al. [2019]
+2025-01-14T22:55:51.750089+0100 | INFO | Cleaning section 6: Main Results
+2025-01-14T22:55:51.751097+0100 | INFO | Cleaning section 7: Contributions
+2025-01-14T22:55:51.751820+0100 | INFO | Cleaning section 8: Notations
+2025-01-14T22:55:51.751820+0100 | INFO | Cleaning section 9: Basic Bound
+2025-01-14T22:55:51.753275+0100 | INFO | Cleaning section 10: Loss Augmentation
+2025-01-14T22:55:51.754986+0100 | INFO | Cleaning section 11: Parameter Counting Bound
+2025-01-14T22:55:51.754986+0100 | INFO | Cleaning section 12: Generalization Analysis for Deep Contrastive Representation Learning
+2025-01-14T22:55:51.756238+0100 | INFO | Cleaning section 13: Downstream Classification
+2025-01-14T22:55:51.757247+0100 | INFO | Cleaning section 14: Conclusion and Further Works
+2025-01-14T22:55:51.757247+0100 | INFO | Cleaning section 15: A Table of Notations
+2025-01-14T22:55:51.758375+0100 | INFO | Cleaning section 16: Constants relating to parameters space a l
+2025-01-14T22:55:51.759032+0100 | INFO | Cleaning section 17: Empirical terms
+2025-01-14T22:55:51.759997+0100 | INFO | Cleaning section 18: B Rademacher Complexity
+2025-01-14T22:55:51.761808+0100 | INFO | Cleaning section 19: C Important Covering Number Bounds
+2025-01-14T22:55:51.763815+0100 | INFO | Cleaning section 20: D Basic Bound
+2025-01-14T22:55:51.763815+0100 | INFO | Cleaning section 21: (D.2)
+2025-01-14T22:55:51.765815+0100 | INFO | Cleaning section 22: D.2 Proof of Theorem 1
+2025-01-14T22:55:51.768348+0100 | INFO | Cleaning section 23: E Loss Augmentation
+2025-01-14T22:55:51.769040+0100 | INFO | Cleaning section 24: 2
+2025-01-14T22:55:51.769040+0100 | INFO | Cleaning section 25: Construct the cover for G:
+2025-01-14T22:55:51.769040+0100 | INFO | Cleaning section 26: Generalization Analysis for Deep Contrastive Representation Learning E.2 Proof of Theorem 3
+2025-01-14T22:55:51.769040+0100 | INFO | Cleaning section 27: F Parameter-Counting Bound
+2025-01-14T22:55:51.769040+0100 | INFO | Cleaning section 28: F.1 Some Supporting Results
+2025-01-14T22:55:51.769040+0100 | INFO | Cleaning section 29: F.2 Proof of Theorem 4
+2025-01-14T22:55:51.769040+0100 | INFO | Cleaning section 30: G Post-hoc Analysis
+2025-01-14T22:55:51.769040+0100 | INFO | Cleaning section 31: Generalization bound
+2025-01-14T22:55:51.777906+0100 | INFO | Cleaning section 32: I Discussion -Cross-Entropy Inspired Loss Functions
+2025-01-14T22:55:51.777906+0100 | INFO | Cleaning section 33: Loss Function
+2025-01-14T22:55:51.778914+0100 | INFO | Cleaning section 34: J Additional Experiments
+2025-01-14T22:55:51.778914+0100 | INFO | Cleaning section 35: K Hardware and Software Specifications
+2025-01-14T22:55:51.783020+0100 | INFO | Cleaned and indexed JSON saved to: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\cleaned\paperr_data_extracted.json
+2025-01-14T22:55:51.783020+0100 | INFO | Cleaned JSON saved at C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\cleaned\paperr_data_extracted.json
+2025-01-15T12:50:42.840352+0100 | INFO | Running Step 3: Clean and Index Extracted Sections...
+2025-01-15T12:50:42.840352+0100 | INFO | Initializing TextCleaner...
+2025-01-15T12:50:42.840352+0100 | INFO | Starting cleaning and indexing of extracted sections...
+2025-01-15T12:50:42.840352+0100 | INFO | Cleaning section 1: Introduction
+2025-01-15T12:50:42.857790+0100 | INFO | Cleaning section 2: Related Work
+2025-01-15T12:50:42.858782+0100 | INFO | Cleaning section 3: Problem Formulation
+2025-01-15T12:50:42.859788+0100 | INFO | Cleaning section 4: References Analysis Technique Generalization Bound Result
+2025-01-15T12:50:42.859788+0100 | INFO | Cleaning section 5: Arora et al. [2019]
+2025-01-15T12:50:42.860707+0100 | INFO | Cleaning section 6: Main Results
+2025-01-15T12:50:42.861259+0100 | INFO | Cleaning section 7: Contributions
+2025-01-15T12:50:42.861259+0100 | INFO | Cleaning section 8: Notations
+2025-01-15T12:50:42.862267+0100 | INFO | Cleaning section 9: Basic Bound
+2025-01-15T12:50:42.863267+0100 | INFO | Cleaning section 10: Loss Augmentation
+2025-01-15T12:50:42.864757+0100 | INFO | Cleaning section 11: Parameter Counting Bound
+2025-01-15T12:50:42.866110+0100 | INFO | Cleaning section 12: Generalization Analysis for Deep Contrastive Representation Learning
+2025-01-15T12:50:42.867304+0100 | INFO | Cleaning section 13: Downstream Classification
+2025-01-15T12:50:42.869392+0100 | INFO | Cleaning section 14: Conclusion and Further Works
+2025-01-15T12:50:42.869704+0100 | INFO | Cleaning section 15: A Table of Notations
+2025-01-15T12:50:42.869704+0100 | INFO | Cleaning section 16: Constants relating to parameters space a l
+2025-01-15T12:50:42.871147+0100 | INFO | Cleaning section 17: Empirical terms
+2025-01-15T12:50:42.871147+0100 | INFO | Cleaning section 18: B Rademacher Complexity
+2025-01-15T12:50:42.872399+0100 | INFO | Cleaning section 19: C Important Covering Number Bounds
+2025-01-15T12:50:42.873399+0100 | INFO | Cleaning section 20: D Basic Bound
+2025-01-15T12:50:42.873399+0100 | INFO | Cleaning section 21: (D.2)
+2025-01-15T12:50:42.874404+0100 | INFO | Cleaning section 22: D.2 Proof of Theorem 1
+2025-01-15T12:50:42.874404+0100 | INFO | Cleaning section 23: E Loss Augmentation
+2025-01-15T12:50:42.876811+0100 | INFO | Cleaning section 24: 2
+2025-01-15T12:50:42.876811+0100 | INFO | Cleaning section 25: Construct the cover for G:
+2025-01-15T12:50:42.878248+0100 | INFO | Cleaning section 26: Generalization Analysis for Deep Contrastive Representation Learning E.2 Proof of Theorem 3
+2025-01-15T12:50:42.878248+0100 | INFO | Cleaning section 27: F Parameter-Counting Bound
+2025-01-15T12:50:42.878248+0100 | INFO | Cleaning section 28: F.1 Some Supporting Results
+2025-01-15T12:50:42.878248+0100 | INFO | Cleaning section 29: F.2 Proof of Theorem 4
+2025-01-15T12:50:42.878248+0100 | INFO | Cleaning section 30: G Post-hoc Analysis
+2025-01-15T12:50:42.878248+0100 | INFO | Cleaning section 31: Generalization bound
+2025-01-15T12:50:42.878248+0100 | INFO | Cleaning section 32: I Discussion -Cross-Entropy Inspired Loss Functions
+2025-01-15T12:50:42.885577+0100 | INFO | Cleaning section 33: Loss Function
+2025-01-15T12:50:42.885577+0100 | INFO | Cleaning section 34: J Additional Experiments
+2025-01-15T12:50:42.886584+0100 | INFO | Cleaning section 35: K Hardware and Software Specifications
+2025-01-15T12:50:42.890789+0100 | INFO | Cleaned and indexed JSON saved to: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\cleaned\paperr_data_extracted.json
+2025-01-15T12:50:42.890789+0100 | INFO | Cleaned JSON saved at C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\cleaned\paperr_data_extracted.json
+2025-01-15T12:57:44.480190+0100 | INFO | Exiting the preprocessing pipeline.
+2025-01-15T15:04:15.166989+0100 | INFO | Running Step 2: Structured Content Extraction...
+2025-01-15T15:04:15.166989+0100 | INFO | Initializing GrobidExtractor...
+2025-01-15T15:04:15.166989+0100 | INFO | Starting GROBID extraction...
+2025-01-15T15:04:19.264456+0100 | ERROR | Error during GROBID extraction: HTTPConnectionPool(host='localhost', port=8070): Max retries exceeded with url: /api/processFulltextDocument (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E5F680A830>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-15T15:06:05.936844+0100 | INFO | Running Step 2: Structured Content Extraction...
+2025-01-15T15:06:05.936844+0100 | INFO | Initializing GrobidExtractor...
+2025-01-15T15:06:05.936844+0100 | INFO | Starting GROBID extraction...
+2025-01-15T15:06:26.765552+0100 | INFO | Parsing XML and saving as JSON...
+2025-01-15T15:06:26.889919+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\paper_data_extracted.json
+2025-01-15T15:06:39.488833+0100 | INFO | Running Step 3: Clean and Index Extracted Sections...
+2025-01-15T15:06:39.488833+0100 | INFO | Initializing TextCleaner...
+2025-01-15T15:06:39.488833+0100 | INFO | Starting cleaning and indexing of extracted sections...
+2025-01-15T15:06:39.488833+0100 | INFO | Cleaning section 1: I. INTRODUCTION
+2025-01-15T15:06:39.488833+0100 | INFO | Cleaning section 2: II. SIMULATION DETAILS
+2025-01-15T15:06:39.506718+0100 | INFO | Cleaning section 3: III. RESULTS AND DISCUSSION
+2025-01-15T15:06:39.506718+0100 | INFO | Cleaning section 4: A. Directional Interactions in Acetonitrile:Acetylene
+2025-01-15T15:06:39.506718+0100 | INFO | Cleaning section 5: B. Disordered Orientational Structure
+2025-01-15T15:06:39.506718+0100 | INFO | Cleaning section 6: C. Rotational Dynamics of Acetonitrile
+2025-01-15T15:06:39.512811+0100 | INFO | Cleaning section 7: D. Interaction Dynamics
+2025-01-15T15:06:39.512811+0100 | INFO | Cleaning section 8: IV. CONCLUSION
+2025-01-15T15:06:39.520316+0100 | INFO | Cleaned and indexed JSON saved to: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\cleaned\paper_data_extracted.json
+2025-01-15T15:06:39.520408+0100 | INFO | Cleaned JSON saved at C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\cleaned\paper_data_extracted.json
+2025-01-15T15:34:18.824109+0100 | INFO | Exiting the preprocessing pipeline.
+2025-01-23T02:14:33.623181+0100 | INFO | Running Step 2: Structured Content Extraction...
+2025-01-23T02:14:33.623181+0100 | INFO | Initializing GrobidExtractor...
+2025-01-23T02:14:33.626210+0100 | INFO | Starting GROBID extraction...
+2025-01-23T02:14:55.232781+0100 | INFO | Parsing XML and saving as JSON...
+2025-01-23T02:14:55.357509+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\paper_data_extracted.json
+2025-01-23T02:15:13.435540+0100 | INFO | Running Step 3: Clean and Index Extracted Sections...
+2025-01-23T02:15:13.435540+0100 | INFO | Initializing TextCleaner...
+2025-01-23T02:15:13.435540+0100 | INFO | Starting cleaning and indexing of extracted sections...
+2025-01-23T02:15:13.435540+0100 | INFO | Cleaning section 1: Introduction
+2025-01-23T02:15:13.435540+0100 | INFO | Cleaning section 2: Samples
+2025-01-23T02:15:13.435540+0100 | INFO | Cleaning section 3: Results
+2025-01-23T02:15:13.445175+0100 | INFO | Cleaning section 4: Major Elements
+2025-01-23T02:15:13.445175+0100 | INFO | Cleaning section 5: Trace Elements
+2025-01-23T02:15:13.446181+0100 | INFO | Cleaning section 6: Oxygen Isotopes
+2025-01-23T02:15:13.446793+0100 | INFO | Cleaning section 7: Downhole Variability 3.4.1. Major and Trace Elements
+2025-01-23T02:15:13.447663+0100 | INFO | Cleaning section 8: CO 2
+2025-01-23T02:15:13.447663+0100 | INFO | Cleaning section 9: Sulfur
+2025-01-23T02:15:13.448696+0100 | INFO | Cleaning section 10: Chlorine
+2025-01-23T02:15:13.448696+0100 | INFO | Cleaning section 11: Discussion
+2025-01-23T02:15:13.448696+0100 | INFO | Cleaning section 12: Temporal Major and Trace Element Evolution of the Louisville Seamounts 4.1.1. Within Individual Seamounts
+2025-01-23T02:15:13.450700+0100 | INFO | Cleaning section 13: Along-Chain
+2025-01-23T02:15:13.451694+0100 | INFO | Cleaning section 14: H 2 O Saturation Pressures and Constraints on the Mode of Glass Emplacement
+2025-01-23T02:15:13.453563+0100 | INFO | Cleaning section 15: Contributions From Seamount Growth and Dynamic Uplift to the Heights Reached by the Louisville Seamounts
+2025-01-23T02:15:13.454604+0100 | INFO | Cleaning section 16: Subsidence
+2025-01-23T02:15:13.455610+0100 | INFO | Cleaning section 17: Conclusions
+2025-01-23T02:15:13.461452+0100 | INFO | Cleaned and indexed JSON saved to: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\cleaned\paper_data_extracted.json
+2025-01-23T02:15:13.462465+0100 | INFO | Cleaned JSON saved at C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\cleaned\paper_data_extracted.json
+2025-01-23T02:15:27.506449+0100 | INFO | Exiting the preprocessing pipeline.
+2025-01-23T11:32:09.543950+0100 | INFO | Running Step 1: Load PDF...
+2025-01-23T11:32:09.549915+0100 | INFO | Initializing PDFLoader...
+2025-01-23T11:32:09.772892+0100 | INFO | PDFLoader initialized successfully with S3 bucket: georock-papers.
+2025-01-23T11:32:09.772892+0100 | INFO | Fetching PDF with ID: 10.1016/j.actamat.2021.117553
+2025-01-23T11:32:09.772892+0100 | ERROR | Error during PDF loading: 'PDFLoader' object has no attribute 'get_paper'
+2025-01-23T11:40:40.089527+0100 | INFO | Exiting the preprocessing pipeline.
+2025-01-23T11:40:44.592734+0100 | INFO | Running Step 1: Load PDF...
+2025-01-23T11:40:44.592734+0100 | INFO | Initializing PDFLoader...
+2025-01-23T11:40:44.809132+0100 | INFO | PDFLoader initialized with bucket: georock-papers in region: us-east-1
+2025-01-23T11:40:44.809132+0100 | INFO | Fetching PDFs from S3...
+2025-01-23T11:40:44.809132+0100 | INFO | Fetching up to 3 PDFs from S3 bucket: georock-papers
+2025-01-23T11:40:45.469304+0100 | INFO | Downloading PDF from S3: 10.1002_(SICI)1099-1034(199712)32_4_297__AID-GJ736_3.0.CO;2-X.pdf
+2025-01-23T11:40:45.581196+0100 | INFO | Downloading PDF from S3: 10.1002_(SICI)1099-1034(199901_06)34_1_2_95__AID-GJ816_3.0.CO;2-J.pdf
+2025-01-23T11:40:45.697379+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005016.pdf
+2025-01-23T11:40:46.611283+0100 | INFO | Successfully downloaded 3 PDFs from S3.
+2025-01-23T11:40:46.611283+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_(SICI)1099-1034(199712)32_4_297__AID-GJ736_3.0.CO;2-X.pdf...
+2025-01-23T11:40:46.611283+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_(SICI)1099-1034(199712)32_4_297__AID-GJ736_3.0.CO;2-X.pdf
+2025-01-23T11:40:46.611283+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_(SICI)1099-1034(199901_06)34_1_2_95__AID-GJ816_3.0.CO;2-J.pdf...
+2025-01-23T11:40:46.627089+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_(SICI)1099-1034(199901_06)34_1_2_95__AID-GJ816_3.0.CO;2-J.pdf
+2025-01-23T11:40:46.628564+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005016.pdf...
+2025-01-23T11:40:46.629877+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005016.pdf
+2025-01-23T11:46:02.472383+0100 | INFO | Exiting the preprocessing pipeline.
+2025-01-23T11:46:51.311560+0100 | INFO | Running Step 2: Structured Content Extraction...
+2025-01-23T11:46:51.311560+0100 | INFO | Initializing GrobidExtractor...
+2025-01-23T11:46:51.327218+0100 | INFO | Found 3 PDFs in C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw. Starting GROBID extraction...
+2025-01-23T11:46:51.327218+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw\10.1002_(SICI)1099-1034(199712)32_4_297__AID-GJ736_3.0.CO;2-X.pdf
+2025-01-23T11:46:52.585013+0100 | ERROR | GROBID API failed for 10.1002_(SICI)1099-1034(199712)32_4_297__AID-GJ736_3.0.CO;2-X.pdf with status 500: [BAD_INPUT_DATA] PDF to XML conversion failed with error code: 1
+2025-01-23T11:46:52.585013+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw\10.1002_(SICI)1099-1034(199901_06)34_1_2_95__AID-GJ816_3.0.CO;2-J.pdf
+2025-01-23T11:46:53.604315+0100 | ERROR | GROBID API failed for 10.1002_(SICI)1099-1034(199901_06)34_1_2_95__AID-GJ816_3.0.CO;2-J.pdf with status 500: [BAD_INPUT_DATA] PDF to XML conversion failed with error code: 1
+2025-01-23T11:46:53.604850+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw\10.1002_2013GC005016.pdf
+2025-01-23T11:47:16.227639+0100 | INFO | Successfully processed 10.1002_2013GC005016.pdf. Parsing XML and saving as JSON...
+2025-01-23T11:47:16.380585+0100 | ERROR | Error during GROBID extraction for 10.1002_2013GC005016.pdf: 'NoneType' object has no attribute 'get_text'
+2025-01-23T11:47:16.380585+0100 | INFO | GROBID extraction completed for all PDFs.
+2025-01-23T11:47:48.121675+0100 | INFO | Exiting the preprocessing pipeline.
+2025-01-23T11:47:54.612761+0100 | INFO | Running Step 1: Load PDF...
+2025-01-23T11:47:54.612761+0100 | INFO | Initializing PDFLoader...
+2025-01-23T11:47:54.993516+0100 | INFO | PDFLoader initialized with bucket: georock-papers in region: us-east-1
+2025-01-23T11:47:54.994036+0100 | INFO | Fetching PDFs from S3...
+2025-01-23T11:47:54.994036+0100 | INFO | Fetching up to 3 PDFs from S3 bucket: georock-papers
+2025-01-23T11:47:55.706358+0100 | INFO | Downloading PDF from S3: 10.1002_(SICI)1099-1034(199712)32_4_297__AID-GJ736_3.0.CO;2-X.pdf
+2025-01-23T11:47:55.809836+0100 | INFO | Downloading PDF from S3: 10.1002_(SICI)1099-1034(199901_06)34_1_2_95__AID-GJ816_3.0.CO;2-J.pdf
+2025-01-23T11:47:55.909186+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005016.pdf
+2025-01-23T11:47:57.313660+0100 | INFO | Successfully downloaded 3 PDFs from S3.
+2025-01-23T11:47:57.314673+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_(SICI)1099-1034(199712)32_4_297__AID-GJ736_3.0.CO;2-X.pdf...
+2025-01-23T11:47:57.315686+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_(SICI)1099-1034(199712)32_4_297__AID-GJ736_3.0.CO;2-X.pdf
+2025-01-23T11:47:57.316670+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_(SICI)1099-1034(199901_06)34_1_2_95__AID-GJ816_3.0.CO;2-J.pdf...
+2025-01-23T11:47:57.317069+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_(SICI)1099-1034(199901_06)34_1_2_95__AID-GJ816_3.0.CO;2-J.pdf
+2025-01-23T11:47:57.318072+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005016.pdf...
+2025-01-23T11:47:57.320078+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005016.pdf
+2025-01-23T11:48:16.517610+0100 | INFO | Exiting the preprocessing pipeline.
+2025-01-23T11:48:19.499242+0100 | INFO | Running Step 1: Load PDF...
+2025-01-23T11:48:19.499831+0100 | INFO | Initializing PDFLoader...
+2025-01-23T11:48:19.743911+0100 | INFO | PDFLoader initialized with bucket: georock-papers in region: us-east-1
+2025-01-23T11:48:19.743911+0100 | INFO | Fetching PDFs from S3...
+2025-01-23T11:48:19.743911+0100 | INFO | Fetching up to 10 PDFs from S3 bucket: georock-papers
+2025-01-23T11:48:20.413619+0100 | INFO | Downloading PDF from S3: 10.1002_(SICI)1099-1034(199712)32_4_297__AID-GJ736_3.0.CO;2-X.pdf
+2025-01-23T11:48:20.522107+0100 | INFO | Downloading PDF from S3: 10.1002_(SICI)1099-1034(199901_06)34_1_2_95__AID-GJ816_3.0.CO;2-J.pdf
+2025-01-23T11:48:20.639811+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005016.pdf
+2025-01-23T11:48:21.603448+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005053.pdf
+2025-01-23T11:48:22.154176+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005061.pdf
+2025-01-23T11:48:22.760047+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005085.pdf
+2025-01-23T11:48:23.228566+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005086.pdf
+2025-01-23T11:48:23.684430+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005132.pdf
+2025-01-23T11:48:26.349560+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005221.pdf
+2025-01-23T11:48:26.860748+0100 | INFO | Downloading PDF from S3: 10.1002_2014GC005262.pdf
+2025-01-23T11:48:27.701127+0100 | INFO | Successfully downloaded 10 PDFs from S3.
+2025-01-23T11:48:27.701127+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_(SICI)1099-1034(199712)32_4_297__AID-GJ736_3.0.CO;2-X.pdf...
+2025-01-23T11:48:27.701127+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_(SICI)1099-1034(199712)32_4_297__AID-GJ736_3.0.CO;2-X.pdf
+2025-01-23T11:48:27.701127+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_(SICI)1099-1034(199901_06)34_1_2_95__AID-GJ816_3.0.CO;2-J.pdf...
+2025-01-23T11:48:27.701127+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_(SICI)1099-1034(199901_06)34_1_2_95__AID-GJ816_3.0.CO;2-J.pdf
+2025-01-23T11:48:27.701127+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005016.pdf...
+2025-01-23T11:48:27.710241+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005016.pdf
+2025-01-23T11:48:27.711421+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005053.pdf...
+2025-01-23T11:48:27.712421+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005053.pdf
+2025-01-23T11:48:27.712421+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005061.pdf...
+2025-01-23T11:48:27.715187+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005061.pdf
+2025-01-23T11:48:27.715187+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005085.pdf...
+2025-01-23T11:48:27.717188+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005085.pdf
+2025-01-23T11:48:27.718082+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005086.pdf...
+2025-01-23T11:48:27.718808+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005086.pdf
+2025-01-23T11:48:27.718808+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005132.pdf...
+2025-01-23T11:48:27.724866+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005132.pdf
+2025-01-23T11:48:27.726137+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005221.pdf...
+2025-01-23T11:48:27.727207+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005221.pdf
+2025-01-23T11:48:27.728209+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005262.pdf...
+2025-01-23T11:48:27.730303+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005262.pdf
+2025-01-23T11:48:47.789254+0100 | INFO | Running Step 2: Structured Content Extraction...
+2025-01-23T11:48:47.789254+0100 | INFO | Initializing GrobidExtractor...
+2025-01-23T11:48:47.789254+0100 | INFO | Found 3 PDFs in C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw. Starting GROBID extraction...
+2025-01-23T11:48:47.804895+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw\10.1002_2013GC005132.pdf
+2025-01-23T11:48:58.819700+0100 | INFO | Successfully processed 10.1002_2013GC005132.pdf. Parsing XML and saving as JSON...
+2025-01-23T11:48:59.107826+0100 | ERROR | Error during GROBID extraction for 10.1002_2013GC005132.pdf: 'NoneType' object has no attribute 'get_text'
+2025-01-23T11:48:59.107826+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw\10.1002_2013GC005221.pdf
+2025-01-23T11:49:02.712284+0100 | INFO | Successfully processed 10.1002_2013GC005221.pdf. Parsing XML and saving as JSON...
+2025-01-23T11:49:02.860735+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2013GC005221_data_extracted.json
+2025-01-23T11:49:02.860735+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw\10.1002_2014GC005262.pdf
+2025-01-23T11:49:06.558056+0100 | INFO | Successfully processed 10.1002_2014GC005262.pdf. Parsing XML and saving as JSON...
+2025-01-23T11:49:06.722089+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005262_data_extracted.json
+2025-01-23T11:49:06.722089+0100 | INFO | GROBID extraction completed for all PDFs.
+2025-01-23T11:53:26.809555+0100 | INFO | Running Step 3: Clean and Index Extracted Sections...
+2025-01-23T11:53:26.809555+0100 | INFO | Initializing TextCleaner...
+2025-01-23T11:53:26.809555+0100 | ERROR | File not found: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\paper_data_extracted.json. Run Step 2 first.
+2025-01-23T11:54:32.716158+0100 | INFO | Exiting the preprocessing pipeline.
+2025-01-23T11:55:18.010910+0100 | INFO | Running Step 3: Clean and Index Extracted Sections...
+2025-01-23T11:55:18.010910+0100 | INFO | Initializing TextCleaner...
+2025-01-23T11:56:38.605361+0100 | INFO | Running Step 3: Clean and Index Extracted Sections...
+2025-01-23T11:56:38.615655+0100 | INFO | Initializing TextCleaner...
+2025-01-23T11:56:38.618266+0100 | INFO | Found 2 JSON files in C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed. Starting text cleaning...
+2025-01-23T11:56:38.619329+0100 | INFO | Processing JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2013GC005221_data_extracted.json
+2025-01-23T11:56:38.621787+0100 | INFO | Cleaning section 1: Introduction
+2025-01-23T11:56:38.624310+0100 | INFO | Cleaning section 2: Age of Volcanism
+2025-01-23T11:56:38.625312+0100 | INFO | Cleaning section 3: Temporal Isotope Variations
+2025-01-23T11:56:38.626314+0100 | INFO | Cleaning section 4: Isotopic Comparison of Ta'u and Ofu/Olosega
+2025-01-23T11:56:38.627314+0100 | INFO | Cleaning section 5: Trace Element Comparison of Ta'u and Ofu/Olosega
+2025-01-23T11:56:38.628315+0100 | INFO | Cleaning section 6: Mantle Source Spidergrams
+2025-01-23T11:56:38.629430+0100 | INFO | Cleaning section 7: Mantle Source Evolution
+2025-01-23T11:56:38.630455+0100 | INFO | Cleaning section 8: P-T Conditions of Melting
+2025-01-23T11:56:38.632839+0100 | INFO | Cleaning section 9: Re-Equilibration of Migrating Melts
+2025-01-23T11:56:38.639721+0100 | INFO | Cleaned and indexed JSON saved to: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\cleaned\10.1002_2013GC005221_data_extracted.json
+2025-01-23T11:56:38.640096+0100 | INFO | Cleaned JSON saved at C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\cleaned\10.1002_2013GC005221_data_extracted.json
+2025-01-23T11:56:38.640583+0100 | INFO | Processing JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005262_data_extracted.json
+2025-01-23T11:56:38.642729+0100 | INFO | Cleaning section 1: Introduction
+2025-01-23T11:56:38.643845+0100 | INFO | Cleaning section 2: Geology of the Makran Subduction System
+2025-01-23T11:56:38.644882+0100 | INFO | Cleaning section 3: Sampling and Analytical Methods
+2025-01-23T11:56:38.645943+0100 | INFO | Cleaning section 4: Results
+2025-01-23T11:56:38.645943+0100 | INFO | Cleaning section 5: The Mirabad Pluton
+2025-01-23T11:56:38.646463+0100 | INFO | Cleaning section 6: The Taftan Volcano
+2025-01-23T11:56:38.646991+0100 | INFO | Cleaning section 7: The Bazman Volcano
+2025-01-23T11:56:38.647511+0100 | INFO | Cleaning section 8: Discussion
+2025-01-23T11:56:38.647511+0100 | INFO | Cleaning section 9: The Makran as a Neogene-Quaternary Subduction System
+2025-01-23T11:56:38.648571+0100 | INFO | Cleaning section 10: Petrogenetic Constraints
+2025-01-23T11:56:38.649701+0100 | INFO | Cleaning section 11: A Three-Component Model for Magma Genesis
+2025-01-23T11:56:38.650663+0100 | INFO | Cleaning section 12: Tectonic Implications
+2025-01-23T11:56:38.651458+0100 | INFO | Cleaning section 13: Concluding Remarks
+2025-01-23T11:56:38.658217+0100 | INFO | Cleaned and indexed JSON saved to: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\cleaned\10.1002_2014GC005262_data_extracted.json
+2025-01-23T11:56:38.659079+0100 | INFO | Cleaned JSON saved at C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\cleaned\10.1002_2014GC005262_data_extracted.json
+2025-01-23T11:56:38.659902+0100 | INFO | Text cleaning completed for all JSON files.
+2025-01-23T12:00:19.426071+0100 | INFO | Running Step 3: Clean and Index Extracted Sections...
+2025-01-23T12:00:19.426071+0100 | INFO | Initializing TextCleaner...
+2025-01-23T12:00:19.426071+0100 | INFO | Found 2 JSON files in C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed. Starting text cleaning...
+2025-01-23T12:00:19.426071+0100 | INFO | Processing JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2013GC005221_data_extracted.json
+2025-01-23T12:00:19.426071+0100 | INFO | Cleaning section 1: Introduction
+2025-01-23T12:00:19.426071+0100 | INFO | Cleaning section 2: Age of Volcanism
+2025-01-23T12:00:19.426071+0100 | INFO | Cleaning section 3: Temporal Isotope Variations
+2025-01-23T12:00:19.426071+0100 | INFO | Cleaning section 4: Isotopic Comparison of Ta'u and Ofu/Olosega
+2025-01-23T12:00:19.433305+0100 | INFO | Cleaning section 5: Trace Element Comparison of Ta'u and Ofu/Olosega
+2025-01-23T12:00:19.433305+0100 | INFO | Cleaning section 6: Mantle Source Spidergrams
+2025-01-23T12:00:19.435605+0100 | INFO | Cleaning section 7: Mantle Source Evolution
+2025-01-23T12:00:19.436547+0100 | INFO | Cleaning section 8: P-T Conditions of Melting
+2025-01-23T12:00:19.441428+0100 | INFO | Cleaning section 9: Re-Equilibration of Migrating Melts
+2025-01-23T12:00:19.448482+0100 | INFO | Cleaned and indexed JSON saved to: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\cleaned\10.1002_2013GC005221_data_extracted.json
+2025-01-23T12:00:19.449010+0100 | INFO | Cleaned JSON saved at C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\cleaned\10.1002_2013GC005221_data_extracted.json
+2025-01-23T12:00:19.449010+0100 | INFO | Processing JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005262_data_extracted.json
+2025-01-23T12:00:19.450398+0100 | INFO | Cleaning section 1: Introduction
+2025-01-23T12:00:19.452039+0100 | INFO | Cleaning section 2: Geology of the Makran Subduction System
+2025-01-23T12:00:19.452564+0100 | INFO | Cleaning section 3: Sampling and Analytical Methods
+2025-01-23T12:00:19.453090+0100 | INFO | Cleaning section 4: Results
+2025-01-23T12:00:19.453776+0100 | INFO | Cleaning section 5: The Mirabad Pluton
+2025-01-23T12:00:19.453776+0100 | INFO | Cleaning section 6: The Taftan Volcano
+2025-01-23T12:00:19.454624+0100 | INFO | Cleaning section 7: The Bazman Volcano
+2025-01-23T12:00:19.455879+0100 | INFO | Cleaning section 8: Discussion
+2025-01-23T12:00:19.456386+0100 | INFO | Cleaning section 9: The Makran as a Neogene-Quaternary Subduction System
+2025-01-23T12:00:19.457233+0100 | INFO | Cleaning section 10: Petrogenetic Constraints
+2025-01-23T12:00:19.457233+0100 | INFO | Cleaning section 11: A Three-Component Model for Magma Genesis
+2025-01-23T12:00:19.457233+0100 | INFO | Cleaning section 12: Tectonic Implications
+2025-01-23T12:00:19.457233+0100 | INFO | Cleaning section 13: Concluding Remarks
+2025-01-23T12:00:19.468069+0100 | INFO | Cleaned and indexed JSON saved to: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\cleaned\10.1002_2014GC005262_data_extracted.json
+2025-01-23T12:00:19.468069+0100 | INFO | Cleaned JSON saved at C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\cleaned\10.1002_2014GC005262_data_extracted.json
+2025-01-23T12:00:19.468839+0100 | INFO | Text cleaning completed for all JSON files.
+2025-01-23T12:10:08.835087+0100 | INFO | Exiting the preprocessing pipeline.
+2025-01-23T12:23:26.440937+0100 | INFO | Running Step 3: Clean and Index Extracted Sections...
+2025-01-23T12:23:26.440937+0100 | INFO | Initializing TextCleaner...
+2025-01-23T12:23:26.619239+0100 | INFO | TextCleaner initialized with MongoDB collection: georock.papers
+2025-01-23T12:23:26.619239+0100 | INFO | Found 2 JSON files in C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed. Starting cleaning and saving to MongoDB...
+2025-01-23T12:23:26.619239+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2013GC005221_data_extracted.json
+2025-01-23T12:23:26.619239+0100 | ERROR | Failed to process JSON file 10.1002_2013GC005221_data_extracted.json: name 'json' is not defined
+2025-01-23T12:23:26.619239+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005262_data_extracted.json
+2025-01-23T12:23:26.619239+0100 | ERROR | Failed to process JSON file 10.1002_2014GC005262_data_extracted.json: name 'json' is not defined
+2025-01-23T12:23:26.619239+0100 | INFO | Completed cleaning and saving all JSON files to MongoDB.
+2025-01-23T12:25:10.538448+0100 | INFO | Exiting the preprocessing pipeline.
+2025-01-23T12:25:13.035437+0100 | INFO | Running Step 3: Clean and Index Extracted Sections...
+2025-01-23T12:25:13.035437+0100 | INFO | Initializing TextCleaner...
+2025-01-23T12:25:13.174013+0100 | INFO | TextCleaner initialized with MongoDB collection: georock.papers
+2025-01-23T12:25:13.174013+0100 | INFO | Found 2 JSON files in C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed. Starting cleaning and saving to MongoDB...
+2025-01-23T12:25:13.189632+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2013GC005221_data_extracted.json
+2025-01-23T12:25:13.194613+0100 | INFO | Cleaning section 1: Introduction
+2025-01-23T12:25:13.194613+0100 | INFO | Cleaning section 2: Age of Volcanism
+2025-01-23T12:25:13.200831+0100 | INFO | Cleaning section 3: Temporal Isotope Variations
+2025-01-23T12:25:13.200831+0100 | INFO | Cleaning section 4: Isotopic Comparison of Ta'u and Ofu/Olosega
+2025-01-23T12:25:13.201853+0100 | INFO | Cleaning section 5: Trace Element Comparison of Ta'u and Ofu/Olosega
+2025-01-23T12:25:13.202948+0100 | INFO | Cleaning section 6: Mantle Source Spidergrams
+2025-01-23T12:25:13.204948+0100 | INFO | Cleaning section 7: Mantle Source Evolution
+2025-01-23T12:25:13.205632+0100 | INFO | Cleaning section 8: P-T Conditions of Melting
+2025-01-23T12:25:13.207726+0100 | INFO | Cleaning section 9: Re-Equilibration of Migrating Melts
+2025-01-23T12:25:13.209759+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-01-23T12:25:13.388154+0100 | ERROR | Error cleaning and saving JSON data to MongoDB: bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+2025-01-23T12:25:13.388154+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005262_data_extracted.json
+2025-01-23T12:25:13.388154+0100 | INFO | Cleaning section 1: Introduction
+2025-01-23T12:25:13.388154+0100 | INFO | Cleaning section 2: Geology of the Makran Subduction System
+2025-01-23T12:25:13.395215+0100 | INFO | Cleaning section 3: Sampling and Analytical Methods
+2025-01-23T12:25:13.396449+0100 | INFO | Cleaning section 4: Results
+2025-01-23T12:25:13.396449+0100 | INFO | Cleaning section 5: The Mirabad Pluton
+2025-01-23T12:25:13.397462+0100 | INFO | Cleaning section 6: The Taftan Volcano
+2025-01-23T12:25:13.398605+0100 | INFO | Cleaning section 7: The Bazman Volcano
+2025-01-23T12:25:13.399445+0100 | INFO | Cleaning section 8: Discussion
+2025-01-23T12:25:13.400243+0100 | INFO | Cleaning section 9: The Makran as a Neogene-Quaternary Subduction System
+2025-01-23T12:25:13.400935+0100 | INFO | Cleaning section 10: Petrogenetic Constraints
+2025-01-23T12:25:13.400935+0100 | INFO | Cleaning section 11: A Three-Component Model for Magma Genesis
+2025-01-23T12:25:13.400935+0100 | INFO | Cleaning section 12: Tectonic Implications
+2025-01-23T12:25:13.400935+0100 | INFO | Cleaning section 13: Concluding Remarks
+2025-01-23T12:25:13.400935+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-01-23T12:25:23.420129+0100 | ERROR | Error cleaning and saving JSON data to MongoDB: bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+2025-01-23T12:25:23.420129+0100 | INFO | Completed cleaning and saving all JSON files to MongoDB.
+2025-01-23T12:26:45.549224+0100 | INFO | Running Step 3: Clean and Index Extracted Sections...
+2025-01-23T12:26:45.549224+0100 | INFO | Initializing TextCleaner...
+2025-01-23T12:26:45.600681+0100 | INFO | TextCleaner initialized with MongoDB collection: georock.papers
+2025-01-23T12:26:45.600681+0100 | INFO | Found 2 JSON files in C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed. Starting cleaning and saving to MongoDB...
+2025-01-23T12:26:45.600681+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2013GC005221_data_extracted.json
+2025-01-23T12:26:45.600681+0100 | INFO | Cleaning section 1: Introduction
+2025-01-23T12:26:45.600681+0100 | INFO | Cleaning section 2: Age of Volcanism
+2025-01-23T12:26:45.600681+0100 | INFO | Cleaning section 3: Temporal Isotope Variations
+2025-01-23T12:26:45.600681+0100 | INFO | Cleaning section 4: Isotopic Comparison of Ta'u and Ofu/Olosega
+2025-01-23T12:26:45.600681+0100 | INFO | Cleaning section 5: Trace Element Comparison of Ta'u and Ofu/Olosega
+2025-01-23T12:26:45.611848+0100 | INFO | Cleaning section 6: Mantle Source Spidergrams
+2025-01-23T12:26:45.612433+0100 | INFO | Cleaning section 7: Mantle Source Evolution
+2025-01-23T12:26:45.613768+0100 | INFO | Cleaning section 8: P-T Conditions of Melting
+2025-01-23T12:26:45.615772+0100 | INFO | Cleaning section 9: Re-Equilibration of Migrating Melts
+2025-01-23T12:26:45.616937+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-01-23T12:26:45.783377+0100 | ERROR | Error cleaning and saving JSON data to MongoDB: bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+2025-01-23T12:26:45.783377+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005262_data_extracted.json
+2025-01-23T12:26:45.783377+0100 | INFO | Cleaning section 1: Introduction
+2025-01-23T12:26:45.799111+0100 | INFO | Cleaning section 2: Geology of the Makran Subduction System
+2025-01-23T12:26:45.799111+0100 | INFO | Cleaning section 3: Sampling and Analytical Methods
+2025-01-23T12:26:45.803079+0100 | INFO | Cleaning section 4: Results
+2025-01-23T12:26:45.804089+0100 | INFO | Cleaning section 5: The Mirabad Pluton
+2025-01-23T12:26:45.805093+0100 | INFO | Cleaning section 6: The Taftan Volcano
+2025-01-23T12:26:45.805526+0100 | INFO | Cleaning section 7: The Bazman Volcano
+2025-01-23T12:26:45.806848+0100 | INFO | Cleaning section 8: Discussion
+2025-01-23T12:26:45.806848+0100 | INFO | Cleaning section 9: The Makran as a Neogene-Quaternary Subduction System
+2025-01-23T12:26:45.807891+0100 | INFO | Cleaning section 10: Petrogenetic Constraints
+2025-01-23T12:26:45.809456+0100 | INFO | Cleaning section 11: A Three-Component Model for Magma Genesis
+2025-01-23T12:26:45.810677+0100 | INFO | Cleaning section 12: Tectonic Implications
+2025-01-23T12:26:45.811211+0100 | INFO | Cleaning section 13: Concluding Remarks
+2025-01-23T12:26:45.812218+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-01-23T12:26:55.819929+0100 | ERROR | Error cleaning and saving JSON data to MongoDB: bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+2025-01-23T12:26:55.819929+0100 | INFO | Completed cleaning and saving all JSON files to MongoDB.
+2025-01-23T12:35:33.836087+0100 | INFO | Exiting the preprocessing pipeline.
+2025-01-23T12:35:36.921563+0100 | INFO | Running Step 3: Clean and Index Extracted Sections...
+2025-01-23T12:35:36.921563+0100 | INFO | Initializing TextCleaner...
+2025-01-23T12:35:37.099762+0100 | INFO | TextCleaner initialized with MongoDB collection: georock.papers
+2025-01-23T12:35:37.099762+0100 | INFO | Found 2 JSON files in C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed. Starting cleaning and saving to MongoDB...
+2025-01-23T12:35:37.099762+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2013GC005221_data_extracted.json
+2025-01-23T12:35:37.099762+0100 | INFO | Cleaning section 1: Introduction
+2025-01-23T12:35:37.099762+0100 | INFO | Cleaning section 2: Age of Volcanism
+2025-01-23T12:35:37.099762+0100 | INFO | Cleaning section 3: Temporal Isotope Variations
+2025-01-23T12:35:37.099762+0100 | INFO | Cleaning section 4: Isotopic Comparison of Ta'u and Ofu/Olosega
+2025-01-23T12:35:37.111690+0100 | INFO | Cleaning section 5: Trace Element Comparison of Ta'u and Ofu/Olosega
+2025-01-23T12:35:37.113345+0100 | INFO | Cleaning section 6: Mantle Source Spidergrams
+2025-01-23T12:35:37.114358+0100 | INFO | Cleaning section 7: Mantle Source Evolution
+2025-01-23T12:35:37.115887+0100 | INFO | Cleaning section 8: P-T Conditions of Melting
+2025-01-23T12:35:37.115887+0100 | INFO | Cleaning section 9: Re-Equilibration of Migrating Melts
+2025-01-23T12:35:37.115887+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-01-23T12:35:38.305708+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-01-23T12:35:38.305708+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005262_data_extracted.json
+2025-01-23T12:35:38.307708+0100 | INFO | Cleaning section 1: Introduction
+2025-01-23T12:35:38.308707+0100 | INFO | Cleaning section 2: Geology of the Makran Subduction System
+2025-01-23T12:35:38.310240+0100 | INFO | Cleaning section 3: Sampling and Analytical Methods
+2025-01-23T12:35:38.311292+0100 | INFO | Cleaning section 4: Results
+2025-01-23T12:35:38.311292+0100 | INFO | Cleaning section 5: The Mirabad Pluton
+2025-01-23T12:35:38.312309+0100 | INFO | Cleaning section 6: The Taftan Volcano
+2025-01-23T12:35:38.313303+0100 | INFO | Cleaning section 7: The Bazman Volcano
+2025-01-23T12:35:38.313303+0100 | INFO | Cleaning section 8: Discussion
+2025-01-23T12:35:38.314376+0100 | INFO | Cleaning section 9: The Makran as a Neogene-Quaternary Subduction System
+2025-01-23T12:35:38.315291+0100 | INFO | Cleaning section 10: Petrogenetic Constraints
+2025-01-23T12:35:38.316643+0100 | INFO | Cleaning section 11: A Three-Component Model for Magma Genesis
+2025-01-23T12:35:38.317647+0100 | INFO | Cleaning section 12: Tectonic Implications
+2025-01-23T12:35:38.317647+0100 | INFO | Cleaning section 13: Concluding Remarks
+2025-01-23T12:35:38.318672+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-01-23T12:35:38.425054+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-01-23T12:35:38.425054+0100 | INFO | Completed cleaning and saving all JSON files to MongoDB.
+2025-01-23T12:37:10.756027+0100 | INFO | Exiting the preprocessing pipeline.
+2025-01-27T23:18:55.551713+0100 | INFO | Running Step 1: Load PDF...
+2025-01-27T23:18:55.557619+0100 | INFO | Initializing PDFLoader...
+2025-01-27T23:18:55.983886+0100 | INFO | PDFLoader initialized with bucket: georock-papers in region: us-east-1
+2025-01-27T23:18:55.983886+0100 | INFO | Fetching PDFs from S3...
+2025-01-27T23:18:55.983886+0100 | INFO | Fetching up to 20 PDFs from S3 bucket: georock-papers
+2025-01-27T23:18:56.627856+0100 | INFO | Downloading PDF from S3: 10.1002_(SICI)1099-1034(199712)32_4_297__AID-GJ736_3.0.CO;2-X.pdf
+2025-01-27T23:18:56.753824+0100 | INFO | Downloading PDF from S3: 10.1002_(SICI)1099-1034(199901_06)34_1_2_95__AID-GJ816_3.0.CO;2-J.pdf
+2025-01-27T23:18:56.865629+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005016.pdf
+2025-01-27T23:18:57.630490+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005053.pdf
+2025-01-27T23:18:58.352521+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005061.pdf
+2025-01-27T23:18:59.198573+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005085.pdf
+2025-01-27T23:18:59.557705+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005086.pdf
+2025-01-27T23:19:00.084983+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005132.pdf
+2025-01-27T23:19:02.350841+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005221.pdf
+2025-01-27T23:19:03.026372+0100 | INFO | Downloading PDF from S3: 10.1002_2014GC005262.pdf
+2025-01-27T23:19:04.297205+0100 | INFO | Downloading PDF from S3: 10.1002_2014GC005288.pdf
+2025-01-27T23:19:05.422635+0100 | INFO | Downloading PDF from S3: 10.1002_2014GC005300.pdf
+2025-01-27T23:19:06.271587+0100 | INFO | Downloading PDF from S3: 10.1002_2014GC005334.pdf
+2025-01-27T23:19:06.726562+0100 | INFO | Downloading PDF from S3: 10.1002_2014GC005378.pdf
+2025-01-27T23:19:07.539432+0100 | INFO | Downloading PDF from S3: 10.1002_2014GC005435.pdf
+2025-01-27T23:19:11.332221+0100 | INFO | Downloading PDF from S3: 10.1002_2014GC005473.pdf
+2025-01-27T23:19:12.109593+0100 | INFO | Downloading PDF from S3: 10.1002_2014GC005486.pdf
+2025-01-27T23:19:14.614015+0100 | INFO | Downloading PDF from S3: 10.1002_2014GC005500.pdf
+2025-01-27T23:19:19.834023+0100 | INFO | Downloading PDF from S3: 10.1002_2014GC005589.pdf
+2025-01-27T23:19:22.687161+0100 | INFO | Downloading PDF from S3: 10.1002_2014GC005620.pdf
+2025-01-27T23:19:23.503589+0100 | INFO | Successfully downloaded 20 PDFs from S3.
+2025-01-27T23:19:23.503589+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_(SICI)1099-1034(199712)32_4_297__AID-GJ736_3.0.CO;2-X.pdf...
+2025-01-27T23:19:23.503589+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_(SICI)1099-1034(199712)32_4_297__AID-GJ736_3.0.CO;2-X.pdf
+2025-01-27T23:19:23.515282+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_(SICI)1099-1034(199901_06)34_1_2_95__AID-GJ816_3.0.CO;2-J.pdf...
+2025-01-27T23:19:23.515791+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_(SICI)1099-1034(199901_06)34_1_2_95__AID-GJ816_3.0.CO;2-J.pdf
+2025-01-27T23:19:23.515791+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005016.pdf...
+2025-01-27T23:19:23.520288+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005016.pdf
+2025-01-27T23:19:23.520787+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005053.pdf...
+2025-01-27T23:19:23.522427+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005053.pdf
+2025-01-27T23:19:23.523432+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005061.pdf...
+2025-01-27T23:19:23.524695+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005061.pdf
+2025-01-27T23:19:23.525694+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005085.pdf...
+2025-01-27T23:19:23.526808+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005085.pdf
+2025-01-27T23:19:23.526808+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005086.pdf...
+2025-01-27T23:19:23.529294+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005086.pdf
+2025-01-27T23:19:23.529294+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005132.pdf...
+2025-01-27T23:19:23.532953+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005132.pdf
+2025-01-27T23:19:23.533933+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005221.pdf...
+2025-01-27T23:19:23.534949+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2013GC005221.pdf
+2025-01-27T23:19:23.534949+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005262.pdf...
+2025-01-27T23:19:23.536953+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005262.pdf
+2025-01-27T23:19:23.536953+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005288.pdf...
+2025-01-27T23:19:23.538356+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005288.pdf
+2025-01-27T23:19:23.538356+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005300.pdf...
+2025-01-27T23:19:23.539450+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005300.pdf
+2025-01-27T23:19:23.539450+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005334.pdf...
+2025-01-27T23:19:23.539450+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005334.pdf
+2025-01-27T23:19:23.539450+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005378.pdf...
+2025-01-27T23:19:23.539450+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005378.pdf
+2025-01-27T23:19:23.539450+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005435.pdf...
+2025-01-27T23:19:23.548677+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005435.pdf
+2025-01-27T23:19:23.548677+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005473.pdf...
+2025-01-27T23:19:23.551111+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005473.pdf
+2025-01-27T23:19:23.551111+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005486.pdf...
+2025-01-27T23:19:23.552647+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005486.pdf
+2025-01-27T23:19:23.552647+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005500.pdf...
+2025-01-27T23:19:23.572769+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005500.pdf
+2025-01-27T23:19:23.572769+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005589.pdf...
+2025-01-27T23:19:23.579900+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005589.pdf
+2025-01-27T23:19:23.580879+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005620.pdf...
+2025-01-27T23:19:23.582142+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data/raw\10.1002_2014GC005620.pdf
+2025-01-27T23:19:44.354800+0100 | INFO | Running Step 2: Structured Content Extraction...
+2025-01-27T23:19:44.354800+0100 | INFO | Initializing GrobidExtractor...
+2025-01-27T23:19:44.354800+0100 | INFO | Found 20 PDFs in C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw. Starting GROBID extraction...
+2025-01-27T23:19:44.354800+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw\10.1002_(SICI)1099-1034(199712)32_4_297__AID-GJ736_3.0.CO;2-X.pdf
+2025-01-27T23:19:45.514340+0100 | ERROR | GROBID API failed for 10.1002_(SICI)1099-1034(199712)32_4_297__AID-GJ736_3.0.CO;2-X.pdf with status 500: [BAD_INPUT_DATA] PDF to XML conversion failed with error code: 1
+2025-01-27T23:19:45.514340+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw\10.1002_(SICI)1099-1034(199901_06)34_1_2_95__AID-GJ816_3.0.CO;2-J.pdf
+2025-01-27T23:19:46.539425+0100 | ERROR | GROBID API failed for 10.1002_(SICI)1099-1034(199901_06)34_1_2_95__AID-GJ816_3.0.CO;2-J.pdf with status 500: [BAD_INPUT_DATA] PDF to XML conversion failed with error code: 1
+2025-01-27T23:19:46.540659+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw\10.1002_2013GC005016.pdf
+2025-01-27T23:21:21.138021+0100 | INFO | Exiting the preprocessing pipeline.
+2025-01-27T23:23:25.839278+0100 | INFO | Running Step 2: Structured Content Extraction...
+2025-01-27T23:23:25.839278+0100 | INFO | Initializing GrobidExtractor...
+2025-01-27T23:23:25.839278+0100 | INFO | Found 10 PDFs in C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw. Starting GROBID extraction...
+2025-01-27T23:23:25.839278+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw\10.1002_2014GC005288.pdf
+2025-01-27T23:23:30.120909+0100 | INFO | Successfully processed 10.1002_2014GC005288.pdf. Parsing XML and saving as JSON...
+2025-01-27T23:23:30.267509+0100 | ERROR | Error during GROBID extraction for 10.1002_2014GC005288.pdf: 'NoneType' object has no attribute 'get_text'
+2025-01-27T23:23:30.267509+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw\10.1002_2014GC005300.pdf
+2025-01-27T23:23:33.698603+0100 | INFO | Successfully processed 10.1002_2014GC005300.pdf. Parsing XML and saving as JSON...
+2025-01-27T23:23:33.933639+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005300_data_extracted.json
+2025-01-27T23:23:33.934544+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw\10.1002_2014GC005334.pdf
+2025-01-27T23:23:37.082995+0100 | INFO | Successfully processed 10.1002_2014GC005334.pdf. Parsing XML and saving as JSON...
+2025-01-27T23:23:37.250935+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005334_data_extracted.json
+2025-01-27T23:23:37.250935+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw\10.1002_2014GC005378.pdf
+2025-01-27T23:23:40.812431+0100 | INFO | Successfully processed 10.1002_2014GC005378.pdf. Parsing XML and saving as JSON...
+2025-01-27T23:23:41.064323+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005378_data_extracted.json
+2025-01-27T23:23:41.064323+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw\10.1002_2014GC005435.pdf
+2025-01-27T23:23:44.508111+0100 | INFO | Successfully processed 10.1002_2014GC005435.pdf. Parsing XML and saving as JSON...
+2025-01-27T23:23:44.664716+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005435_data_extracted.json
+2025-01-27T23:23:44.664716+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw\10.1002_2014GC005473.pdf
+2025-01-27T23:23:48.294514+0100 | INFO | Successfully processed 10.1002_2014GC005473.pdf. Parsing XML and saving as JSON...
+2025-01-27T23:23:48.471963+0100 | ERROR | Error during GROBID extraction for 10.1002_2014GC005473.pdf: 'NoneType' object has no attribute 'get_text'
+2025-01-27T23:23:48.471963+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw\10.1002_2014GC005486.pdf
+2025-01-27T23:23:51.333874+0100 | INFO | Successfully processed 10.1002_2014GC005486.pdf. Parsing XML and saving as JSON...
+2025-01-27T23:23:51.521715+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005486_data_extracted.json
+2025-01-27T23:23:51.521715+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw\10.1002_2014GC005500.pdf
+2025-01-27T23:23:55.650353+0100 | INFO | Successfully processed 10.1002_2014GC005500.pdf. Parsing XML and saving as JSON...
+2025-01-27T23:23:55.782971+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005500_data_extracted.json
+2025-01-27T23:23:55.782971+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw\10.1002_2014GC005589.pdf
+2025-01-27T23:24:02.850915+0100 | INFO | Successfully processed 10.1002_2014GC005589.pdf. Parsing XML and saving as JSON...
+2025-01-27T23:24:03.029940+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005589_data_extracted.json
+2025-01-27T23:24:03.029940+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\raw\10.1002_2014GC005620.pdf
+2025-01-27T23:24:06.367544+0100 | INFO | Successfully processed 10.1002_2014GC005620.pdf. Parsing XML and saving as JSON...
+2025-01-27T23:24:06.544720+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005620_data_extracted.json
+2025-01-27T23:24:06.544720+0100 | INFO | GROBID extraction completed for all PDFs.
+2025-01-27T23:24:15.430194+0100 | INFO | Running Step 3: Clean and Index Extracted Sections...
+2025-01-27T23:24:15.430194+0100 | INFO | Initializing TextCleaner...
+2025-01-27T23:24:15.707638+0100 | INFO | TextCleaner initialized with MongoDB collection: georock_10.papers_10
+2025-01-27T23:24:15.711066+0100 | INFO | Found 8 JSON files in C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed. Starting cleaning and saving to MongoDB...
+2025-01-27T23:24:15.711066+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005300_data_extracted.json
+2025-01-27T23:24:15.713111+0100 | INFO | Cleaning section 1: Introduction
+2025-01-27T23:24:15.713111+0100 | INFO | Cleaning section 2: Geological Setting
+2025-01-27T23:24:15.713111+0100 | INFO | Cleaning section 3: Peridotite Characterization
+2025-01-27T23:24:15.717435+0100 | INFO | Cleaning section 4: East Otago
+2025-01-27T23:24:15.718466+0100 | INFO | Cleaning section 5: North Otago
+2025-01-27T23:24:15.718466+0100 | INFO | Cleaning section 6: Auckland Islands
+2025-01-27T23:24:15.719463+0100 | INFO | Cleaning section 7: Trace Elements
+2025-01-27T23:24:15.719795+0100 | INFO | Cleaning section 8: West Otago
+2025-01-27T23:24:15.719973+0100 | INFO | Cleaning section 9: Radiogenic Isotopes
+2025-01-27T23:24:15.720764+0100 | INFO | Cleaning section 10: Coupled REE-Isotope Modeling
+2025-01-27T23:24:15.720764+0100 | INFO | Cleaning section 11: Group 1
+2025-01-27T23:24:15.722610+0100 | INFO | Cleaning section 12: Group 2
+2025-01-27T23:24:15.723622+0100 | INFO | Cleaning section 13: Group 3
+2025-01-27T23:24:15.723622+0100 | INFO | Cleaning section 14: Discussion
+2025-01-27T23:24:15.723622+0100 | INFO | Cleaning section 15: Adjacent Fertile and Refractory Domains Beneath Zealandia
+2025-01-27T23:24:15.724630+0100 | INFO | Cleaning section 16: Metasomatic Agent
+2025-01-27T23:24:15.725631+0100 | INFO | Cleaning section 17: Isotopic Composition of the Metasomatic Agents
+2025-01-27T23:24:15.725631+0100 | INFO | Cleaning section 18: Conclusions
+2025-01-27T23:24:15.726629+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-01-27T23:24:17.030248+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-01-27T23:24:17.030248+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005334_data_extracted.json
+2025-01-27T23:24:17.046037+0100 | INFO | Cleaning section 1: Introduction
+2025-01-27T23:24:17.046037+0100 | INFO | Cleaning section 2: Geologic Setting
+2025-01-27T23:24:17.050293+0100 | INFO | Cleaning section 3: Samples and Analytical Procedures
+2025-01-27T23:24:17.051299+0100 | INFO | Cleaning section 4: Results
+2025-01-27T23:24:17.052047+0100 | INFO | Cleaning section 5: Younger Seamounts
+2025-01-27T23:24:17.052326+0100 | INFO | Cleaning section 6: Older Seamounts
+2025-01-27T23:24:17.053083+0100 | INFO | Cleaning section 7: Discussion
+2025-01-27T23:24:17.054125+0100 | INFO | Cleaning section 8: Conclusions
+2025-01-27T23:24:17.055120+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-01-27T23:24:17.162868+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-01-27T23:24:17.163868+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005378_data_extracted.json
+2025-01-27T23:24:17.165521+0100 | INFO | Cleaning section 1: Introduction
+2025-01-27T23:24:17.166518+0100 | INFO | Cleaning section 2: Geological Setting
+2025-01-27T23:24:17.167404+0100 | INFO | Cleaning section 3: Analytical Methods
+2025-01-27T23:24:17.167404+0100 | INFO | Cleaning section 4: Zircon U-Pb Dating
+2025-01-27T23:24:17.168418+0100 | INFO | Cleaning section 5: Zircon Lu-Hf Isotopes
+2025-01-27T23:24:17.168418+0100 | INFO | Cleaning section 6: Rock Geochemistry
+2025-01-27T23:24:17.169153+0100 | INFO | Cleaning section 7: Results
+2025-01-27T23:24:17.169153+0100 | INFO | Cleaning section 8: U-Pb Zircon Dating
+2025-01-27T23:24:17.169153+0100 | INFO | Cleaning section 9: Zircon Hf Isotopes
+2025-01-27T23:24:17.170189+0100 | INFO | Cleaning section 10: Major and Trace Elements
+2025-01-27T23:24:17.170189+0100 | INFO | Cleaning section 11: Discussion and Implications
+2025-01-27T23:24:17.170189+0100 | INFO | Cleaning section 12: Petrogenesis 5.1.1. Alteration Effects on Chemical Compositions
+2025-01-27T23:24:17.170189+0100 | INFO | Cleaning section 13: 10.1002/2014GC005378
+2025-01-27T23:24:17.171189+0100 | INFO | Cleaning section 14: Magmatic Evolution
+2025-01-27T23:24:17.171189+0100 | INFO | Cleaning section 15: Nature of the Magma Source
+2025-01-27T23:24:17.172214+0100 | INFO | Cleaning section 16: Tectonic Implications
+2025-01-27T23:24:17.173372+0100 | INFO | Cleaning section 17: Conclusions
+2025-01-27T23:24:17.173372+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-01-27T23:24:17.374622+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-01-27T23:24:17.375623+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005435_data_extracted.json
+2025-01-27T23:24:17.383066+0100 | INFO | Cleaning section 1: Introduction
+2025-01-27T23:24:17.384468+0100 | INFO | Cleaning section 2: Field Characteristics
+2025-01-27T23:24:17.384468+0100 | INFO | Cleaning section 3: Methods
+2025-01-27T23:24:17.385511+0100 | INFO | Cleaning section 4: Samples
+2025-01-27T23:24:17.385511+0100 | INFO | Cleaning section 5: Image Particle Analysis (IPA)
+2025-01-27T23:24:17.386508+0100 | INFO | Cleaning section 6: Electron Microprobe Analysis
+2025-01-27T23:24:17.386508+0100 | INFO | Cleaning section 7: Laser Ablation-Inductively Coupled Plasma-Mass Spectrometry (LA-ICP-MS)
+2025-01-27T23:24:17.388134+0100 | INFO | Cleaning section 8: Results
+2025-01-27T23:24:17.388134+0100 | INFO | Cleaning section 9: Tephra Characterization
+2025-01-27T23:24:17.388134+0100 | INFO | Cleaning section 10: Tephra Chemical Compositions
+2025-01-27T23:24:17.389521+0100 | INFO | Cleaning section 11: Major Elements
+2025-01-27T23:24:17.389521+0100 | INFO | Cleaning section 12: Trace Elements
+2025-01-27T23:24:17.389521+0100 | INFO | Cleaning section 13: Mount Terra Nova
+2025-01-27T23:24:17.390528+0100 | INFO | Cleaning section 14: Discussion
+2025-01-27T23:24:17.390528+0100 | INFO | Cleaning section 15: Eruptive Mechanism
+2025-01-27T23:24:17.391529+0100 | INFO | Cleaning section 16: Erebus Matrix Glass Evolution
+2025-01-27T23:24:17.392526+0100 | INFO | Cleaning section 17: Distal Tephra
+2025-01-27T23:24:17.393528+0100 | INFO | Cleaning section 18: Eruptive History
+2025-01-27T23:24:17.394007+0100 | INFO | Cleaning section 19: Conclusions
+2025-01-27T23:24:17.394007+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-01-27T23:24:17.581456+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-01-27T23:24:17.581456+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005486_data_extracted.json
+2025-01-27T23:24:17.581456+0100 | INFO | Cleaning section 1: Introduction
+2025-01-27T23:24:17.581456+0100 | INFO | Cleaning section 2: Geochemistry, Geophysics, Geosystems
+2025-01-27T23:24:17.581456+0100 | INFO | Cleaning section 3: PUBLICATIONS
+2025-01-27T23:24:17.581456+0100 | INFO | Cleaning section 4: Geological Setting and Samples
+2025-01-27T23:24:17.581456+0100 | INFO | Cleaning section 5: Analytical Methods
+2025-01-27T23:24:17.592611+0100 | INFO | Cleaning section 6: Whole-Rock Major-Trace Elements
+2025-01-27T23:24:17.592611+0100 | INFO | Cleaning section 7: Whole-Rock Sr-Nd-Hf Isotopes
+2025-01-27T23:24:17.592611+0100 | INFO | Cleaning section 8: Zircon U-Pb Dating
+2025-01-27T23:24:17.593617+0100 | INFO | Cleaning section 9: Zircon Lu-Hf Isotopes
+2025-01-27T23:24:17.593617+0100 | INFO | Cleaning section 10: Results
+2025-01-27T23:24:17.594616+0100 | INFO | Cleaning section 11: The Origin of Alkali Basalts
+2025-01-27T23:24:17.595649+0100 | INFO | Cleaning section 12: Constraints From Major Elements
+2025-01-27T23:24:17.596616+0100 | INFO | Cleaning section 13: Constraints From Trace Element and Isotope Compositions
+2025-01-27T23:24:17.597942+0100 | INFO | Cleaning section 14: Implications for Recycling of Paleotethyan Oceanic Crust in Collisional Orogen
+2025-01-27T23:24:17.598891+0100 | INFO | Cleaning section 15: Conclusions
+2025-01-27T23:24:17.599930+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-01-27T23:24:17.893714+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-01-27T23:24:17.893714+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005500_data_extracted.json
+2025-01-27T23:24:17.894715+0100 | INFO | Cleaning section 1: Introduction
+2025-01-27T23:24:17.895714+0100 | INFO | Cleaning section 2: Tectonic Evolution and Present-Day Setting
+2025-01-27T23:24:17.896734+0100 | INFO | Cleaning section 3: Fieldwork and Microstructural Observations
+2025-01-27T23:24:17.897715+0100 | INFO | Cleaning section 4: Calvados Chain
+2025-01-27T23:24:17.898938+0100 | INFO | Cleaning section 5: Rossel Island
+2025-01-27T23:24:17.898938+0100 | INFO | Cleaning section 6: 10.1002/2014GC005500
+2025-01-27T23:24:17.899859+0100 | INFO | Cleaning section 7: Brittle Faulting
+2025-01-27T23:24:17.899859+0100 | INFO | Cleaning section 8: Ar/ 39 Ar Dating
+2025-01-27T23:24:17.901265+0100 | INFO | Cleaning section 9: Discussion
+2025-01-27T23:24:17.901265+0100 | INFO | Cleaning section 10: Metamorphism and Deformation in the Louisiade Archipelago
+2025-01-27T23:24:17.902298+0100 | INFO | Cleaning section 11: Timing of Metamorphism and Deformation
+2025-01-27T23:24:17.902298+0100 | INFO | Cleaning section 12: Tectonic Interpretations
+2025-01-27T23:24:17.904016+0100 | INFO | Cleaning section 13: Conclusions
+2025-01-27T23:24:17.904732+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-01-27T23:24:18.128017+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-01-27T23:24:18.128017+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005589_data_extracted.json
+2025-01-27T23:24:18.129000+0100 | INFO | Cleaning section 1: Introduction
+2025-01-27T23:24:18.129998+0100 | INFO | Cleaning section 2: Analytical Methods
+2025-01-27T23:24:18.130999+0100 | INFO | Cleaning section 3: Augustine Volcano
+2025-01-27T23:24:18.131244+0100 | INFO | Cleaning section 4: Holocene Andesite Array
+2025-01-27T23:24:18.131835+0100 | INFO | Cleaning section 5: Late Pleistocene Rhyolite and Basaltic Andesite
+2025-01-27T23:24:18.132338+0100 | INFO | Cleaning section 6: Dioritic Inclusions From the 2006 Eruption
+2025-01-27T23:24:18.132338+0100 | INFO | Cleaning section 7: Zircon U-Th Geochronology and Trace-Element Composition
+2025-01-27T23:24:18.133377+0100 | INFO | Cleaning section 8: Dioritic Inclusions
+2025-01-27T23:24:18.133377+0100 | INFO | Cleaning section 9: 2006 Andesites
+2025-01-27T23:24:18.134744+0100 | INFO | Cleaning section 10: Discussion
+2025-01-27T23:24:18.134744+0100 | INFO | Cleaning section 11: Age of the Rhyolite and Longevity of the Augustine Magmatic System
+2025-01-27T23:24:18.136103+0100 | INFO | Cleaning section 12: Evidence From Whole-Rock Geochemistry
+2025-01-27T23:24:18.136103+0100 | INFO | Cleaning section 13: Timing of Melt Extraction Versus Rhyolite Eruption
+2025-01-27T23:24:18.137109+0100 | INFO | Cleaning section 14: Concluding Remarks
+2025-01-27T23:24:18.137109+0100 | INFO | Cleaning section 15: E E E E E E E E E E E E E E E E E E E E E E Er Er Er Er Er Er Er t t t t t t t t t t t D AD AD D D AD D D AD D D D D AD AD A A A A A A A A A A A A A A A A A A A A
+2025-01-27T23:24:18.138110+0100 | INFO | Cleaning section 16: 0 0 2 2 2 o o o o o o o o o o o o o o o o o on n n n n n n n n n n n n n n n n n n n n n n n n n n n i i i i i i i i i i i i i i i i i in i i i i in in i in i i i i i i in n n n n n n n n n n n n n n n n n n n n n n n n n n n n in i in i i i i i i in n n n n n n n n n t ti i t t ti ti t t ti ti t ti ti t t t t t ti i io io io io o o o o o o o o o o o o o o o o ti ti t t t t t tio io o o o o o o o o
+2025-01-27T23:24:18.138110+0100 | INFO | Cleaning section 17: t t p pt p pt pt p p p p p p pt pt pt p p p p p p pt pt p p p p p p p p p up up up up up p p p p p up up p p p p p p p p
+2025-01-27T23:24:18.138110+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-01-27T23:24:18.243341+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-01-27T23:24:18.244340+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_SEMINAR\digis\data-preprocessing\data\processed\10.1002_2014GC005620_data_extracted.json
+2025-01-27T23:24:18.245343+0100 | INFO | Cleaning section 1: Introduction
+2025-01-27T23:24:18.245343+0100 | INFO | Cleaning section 2: Geological Setting and Samples
+2025-01-27T23:24:18.246340+0100 | INFO | Cleaning section 3: Analytical Methods
+2025-01-27T23:24:18.246340+0100 | INFO | Cleaning section 4: Results
+2025-01-27T23:24:18.247340+0100 | INFO | Cleaning section 5: Zircon U-Pb Ages
+2025-01-27T23:24:18.247340+0100 | INFO | Cleaning section 6: Whole-Rock Major and Trace Elements
+2025-01-27T23:24:18.247872+0100 | INFO | Cleaning section 7: Zircon Hf Isotopes
+2025-01-27T23:24:18.248118+0100 | INFO | Cleaning section 8: Mineral Major-Trace Elements and In-Situ Sr Isotopes
+2025-01-27T23:24:18.248419+0100 | INFO | Cleaning section 9: Orthopyroxene
+2025-01-27T23:24:18.248419+0100 | INFO | Cleaning section 10: Clinopyroxene
+2025-01-27T23:24:18.249727+0100 | INFO | Cleaning section 11: Plagioclase and Mineral Inclusions
+2025-01-27T23:24:18.249727+0100 | INFO | Cleaning section 12: Discussion
+2025-01-27T23:24:18.250729+0100 | INFO | Cleaning section 13: Source Mixing for Heterogeneously Enriched Mantle Domains
+2025-01-27T23:24:18.251728+0100 | INFO | Cleaning section 14: Magma Mixing for Mineral Compositional Zoning
+2025-01-27T23:24:18.253728+0100 | INFO | Cleaning section 15: Petrogenetic Processes in Continental Subduction Factory
+2025-01-27T23:24:18.254728+0100 | INFO | Cleaning section 16: Conclusions
+2025-01-27T23:24:18.255728+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-01-27T23:24:18.445034+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-01-27T23:24:18.445034+0100 | INFO | Completed cleaning and saving all JSON files to MongoDB.
+2025-03-07T19:39:42.912949+0100 | INFO | Running Step 1: Load PDF...
+2025-03-07T19:39:42.912949+0100 | INFO | Initializing PDFLoader...
+2025-03-07T19:39:43.388334+0100 | INFO | PDFLoader initialized with bucket: georock-papers in region: us-east-1
+2025-03-07T19:39:43.388334+0100 | INFO | Fetching PDFs from S3...
+2025-03-07T19:39:43.388334+0100 | INFO | Fetching up to 10 PDFs from S3 bucket: georock-papers
+2025-03-07T19:39:44.009966+0100 | INFO | Downloading PDF from S3: 10.1002_(SICI)1099-1034(199712)32_4_297__AID-GJ736_3.0.CO;2-X.pdf
+2025-03-07T19:39:44.124898+0100 | INFO | Downloading PDF from S3: 10.1002_(SICI)1099-1034(199901_06)34_1_2_95__AID-GJ816_3.0.CO;2-J.pdf
+2025-03-07T19:39:44.230009+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005016.pdf
+2025-03-07T19:39:44.919771+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005053.pdf
+2025-03-07T19:39:45.533467+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005061.pdf
+2025-03-07T19:39:46.447708+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005085.pdf
+2025-03-07T19:39:47.574400+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005086.pdf
+2025-03-07T19:39:47.946520+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005132.pdf
+2025-03-07T19:39:49.903282+0100 | INFO | Downloading PDF from S3: 10.1002_2013GC005221.pdf
+2025-03-07T19:39:50.294536+0100 | INFO | Downloading PDF from S3: 10.1002_2014GC005262.pdf
+2025-03-07T19:39:50.899516+0100 | INFO | Successfully downloaded 10 PDFs from S3.
+2025-03-07T19:39:50.899516+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data/raw\10.1002_(SICI)1099-1034(199712)32_4_297__AID-GJ736_3.0.CO;2-X.pdf...
+2025-03-07T19:39:50.899516+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data/raw\10.1002_(SICI)1099-1034(199712)32_4_297__AID-GJ736_3.0.CO;2-X.pdf
+2025-03-07T19:39:50.899516+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data/raw\10.1002_(SICI)1099-1034(199901_06)34_1_2_95__AID-GJ816_3.0.CO;2-J.pdf...
+2025-03-07T19:39:50.899516+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data/raw\10.1002_(SICI)1099-1034(199901_06)34_1_2_95__AID-GJ816_3.0.CO;2-J.pdf
+2025-03-07T19:39:50.899516+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data/raw\10.1002_2013GC005016.pdf...
+2025-03-07T19:39:50.915571+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data/raw\10.1002_2013GC005016.pdf
+2025-03-07T19:39:50.916210+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data/raw\10.1002_2013GC005053.pdf...
+2025-03-07T19:39:50.917455+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data/raw\10.1002_2013GC005053.pdf
+2025-03-07T19:39:50.918327+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data/raw\10.1002_2013GC005061.pdf...
+2025-03-07T19:39:50.920653+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data/raw\10.1002_2013GC005061.pdf
+2025-03-07T19:39:50.920653+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data/raw\10.1002_2013GC005085.pdf...
+2025-03-07T19:39:50.922827+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data/raw\10.1002_2013GC005085.pdf
+2025-03-07T19:39:50.922827+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data/raw\10.1002_2013GC005086.pdf...
+2025-03-07T19:39:50.925981+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data/raw\10.1002_2013GC005086.pdf
+2025-03-07T19:39:50.925981+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data/raw\10.1002_2013GC005132.pdf...
+2025-03-07T19:39:50.930103+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data/raw\10.1002_2013GC005132.pdf
+2025-03-07T19:39:50.931100+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data/raw\10.1002_2013GC005221.pdf...
+2025-03-07T19:39:50.933454+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data/raw\10.1002_2013GC005221.pdf
+2025-03-07T19:39:50.933454+0100 | INFO | Saving PDF to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data/raw\10.1002_2014GC005262.pdf...
+2025-03-07T19:39:50.935454+0100 | INFO | PDF saved successfully to C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data/raw\10.1002_2014GC005262.pdf
+2025-03-08T13:46:24.676516+0100 | INFO | Running Step 2: Structured Content Extraction...
+2025-03-08T13:46:24.676516+0100 | INFO | Initializing GrobidExtractor...
+2025-03-08T13:46:24.676516+0100 | INFO | Found 18 PDFs in C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw. Starting GROBID extraction...
+2025-03-08T13:46:24.676516+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2013GC005016.pdf
+2025-03-08T13:46:28.728845+0100 | ERROR | Error during GROBID extraction for 10.1002_2013GC005016.pdf: HTTPConnectionPool(host='localhost', port=8070): Max retries exceeded with url: /api/processFulltextDocument (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA9D6546D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-08T13:46:28.728845+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2013GC005053.pdf
+2025-03-08T13:46:32.808287+0100 | ERROR | Error during GROBID extraction for 10.1002_2013GC005053.pdf: HTTPConnectionPool(host='localhost', port=8070): Max retries exceeded with url: /api/processFulltextDocument (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA9D654F40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-08T13:46:32.809206+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2013GC005061.pdf
+2025-03-08T13:46:36.881887+0100 | ERROR | Error during GROBID extraction for 10.1002_2013GC005061.pdf: HTTPConnectionPool(host='localhost', port=8070): Max retries exceeded with url: /api/processFulltextDocument (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA9D6557B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-08T13:46:36.881887+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2013GC005085.pdf
+2025-03-08T13:46:40.957389+0100 | ERROR | Error during GROBID extraction for 10.1002_2013GC005085.pdf: HTTPConnectionPool(host='localhost', port=8070): Max retries exceeded with url: /api/processFulltextDocument (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA9D656020>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-08T13:46:40.957389+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2013GC005086.pdf
+2025-03-08T13:46:45.026126+0100 | ERROR | Error during GROBID extraction for 10.1002_2013GC005086.pdf: HTTPConnectionPool(host='localhost', port=8070): Max retries exceeded with url: /api/processFulltextDocument (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA9D655C90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-08T13:46:45.027110+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2013GC005132.pdf
+2025-03-08T13:46:49.145247+0100 | ERROR | Error during GROBID extraction for 10.1002_2013GC005132.pdf: HTTPConnectionPool(host='localhost', port=8070): Max retries exceeded with url: /api/processFulltextDocument (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA9D655420>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-08T13:46:49.145756+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2013GC005221.pdf
+2025-03-08T13:46:53.209239+0100 | ERROR | Error during GROBID extraction for 10.1002_2013GC005221.pdf: HTTPConnectionPool(host='localhost', port=8070): Max retries exceeded with url: /api/processFulltextDocument (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA9D654BB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-08T13:46:53.209239+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005262.pdf
+2025-03-08T13:46:57.325946+0100 | ERROR | Error during GROBID extraction for 10.1002_2014GC005262.pdf: HTTPConnectionPool(host='localhost', port=8070): Max retries exceeded with url: /api/processFulltextDocument (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA9D656890>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-08T13:46:57.326983+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005288.pdf
+2025-03-08T13:47:01.400333+0100 | ERROR | Error during GROBID extraction for 10.1002_2014GC005288.pdf: HTTPConnectionPool(host='localhost', port=8070): Max retries exceeded with url: /api/processFulltextDocument (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA9D657100>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-08T13:47:01.400333+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005300.pdf
+2025-03-08T13:47:05.479666+0100 | ERROR | Error during GROBID extraction for 10.1002_2014GC005300.pdf: HTTPConnectionPool(host='localhost', port=8070): Max retries exceeded with url: /api/processFulltextDocument (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA9D656D70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-08T13:47:05.479666+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005334.pdf
+2025-03-08T13:47:09.547609+0100 | ERROR | Error during GROBID extraction for 10.1002_2014GC005334.pdf: HTTPConnectionPool(host='localhost', port=8070): Max retries exceeded with url: /api/processFulltextDocument (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA9D654A60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-08T13:47:09.548590+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005378.pdf
+2025-03-08T13:47:13.621664+0100 | ERROR | Error during GROBID extraction for 10.1002_2014GC005378.pdf: HTTPConnectionPool(host='localhost', port=8070): Max retries exceeded with url: /api/processFulltextDocument (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA9D6552D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-08T13:47:13.621664+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005435.pdf
+2025-03-08T13:47:17.712334+0100 | ERROR | Error during GROBID extraction for 10.1002_2014GC005435.pdf: HTTPConnectionPool(host='localhost', port=8070): Max retries exceeded with url: /api/processFulltextDocument (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA9D655B40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-08T13:47:17.712972+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005473.pdf
+2025-03-08T13:47:21.809815+0100 | ERROR | Error during GROBID extraction for 10.1002_2014GC005473.pdf: HTTPConnectionPool(host='localhost', port=8070): Max retries exceeded with url: /api/processFulltextDocument (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA9D656440>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-08T13:47:21.810924+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005486.pdf
+2025-03-08T13:47:25.894326+0100 | ERROR | Error during GROBID extraction for 10.1002_2014GC005486.pdf: HTTPConnectionPool(host='localhost', port=8070): Max retries exceeded with url: /api/processFulltextDocument (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA9D657970>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-08T13:47:25.897186+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005500.pdf
+2025-03-08T13:47:30.016406+0100 | ERROR | Error during GROBID extraction for 10.1002_2014GC005500.pdf: HTTPConnectionPool(host='localhost', port=8070): Max retries exceeded with url: /api/processFulltextDocument (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA9D6559C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-08T13:47:30.017487+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005589.pdf
+2025-03-08T13:47:34.126857+0100 | ERROR | Error during GROBID extraction for 10.1002_2014GC005589.pdf: HTTPConnectionPool(host='localhost', port=8070): Max retries exceeded with url: /api/processFulltextDocument (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA9D655150>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-08T13:47:34.126857+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005620.pdf
+2025-03-08T13:47:38.211317+0100 | ERROR | Error during GROBID extraction for 10.1002_2014GC005620.pdf: HTTPConnectionPool(host='localhost', port=8070): Max retries exceeded with url: /api/processFulltextDocument (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA9D6548E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-08T13:47:38.212318+0100 | INFO | GROBID extraction completed for all PDFs.
+2025-03-08T13:48:04.053172+0100 | INFO | Running Step 2: Structured Content Extraction...
+2025-03-08T13:48:04.053172+0100 | INFO | Initializing GrobidExtractor...
+2025-03-08T13:48:04.053172+0100 | INFO | Found 18 PDFs in C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw. Starting GROBID extraction...
+2025-03-08T13:48:04.053172+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2013GC005016.pdf
+2025-03-08T13:48:24.164516+0100 | INFO | Successfully processed 10.1002_2013GC005016.pdf. Parsing XML and saving as JSON...
+2025-03-08T13:48:24.269358+0100 | ERROR | Error during GROBID extraction for 10.1002_2013GC005016.pdf: 'NoneType' object has no attribute 'get_text'
+2025-03-08T13:48:24.269358+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2013GC005053.pdf
+2025-03-08T13:48:27.573882+0100 | INFO | Successfully processed 10.1002_2013GC005053.pdf. Parsing XML and saving as JSON...
+2025-03-08T13:48:27.793446+0100 | ERROR | Error during GROBID extraction for 10.1002_2013GC005053.pdf: 'NoneType' object has no attribute 'get_text'
+2025-03-08T13:48:27.794444+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2013GC005061.pdf
+2025-03-08T13:48:32.723065+0100 | INFO | Successfully processed 10.1002_2013GC005061.pdf. Parsing XML and saving as JSON...
+2025-03-08T13:48:32.997809+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2013GC005061_data_extracted.json
+2025-03-08T13:48:32.997809+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2013GC005085.pdf
+2025-03-08T13:48:35.539115+0100 | INFO | Successfully processed 10.1002_2013GC005085.pdf. Parsing XML and saving as JSON...
+2025-03-08T13:48:35.717624+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2013GC005085_data_extracted.json
+2025-03-08T13:48:35.717624+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2013GC005086.pdf
+2025-03-08T13:48:38.596797+0100 | INFO | Successfully processed 10.1002_2013GC005086.pdf. Parsing XML and saving as JSON...
+2025-03-08T13:48:38.750073+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2013GC005086_data_extracted.json
+2025-03-08T13:48:38.751581+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2013GC005132.pdf
+2025-03-08T13:48:48.225342+0100 | INFO | Successfully processed 10.1002_2013GC005132.pdf. Parsing XML and saving as JSON...
+2025-03-08T13:48:48.465708+0100 | ERROR | Error during GROBID extraction for 10.1002_2013GC005132.pdf: 'NoneType' object has no attribute 'get_text'
+2025-03-08T13:48:48.466867+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2013GC005221.pdf
+2025-03-08T13:48:52.065648+0100 | INFO | Successfully processed 10.1002_2013GC005221.pdf. Parsing XML and saving as JSON...
+2025-03-08T13:48:52.255738+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2013GC005221_data_extracted.json
+2025-03-08T13:48:52.256737+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005262.pdf
+2025-03-08T13:48:55.269188+0100 | INFO | Successfully processed 10.1002_2014GC005262.pdf. Parsing XML and saving as JSON...
+2025-03-08T13:48:55.435425+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2014GC005262_data_extracted.json
+2025-03-08T13:48:55.435425+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005288.pdf
+2025-03-08T13:48:58.930002+0100 | INFO | Successfully processed 10.1002_2014GC005288.pdf. Parsing XML and saving as JSON...
+2025-03-08T13:48:59.085179+0100 | ERROR | Error during GROBID extraction for 10.1002_2014GC005288.pdf: 'NoneType' object has no attribute 'get_text'
+2025-03-08T13:48:59.085179+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005300.pdf
+2025-03-08T13:49:02.823465+0100 | INFO | Successfully processed 10.1002_2014GC005300.pdf. Parsing XML and saving as JSON...
+2025-03-08T13:49:03.088053+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2014GC005300_data_extracted.json
+2025-03-08T13:49:03.088053+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005334.pdf
+2025-03-08T13:49:06.070460+0100 | INFO | Successfully processed 10.1002_2014GC005334.pdf. Parsing XML and saving as JSON...
+2025-03-08T13:49:06.274071+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2014GC005334_data_extracted.json
+2025-03-08T13:49:06.275135+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005378.pdf
+2025-03-08T13:49:09.535597+0100 | INFO | Successfully processed 10.1002_2014GC005378.pdf. Parsing XML and saving as JSON...
+2025-03-08T13:49:09.806666+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2014GC005378_data_extracted.json
+2025-03-08T13:49:09.806666+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005435.pdf
+2025-03-08T13:49:13.045636+0100 | INFO | Successfully processed 10.1002_2014GC005435.pdf. Parsing XML and saving as JSON...
+2025-03-08T13:49:13.199742+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2014GC005435_data_extracted.json
+2025-03-08T13:49:13.199742+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005473.pdf
+2025-03-08T13:49:17.678445+0100 | INFO | Successfully processed 10.1002_2014GC005473.pdf. Parsing XML and saving as JSON...
+2025-03-08T13:49:17.877562+0100 | ERROR | Error during GROBID extraction for 10.1002_2014GC005473.pdf: 'NoneType' object has no attribute 'get_text'
+2025-03-08T13:49:17.878557+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005486.pdf
+2025-03-08T13:49:20.795860+0100 | INFO | Successfully processed 10.1002_2014GC005486.pdf. Parsing XML and saving as JSON...
+2025-03-08T13:49:20.974799+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2014GC005486_data_extracted.json
+2025-03-08T13:49:20.974799+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005500.pdf
+2025-03-08T13:49:25.536687+0100 | INFO | Successfully processed 10.1002_2014GC005500.pdf. Parsing XML and saving as JSON...
+2025-03-08T13:49:25.674233+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2014GC005500_data_extracted.json
+2025-03-08T13:49:25.674233+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005589.pdf
+2025-03-08T13:49:35.105998+0100 | INFO | Successfully processed 10.1002_2014GC005589.pdf. Parsing XML and saving as JSON...
+2025-03-08T13:49:35.305389+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2014GC005589_data_extracted.json
+2025-03-08T13:49:35.305389+0100 | INFO | Processing PDF: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\raw\10.1002_2014GC005620.pdf
+2025-03-08T13:49:38.664327+0100 | INFO | Successfully processed 10.1002_2014GC005620.pdf. Parsing XML and saving as JSON...
+2025-03-08T13:49:38.834235+0100 | INFO | Structured data saved to JSON: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2014GC005620_data_extracted.json
+2025-03-08T13:49:38.834235+0100 | INFO | GROBID extraction completed for all PDFs.
+2025-03-08T13:50:06.235726+0100 | INFO | Running Step 3: Clean and Index Extracted Sections...
+2025-03-08T13:50:06.251195+0100 | INFO | Initializing TextCleaner...
+2025-03-08T13:50:06.596014+0100 | INFO | TextCleaner initialized with MongoDB collection: georock_10.papers_10
+2025-03-08T13:50:06.596014+0100 | INFO | Found 13 JSON files in C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed. Starting cleaning and saving to MongoDB...
+2025-03-08T13:50:06.596014+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2013GC005061_data_extracted.json
+2025-03-08T13:50:06.596014+0100 | INFO | Cleaning section 1: Introduction
+2025-03-08T13:50:06.611845+0100 | INFO | Cleaning section 2: Geologic Setting
+2025-03-08T13:50:06.612958+0100 | INFO | Cleaning section 3: Present Day
+2025-03-08T13:50:06.612958+0100 | INFO | Cleaning section 4: Previous Geochemical Work in the Northern Lau Basin
+2025-03-08T13:50:06.614005+0100 | INFO | Cleaning section 5: Sample Locations and Descriptions
+2025-03-08T13:50:06.615002+0100 | INFO | Cleaning section 6: Dredges in the North Fiji Basin
+2025-03-08T13:50:06.615002+0100 | INFO | Cleaning section 7: Dredges North of Fiji
+2025-03-08T13:50:06.615002+0100 | INFO | Cleaning section 8: Dredges in the Northern Lau Basin
+2025-03-08T13:50:06.616058+0100 | INFO | Cleaning section 9: Wallis Island
+2025-03-08T13:50:06.616058+0100 | INFO | Cleaning section 10: Results
+2025-03-08T13:50:06.616058+0100 | INFO | Cleaning section 11: Major Element Geochemistry
+2025-03-08T13:50:06.616058+0100 | INFO | Cleaning section 12: Trace Element Geochemistry
+2025-03-08T13:50:06.617486+0100 | INFO | Cleaning section 13: He Isotope Data
+2025-03-08T13:50:06.618333+0100 | INFO | Cleaning section 14: Discussion
+2025-03-08T13:50:06.619366+0100 | INFO | Cleaning section 15: Are Manatu and Futuna
+2025-03-08T13:50:06.619787+0100 | INFO | Cleaning section 16: Conclusions
+2025-03-08T13:50:06.620558+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-03-08T13:50:07.884231+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-03-08T13:50:07.884231+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2013GC005085_data_extracted.json
+2025-03-08T13:50:07.901785+0100 | INFO | Cleaning section 1: Introduction
+2025-03-08T13:50:07.902716+0100 | INFO | Cleaning section 2: Geological Background and Samples
+2025-03-08T13:50:07.903443+0100 | INFO | Cleaning section 3: Analytical Method
+2025-03-08T13:50:07.903921+0100 | INFO | Cleaning section 4: Results
+2025-03-08T13:50:07.905526+0100 | INFO | Cleaning section 5: Discussion
+2025-03-08T13:50:07.906057+0100 | INFO | Cleaning section 6: Determination of Noble Gas Isotopic Compositions for Aged Samples
+2025-03-08T13:50:07.907163+0100 | INFO | Cleaning section 7: Source Characteristics of the Drilled Samples
+2025-03-08T13:50:07.908203+0100 | INFO | Cleaning section 8: Deep Origin of the Louisville Mantle Plume
+2025-03-08T13:50:07.909243+0100 | INFO | Cleaning section 9: Concluding Remarks
+2025-03-08T13:50:07.909543+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-03-08T13:50:08.010146+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-03-08T13:50:08.010146+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2013GC005086_data_extracted.json
+2025-03-08T13:50:08.031364+0100 | INFO | Cleaning section 1: Introduction
+2025-03-08T13:50:08.031364+0100 | INFO | Cleaning section 2: Samples
+2025-03-08T13:50:08.031364+0100 | INFO | Cleaning section 3: Results
+2025-03-08T13:50:08.031364+0100 | INFO | Cleaning section 4: Major Elements
+2025-03-08T13:50:08.031364+0100 | INFO | Cleaning section 5: Trace Elements
+2025-03-08T13:50:08.031364+0100 | INFO | Cleaning section 6: Oxygen Isotopes
+2025-03-08T13:50:08.031364+0100 | INFO | Cleaning section 7: Downhole Variability 3.4.1. Major and Trace Elements
+2025-03-08T13:50:08.031364+0100 | INFO | Cleaning section 8: CO 2
+2025-03-08T13:50:08.031364+0100 | INFO | Cleaning section 9: Sulfur
+2025-03-08T13:50:08.031364+0100 | INFO | Cleaning section 10: Chlorine
+2025-03-08T13:50:08.031364+0100 | INFO | Cleaning section 11: Discussion
+2025-03-08T13:50:08.031364+0100 | INFO | Cleaning section 12: Temporal Major and Trace Element Evolution of the Louisville Seamounts 4.1.1. Within Individual Seamounts
+2025-03-08T13:50:08.039201+0100 | INFO | Cleaning section 13: Along-Chain
+2025-03-08T13:50:08.040228+0100 | INFO | Cleaning section 14: H 2 O Saturation Pressures and Constraints on the Mode of Glass Emplacement
+2025-03-08T13:50:08.041222+0100 | INFO | Cleaning section 15: Contributions From Seamount Growth and Dynamic Uplift to the Heights Reached by the Louisville Seamounts
+2025-03-08T13:50:08.042253+0100 | INFO | Cleaning section 16: Subsidence
+2025-03-08T13:50:08.042253+0100 | INFO | Cleaning section 17: Conclusions
+2025-03-08T13:50:08.043230+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-03-08T13:50:08.149251+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-03-08T13:50:08.149766+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2013GC005221_data_extracted.json
+2025-03-08T13:50:08.162253+0100 | INFO | Cleaning section 1: Introduction
+2025-03-08T13:50:08.163328+0100 | INFO | Cleaning section 2: Age of Volcanism
+2025-03-08T13:50:08.163847+0100 | INFO | Cleaning section 3: Temporal Isotope Variations
+2025-03-08T13:50:08.164367+0100 | INFO | Cleaning section 4: Isotopic Comparison of Ta'u and Ofu/Olosega
+2025-03-08T13:50:08.165435+0100 | INFO | Cleaning section 5: Trace Element Comparison of Ta'u and Ofu/Olosega
+2025-03-08T13:50:08.165958+0100 | INFO | Cleaning section 6: Mantle Source Spidergrams
+2025-03-08T13:50:08.167591+0100 | INFO | Cleaning section 7: Mantle Source Evolution
+2025-03-08T13:50:08.168695+0100 | INFO | Cleaning section 8: P-T Conditions of Melting
+2025-03-08T13:50:08.170311+0100 | INFO | Cleaning section 9: Re-Equilibration of Migrating Melts
+2025-03-08T13:50:08.171871+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-03-08T13:50:08.277426+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-03-08T13:50:08.277426+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2014GC005262_data_extracted.json
+2025-03-08T13:50:08.295958+0100 | INFO | Cleaning section 1: Introduction
+2025-03-08T13:50:08.297076+0100 | INFO | Cleaning section 2: Geology of the Makran Subduction System
+2025-03-08T13:50:08.297076+0100 | INFO | Cleaning section 3: Sampling and Analytical Methods
+2025-03-08T13:50:08.298129+0100 | INFO | Cleaning section 4: Results
+2025-03-08T13:50:08.298933+0100 | INFO | Cleaning section 5: The Mirabad Pluton
+2025-03-08T13:50:08.298933+0100 | INFO | Cleaning section 6: The Taftan Volcano
+2025-03-08T13:50:08.298933+0100 | INFO | Cleaning section 7: The Bazman Volcano
+2025-03-08T13:50:08.298933+0100 | INFO | Cleaning section 8: Discussion
+2025-03-08T13:50:08.298933+0100 | INFO | Cleaning section 9: The Makran as a Neogene-Quaternary Subduction System
+2025-03-08T13:50:08.298933+0100 | INFO | Cleaning section 10: Petrogenetic Constraints
+2025-03-08T13:50:08.298933+0100 | INFO | Cleaning section 11: A Three-Component Model for Magma Genesis
+2025-03-08T13:50:08.298933+0100 | INFO | Cleaning section 12: Tectonic Implications
+2025-03-08T13:50:08.298933+0100 | INFO | Cleaning section 13: Concluding Remarks
+2025-03-08T13:50:08.298933+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-03-08T13:50:08.493706+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-03-08T13:50:08.493706+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2014GC005300_data_extracted.json
+2025-03-08T13:50:08.522267+0100 | INFO | Cleaning section 1: Introduction
+2025-03-08T13:50:08.524148+0100 | INFO | Cleaning section 2: Geological Setting
+2025-03-08T13:50:08.524148+0100 | INFO | Cleaning section 3: Peridotite Characterization
+2025-03-08T13:50:08.525171+0100 | INFO | Cleaning section 4: East Otago
+2025-03-08T13:50:08.526877+0100 | INFO | Cleaning section 5: North Otago
+2025-03-08T13:50:08.527207+0100 | INFO | Cleaning section 6: Auckland Islands
+2025-03-08T13:50:08.527207+0100 | INFO | Cleaning section 7: Trace Elements
+2025-03-08T13:50:08.528248+0100 | INFO | Cleaning section 8: West Otago
+2025-03-08T13:50:08.528248+0100 | INFO | Cleaning section 9: Radiogenic Isotopes
+2025-03-08T13:50:08.529246+0100 | INFO | Cleaning section 10: Coupled REE-Isotope Modeling
+2025-03-08T13:50:08.529246+0100 | INFO | Cleaning section 11: Group 1
+2025-03-08T13:50:08.530067+0100 | INFO | Cleaning section 12: Group 2
+2025-03-08T13:50:08.530833+0100 | INFO | Cleaning section 13: Group 3
+2025-03-08T13:50:08.530833+0100 | INFO | Cleaning section 14: Discussion
+2025-03-08T13:50:08.531570+0100 | INFO | Cleaning section 15: Adjacent Fertile and Refractory Domains Beneath Zealandia
+2025-03-08T13:50:08.531570+0100 | INFO | Cleaning section 16: Metasomatic Agent
+2025-03-08T13:50:08.532585+0100 | INFO | Cleaning section 17: Isotopic Composition of the Metasomatic Agents
+2025-03-08T13:50:08.533181+0100 | INFO | Cleaning section 18: Conclusions
+2025-03-08T13:50:08.534279+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-03-08T13:50:08.643079+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-03-08T13:50:08.643767+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2014GC005334_data_extracted.json
+2025-03-08T13:50:08.660005+0100 | INFO | Cleaning section 1: Introduction
+2025-03-08T13:50:08.660294+0100 | INFO | Cleaning section 2: Geologic Setting
+2025-03-08T13:50:08.662295+0100 | INFO | Cleaning section 3: Samples and Analytical Procedures
+2025-03-08T13:50:08.663345+0100 | INFO | Cleaning section 4: Results
+2025-03-08T13:50:08.663700+0100 | INFO | Cleaning section 5: Younger Seamounts
+2025-03-08T13:50:08.664741+0100 | INFO | Cleaning section 6: Older Seamounts
+2025-03-08T13:50:08.664741+0100 | INFO | Cleaning section 7: Discussion
+2025-03-08T13:50:08.664741+0100 | INFO | Cleaning section 8: Conclusions
+2025-03-08T13:50:08.664741+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-03-08T13:50:08.760959+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-03-08T13:50:08.772496+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2014GC005378_data_extracted.json
+2025-03-08T13:50:08.828249+0100 | INFO | Cleaning section 1: Introduction
+2025-03-08T13:50:08.828249+0100 | INFO | Cleaning section 2: Geological Setting
+2025-03-08T13:50:08.828249+0100 | INFO | Cleaning section 3: Analytical Methods
+2025-03-08T13:50:08.828249+0100 | INFO | Cleaning section 4: Zircon U-Pb Dating
+2025-03-08T13:50:08.828249+0100 | INFO | Cleaning section 5: Zircon Lu-Hf Isotopes
+2025-03-08T13:50:08.828249+0100 | INFO | Cleaning section 6: Rock Geochemistry
+2025-03-08T13:50:08.828249+0100 | INFO | Cleaning section 7: Results
+2025-03-08T13:50:08.828249+0100 | INFO | Cleaning section 8: U-Pb Zircon Dating
+2025-03-08T13:50:08.828249+0100 | INFO | Cleaning section 9: Zircon Hf Isotopes
+2025-03-08T13:50:08.828249+0100 | INFO | Cleaning section 10: Major and Trace Elements
+2025-03-08T13:50:08.828249+0100 | INFO | Cleaning section 11: Discussion and Implications
+2025-03-08T13:50:08.841415+0100 | INFO | Cleaning section 12: Petrogenesis 5.1.1. Alteration Effects on Chemical Compositions
+2025-03-08T13:50:08.841415+0100 | INFO | Cleaning section 13: 10.1002/2014GC005378
+2025-03-08T13:50:08.841415+0100 | INFO | Cleaning section 14: Magmatic Evolution
+2025-03-08T13:50:08.842423+0100 | INFO | Cleaning section 15: Nature of the Magma Source
+2025-03-08T13:50:08.842423+0100 | INFO | Cleaning section 16: Tectonic Implications
+2025-03-08T13:50:08.844424+0100 | INFO | Cleaning section 17: Conclusions
+2025-03-08T13:50:08.844424+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-03-08T13:50:08.943266+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-03-08T13:50:08.943266+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2014GC005435_data_extracted.json
+2025-03-08T13:50:08.961864+0100 | INFO | Cleaning section 1: Introduction
+2025-03-08T13:50:08.961864+0100 | INFO | Cleaning section 2: Field Characteristics
+2025-03-08T13:50:08.968711+0100 | INFO | Cleaning section 3: Methods
+2025-03-08T13:50:08.968711+0100 | INFO | Cleaning section 4: Samples
+2025-03-08T13:50:08.969545+0100 | INFO | Cleaning section 5: Image Particle Analysis (IPA)
+2025-03-08T13:50:08.969545+0100 | INFO | Cleaning section 6: Electron Microprobe Analysis
+2025-03-08T13:50:08.969545+0100 | INFO | Cleaning section 7: Laser Ablation-Inductively Coupled Plasma-Mass Spectrometry (LA-ICP-MS)
+2025-03-08T13:50:08.970946+0100 | INFO | Cleaning section 8: Results
+2025-03-08T13:50:08.971113+0100 | INFO | Cleaning section 9: Tephra Characterization
+2025-03-08T13:50:08.971947+0100 | INFO | Cleaning section 10: Tephra Chemical Compositions
+2025-03-08T13:50:08.972605+0100 | INFO | Cleaning section 11: Major Elements
+2025-03-08T13:50:08.973112+0100 | INFO | Cleaning section 12: Trace Elements
+2025-03-08T13:50:08.973112+0100 | INFO | Cleaning section 13: Mount Terra Nova
+2025-03-08T13:50:08.974230+0100 | INFO | Cleaning section 14: Discussion
+2025-03-08T13:50:08.974742+0100 | INFO | Cleaning section 15: Eruptive Mechanism
+2025-03-08T13:50:08.975751+0100 | INFO | Cleaning section 16: Erebus Matrix Glass Evolution
+2025-03-08T13:50:08.975918+0100 | INFO | Cleaning section 17: Distal Tephra
+2025-03-08T13:50:08.976930+0100 | INFO | Cleaning section 18: Eruptive History
+2025-03-08T13:50:08.977933+0100 | INFO | Cleaning section 19: Conclusions
+2025-03-08T13:50:08.977933+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-03-08T13:50:09.089707+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-03-08T13:50:09.089707+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2014GC005486_data_extracted.json
+2025-03-08T13:50:09.100021+0100 | INFO | Cleaning section 1: Introduction
+2025-03-08T13:50:09.100619+0100 | INFO | Cleaning section 2: Geochemistry, Geophysics, Geosystems
+2025-03-08T13:50:09.100619+0100 | INFO | Cleaning section 3: PUBLICATIONS
+2025-03-08T13:50:09.101625+0100 | INFO | Cleaning section 4: Geological Setting and Samples
+2025-03-08T13:50:09.101625+0100 | INFO | Cleaning section 5: Analytical Methods
+2025-03-08T13:50:09.102623+0100 | INFO | Cleaning section 6: Whole-Rock Major-Trace Elements
+2025-03-08T13:50:09.102623+0100 | INFO | Cleaning section 7: Whole-Rock Sr-Nd-Hf Isotopes
+2025-03-08T13:50:09.102623+0100 | INFO | Cleaning section 8: Zircon U-Pb Dating
+2025-03-08T13:50:09.103628+0100 | INFO | Cleaning section 9: Zircon Lu-Hf Isotopes
+2025-03-08T13:50:09.103628+0100 | INFO | Cleaning section 10: Results
+2025-03-08T13:50:09.104626+0100 | INFO | Cleaning section 11: The Origin of Alkali Basalts
+2025-03-08T13:50:09.104626+0100 | INFO | Cleaning section 12: Constraints From Major Elements
+2025-03-08T13:50:09.105625+0100 | INFO | Cleaning section 13: Constraints From Trace Element and Isotope Compositions
+2025-03-08T13:50:09.106626+0100 | INFO | Cleaning section 14: Implications for Recycling of Paleotethyan Oceanic Crust in Collisional Orogen
+2025-03-08T13:50:09.107749+0100 | INFO | Cleaning section 15: Conclusions
+2025-03-08T13:50:09.108751+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-03-08T13:50:09.215227+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-03-08T13:50:09.215227+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2014GC005500_data_extracted.json
+2025-03-08T13:50:09.226229+0100 | INFO | Cleaning section 1: Introduction
+2025-03-08T13:50:09.226708+0100 | INFO | Cleaning section 2: Tectonic Evolution and Present-Day Setting
+2025-03-08T13:50:09.227254+0100 | INFO | Cleaning section 3: Fieldwork and Microstructural Observations
+2025-03-08T13:50:09.228759+0100 | INFO | Cleaning section 4: Calvados Chain
+2025-03-08T13:50:09.230435+0100 | INFO | Cleaning section 5: Rossel Island
+2025-03-08T13:50:09.230530+0100 | INFO | Cleaning section 6: 10.1002/2014GC005500
+2025-03-08T13:50:09.231534+0100 | INFO | Cleaning section 7: Brittle Faulting
+2025-03-08T13:50:09.231534+0100 | INFO | Cleaning section 8: Ar/ 39 Ar Dating
+2025-03-08T13:50:09.232406+0100 | INFO | Cleaning section 9: Discussion
+2025-03-08T13:50:09.232981+0100 | INFO | Cleaning section 10: Metamorphism and Deformation in the Louisiade Archipelago
+2025-03-08T13:50:09.232981+0100 | INFO | Cleaning section 11: Timing of Metamorphism and Deformation
+2025-03-08T13:50:09.234037+0100 | INFO | Cleaning section 12: Tectonic Interpretations
+2025-03-08T13:50:09.234536+0100 | INFO | Cleaning section 13: Conclusions
+2025-03-08T13:50:09.235872+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-03-08T13:50:09.437787+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-03-08T13:50:09.439824+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2014GC005589_data_extracted.json
+2025-03-08T13:50:09.455877+0100 | INFO | Cleaning section 1: Introduction
+2025-03-08T13:50:09.456927+0100 | INFO | Cleaning section 2: Analytical Methods
+2025-03-08T13:50:09.457884+0100 | INFO | Cleaning section 3: Augustine Volcano
+2025-03-08T13:50:09.458890+0100 | INFO | Cleaning section 4: Holocene Andesite Array
+2025-03-08T13:50:09.459891+0100 | INFO | Cleaning section 5: Late Pleistocene Rhyolite and Basaltic Andesite
+2025-03-08T13:50:09.459891+0100 | INFO | Cleaning section 6: Dioritic Inclusions From the 2006 Eruption
+2025-03-08T13:50:09.459891+0100 | INFO | Cleaning section 7: Zircon U-Th Geochronology and Trace-Element Composition
+2025-03-08T13:50:09.460890+0100 | INFO | Cleaning section 8: Dioritic Inclusions
+2025-03-08T13:50:09.460890+0100 | INFO | Cleaning section 9: 2006 Andesites
+2025-03-08T13:50:09.461889+0100 | INFO | Cleaning section 10: Discussion
+2025-03-08T13:50:09.461889+0100 | INFO | Cleaning section 11: Age of the Rhyolite and Longevity of the Augustine Magmatic System
+2025-03-08T13:50:09.463044+0100 | INFO | Cleaning section 12: Evidence From Whole-Rock Geochemistry
+2025-03-08T13:50:09.463547+0100 | INFO | Cleaning section 13: Timing of Melt Extraction Versus Rhyolite Eruption
+2025-03-08T13:50:09.464262+0100 | INFO | Cleaning section 14: Concluding Remarks
+2025-03-08T13:50:09.464435+0100 | INFO | Cleaning section 15: E E E E E E E E E E E E E E E E E E E E E E Er Er Er Er Er Er Er t t t t t t t t t t t D AD AD D D AD D D AD D D D D AD AD A A A A A A A A A A A A A A A A A A A A
+2025-03-08T13:50:09.464435+0100 | INFO | Cleaning section 16: 0 0 2 2 2 o o o o o o o o o o o o o o o o o on n n n n n n n n n n n n n n n n n n n n n n n n n n n i i i i i i i i i i i i i i i i i in i i i i in in i in i i i i i i in n n n n n n n n n n n n n n n n n n n n n n n n n n n n in i in i i i i i i in n n n n n n n n n t ti i t t ti ti t t ti ti t ti ti t t t t t ti i io io io io o o o o o o o o o o o o o o o o ti ti t t t t t tio io o o o o o o o o
+2025-03-08T13:50:09.464435+0100 | INFO | Cleaning section 17: t t p pt p pt pt p p p p p p pt pt pt p p p p p p pt pt p p p p p p p p p up up up up up p p p p p up up p p p p p p p p
+2025-03-08T13:50:09.465911+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-03-08T13:50:09.570106+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-03-08T13:50:09.571104+0100 | INFO | Processing JSON file: C:\Users\Mohd Uwaish\Desktop\MS\SEM_4\MIR_FIX_CODE\MIR_SEMINAR\data-preprocessing\data\processed\10.1002_2014GC005620_data_extracted.json
+2025-03-08T13:50:09.577988+0100 | INFO | Cleaning section 1: Introduction
+2025-03-08T13:50:09.577988+0100 | INFO | Cleaning section 2: Geological Setting and Samples
+2025-03-08T13:50:09.584237+0100 | INFO | Cleaning section 3: Analytical Methods
+2025-03-08T13:50:09.585185+0100 | INFO | Cleaning section 4: Results
+2025-03-08T13:50:09.585185+0100 | INFO | Cleaning section 5: Zircon U-Pb Ages
+2025-03-08T13:50:09.586270+0100 | INFO | Cleaning section 6: Whole-Rock Major and Trace Elements
+2025-03-08T13:50:09.586270+0100 | INFO | Cleaning section 7: Zircon Hf Isotopes
+2025-03-08T13:50:09.586812+0100 | INFO | Cleaning section 8: Mineral Major-Trace Elements and In-Situ Sr Isotopes
+2025-03-08T13:50:09.586812+0100 | INFO | Cleaning section 9: Orthopyroxene
+2025-03-08T13:50:09.587843+0100 | INFO | Cleaning section 10: Clinopyroxene
+2025-03-08T13:50:09.587843+0100 | INFO | Cleaning section 11: Plagioclase and Mineral Inclusions
+2025-03-08T13:50:09.588841+0100 | INFO | Cleaning section 12: Discussion
+2025-03-08T13:50:09.590118+0100 | INFO | Cleaning section 13: Source Mixing for Heterogeneously Enriched Mantle Domains
+2025-03-08T13:50:09.591166+0100 | INFO | Cleaning section 14: Magma Mixing for Mineral Compositional Zoning
+2025-03-08T13:50:09.592172+0100 | INFO | Cleaning section 15: Petrogenetic Processes in Continental Subduction Factory
+2025-03-08T13:50:09.594169+0100 | INFO | Cleaning section 16: Conclusions
+2025-03-08T13:50:09.594169+0100 | INFO | Saving cleaned JSON data to MongoDB...
+2025-03-08T13:50:09.703268+0100 | INFO | Cleaned JSON successfully saved to MongoDB.
+2025-03-08T13:50:09.704224+0100 | INFO | Completed cleaning and saving all JSON files to MongoDB.
+2025-03-08T13:55:33.322363+0100 | INFO | Exiting the preprocessing pipeline.

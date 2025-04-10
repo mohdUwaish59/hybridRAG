@@ -1,0 +1,3943 @@
+{
+    "metadata": {
+        "title": "Metasomatized ancient lithospheric mantle beneath the young Zealandia microcontinent and its role in HIMU-like intraplate magmatism",
+        "abstract": "There has been long debate on the asthenospheric versus lithospheric source for numerous intraplate basalts with ocean island basalt (OIB) and high time-integrated U/Pb (HIMU)-like source signatures that have erupted through the Zealandia continental crust. Analysis of 157 spinel facies peridotitic mantle xenoliths from 25 localities across Zealandia permits the first comprehensive regional description of the subcontinental lithospheric mantle (SCLM) and insights into whether it could be a source to the intraplate basalts. Contrary to previous assumptions, the Oligocene-Miocene Zealandia SCLM is highly heterogeneous. It is composed of a refractory craton-like domain (West Otago) adjacent to several moderately fertile domains (East Otago, North Otago, Auckland Islands). Each domain has an early history decoupled from the overlying Carboniferous and younger continental crust, and each domain has undergone varying degrees of depletion followed by enrichment. Clinopyroxene grains reveal trace element characteristics (low Ti/Eu, high Th/U) consistent with enrichment through reaction with carbonatite. This metasomatic overprint has a composition that closely matches HIMU in Sr, Pb 6 Nd isotopes. However, clinopyroxene Hf isotopes are in part highly radiogenic and decoupled from the other isotope systems, and also mostly more radiogenic than the intraplate basalts. If the studied spinel facies xenoliths are representative of the thin Zealandia SCLM, the melting of garnet facies lithosphere could only be the intraplate basalt source if it had a less radiogenic Hf-Nd isotope composition than the investigated spinel facies, or was mixed with asthenosphere-derived melts containing less radiogenic Hf.",
+        "authors": [
+            {
+                "name": "JMScott",
+                "affiliation": [
+                    {
+                        "department": "Department of Geology",
+                        "institution": "University of Otago",
+                        "address": {
+                            "settlement": "Dunedin",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "TEWaight",
+                "affiliation": [
+                    {
+                        "department": "Department of Geosciences and Natural Resource Management (Geology Section)",
+                        "institution": "Copenhagen University",
+                        "address": {
+                            "settlement": "Copenhagen K",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "QH AVan Der Meer",
+                "affiliation": [
+                    {
+                        "department": "Department of Geosciences and Natural Resource Management (Geology Section)",
+                        "institution": "Copenhagen University",
+                        "address": {
+                            "settlement": "Copenhagen K",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "JMPalin",
+                "affiliation": [
+                    {
+                        "department": "Department of Geology",
+                        "institution": "University of Otago",
+                        "address": {
+                            "settlement": "Dunedin",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "AFCooper",
+                "affiliation": [
+                    {
+                        "department": "Department of Geology",
+                        "institution": "University of Otago",
+                        "address": {
+                            "settlement": "Dunedin",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "CM\u20ac Unker",
+                "affiliation": [
+                    {
+                        "department": "Department of Geology and Mineral- ogy",
+                        "institution": "University of K\u20ac oln",
+                        "address": {
+                            "settlement": null,
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "JABaker",
+                "affiliation": []
+            },
+            {
+                "name": "JAGamble",
+                "affiliation": []
+            },
+            {
+                "name": "IJGraham",
+                "affiliation": []
+            },
+            {
+                "name": "SBernstein",
+                "affiliation": []
+            },
+            {
+                "name": "PBKelemen",
+                "affiliation": []
+            },
+            {
+                "name": "KHangh\u00efj",
+                "affiliation": []
+            },
+            {
+                "name": "BABarreiro",
+                "affiliation": []
+            },
+            {
+                "name": "AFCooper",
+                "affiliation": []
+            },
+            {
+                "name": "Sr",
+                "affiliation": []
+            },
+            {
+                "name": "LBeccaluva",
+                "affiliation": []
+            },
+            {
+                "name": "AAzzouni-Sekkal",
+                "affiliation": []
+            },
+            {
+                "name": "ABenhallou",
+                "affiliation": []
+            },
+            {
+                "name": "GBianchini",
+                "affiliation": []
+            },
+            {
+                "name": "RMEllam",
+                "affiliation": []
+            },
+            {
+                "name": "MMarzola",
+                "affiliation": []
+            },
+            {
+                "name": "FSienna",
+                "affiliation": []
+            },
+            {
+                "name": "FMStuart",
+                "affiliation": []
+            },
+            {
+                "name": "LBeccaluva",
+                "affiliation": []
+            },
+            {
+                "name": "GBianchini",
+                "affiliation": []
+            },
+            {
+                "name": "RMEllam",
+                "affiliation": []
+            },
+            {
+                "name": "MMarzola",
+                "affiliation": []
+            },
+            {
+                "name": "KMOun",
+                "affiliation": []
+            },
+            {
+                "name": "FSiena",
+                "affiliation": []
+            },
+            {
+                "name": "FMStuart",
+                "affiliation": []
+            },
+            {
+                "name": "MBizimis",
+                "affiliation": []
+            },
+            {
+                "name": "VJSalters",
+                "affiliation": []
+            },
+            {
+                "name": "EBonatti",
+                "affiliation": []
+            },
+            {
+                "name": "MBizimis",
+                "affiliation": []
+            },
+            {
+                "name": "VJSalters",
+                "affiliation": []
+            },
+            {
+                "name": "JBDawson",
+                "affiliation": []
+            },
+            {
+                "name": "MBizimis",
+                "affiliation": []
+            },
+            {
+                "name": "GSen",
+                "affiliation": []
+            },
+            {
+                "name": "VJ MSalters",
+                "affiliation": []
+            },
+            {
+                "name": "MBizimis",
+                "affiliation": []
+            },
+            {
+                "name": "MGriselin",
+                "affiliation": []
+            },
+            {
+                "name": "JCLassiter",
+                "affiliation": []
+            },
+            {
+                "name": "VJSalters",
+                "affiliation": []
+            },
+            {
+                "name": "GSen",
+                "affiliation": []
+            },
+            {
+                "name": "FRBoyd",
+                "affiliation": []
+            },
+            {
+                "name": "JDBradshaw",
+                "affiliation": []
+            },
+            {
+                "name": "ADBrandon",
+                "affiliation": []
+            },
+            {
+                "name": "JESnow",
+                "affiliation": []
+            },
+            {
+                "name": "RJWalker",
+                "affiliation": []
+            },
+            {
+                "name": "JWMorgan",
+                "affiliation": []
+            },
+            {
+                "name": "TDMock",
+                "affiliation": []
+            },
+            {
+                "name": "CGBrodie",
+                "affiliation": []
+            },
+            {
+                "name": "CooperA F",
+                "affiliation": []
+            },
+            {
+                "name": "DABrown",
+                "affiliation": []
+            },
+            {
+                "name": "RWCarlson",
+                "affiliation": []
+            },
+            {
+                "name": "DGPearson",
+                "affiliation": []
+            },
+            {
+                "name": "DEJames",
+                "affiliation": []
+            },
+            {
+                "name": "DACarswell",
+                "affiliation": []
+            },
+            {
+                "name": "CGChase",
+                "affiliation": []
+            },
+            {
+                "name": "MColtorti",
+                "affiliation": []
+            },
+            {
+                "name": "CBonadiman",
+                "affiliation": []
+            },
+            {
+                "name": "RWHinton",
+                "affiliation": []
+            },
+            {
+                "name": "FSiena",
+                "affiliation": []
+            },
+            {
+                "name": "BG JUpton",
+                "affiliation": []
+            },
+            {
+                "name": "CCook",
+                "affiliation": []
+            },
+            {
+                "name": "RMBriggs",
+                "affiliation": []
+            },
+            {
+                "name": "IESmith",
+                "affiliation": []
+            },
+            {
+                "name": "RMaas",
+                "affiliation": []
+            },
+            {
+                "name": "DSCoombs",
+                "affiliation": []
+            },
+            {
+                "name": "RACas",
+                "affiliation": []
+            },
+            {
+                "name": "YKawachi",
+                "affiliation": []
+            },
+            {
+                "name": "CALandis",
+                "affiliation": []
+            },
+            {
+                "name": "WFMcdonough",
+                "affiliation": []
+            },
+            {
+                "name": "AReay",
+                "affiliation": []
+            },
+            {
+                "name": "DSCoombs",
+                "affiliation": []
+            },
+            {
+                "name": "CJAdams",
+                "affiliation": []
+            },
+            {
+                "name": "BPRoser",
+                "affiliation": []
+            },
+            {
+                "name": "AReay",
+                "affiliation": []
+            },
+            {
+                "name": "AFCooper",
+                "affiliation": []
+            },
+            {
+                "name": "AFCooper",
+                "affiliation": []
+            },
+            {
+                "name": "TRIreland",
+                "affiliation": []
+            },
+            {
+                "name": "AFCooper",
+                "affiliation": []
+            },
+            {
+                "name": "LAPaterson",
+                "affiliation": []
+            },
+            {
+                "name": "AFCooper",
+                "affiliation": []
+            },
+            {
+                "name": "BABarreiro",
+                "affiliation": []
+            },
+            {
+                "name": "DLKimbrough",
+                "affiliation": []
+            },
+            {
+                "name": "JMMattinson",
+                "affiliation": []
+            },
+            {
+                "name": "JMDautria",
+                "affiliation": []
+            },
+            {
+                "name": "CDupuy",
+                "affiliation": []
+            },
+            {
+                "name": "DTakherist",
+                "affiliation": []
+            },
+            {
+                "name": "JDostal",
+                "affiliation": []
+            },
+            {
+                "name": "HJDick",
+                "affiliation": []
+            },
+            {
+                "name": "TBullen",
+                "affiliation": []
+            },
+            {
+                "name": "AHDijkstra",
+                "affiliation": []
+            },
+            {
+                "name": "DSSergeev",
+                "affiliation": []
+            },
+            {
+                "name": "CSpandler",
+                "affiliation": []
+            },
+            {
+                "name": "TPettke",
+                "affiliation": []
+            },
+            {
+                "name": "TMeisel",
+                "affiliation": []
+            },
+            {
+                "name": "PACawood",
+                "affiliation": []
+            },
+            {
+                "name": "BJDouglas",
+                "affiliation": []
+            },
+            {
+                "name": "HDownes",
+                "affiliation": []
+            },
+            {
+                "name": "MDuclos",
+                "affiliation": []
+            },
+            {
+                "name": "MKSavage",
+                "affiliation": []
+            },
+            {
+                "name": "ATommasi",
+                "affiliation": []
+            },
+            {
+                "name": "KRGledhill",
+                "affiliation": []
+            },
+            {
+                "name": "SMEggins",
+                "affiliation": []
+            },
+            {
+                "name": "RLRudnick",
+                "affiliation": []
+            },
+            {
+                "name": "WFMcdonough",
+                "affiliation": []
+            },
+            {
+                "name": "CAFinn",
+                "affiliation": []
+            },
+            {
+                "name": "RD",
+                "affiliation": []
+            },
+            {
+                "name": "KSPanter",
+                "affiliation": []
+            },
+            {
+                "name": "PJForsyth",
+                "affiliation": []
+            },
+            {
+                "name": "GMMartin",
+                "affiliation": []
+            },
+            {
+                "name": "HJCampbell",
+                "affiliation": []
+            },
+            {
+                "name": "JESimes",
+                "affiliation": []
+            },
+            {
+                "name": "DJFrost",
+                "affiliation": []
+            },
+            {
+                "name": "KPFurlong",
+                "affiliation": []
+            },
+            {
+                "name": "DSChapman",
+                "affiliation": []
+            },
+            {
+                "name": "CGaina",
+                "affiliation": []
+            },
+            {
+                "name": "DRM\u20ac Uller",
+                "affiliation": []
+            },
+            {
+                "name": "JYRoyer",
+                "affiliation": []
+            },
+            {
+                "name": "JStock",
+                "affiliation": []
+            },
+            {
+                "name": "JHardebeck",
+                "affiliation": []
+            },
+            {
+                "name": "PSymonds",
+                "affiliation": []
+            },
+            {
+                "name": "JAGamble",
+                "affiliation": []
+            },
+            {
+                "name": "PAMorris",
+                "affiliation": []
+            },
+            {
+                "name": "CJAdams",
+                "affiliation": []
+            },
+            {
+                "name": "GMGibson",
+                "affiliation": []
+            },
+            {
+                "name": "IMcdougall",
+                "affiliation": []
+            },
+            {
+                "name": "TRIreland",
+                "affiliation": []
+            },
+            {
+                "name": "NJGodfrey",
+                "affiliation": []
+            },
+            {
+                "name": "TADavey",
+                "affiliation": []
+            },
+            {
+                "name": "DStern",
+                "affiliation": []
+            },
+            {
+                "name": "Okaya",
+                "affiliation": []
+            },
+            {
+                "name": "DHGreen",
+                "affiliation": []
+            },
+            {
+                "name": "WOHibberson",
+                "affiliation": []
+            },
+            {
+                "name": "I",
+                "affiliation": []
+            },
+            {
+                "name": "ARosenthal",
+                "affiliation": []
+            },
+            {
+                "name": "WLGriffin",
+                "affiliation": []
+            },
+            {
+                "name": "AFKobussen",
+                "affiliation": []
+            },
+            {
+                "name": "EV S S KBabu",
+                "affiliation": []
+            },
+            {
+                "name": "SYO'reilly",
+                "affiliation": []
+            },
+            {
+                "name": "RNorris",
+                "affiliation": []
+            },
+            {
+                "name": "PSengupta",
+                "affiliation": []
+            },
+            {
+                "name": "WLGriffin",
+                "affiliation": []
+            },
+            {
+                "name": "SYO'reilly",
+                "affiliation": []
+            },
+            {
+                "name": "JCAfonso",
+                "affiliation": []
+            },
+            {
+                "name": "GCBegg",
+                "affiliation": []
+            },
+            {
+                "name": "WLGriffin",
+                "affiliation": []
+            },
+            {
+                "name": "NNikolic",
+                "affiliation": []
+            },
+            {
+                "name": "SYO'reilly",
+                "affiliation": []
+            },
+            {
+                "name": "NJPearson",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "JBlusztajn",
+                "affiliation": []
+            },
+            {
+                "name": "WELemasurier",
+                "affiliation": []
+            },
+            {
+                "name": "DCRex",
+                "affiliation": []
+            },
+            {
+                "name": "BHarte",
+                "affiliation": []
+            },
+            {
+                "name": "JHarvey",
+                "affiliation": []
+            },
+            {
+                "name": "AGannoun",
+                "affiliation": []
+            },
+            {
+                "name": "KWBurton",
+                "affiliation": []
+            },
+            {
+                "name": "NWRogers",
+                "affiliation": []
+            },
+            {
+                "name": "OAlard",
+                "affiliation": []
+            },
+            {
+                "name": "IJParkinson",
+                "affiliation": []
+            },
+            {
+                "name": "EHellebrand",
+                "affiliation": []
+            },
+            {
+                "name": "JESnow",
+                "affiliation": []
+            },
+            {
+                "name": "HJDick",
+                "affiliation": []
+            },
+            {
+                "name": "AWHofmann",
+                "affiliation": []
+            },
+            {
+                "name": "KHoernle",
+                "affiliation": []
+            },
+            {
+                "name": "JD LWhite",
+                "affiliation": []
+            },
+            {
+                "name": "PVan Den Bogaard",
+                "affiliation": []
+            },
+            {
+                "name": "FHauff",
+                "affiliation": []
+            },
+            {
+                "name": "DSCoombs",
+                "affiliation": []
+            },
+            {
+                "name": "RWerner",
+                "affiliation": []
+            },
+            {
+                "name": "CTimm",
+                "affiliation": []
+            },
+            {
+                "name": "DGarbe-Sch\u20ac Onberg",
+                "affiliation": []
+            },
+            {
+                "name": "AReay",
+                "affiliation": []
+            },
+            {
+                "name": "AFCooper",
+                "affiliation": []
+            },
+            {
+                "name": "AWHofmann",
+                "affiliation": []
+            },
+            {
+                "name": "AWHofmann",
+                "affiliation": []
+            },
+            {
+                "name": "WMWhite",
+                "affiliation": []
+            },
+            {
+                "name": "LHoke",
+                "affiliation": []
+            },
+            {
+                "name": "RPoreda",
+                "affiliation": []
+            },
+            {
+                "name": "AReay",
+                "affiliation": []
+            },
+            {
+                "name": "SDWeaver",
+                "affiliation": []
+            },
+            {
+                "name": "DAIonov",
+                "affiliation": []
+            },
+            {
+                "name": "CDupuy",
+                "affiliation": []
+            },
+            {
+                "name": "SYO'reilly",
+                "affiliation": []
+            },
+            {
+                "name": "MGKopylova",
+                "affiliation": []
+            },
+            {
+                "name": "YSGenshaft",
+                "affiliation": []
+            },
+            {
+                "name": "RFKatz",
+                "affiliation": []
+            },
+            {
+                "name": "MSpiegelman",
+                "affiliation": []
+            },
+            {
+                "name": "CHLangmuir",
+                "affiliation": []
+            },
+            {
+                "name": "AKipf",
+                "affiliation": []
+            },
+            {
+                "name": "FHauff",
+                "affiliation": []
+            },
+            {
+                "name": "RWerner",
+                "affiliation": []
+            },
+            {
+                "name": "KGohl",
+                "affiliation": []
+            },
+            {
+                "name": "PVan Den Bogaard",
+                "affiliation": []
+            },
+            {
+                "name": "KHoernle",
+                "affiliation": []
+            },
+            {
+                "name": "DMaicher",
+                "affiliation": []
+            },
+            {
+                "name": "AKl\u20ac",
+                "affiliation": []
+            },
+            {
+                "name": "SKlemme",
+                "affiliation": []
+            },
+            {
+                "name": "CALandis",
+                "affiliation": []
+            },
+            {
+                "name": "DSCoombs",
+                "affiliation": []
+            },
+            {
+                "name": "RLanyon",
+                "affiliation": []
+            },
+            {
+                "name": "RVarne",
+                "affiliation": []
+            },
+            {
+                "name": "AJCrawford",
+                "affiliation": []
+            },
+            {
+                "name": "CTLee",
+                "affiliation": []
+            },
+            {
+                "name": "QYin",
+                "affiliation": []
+            },
+            {
+                "name": "RLRudnick",
+                "affiliation": []
+            },
+            {
+                "name": "SBJacobsen",
+                "affiliation": []
+            },
+            {
+                "name": "CT ALee",
+                "affiliation": []
+            },
+            {
+                "name": "PLuffi",
+                "affiliation": []
+            },
+            {
+                "name": "EJChin",
+                "affiliation": []
+            },
+            {
+                "name": "CZLiu",
+                "affiliation": []
+            },
+            {
+                "name": "JESnow",
+                "affiliation": []
+            },
+            {
+                "name": "EHellebrand",
+                "affiliation": []
+            },
+            {
+                "name": "GBr\u20ac Ugmann",
+                "affiliation": []
+            },
+            {
+                "name": "ADer Handt",
+                "affiliation": []
+            },
+            {
+                "name": "AB\u20ac",
+                "affiliation": []
+            },
+            {
+                "name": "AWHofmann",
+                "affiliation": []
+            },
+            {
+                "name": "JLiu",
+                "affiliation": []
+            },
+            {
+                "name": "RWCarlson",
+                "affiliation": []
+            },
+            {
+                "name": "RLRudnick",
+                "affiliation": []
+            },
+            {
+                "name": "RJWalker",
+                "affiliation": []
+            },
+            {
+                "name": "SGao",
+                "affiliation": []
+            },
+            {
+                "name": "F.-YWu",
+                "affiliation": []
+            },
+            {
+                "name": "JLiu",
+                "affiliation": []
+            },
+            {
+                "name": "RLRudnick",
+                "affiliation": []
+            },
+            {
+                "name": "RJWalker",
+                "affiliation": []
+            },
+            {
+                "name": "WLXu",
+                "affiliation": []
+            },
+            {
+                "name": "SGao",
+                "affiliation": []
+            },
+            {
+                "name": "FYWu",
+                "affiliation": []
+            },
+            {
+                "name": "AJMccoy-West",
+                "affiliation": []
+            },
+            {
+                "name": "JABaker",
+                "affiliation": []
+            },
+            {
+                "name": "KFaure",
+                "affiliation": []
+            },
+            {
+                "name": "RWysoczanski",
+                "affiliation": []
+            },
+            {
+                "name": "AJMccoy-West",
+                "affiliation": []
+            },
+            {
+                "name": "VCBennett",
+                "affiliation": []
+            },
+            {
+                "name": "ISPuchtel",
+                "affiliation": []
+            },
+            {
+                "name": "RJWalker",
+                "affiliation": []
+            },
+            {
+                "name": "LEMcgee",
+                "affiliation": []
+            },
+            {
+                "name": "IESmith",
+                "affiliation": []
+            },
+            {
+                "name": "MAMillet",
+                "affiliation": []
+            },
+            {
+                "name": "HKHandley",
+                "affiliation": []
+            },
+            {
+                "name": "JMLindsay",
+                "affiliation": []
+            },
+            {
+                "name": "JMalarkey",
+                "affiliation": []
+            },
+            {
+                "name": "NWittig",
+                "affiliation": []
+            },
+            {
+                "name": "DGPearson",
+                "affiliation": []
+            },
+            {
+                "name": "JPDavidson",
+                "affiliation": []
+            },
+            {
+                "name": "APMartin",
+                "affiliation": []
+            },
+            {
+                "name": "AFCooper",
+                "affiliation": []
+            },
+            {
+                "name": "RCPrice",
+                "affiliation": []
+            },
+            {
+                "name": "WFMcdonough",
+                "affiliation": []
+            },
+            {
+                "name": "NMortimer",
+                "affiliation": []
+            },
+            {
+                "name": "NMortimer",
+                "affiliation": []
+            },
+            {
+                "name": "PBGans",
+                "affiliation": []
+            },
+            {
+                "name": "FHauff",
+                "affiliation": []
+            },
+            {
+                "name": "DH NBarker",
+                "affiliation": []
+            },
+            {
+                "name": "CM\u20ac Unker",
+                "affiliation": []
+            },
+            {
+                "name": "RCooper",
+                "affiliation": []
+            },
+            {
+                "name": "SJNasir",
+                "affiliation": []
+            },
+            {
+                "name": "JLEverard",
+                "affiliation": []
+            },
+            {
+                "name": "MPMcclenaghan",
+                "affiliation": []
+            },
+            {
+                "name": "DBombardieri",
+                "affiliation": []
+            },
+            {
+                "name": "MAWorthing",
+                "affiliation": []
+            },
+            {
+                "name": "ONebel",
+                "affiliation": []
+            },
+            {
+                "name": "RJArculus",
+                "affiliation": []
+            },
+            {
+                "name": "WVan Westrenen",
+                "affiliation": []
+            },
+            {
+                "name": "JDWoodhead",
+                "affiliation": []
+            },
+            {
+                "name": "FEJenner",
+                "affiliation": []
+            },
+            {
+                "name": "YJNebel-Jacobsen",
+                "affiliation": []
+            },
+            {
+                "name": "MWille",
+                "affiliation": []
+            },
+            {
+                "name": "SMEggins",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            },
+            {
+                "name": "NNiu",
+                "affiliation": []
+            },
+            {
+                "name": "CHLangmuir",
+                "affiliation": []
+            },
+            {
+                "name": "RJKinzler",
+                "affiliation": []
+            },
+            {
+                "name": "SYO'reilly",
+                "affiliation": []
+            },
+            {
+                "name": "WLGriffin",
+                "affiliation": []
+            },
+            {
+                "name": "KSPanter",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "PKyle",
+                "affiliation": []
+            },
+            {
+                "name": "JBlusztanjn",
+                "affiliation": []
+            },
+            {
+                "name": "TWilch",
+                "affiliation": []
+            },
+            {
+                "name": "KSPanter",
+                "affiliation": []
+            },
+            {
+                "name": "JBlusztajn",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "PRKyle",
+                "affiliation": []
+            },
+            {
+                "name": "REsser",
+                "affiliation": []
+            },
+            {
+                "name": "WCMcintosh",
+                "affiliation": []
+            },
+            {
+                "name": "IJParkinson",
+                "affiliation": []
+            },
+            {
+                "name": "CJHawkesworth",
+                "affiliation": []
+            },
+            {
+                "name": "ASCohen",
+                "affiliation": []
+            },
+            {
+                "name": "DGPearson",
+                "affiliation": []
+            },
+            {
+                "name": "NWittig",
+                "affiliation": []
+            },
+            {
+                "name": "DGPearson",
+                "affiliation": []
+            },
+            {
+                "name": "DCanil",
+                "affiliation": []
+            },
+            {
+                "name": "SBShirey",
+                "affiliation": []
+            },
+            {
+                "name": "RCPrice",
+                "affiliation": []
+            },
+            {
+                "name": "CWallace",
+                "affiliation": []
+            },
+            {
+                "name": "RCPrice",
+                "affiliation": []
+            },
+            {
+                "name": "AFCooper",
+                "affiliation": []
+            },
+            {
+                "name": "JDWoodhead",
+                "affiliation": []
+            },
+            {
+                "name": "IA NCartwright",
+                "affiliation": []
+            },
+            {
+                "name": "RCPrice",
+                "affiliation": []
+            },
+            {
+                "name": "JAGamble",
+                "affiliation": []
+            },
+            {
+                "name": "IE MSmith",
+                "affiliation": []
+            },
+            {
+                "name": "RMaas",
+                "affiliation": []
+            },
+            {
+                "name": "TEWaight",
+                "affiliation": []
+            },
+            {
+                "name": "RBStewart",
+                "affiliation": []
+            },
+            {
+                "name": "JWoodhead",
+                "affiliation": []
+            },
+            {
+                "name": "MSRattenbury",
+                "affiliation": []
+            },
+            {
+                "name": "RJongens",
+                "affiliation": []
+            },
+            {
+                "name": "SCCox",
+                "affiliation": []
+            },
+            {
+                "name": "ERampone",
+                "affiliation": []
+            },
+            {
+                "name": "AHofmann",
+                "affiliation": []
+            },
+            {
+                "name": "AReay",
+                "affiliation": []
+            },
+            {
+                "name": "PPSipiera",
+                "affiliation": []
+            },
+            {
+                "name": "JohnWiley",
+                "affiliation": []
+            },
+            {
+                "name": "UKChichester",
+                "affiliation": []
+            },
+            {
+                "name": "JA CRobinson",
+                "affiliation": []
+            },
+            {
+                "name": "BJWood",
+                "affiliation": []
+            },
+            {
+                "name": "SRocchi",
+                "affiliation": []
+            },
+            {
+                "name": "PArmienti",
+                "affiliation": []
+            },
+            {
+                "name": "MD'orazio",
+                "affiliation": []
+            },
+            {
+                "name": "STonarini",
+                "affiliation": []
+            },
+            {
+                "name": "JRWijbrans",
+                "affiliation": []
+            },
+            {
+                "name": "GDiVincenzo",
+                "affiliation": []
+            },
+            {
+                "name": "ARocholl",
+                "affiliation": []
+            },
+            {
+                "name": "MStein",
+                "affiliation": []
+            },
+            {
+                "name": "MMolzahn",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "GW\u20acOrner",
+                "affiliation": []
+            },
+            {
+                "name": "RLRudnick",
+                "affiliation": []
+            },
+            {
+                "name": "WFMcdonough",
+                "affiliation": []
+            },
+            {
+                "name": "BWChappell",
+                "affiliation": []
+            },
+            {
+                "name": "VJSalters",
+                "affiliation": []
+            },
+            {
+                "name": "AStracke",
+                "affiliation": []
+            },
+            {
+                "name": "VJ MSalters",
+                "affiliation": []
+            },
+            {
+                "name": "AZindler",
+                "affiliation": []
+            },
+            {
+                "name": "RJSewell",
+                "affiliation": []
+            },
+            {
+                "name": "BJHobden",
+                "affiliation": []
+            },
+            {
+                "name": "SDWeaver",
+                "affiliation": []
+            },
+            {
+                "name": "JMScott",
+                "affiliation": []
+            },
+            {
+                "name": "AFCooper",
+                "affiliation": []
+            },
+            {
+                "name": "JScott",
+                "affiliation": []
+            },
+            {
+                "name": "JMuhling",
+                "affiliation": []
+            },
+            {
+                "name": "IFletcher",
+                "affiliation": []
+            },
+            {
+                "name": "MBillia",
+                "affiliation": []
+            },
+            {
+                "name": "JMPalin",
+                "affiliation": []
+            },
+            {
+                "name": "TElliot",
+                "affiliation": []
+            },
+            {
+                "name": "CUnter",
+                "affiliation": []
+            },
+            {
+                "name": "JMScott",
+                "affiliation": []
+            },
+            {
+                "name": "IMTurnbull",
+                "affiliation": []
+            },
+            {
+                "name": "AAuer",
+                "affiliation": []
+            },
+            {
+                "name": "JMPalin",
+                "affiliation": []
+            },
+            {
+                "name": "JMScott",
+                "affiliation": []
+            },
+            {
+                "name": "AHodgkinson",
+                "affiliation": []
+            },
+            {
+                "name": "JMPalin",
+                "affiliation": []
+            },
+            {
+                "name": "TEWaight",
+                "affiliation": []
+            },
+            {
+                "name": "QH AVan Der Meer",
+                "affiliation": []
+            },
+            {
+                "name": "AFCooper",
+                "affiliation": []
+            },
+            {
+                "name": "JEShaw",
+                "affiliation": []
+            },
+            {
+                "name": "JABaker",
+                "affiliation": []
+            },
+            {
+                "name": "AJ RKent",
+                "affiliation": []
+            },
+            {
+                "name": "KMIbrahim",
+                "affiliation": []
+            },
+            {
+                "name": "MAMenzies",
+                "affiliation": []
+            },
+            {
+                "name": "NSSimon",
+                "affiliation": []
+            },
+            {
+                "name": "ERNeumann",
+                "affiliation": []
+            },
+            {
+                "name": "CBonadiman",
+                "affiliation": []
+            },
+            {
+                "name": "MColtorti",
+                "affiliation": []
+            },
+            {
+                "name": "GDelpech",
+                "affiliation": []
+            },
+            {
+                "name": "MGr",
+                "affiliation": []
+            },
+            {
+                "name": "EWidom",
+                "affiliation": []
+            },
+            {
+                "name": "DSmith",
+                "affiliation": []
+            },
+            {
+                "name": "PSpac \u02c7ek",
+                "affiliation": []
+            },
+            {
+                "name": "LAckerman",
+                "affiliation": []
+            },
+            {
+                "name": "GHabler",
+                "affiliation": []
+            },
+            {
+                "name": "RAbart",
+                "affiliation": []
+            },
+            {
+                "name": "JUlrych",
+                "affiliation": []
+            },
+            {
+                "name": "PSprung",
+                "affiliation": []
+            },
+            {
+                "name": "SSchuth",
+                "affiliation": []
+            },
+            {
+                "name": "C",
+                "affiliation": []
+            },
+            {
+                "name": "LHoke",
+                "affiliation": []
+            },
+            {
+                "name": "AStracke",
+                "affiliation": []
+            },
+            {
+                "name": "MBizimis",
+                "affiliation": []
+            },
+            {
+                "name": "VJSalters",
+                "affiliation": []
+            },
+            {
+                "name": "AStracke",
+                "affiliation": []
+            },
+            {
+                "name": "AWHofmann",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "AStracke",
+                "affiliation": []
+            },
+            {
+                "name": "JESnow",
+                "affiliation": []
+            },
+            {
+                "name": "EHellebrand",
+                "affiliation": []
+            },
+            {
+                "name": "ADer Handt",
+                "affiliation": []
+            },
+            {
+                "name": "BBourdon",
+                "affiliation": []
+            },
+            {
+                "name": "KBirbaum",
+                "affiliation": []
+            },
+            {
+                "name": "DUnther",
+                "affiliation": []
+            },
+            {
+                "name": "AStreckeisen",
+                "affiliation": []
+            },
+            {
+                "name": "SSSun",
+                "affiliation": []
+            },
+            {
+                "name": "WMcdonough",
+                "affiliation": []
+            },
+            {
+                "name": "VETappenden",
+                "affiliation": []
+            },
+            {
+                "name": "WRTaylor",
+                "affiliation": []
+            },
+            {
+                "name": "CTimm",
+                "affiliation": []
+            },
+            {
+                "name": "KHoernle",
+                "affiliation": []
+            },
+            {
+                "name": "PVan Den Bogaard",
+                "affiliation": []
+            },
+            {
+                "name": "IBindemann",
+                "affiliation": []
+            },
+            {
+                "name": "SDWeaver",
+                "affiliation": []
+            },
+            {
+                "name": "CTimm",
+                "affiliation": []
+            },
+            {
+                "name": "KHoernle",
+                "affiliation": []
+            },
+            {
+                "name": "RWerner",
+                "affiliation": []
+            },
+            {
+                "name": "FHauff",
+                "affiliation": []
+            },
+            {
+                "name": "PVan Den Bogaard",
+                "affiliation": []
+            },
+            {
+                "name": "JWhite",
+                "affiliation": []
+            },
+            {
+                "name": "NMortimer",
+                "affiliation": []
+            },
+            {
+                "name": "DGarbe-Sch\u20ac Onberg",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            },
+            {
+                "name": "AJTulloch",
+                "affiliation": []
+            },
+            {
+                "name": "DLKimbrough",
+                "affiliation": []
+            },
+            {
+                "name": "AJTulloch",
+                "affiliation": []
+            },
+            {
+                "name": "SNathan",
+                "affiliation": []
+            },
+            {
+                "name": "AJTulloch",
+                "affiliation": []
+            },
+            {
+                "name": "JRamezani",
+                "affiliation": []
+            },
+            {
+                "name": "DLKimbrough",
+                "affiliation": []
+            },
+            {
+                "name": "K",
+                "affiliation": []
+            },
+            {
+                "name": "AHAllibone",
+                "affiliation": []
+            },
+            {
+                "name": "AJTulloch",
+                "affiliation": []
+            },
+            {
+                "name": "JRamezani",
+                "affiliation": []
+            },
+            {
+                "name": "NMortimer",
+                "affiliation": []
+            },
+            {
+                "name": "JMortensen",
+                "affiliation": []
+            },
+            {
+                "name": "PVan Den Bogaard",
+                "affiliation": []
+            },
+            {
+                "name": "RMaas",
+                "affiliation": []
+            },
+            {
+                "name": "IMTurnbull",
+                "affiliation": []
+            },
+            {
+                "name": "QH AVan Der Meer",
+                "affiliation": []
+            },
+            {
+                "name": "JMScott",
+                "affiliation": []
+            },
+            {
+                "name": "TEWaight",
+                "affiliation": []
+            },
+            {
+                "name": "MSudo",
+                "affiliation": []
+            },
+            {
+                "name": "ASchersten",
+                "affiliation": []
+            },
+            {
+                "name": "AFCooper",
+                "affiliation": []
+            },
+            {
+                "name": "TLSpell",
+                "affiliation": []
+            },
+            {
+                "name": "JDVervoort",
+                "affiliation": []
+            },
+            {
+                "name": "PJPatchett",
+                "affiliation": []
+            },
+            {
+                "name": "JBlichert-Toft",
+                "affiliation": []
+            },
+            {
+                "name": "FAlbare",
+                "affiliation": []
+            },
+            {
+                "name": "De",
+                "affiliation": []
+            },
+            {
+                "name": "TEWaight",
+                "affiliation": []
+            },
+            {
+                "name": "SDWeaver",
+                "affiliation": []
+            },
+            {
+                "name": "RMaas",
+                "affiliation": []
+            },
+            {
+                "name": "GNEby",
+                "affiliation": []
+            },
+            {
+                "name": "TEWaight",
+                "affiliation": []
+            },
+            {
+                "name": "SDWeaver",
+                "affiliation": []
+            },
+            {
+                "name": "RJMuir",
+                "affiliation": []
+            },
+            {
+                "name": "RCWallace",
+                "affiliation": []
+            },
+            {
+                "name": "SDWeaver",
+                "affiliation": []
+            },
+            {
+                "name": "IE MSmith",
+                "affiliation": []
+            },
+            {
+                "name": "GWitt-Eickschen",
+                "affiliation": []
+            },
+            {
+                "name": "HASeck",
+                "affiliation": []
+            },
+            {
+                "name": "KMezger",
+                "affiliation": []
+            },
+            {
+                "name": "SMEggins",
+                "affiliation": []
+            },
+            {
+                "name": "RAltherr",
+                "affiliation": []
+            },
+            {
+                "name": "NWittig",
+                "affiliation": []
+            },
+            {
+                "name": "DGPearson",
+                "affiliation": []
+            },
+            {
+                "name": "SDuggen",
+                "affiliation": []
+            },
+            {
+                "name": "JABaker",
+                "affiliation": []
+            },
+            {
+                "name": "KHoernle",
+                "affiliation": []
+            },
+            {
+                "name": "JBWright",
+                "affiliation": []
+            },
+            {
+                "name": "GMYaxley",
+                "affiliation": []
+            },
+            {
+                "name": "DHGreen",
+                "affiliation": []
+            },
+            {
+                "name": "VKamenetsky",
+                "affiliation": []
+            },
+            {
+                "name": "MZhang",
+                "affiliation": []
+            },
+            {
+                "name": "PJStephenson",
+                "affiliation": []
+            },
+            {
+                "name": "SYO'reilly",
+                "affiliation": []
+            },
+            {
+                "name": "MTMcculloch",
+                "affiliation": []
+            },
+            {
+                "name": "MNorman",
+                "affiliation": []
+            },
+            {
+                "name": "AZindler",
+                "affiliation": []
+            },
+            {
+                "name": "SHart",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            }
+        ],
+        "publication_date": "2014",
+        "funder": [
+            "Danish Research Council for Nature and Universe",
+            "New Zealand Foundation for Research Science and Technology Post-Doctoral"
+        ]
+    },
+    "sections": {
+        "Introduction": "Introduction\nAn integral part of continental lithosphere is the peridotitic keel that is attached to the base of the crust and isolated from the asthenosphere. The chemical and isotopic composition of this rigid keel, known as the subcontinental lithospheric mantle (SCLM), has consequences for the composition of magmas generated within it or passing through it. Intraplate alkaline volcanic rocks provide one means of assessing the composition of the SCLM because they are commonly derived from the lithospheric mantle and/or entrain a cargo of xenolithic lithospheric material. Mineralogical, geochemical, and isotopic investigation of such xenoliths provides some of the best constraints on the nature, heterogeneity, and thermal structure of the upper mantle [e.g.,\nMcDonough, 1990;\nPearson et al., 2003;\nSimon et al., 2008;\nCarlson et al., 2005;\nGriffin et al., 2009b;\nLee et al., 2011;\nPearson and Wittig, 2014]\n.\nNew Zealand is the exposed portion of a largely submerged microcontinent known as Zealandia (Figures\n1a\nand\n1b\n). Zealandia has been repeatedly pierced over the last 95 Ma by intraplate basaltic magmas with geochemical compositions indicating derivation from a garnet-bearing peridotitic and/or pyroxeniteeclogitic source\n[Coombs et al., 1986;\nBarreiro and Cooper, 1987;\nGamble et al., 1986;\nBaker et al., 1994;\nPrice et al., 2003;\nCook et al., 2005;\nFinn et al., 2005;\nHoernle et al., 2006;\nPanter et al., 2006;\nSprung et al., 2007;\nCoombs et al., 2008;\nTimm et al., 2009;\nMcCoy-West et al., 2010;\nTimm et al., 2010;\nMcGee et al., 2013;\nScott et al., 2013]\n. These basalts have piqued geological interest because many have radiogenic 206 Pb/ 204 Pb (> 20.5) and unradiogenic 87 Sr/ 86 Sr (< 0.703) comparable to oceanic island basalts (OIB) such as those from St Helena or the Austral-Cook islands, which are derived from a high time-integrated 238 U/ 204 Pb (HIMU) mantle reservoir. The HIMU reservoir is one of several distinctive isotopic end-members recognized in Geochemistry, Geophysics, Geosystems 10.1002/2014GC005300 oceanic basalts [e.g.,\nHart, 1984;\nZindler and Hart, 1986;\nHofmann, 2003;\nStracke et al., 2005]\nand its origin is typically attributed to recycling of ancient altered oceanic crust [e.g.,\nChase, 1981;\nHofmann and White, 1982;\nStracke et al., 2003;\nNebel et al., 2013]\n. The origin of the HIMU signature in the Zealandia intraplate basalts, however, remains a contentious topic, with debate as to whether it is derived from an asthenospheric or lithospheric source. The term ''HIMU-like'' is used herein because the isotopic signatures of the Zealandia intraplate basalts do not completely overlap with the HIMU isotopic fields, and there is no known link with oceanic crust recycled in a plume\n[Timm et al., 2010]\n.\nArguments for a lithospheric mantle source for the Zealandia intraplate basalts are based upon contemporaneous HIMU-like magmatism also having occurred in the formerly contiguous continental areas of Antarctica\n[Rocholl et al., 1995;\nHart et al., 1997;\nPanter et al., 2000;\nRocchi et al., 2002;\nMartin et al., 2013]\n, East Australia and Tasmania\n[Lanyon et al., 1993;\nZhang et al., 2001;\nNasir et al., 2010]\nbut not the intervening ocean basins. The source region is suggested to have been a mantle lithospheric domain that was located under Gondwana and has since been dismembered during separation of the Australia-Zealandia-Antarctica Gondwana margin at 85 Ma\n[Panter et al., 2006]\n. This interpretation is complicated by the discovery of dredged oceanic volcanic rocks with Sr, Nd, and Pb isotope ratios that hint at a HIMU-like component in their mantle source regions\n[Mortimer et al., 2012;\nKipf et al., 2013]\n.\nKipf et al. [2013]\nexplain the occurrence of the oceanic HIMU-like signatures in the basalts as being derived from continental lithosphere that was translated out from beneath continental West Antarctica and then partially melted beneath adjacent oceanic crust. As an alternative to a lithospheric source,\nHoernle et al. [2006]\nand\nTimm et al. [2009\nTimm et al. [ , 2010] ]\nhave argued that the basaltic HIMU-like signature originates from a large reservoir located deep (600 km) in the asthenosphere, and that the lithosphere has played only a minor, if any, role.\nIt is the volcanoes of Zealandia that contain the strongest HIMU-like source signatures of all the SW Pacific continental intraplate magmas. Determining the composition of the Zealandia SCLM must be a first step in assessing the role of the lithosphere in these intraplate basalts. Prior to our study, the Zealandia SCLM was assumed to have relatively radiogenic Sr ( 87 Sr/ 86 Sr > 0.7035) and unradiogenic Nd ( 143 Nd/ 144 Nd < 0.5128) and Pb ( 206 Pb/ 204 Pb 5 18.7-18.9) isotopic compositions [e.g.,\nHoernle et al., 2006;\nTimm et al., 2010;\nMcGee et al., 2013]\n. Although such compositions would appear to rule out the SCLM having a HIMU-like component, these values are an ''expected composition'' based upon dredged schists and granites, Cretaceous subduction-related volcanoes that have reacted with continental crust, and dikes in Antarctica\n[Hoernle et al., 2006;\nTimm et al., 2010]\n. The isotopic composition of the Zealandia SCLM is thus effectively unknown.\nThe Zealandia Oligocene-Early Miocene intraplate basalts carry a cargo of mantle material\n[Reay and Sipiera, 1987;\nWeaver and Smith, 1989\n] that provides a direct opportunity of establishing the composition of the underlying SCLM. In the course of this study, hundreds of peridotite xenoliths have been collected from Oligocene-Miocene volcanic rocks across southern New Zealand with a twofold aim. First, 157 of these peridotites are used to generate the first regional compositional (petrography, major elements, trace elements) and isotopic (Sr-Nd-Pb-Hf) description of the Zealandia SCLM. These data highlight the unexpected occurrence of adjacent moderately fertile and highly refractory domains, both variably overprinted by LREEenriched metasomatism. Second, with regional context in place, we then critically assess the role that the SCLM may have played in producing the HIMU-like source signature seen in the intraplate basalts.",
+        "Geological Setting": "Geological Setting\nZealandia is an amalgam of crustal tectonostratigraphic terranes that were accreted to the Gondwana convergent margin\n[Landis and Coombs, 1967;\nBradshaw, 1989;\nMortimer, 2004;\nCooper and Ireland, 2013]\n. The oldest known rocks are Cambrian sediments and volcanic rocks\n[M\u20ac unker and Cooper, 1999]\n. However, the majority of the accreted crustal fragments are metamorphosed Paleozoic to Mesozoic sediments that were deposited on oceanic lithosphere, or relatively immature arcs that were also built on oceanic lithosphere\n[Mortimer, 2004, and references therein]\n. No Proterozoic or older continental crust has been identified. At 110 Ma, the paleo-Pacific Gondwana margin began to undergo extension\n[Gibson et al., 1988;\nTulloch and Kimbrough, 1989;\nWaight et al., 1998a;\nScott and Cooper, 2006;\nTulloch et al., 2009b]\n. This led to fragmentation of Zealandia from Australia and Antarctica by 85 Ma and the formation of intervening oceanic basins now represented by the Tasman Sea and the Southern Ocean\n[Gaina et al., 1998;\nTulloch and Kimbrough, 1989;\nWaight et al., 1998b;\nvan der Meer et al., 2013]\n(Figure\n1b\n). Sea floor spreading has transported Geochemistry, Geophysics, Geosystems 10.1002/2014GC005300 Zealandia about 3500 km northward of its Cretaceous geographic position\n[Bradshaw, 1989]\n. While the geology and history of Zealandia's continental crust is well characterized, peridotite xenoliths provide insights in the nature and history of the underlying SCLM.",
+        "Peridotite Characterization": "Peridotite Characterization\nPrevious investigation of Zealandia peridotitic xenoliths has been at reconnaissance level at best. Brief petrographic descriptions and/or mineral chemistries have been reported by\nBrown [1954]\n,\nWright [1967]\n,\nWallace [1975]\n,\nPrice and Wallace [1976]\n,\nReay and Sipiera [1987]\n,\nBrodie and Cooper [1989]\n,\nTulloch and Nathan [1990]\n,\nSewell et al. [1993]\n,\nHoke et al. [2000]\n,\nDuclos et al. [2005]\n,\nMcCoy-West et al. [2013]\n, and\nScott et al. [2014]\n. He isotopes were reported for 10 samples\n[Hoke et al., 2000]\nand\nDuclos et al. [2005]\nreported seismic anisotropy measurements on eight of those specimens. Whole rock Os isotopes for 27 xenoliths, entrained from the Late Cretaceous to the Miocene, have been interpreted to show that parts of the Zealandia lithosphere underwent depletion at 2 Ga\n[McCoy-West et al., 2013]\n.\nScott et al. [2014]\nprovided a description of the petrographic characteristics, major and trace element data for 23 xenoliths from a tight cluster of volcanoes in East Otago within the South Island, and suggested that these record carbonatite metasomatism.\nThe peridotite xenoliths reported in this paper (n 5 157) are from 25 locations across southern Zealand (Figure\n1c\nand tabulated in supporting information Table\n1\n), and are subdivided into four suites:\n1. North Otago: from the 34-33 Ma basaltic Deborah-Waiareka Volcanics; 2. West Otago: from the 25-20 Ma carbonatitic-lamprophyric Alpine Dike Swarm; 3. East Otago: from the 24-10 Ma basaltic Dunedin Volcanic Group; and 4. Auckland Islands: from the 16 Ma basaltic Ross Volcano.\nAll samples are spinel peridotites; garnet has not been observed and plagioclase is present only in small melt patches that contain euhedral spinel, a secondary clinopyroxene and variably altered glass. Spinel classification follows\nCarswell [1980]\nand textural classification follows\nHarte [1977]\n. Each xenolith has had mineral major elements measured by wavelength dispersal spectrometry on electron microprobes at either the University of Potsdam (Germany) or the University of Otago (New Zealand). Elemental data are used to estimate temperatures of equilibration with the clinopyroxene-orthopyroxene geothermometer calibration of\nTaylor [1998]\n. Due to the lack of a reliable geobarometer for spinel peridotites, pressure was set at 10 and 20 kbar to correspond to the spinel facies in fertile mantle. Clinopyroxene and amphibole trace element concentrations were measured by laser ablation inductively coupled plasma mass spectrometry at the University of Otago on single grains either in situ or on grains from handpicked mineral separates (n 5 79). Radiogenic isotopic (Rb-Sr and Sm-Nd (n 5 35), Pb (n 5 23), and Hf (n 5 12)) compositions were measured by thermal ionization mass spectrometry at the University of Copenhagen (Denmark) (Sr, Nd, and Pb) and multicollector inductively coupled mass spectrometry in joint laboratories at the Universities of K\u20ac oln and Bonn (Germany) (Hf) on a further subset of clinopyroxene separates. The choice of samples for isotopic analysis was largely governed by the trace element concentrations of the elements in question and the amounts of material available. Further details are presented in supporting information Tables 1 (sample summary), 2 (isotope summary), File 3 (methodology, data, additional information), and Table\n4\n(representative analyses).",
+        "East Otago": "East Otago\nNinety xenoliths have been analyzed from 15 locations in East Otago (Figure\n1c\n). Xenoliths from four of these locations (Kattothyrst, Siberia Hill, Mt Dasher and Scout Hill) have already been described in detail and, although the data are included in Figure\n3\nand supporting information Table\n1\n, the reader is referred to\nScott et al. [2014]\nfor specific petrological information regarding those samples. Most of the East Otago xenoliths occur within monogenetic lavas of the Waipiata Volcanics subgroup of the larger Dunedin Volcanic Group. The main shield volcano phase (Dunedin Volcano) did not carry much of a xenolith load to the surface, and the only analyzed rocks to date are those from the Murdering Beach location. Xenoliths reach up to 50 cm in diameter in rare cases (e.g., Trig L), but are more commonly 10 cm in diameter. The sample suite has an array of compositions that vary from lherzolite through to dunite and wehrlite (Figure\n2\n), although the latter lithology has only been found at Kattothyrst\n[Scott et al., 2014]\n. Textures vary from Geochemistry, Geophysics, Geosystems 10.1002/2014GC005300 coarse-porphyroclastic to granuloblastic. Spinel grains are commonly distributed throughout the rocks. However, there are exceptions, such as those from Trig L, Murdering Beach, and Hyde, where the spinels occur in clusters that are associated with pyroxene. These textures resemble spinel-pyroxene symplectitic intergrowths after garnet [e.g.,\nSmith, 1977;\nSpac \u02c7ek et al., 2013]\n.\nAverage olivine Mg# (100*Mg/ (Mg1Fe)) varies substantially across the East Otago suite, and subtle subgroups are distinguishable (Figure\n3a\n). For example, the majority of xenoliths from Fortification Peak have olivine Mg# > 91, whereas most xenoliths from Trig L have olivine Mg# 91 (Figures\n3a-3c\n). Increasing olivine Mg# has a positive trend against increasing orthopyroxene Mg# and highlights a linear array (Figure\n3a\n). Orthopyroxene Al 2 O 3 contents generally decrease with higher olivine Mg# but the data are fairly dispersed (Figure\n3c\n). Spinel Cr# (100*Cr/(Cr1Al)) also tends to rise with higher olivine Mg# (Figure\n3b\n). The majority of East Otago spinels are Al-spinel. Kattothyrst, Siberia Hill, and Ram Rock spinels stand out from this broad pattern, being largely Cr-spinel and chromite and plotting at a higher Cr# for a given olivine Mg#. Clinopyroxene Al 2 O 3 contents vary from 8.11 to 1.74 wt %, and this wide range can be found at a single location (e.g., Waihola subsuite). In this paper, we report maximum measured pyroxene Al 2 O 3 values, which almost always correspond to the cores of grains (in some cases, the rims have up to 0.5 wt % less Al 2 O 3 than the cores\n[Scott et al., 2014]\n). There is a good correlation between decreasing clinopyroxene Al 2 O 3 and lower Na 2 O or higher Mg# (not shown). Temperatures of equilibration for these spinel facies rocks vary between 710 and 1114 C (supporting information Table\n1\n).",
+        "North Otago": "North Otago\nThere are some subtle differences between the clinopyroxene trace elements across the three North Otago locations. In the Alma Mineral Breccia, ALM-1 and ALM-4 have elevated LREE concentrations when compared with ALM-2 and ALM-3 (Figure\n5a\n). ALM-1 also displays very prominent Primitive Mantle-normalized Ti, Zr, and Hf negative anomalies. When compared with KAK-1 and KAK-2, sample KAK-3 and KAK-4 have lower HREE concentrations as well as larger negative Primitive Mantle-normalized Nb, Ti, Zr, and Hf anomalies (Figure\n5b\n). ROU-1 and ROU-3 are distinct from those from the Kakanui Mineral Breccia and Alma Mineral Breccia because they show LREE depletion trends. ROU-2 has a similar HREE-normalized content to ROU-1 and ROU-3 but displays a variable LREE enrichment pattern indicating LREE inhomogeneity within clinopyroxene.",
+        "Auckland Islands": "Auckland Islands\nThe high and low temperature samples from this location have distinct trace element profiles. Clinopyroxene grains in the coarse and porphyroclastic low-T suite overlap one another, with HREE concentrations around 10 times Chondrite but low LREE (Figure\n5e\n). In contrast, the symplectite-bearing high-T samples have low HREE contents and upward inflections in LREE (Figure\n5e\n). AMED-5 is particularly notable for its extreme depletion in MREE. Primitive Mantle-normalized diagrams further illustrate differences in HREE and LREE concentrations between samples (Figure\n5f\n).",
+        "Trace Elements": "Trace Elements\nTrace element concentrations provide detailed information on the degree of SCLM depletion and/or enrichment [e.g.,\nEggins et al., 1998;\nDownes, 2001;\nPearson et al., 2003]\n. Clinopyroxene is the principal repository of trace elements in the peridotites examined, with exceptions of amphibole in several of the West Otago samples and three North Otago samples, and apatite in several East Otago and West Otago samples. Average normalized trace element values are illustrated in Figures\n4\n5\n6\n7\n. Trace element plots with all analyses are presented in supporting information Table\n4\n.\nGeochemistry, Geophysics, Geosystems\n4a, 4c,\nand\n4e\n). Most of these samples also display the distinctive signs of having experienced metasomatic addition of LREE, as illustrated by upward inflections in normalized LREE (e.g., . The spoon-shaped Chondrite normalized patterns also point to addition of LREE to rocks already highly depleted. Samples with lower HREE concentrations tend to be those that have high olivine Mg# and spinel Cr#. Chondrite-normalized plots show that several samples have HREE equal to 10 times Chondrite but are relatively depleted in LREE (e.g., Figure\n4c\n). Such profiles are indicative of low-moderate degrees of melt extraction. Many samples display distinct Primitive Mantle-normalized Nb, Zr, Hf, and Ti negative anomalies (Figures\n4b, 4d,\nand\n4f\n). WAI-2 has a positive Eu anomaly (Figure\n4e\n) that could be explained if plagioclase was present at some stage and underwent preferential melt extraction (none occurs in the inspected sample now). This sample also has extreme depletions in Hf, Zr, and Nb (Figure\n4f\n).",
+        "West Otago": "West Otago\nClinopyroxene trace elements in the West Otago suite display striking LREE-enrichment patterns. All samples have sinusoidal Chondrite-normalized trends made up of low HREE concentrations relative to MREE and/or LREE (Figure\n5c\n). Two samples from the Mt Alta diatreme (ALT-4, ALT-7) have the highest",
+        "Radiogenic Isotopes": "Radiogenic Isotopes\nTo assess the isotopic composition of the enrichment agents and to place broad constraints on the timing of depletion and metasomatism, clinopyroxene grains have been separated and Sr-Nd-Pb-Hf isotopes measured. Data are tabulated in supporting information Table\n2\nand the methodology discussed in supporting information file 4. Sr, Nd, and Hf isotope data are corrected to the age of eruption, with differences between measured and age-corrected values generally less than or close to reproducibility and trivial compared to the spread in the data set. The clinopyroxene separates yield a spread of Sr and Nd isotope compositions with 87 Sr/ 86 Sr i between 0.70169 and 0.70351 and 143 Nd/ 144 Nd i between 0.51263 and 0.51372 (eNd i 5 10.3 to 121.5) (supporting information Table\n2\n). These isotope ratios broadly overlap with the MORB field (Figure\n6a\n), although many samples plot at lower eNd i for a given 87 Sr/ 86 Sr i . The isotope ratios overlap with the unradiogenic end of the intraplate basalt Sr isotope spectrum but extend to even less radiogenic compositions. Some samples (TRL-10, MUR-2) have radiogenic Nd and/or unradiogenic Sr isotope compositions that indicate considerably greater time-integrated depletion than typical for MORB or OIB mantle sources.\nClinopyroxene Pb isotope ratios extend to realms more radiogenic than MORB (Figures\n6b-6d\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005300 Clinopyroxene Hf isotope concentrations vary between 176 Hf/ 177 Hf i 5 0.28310 and 0.28771 (eHf i 5 112 to 1175). Most samples plot along the mantle reference line of\nVervoort et al. [1999]\nand either overlap with the MORB field or extend to more radiogenic compositions (Figure\n6e\n). TRL-1, ALM-1, and AMED-5 have extremely radiogenic Hf compositions that plot well above the mantle array. The Hf isotope values are distinct from HIMU, which has relatively unradiogenic 176 Hf/ 177 Hf compared to MORB\n[Stracke et al., 2005;\nNebel et al., 2013]\n.",
+        "Coupled REE-Isotope Modeling": "Coupled REE-Isotope Modeling\nTo examine the origin and evolution of the peridotites, an attempt is made to model the clinopyroxene REE and isotope data. Following similar investigations [e.g.,\nStracke et al., 2011;\nLiu et al., 2012]\n, trace element modeling is restricted to the REE and Hf-Nd isotopes because these are the most informative with respect to depletion-enrichment histories. Insufficient sample material was available to enable Hf isotopic analysis of clinopyroxene from West Otago, so by necessity we focus upon the East Otago-North Otago-Auckland Islands data set. Our method of the isotope-trace element modeling is summarized in supporting information File 5. REE were modeled by adding various metasomatic components to variably depleted residues by bulk mixing (Figure\n7\n). The effects of depletion and metasomatism are most evident in the LREE because these elements are preferentially removed during melt depletion and common metasomatizing agents are LREE enriched. HREE concentrations are less affected by metasomatism and can be used as proxies for melt depletion. The choice of metasomatizing agent has important implications. Previous modeling attempts for Geochemistry, Geophysics, Geosystems 10.1002/2014GC005300 enrichment of depleted peridotite have used low-degree silicate melts as the metasomatic agent [e.g.,\nStracke et al., 2011;\nLiu et al., 2012]\n. However, carbonatitic melts have been inferred to have reacted with SCLM in many off-craton locations including Africa [e.g.,\nDautria et al., 1992;\nRudnick et al., 1993;\nWittig et al., 2010]\n, Antarctica [e.g.,\nMartin et al., 2013]\n, Arabia [e.g.,\nShaw et al., 2007]\n, Australia [e.g.,\nYaxley et al., 1998;\nO'Reilly and Griffin, 2000]\n, Europe [e.g.,\nIonov et al., 1993;\nWitt-Eickschen et al., 2003]\n, and New Zealand\n[Scott et al., 2014]\n. Our modeled carbonatitic compositions come from carbonatitic dikes that occur in West Otago\n[Cooper and Paterson, 2008\n] and a published average carbonatitic composition from\nBizimis et al. [2003a]\n. To compare our data with the REE depletion-metasomatism models, the clinopyroxene REE are converted to equilibrium whole rock compositions using modal data.\nFollowing\nStracke et al. [2011]\nand\nLiu et al. [2012]\n, two end-member scenarios are considered (Figure\n8\n). The first infers ancient melt-rock interaction, where depletion occurs at some point in the past and is followed immediately by metasomatism with the resultant rock then evolving undisturbed to the present. The second scenario also involves source depletion in the past, but metasomatism occurs at the modern day immediately prior to xenolith entrainment. Innumerable intermediate scenarios are possible and the isotopic consequences of some of these are discussed in supporting information File 5. In the case of Zealandia, Re-depletion ages for xenoliths range from 2.3 to 0.36 Ga\n[McCoy-West et al., 2013]\n. Because the oldest Zealandia continental crust is 550-500 Ma, depletion is modeled at 2.0, 1.5, 1.0, and 0.5 Ga to encompass the potential for varying depletion events across the region.\nSequentially decreasing degrees of incompatibility of Nd, Hf, Sm, and Lu during mantle partial melting produce residues with a significantly greater increase in Lu/Hf than Sm/Nd. Ancient depletion followed by isolation and ingrowth will result in depleted lithologies with present day isotopic compositions significantly more radiogenic than modern depleted mantle. Low-degree silicate melts are enriched in REE and Hf compared to depleted mantle residues, and small amounts of metasomatism will result in relatively large changes in parent-daughter ratios and thus modern isotopic compositions that diverge significantly from (and are decoupled from) depleted mantle values. Addition of a small degree silicate melt with ''normal'' Sm/Nd and Lu/Hf to ancient depleted residues and subsequent ingrowth results in present day Hf and Nd isotopic compositions that are decoupled from typical modern mantle compositions, producing more radiogenic Hf at a given Nd isotope composition (Figures\n8a\nand\n8b\n; and\nLiu et al. [2012]\n,\nStracke et al. [2011]\n, and\nPearson and Wittig [2014]\n). Use of carbonatite as a metasomatic agent has an even more extreme effect on ancient mantle compositions due to its typically subchondritic Sm/Nd, higher Nd, and suprachondritic Lu/Hf\n[Bizimis et al., 2003a]\n. Even small degrees of ancient carbonatitic enrichment to a slightly depleted mantle source results in the trace element budget being dominated by the LREE of the carbonatitic component. The consequence is development of negative modern day eNd that is controlled by evolution of the metasomatic component, whereas the Hf isotopic evolution more closely follows that of the depleted residue and has radiogenic eHf (Figure\n8c\n). Modern carbonatitic enrichment of ancient depleted residues results in eNd that is dominated by the metasomatizing composition and Hf isotope compositions that are decoupled and highly radiogenic; the resulting trends (Figure\n8d\n) are very different from those generated by metasomatism by a low-degree silicate melt. Metasomatism of ancient depleted residues with either silicate or carbonatitic components can thus decouple Nd and Hf isotopes, with the magnitude of the decoupling dependent upon the composition of the metasomatizing agent and the relative timing of depletion and enrichment (Figures\n8e\nand\n8f\n).\nThe modeling process is an open-ended exercise and does not provide an exact solution for the origin and evolution of the observed REE patterns and isotope ratios. However, our goal is to use the results to demonstrate that the measured REE concentrations and isotope compositions are broadly consistent with processes of melt depletion and metasomatism and to allow estimation of the amounts of the metasomatic agent required. Combining the clinopyroxene REE systematics and Hf and Nd isotopic compositions permits identification of three groups (Groups 1-3) in the data set (Figure\n7\n).",
+        "Group 1": "Group 1\nGroup 1 peridotites (TRL-1, ALM-1, AMED-5) have highly radiogenic eHf decoupled from typical mantle values (Figure\n6e\n), and are characterized by spoon-shaped REE patterns and relatively low HREE (Figure\n7a\n). In general, REE modeling indicates that the REE characteristics of the Group 1 samples are consistent with a highly depleted (16-20%) spinel facies depleted mantle that has undergone addition of small amounts (<0.5%) of LREE-enrichment (Figure\n7a\n).\n8a\ndashed lines represent present day compositions of depleted mantle sources depleted by 1%, 2%, and then increments of 2% melting up to a maximum of 20% at 0.5, 1, and 2 Ga. Solid lines represent the effects of addition of a small amount (0.15%) of a metasomatic component to the variably depleted residual sources (1%, 2%, and then increments of 2% up to 20%) immediately after depletion, and then evolution to the present day. The silicate melt is a 0.2% melt of a deleted mantle source in the spinel field. Figure\n8b\nas for Figure\n8a\nbut metasomatism is modern. In both models, the isotopic composition of the metasomatizing melt is assumed to be the same as the depleted source at the appropriate time. Figures\n8c\nand\n8d\nas for Figures\n8a\nand\n8b\n, respectively, but the metasomatizing agent is an average Otago carbonatite (from\nCooper and Paterson [2008]\n). Figure\n8e\na model using the same parameters as Figure\n8a\nillustrates the effect of increasing percentages of silicate metasomatizing component (red lines) to sources variably depleted at 1 Ga (blue lines), immediately after the depletion event. Figure\n8f\nas for Figure\n8e\nbut source depletion occurred at 0.5 Ga, metasomatism is modern and the metasomatizing agent has trace element composition of a 0.2% melt in the spinel facies and the isotopic composition of an average low silica intraplate basalt. Analytical reproducibility for Hf and Nd isotopes is smaller than the symbol size. The mantle reference line in all diagrams is from Vervoort et al.\n[1999]\n. Full details of the model parameters are presented in supporting information File 5.\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005300\nTRL-1 has the most extreme and decoupled isotopic composition in the data set with eHf 5 1175 and eNd 5 0 (Figure\n6e\n). The REE of this sample can be modeled by high degrees of melt depletion (20%) followed by addition of small amounts of either silicate melt (0.2-0.3% of a low-degree melt from spinel or garnet facies) or very small amounts (0.01%) of average carbonatite (Figure\n7a\n). Such extreme decoupling of Hf from Nd has also been observed in some oceanic mantle samples [e.g.,\nSalters and Zindler, 1995;\nBizimis et al., 2003b;\nStracke et al., 2011]\nand some on-craton and off-craton peridotites (see compilation in Pearson and\nWittig [2014]\n). Our modeling shows that TRL-1 has Hf and Nd isotope compositions consistent with high degrees of ancient source depletion (2 Ga), followed immediately by small degrees of metasomatism by a low degree melt (Figure\n8a\n). This sample also comes from one of the localities where Os isotope data imply a depletion event occurred at 2 Ga\n[McCoy-West et al., 2013]\n. The isotopic composition of TRL-1 cannot be explained by ancient depletion followed by recent metasomatism (Figures\n8b, 8d, 8f,\nand\n8h\n) unless the metasomatizing component had a relatively unradiogenic isotopic composition (i.e., eHf and eNd of ca. 0), the consequences of which are to shift the modeled evolution curves toward lower eNd. No indication of such a source component has been encountered in any Zealandia rock.\nAddition of a carbonatitic component to an ancient depleted source (e.g., Figures\n7a, 8c,\nand\n8d\n) is broadly consistent with the isotopic compositions of ALM-1 and AMED-5 but requires generally younger depletion events and lower degrees of depletion (8% at 1 Ga and 12% at 0.5 Ga) than suggested by the REE modeling (Figure\n7a\n). However, the heterogeneous nature of carbonatites and their high incompatible trace element concentrations mean that these models are sensitive to the composition of the metasomatic end-member chosen. The Hf-Nd isotope composition of AMED-5, for example, can be modeled by either recent addition of a very small amount of a carbonatitic component or by addition of a silicate melt at 0.5 Ga to a highly depleted component.",
+        "Group 2": "Group 2\nGroup 2 peridotites (MUR-2, TRL-5, TRL-10, and AMED-7) have eHf and eNd values that fall on or close to the mantle reference line but are more radiogenic than MORB. These samples are also characterized by LREEdepleted compositions (Figure\n7b\n). REE modeling indicates that these compositions could be consistent with removal of small to moderate degrees of melt (3-10%) in the spinel facies (Figure\n7b\n) with no subsequent metasomatism. The Hf-Nd isotopic evolution curves of ancient depleted mantle sources in Figure\n8\n(dashed lines) show that depletion and subsequent isolation would result in present day compositions that are more radiogenic than typical mantle sources sampled by MORB and OIB. Samples AMED-7 and TRL-5 have Nd-Hf isotopic compositions that are effectively the same as DM today. If these rocks were formed 500 Ma by the degrees of depletion suggested by REE modeling, then they should now have much more radiogenic compositions (e.g., eNd 5 29 and eHf 5 80); therefore depletion most likely occurred more recently than this. Depleted mantle Nd model ages (AMED-7 5 0.2 Ga, TRL-5 5 0.03 Ga) are also consistent with relatively recent derivation from a DM source. On the other hand, TRL-10 and MUR-2 have Hf and Nd isotopic compositions that are more radiogenic than modern MORB and require longer-term depletion and isolation. Depleted mantle Nd model ages (TRL-10 5 0.2 Ga, MUR-2 5 0.65 Ga) suggest depletion in the Phanerozoic. Isolation of a mantle source depleted by 10% at 2 Ga would result in isotopic compositions much more extreme (eNd 5 120, eHf 5 480) than observed in these samples, which contrasts with Re-depletion ages on xenoliths from these same locations\n[McCoy-West et al., 2013]\n.",
+        "Group 3": "Group 3\nGroup 3 peridotites (BER-2, KAK-1, MUR-1, ROU-2, KAT-3, and WAN-3) have eHf and eNd values that fall on the mantle reference line and overlap with typical MORB compositions, but are typically more radiogenic than the intraplate basalts (Figure\n6e\n). These samples have relatively flat to spoon-shaped LREE-enriched patterns (Figures\n7c\nand\n7d\n). These samples could have undergone moderate degrees of depletion (6-8%) of a depleted mantle source, followed by variable and generally larger amounts of metasomatism than Group 1 (Figures\n8c\nand\n8d\n). High degrees of silicate melt enrichment would overprint the residual-depleted source compositions (Figures\n8e\nand\n8f\n), which means that it is not possible to distinguish between relatively recent depletion followed by metasomatism and eruption from ancient depletion with ancient or modern melt addition, although in general ancient depletion 1 ancient metasomatism requires larger degrees of metasomatism than younger depletion 1 modern metasomatism to bring compositions back onto the mantle reference line (Figures\n8e\nand\n8f\n). The models more closely replicate the isotopic composition of the peridotites when a Geochemistry, Geophysics, Geosystems 10.1002/2014GC005300 metasomatic component that is more enriched than depleted mantle is used (e.g., similar in composition to the intraplate basalts Figure\n6\n). Carbonatitic enrichment is only consistent with the Group 3 isotopic compositions if depletion and metasomatism occurred relatively recently, such that there was insufficient time to allow for radiogenic ingrowth (models not shown). If source depletion was ancient (0.5 Ga or older), then small degrees of carbonatite metasomatism could result in Hf and Nd isotopic compositions that are offset from the mantle reference line similar to those observed in Group 1 (Figure\n8d\n). BER-2, however, is only slightly enriched in LREE compared to a depleted residue and is best modeled by addition of a very small amount (0.02%) of a carbonatitic component to a moderately depleted residue (Figure\n7d\n). Therefore, depletion and replenishment of this sample must have been relatively recent and there has been insufficient time for ingrowth to change the isotopic compositions.",
+        "Discussion": "Discussion",
+        "Adjacent Fertile and Refractory Domains Beneath Zealandia": "Adjacent Fertile and Refractory Domains Beneath Zealandia\nBefore we can address the role of the Zealandia SCLM in intraplate basalt genesis, we must synthesize its composition, as this has not been done before. The peridotite major and trace element data reveal the unexpected result that moderately fertile SCLM domains beneath East Otago, North Otago, and the Auckland Islands reside adjacent to a highly refractory domain beneath West Otago. The West Otago harzburgite-dunite modal compositions (Figure\n2\n) are accompanied by Mg-rich olivine (Figure\n3a\n), high spinel Cr# (Figure\n3b\n), and low orthopyroxene Al 2 O 3 (Figure\n3c\n). The few West Otago xenolith clinopyroxenes that are available have distinctly low HREE and Ti, Zr, Nb, and Hf concentrations (Figures\n3d\nand\n5\n). The olivine Mg#, spinel Cr#, orthopyroxene Al 2 O 3 , and clinopyroxene HREE contents can be explained in terms of extensive melt extraction because Fe, Yb, and Al act incompatibly and Cr and Mg compatibly during spinel facies melting\n[Dick and Bullen, 1984;\nHellebrand et al., 2001;\nLee et al., 2001]\n. It is striking that the some West Otago olivine grains have Mg# that overlap spinel facies cratonic lithosphere (Figure\n9\n). An olivine Mg# of 92.8 is the point at which partial melting should leave only a dunitic residue\n[Bernstein et al., 2007]\n. Many of the clinopyroxene 6 orthopyroxene grains in the West Otago suite have therefore likely formed by metasomatic processes (discussed below). Geothermometric results noted above and summarized in supporting information Table\n1\nindicate that the peridotite temperatures of equilibration for the four Zealandia suites fall between 1260 and 710 C and cluster at 900 C. Because Zealandia broke away from Gondwana at 85 Ma [Laird and\nBradshaw, 2004]\nand at the main time of xenolith entrainment (Late Oligocene to Early Miocene) had minimal topography [e.g.,\nDouglas, 1986]\n, there should have been little lateral mantle temperature variation beneath this continental mass. Therefore, the similar ranges of equilibration temperature imply that the depths of peridotite extraction between the different domains overlap. This is an important conclusion because it means that the broad compositional differences between the highly refractory West Otago and more fertile East Otago, North Otago and the Auckland Islands xenolith suites is most likely due to lateral SCLM variation. The geographical spread of the West Otago xenoliths indicates that this highly refractory craton-like domain extends for a minimum of 100 km in a northeast-southwest direction and is likely bisected at the northern\n[Boyd, 1989]\n, with data falling off this trend caused by enrichment processes. A number of the West Otago samples plot within the cratonic field for spinel facies depletion\n[Bernstein et al., 2007]\n. Olivine Mg# can be found in supporting information Table\n1\n, as can the modal counts.\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005300 end by the Alpine Fault (Figure\n1\n). An east-west width is unknown but, assuming equivalent mantle temperatures between East Otago and West Otago, one constraint is that it did not extend as far as East Otago only 100 km to the east (Figure\n1\n). Unlike some other situations where adjacent compositionally contrasting SCLM domains have been identified (e.g., India\n[Griffin et al., 2009a]\nor Spitsbergen\n[Griffin et al., 2012]\n), there is no obvious translithospheric suture separating the East and West Otago domains. In fact, the continental crust of Otago is dominated by Carboniferous and younger quartzofeldspathic metasedimentary rocks\n[Turnbull, 2000;\nForsyth et al., 2006;\nRattenbury et al., 2010;\nCooper and Ireland, 2013]\n. Therefore, the West Otago lithosphere evidently has an early extensive depletion history that predates juxtaposition with the overlying continental crust.\nThe more fertile East Otago and North Otago SCLM domains also have early histories decoupled from the overlying continental crust. The ancient Hf depletion events identified in the North Otago and East Otago xenoliths (Figure\n8\n) are consistent with Re-depletion model ages on other peridotite xenoliths from this area.\nMcCoy-West et al. [2013]\ninterpreted ancient Re-depletion ages as indicating the Zealandia SCLM represents a long-lived stable fragment of Palaeoproterozoic mantle. However, there is increasing evidence that the oceanic lithosphere can contain ancient Hf and Os isotopic compositions that represent portions of ancient lithosphere that have been preserved within convecting asthenosphere for long periods of time [e.g.,\nParkinson et al., 1998;\nBrandon et al., 2000;\nHarvey et al., 2006;\nBizimis et al., 2007;\nLiu et al., 2008;\nSimon et al., 2008;\nDijkstra et al., 2010;\nStracke et al., 2011;\nRampone and Hofmann, 2012;\nLiu et al., 2014]\n. As the Otago crustal lithosphere comprises accreted Carboniferous to Cretaceous submarine fan deposits\n[Mortimer, 2004]\ndeposited on oceanic lithosphere\n[Cooper and Ireland, 2013]\n, the ancient Re and Hf depletion ages could possibly reflect ancient remnants of depleted mantle lithosphere that have been preserved and isolated within convecting asthenosphere, brought up at a spreading center, and subsequently accreted along with overlying crust to the Gondwana margin in the Mesozoic. In fact, ancient Os isotope ratios have already been identified in exhumed oceanic lithospheric mantle on Macquarie Island, located in the center of a young (< 85 Ma) ocean basin that formed between Australia and Zealandia\n[Dijkstra et al., 2010]\n.",
+        "Metasomatic Agent": "Metasomatic Agent\nVarying degrees of metasomatic enrichment are recorded in the examined Zealandia SCLM domains. Key indicators of metasomatism include the presence of wehrlites and olivine-rich lherzolites (Figure\n2\n), the occurrence of apatite and hydrous minerals, elevated clinopyroxene Yb in samples with high spinel Cr# (Figure\n3d\n), and the presence of LREE-enriched clinopyroxene. The cause of LREE enrichment has been long debated and several mechanisms are commonly suggested: hydrous fluids, silicate melts, and carbonatite melts. With the exception of the depletion-only Group 2 xenoliths, the trace element-isotope modeling suggests that the metasomatism was commonly of small volumes (< 3 %) and that at least some could have been due to reaction with carbonatite (Figures\n7a\nand\n7d\n). However, the large number of clinopyroxene samples analyzed for trace elements in the course of this study (n 5 79) provides an opportunity to examine broad geochemical trends in the Zealandia SCLM and provide a rigorous assessment into the cause(s) of metasomatism.\nA prominent feature of the clinopyroxene trace element data set is the widespread occurrence of negative Ti anomalies (Figures\n4\nand\n5\n). These are known to be signs of depletion\n[Bizimis et al., 2000]\n. However, when clinopyroxene Ti is plotted against Dy, averaged Dy commonly plots well above a depletion trend (Figure\n10a\n). The clinopyroxene grains also show distinct enrichments in Eu relative to Ti (Figure\n10b\n), with compositions plotting well above the depletion trend or the inferred field of peridotite modification by hydrous fluids. Metasomatism therefore added Eu and Dy but not Ti. A low Ti/Eu is thought to be indicative of carbonatite metasomatism\n[Rudnick et al., 1993;\nColtorti et al., 1999]\n.\nWittig et al. [2010]\nhave discussed how partitioning of Th and U into clinopyroxene may aid distinguishing types of metasomatism. A 232 Th/ 238 U of 2.5 to 3.5 was suggested to be representative for depleted mantle and bulk silicate earth\n[Wittig et al., 2010]\n. As clinopyroxene partitions Th and U almost equally, metasomatism by a basaltic silicate melt should impart a similar Th/U ratio into the metasomatic pyroxene. Metasomatism by hydrous fluids, however, should impart a low Th/U on clinopyroxene due to the low solubility of Th relative to U in fluid. On the other hand, the variable but often high Th/U of Geochemistry, Geophysics, Geosystems 10.1002/2014GC005300 carbonatites should cause some clinopyroxene Th/U to also be extremely high. Many of the Zealandia samples with low Ti/Eu also have distinctly elevated Th/U (Figure\n10c\n), which suggests that metasomatism was not caused by typical silicate melts or hydrous fluids. This parameter also argues against the\nRudnick et al., 1993;\nColtorti et al., 1999;\nScott et al., 2014]\n.\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005300 metasomatism having originated from reaction with the host (silicate) basalts. Samples with low clinopyroxene Ti/Eu also have elevated normalized La/Yb (Figure\n10d\n). The peridotites with low (La/Yb) N are those that have undergone melt depletion followed by little or no LREE enrichment, whereas those with (La/ Yb) N 1 have undergone little or no depletion and/or experienced LREEenrichment. It will be the formerly most depleted samples that preserve the best evidence for metasomatism because there is little, if any, preexisting clinopyroxene to dilute the metasomatic signature. Unsurprisingly, it is the samples from the refractory West Otago SCLM that have the clearest signs of enrichment (Figures\n5\nand\n10\n).\nA feature that calls into question a carbonatite origin to metasomatism is the apparent low Nb concentrations of the clinopyroxene grains (Figures\n4\nand\n5\n) [e.g.,\nBizimis et al., 2003]\n. In detail, however, the peridotites with the highest clinopyroxene Nb concentrations also have the highest LREE concentrations. Nb has evidently been added by metasomatism but the low overall concentrations may indicate that the Zealandia lithosphere had undergone prior extreme Nb depletion.\nShaw et al. [2007]\nmake a similar argument for the Arabian lithosphere.",
+        "Isotopic Composition of the Metasomatic Agents": "Isotopic Composition of the Metasomatic Agents\nRegardless of the exact nature of the metasomatic\n11a\nand\n11b\n). These data overlap with the field for HIMU. 206 Pb/ 204 Pb in the strongly metasomatized peridotites has a large spread and averages about 20 (Figure\n11c\n), also close to HIMU. eHf i is not well represented in the metasomatized samples and more data are required to make a conclusive statement; however, it is notable that the eHf i in KAT-3 plots close to HIMU field (Figure\n11d\n). ALM-1, another metasomatized sample, has extremely radiogenic eHf of 199 but eNd of 15.3 (Figure\n11b\n). The degree of decoupling of isotopes could be due to reaction with carbonatite because less than 1 percent metasomatic agent will swamp a depleted Nd isotope signal, whereas several percent are required to overprint the Hf isotope signature, depending on the timing of depletion (Figures\n8e\nand\n8f\n).\nThe observation that the strongly metasomatized samples have different Sm/Nd ratios yet very similar Nd isotope ratios (supporting information Table\n2\n) suggests that the metasomatism that affected much of southern Zealandia was likely relatively recent and radiogenic ingrowth is not yet detectable. The broad positive correlation between 147 Sm/ 144 Nd and 143 Nd/ 144 Nd i , which can be encompassed by 100 and 350 Ma isochrons (Figure\n12a\n), may place broad constraints on the timing of metasomatism. A number of the samples similarly form a broad correlation between 176 Lu/ 177 Hf and 176 Hf/ 177 Hf that falls within the 100 and 350 Ma isochrons (Figure\n12b\n). In the Carboniferous, the paleo-Pacific Gondwana subduction margin was affected by regional tectonism and magmatism\n[Tulloch et al., 2009a\n[Tulloch et al., , 2009b;;\nScott et al., 2011]\nfollowed by broad quiescence until the Jurassic-Early Cretaceous. However, as shown in Figures\n8e\nand\n8f\n, these trends could also be consistent with modern mixing between an ancient depleted component (radiogenic 143 Nd/ 144 Nd and 176 Hf/ 177 Hf and high Sm/Nd and Lu/Hf) and an enriched component. In any case, peridotites with extreme eHf fall off the 100-350 Ma trend and confirm that long periods of isolation are necessary to explain their Hf isotopic compositions.\nThe occurrence of a HIMU-like isotopic signature beneath the continental lithospheric peridotitic mantle has been documented from off-cratonic xenoliths in locations other than Zealandia. Peridotite xenoliths from northern Africa\n[Beccaluva et al., 2007\n[Beccaluva et al., , 2008;;\nWittig et al., 2010;\nMalarkey et al., 2011]\n, Jordan\n[Shaw et al., 2007]\n, Germany\n[Witt-Eickschen et al. 2003\n], and Antarctica\n[Martin et al., 2013]\nshow signs of reaction with metasomatic agents with HIMU-like isotopic signatures. In each location, at least several of the peridotites have clinopyroxene grains bearing low Ti/Eu and elevated LREE that suggest enrichment by carbonatites or CO 2 -rich fluids. HIMU-like isotopic signatures in the SCLM may be globally linked to CO 2rich melts. The goal established at the beginning of this study was to determine whether the Zealandia SCLM could have contributed to the widespread intraplate basalts with HIMU-like signatures. The peridotite data presented above show that the Zealandia SCLM does, in places, have a HIMU-like imprint. The data also reveal that the previously assumed Zealandia SCLM isotopic composition of 87 Sr/ 86 Sr > 0.7035, 143 Nd/ 144 Nd < 0.5128, and 206 Pb/ 204 Pb 5 18.7-18.9 is incorrect. The Zealandia intraplate basalts have been subdivided into low-silica (43-48 wt %) and high-silica (48-55 wt %) variants, with the low silica variants having stronger HIMU-like isotopic source signatures\n[Hoernle et al., 2006;\nSprung et al., 2007]\n. There are distinct isotopic similarities between the low-silica basalts and a number of the peridotite xenoliths (Figures\n6a-6d\n). However, Figure\n6e\nreveals that the peridotites are mostly more radiogenic in Nd Geochemistry, Geophysics, Geosystems 10.1002/2014GC005300 and Hf than the intraplate basalts. Furthermore, a problem with comparing spinel peridotites with the intraplate basalts is that the latter group displays various trace element parameters that suggest the presence of residual garnet peridotite\n[Panter et al., 2006;\nSprung et al., 2007;\nTimm et al., 2009;\nScott et al., 2013]\nwith or without eclogite or garnet pyroxenite\n[Hoernle et al., 2006;\nMcCoy-West et al., 2010;\nTimm et al., 2010;\nMcGee et al., 2013]\n. The hot temperatures calculated the spinel facies peridotites, reaching up to 1100-1260 C (Figure\n13a\n), mean that the geotherm beneath Zealandia must be hot (70 mWm 2 ) and would likely intercept the adiabat at < 80 km depth (Figures\n13b\nand\n13c\n). The Zealandia garnet facies peridotitic SCLM, if even present, must therefore be very thin. If the studied spinel peridotite samples are representative of the shallow SCLM, then the thin garnet facies lithosphere can only be the source of the low-silica basalts if (1) the melted components had a different time-integrated history of trace element depletion and enrichment that resulted in less radiogenic Nd and Hf; and/or (2) the chemistry of the basalts formed by a process other than pure melting of lithosphere in the presence of residual garnet. Possible scenarios involve mixing of SCLM with less radiogenic Hf-bearing melts emanating from the asthenosphere, or melting and mixing of a lithologically heterogeneous lithosphere containing garnet-bearing enriched domains of eclogite or pyroxenite. In the absence of garnet peridotite and other enriched xenoliths, these hypotheses remain to be tested.\nThe peridotite isotope data do offer insights into the formation of the high silica basalts, which have isotopic compositions that have been attributed to lithosphere contamination [e.g.,\nHoernle et al., 2006]\n. Although the high-silica basalts overlap with the peridotites in terms of Sr, Nd, and Pb (Figures\n6a-6d\n), there is very little overlap in Hf-Nd isotope space (Figure\n6e\n). The high-silica intraplate basalts show a trend toward less radiogenic 206 Pb/ 204 Pb and 143 Nd/ 144 Nd and more radiogenic 87 Sr/ 86 Sr and 207 Pb/ 204 Pb ratios than occur in the peridotite suite (Figure\n6a-6c\n). On this basis, contamination by shallow lithospheric mantle cannot explain the observed isotopic trends in the high-silica basalts. An alternative explanation is that these basalts represent contamination of low-silica basalt by continental crust [e.g.,\nTappenden, 2003;\nPanter et al., 2006;\nMcCoy-West et al., 2010]\n. Metasedimentary rocks dominate the upper crust of the central South Island and host many of the intraplate basalts. Equivalents to these metasediments in the North Island have isotopic compositions of 143 Nd/ 144 Nd 5 0.5124, 176 Hf/ 177 Hf 5 0.2826, 87 Sr/ 86 Sr 5 0.708-0.712, 206 Pb/ 204 Pb 5 18.8-18.9, 207 Pb/ 204 Pb 5 15.6\n[Price et al., 2012]\n(Waight, unpublished data, 2014)\nthat would, if mixed with low-silica basalt, shift the basalt isotopic compositions away from the HIMU field.",
+        "Conclusions": "Conclusions\nWe have presented the first description of the regional composition of the Oligocene-Miocene subcontinental lithospheric mantle beneath Zealandia. This thin SCLM had a highly refractory craton-like domain (West Otago) situated adjacent to the moderately fertile (East Otago, North Otago, and Auckland Islands) domains. In some cases, this SCLM experienced depletion at 2 Ga. There is no obvious translithospheric suture that separates domains, but this may be because inspected portions of the Zealandia SCLM have early histories decoupled from the overlying continental crust. The ancient SCLM beneath Zealandia may have remained stable for billions of years\n[McCoy-West et al., 2013]\nor it may represent ancient lithosphere that has passed through the asthenosphere, upwelled, and then accreted to Gondwana during Mesozoic subduction.\nMantle metasomatism has affected many portions of the Zealandia SCLM. Trace elements in clinopyroxene strongly suggest that the metasomatic agent was carbonatitic. The intensity of the metasomatism is variable, but clinopyroxene isotopes from the most affected peridotites indicate that the metasomatizing agent had an approximate HIMU-like isotopic character of 87 Sr/ 86 Sr 0.703, eNd 1 5, and 206 Pb/ 204 Pb 20. Although the Zealandia intraplate basalts also have a HIMU-like signature, trace elements suggest they have garnet peridotite in their source region and therefore cannot be derived from SCLM represented by the studied spinel facies xenoliths investigated here. Assuming that the studied spinel facies xenoliths are broadly representative of the thin Zealandia SCLM, clinopyroxene Hf isotope data indicate that the less radiogenic basalts could only be derived from garnet facies SCLM if this thin lower lithosphere either (1) has a less radiogenic Hf composition than the spinel facies, or (2) was mixed with melts originating from a less radiogenic Hf asthenospheric source.\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005300"
+    },
+    "references": [
+        {
+            "title": "Metasomatized ancient lithospheric mantle beneath the young Zealandia microcontinent and its role in HIMU-like intraplate magmatism",
+            "authors": [
+                "JMScott",
+                "TEWaight",
+                "QH AVan Der Meer",
+                "JMPalin",
+                "AFCooper",
+                "CM\u20ac Unker"
+            ],
+            "journal": null,
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The age, geology and geochemistry of the Tapuaenuku Igneous Complex",
+            "authors": [
+                "JABaker",
+                "JAGamble",
+                "IJGraham"
+            ],
+            "journal": "N. Z. J. Geol. Geophys",
+            "date": "1994",
+            "pages": {
+                "from": "249",
+                "to": "268"
+            }
+        },
+        {
+            "title": "Consistent olivine Mg# in cratonic mantle reflects Archean mantle melting to the exhaustion of orthopyroxene",
+            "authors": [
+                "SBernstein",
+                "PBKelemen",
+                "KHangh\u00efj"
+            ],
+            "journal": "Geology",
+            "date": "2007",
+            "pages": {
+                "from": "459",
+                "to": "462"
+            }
+        },
+        {
+            "title": "Pb isotope study of alkaline lamprophyres and related rocks from Westland and Otago",
+            "authors": [
+                "BABarreiro",
+                "AFCooper",
+                "Sr"
+            ],
+            "journal": "South Island, New Zealand, Spec. Pap. Geol. Soc. Am",
+            "date": null,
+            "pages": {
+                "from": "115",
+                "to": "125"
+            }
+        },
+        {
+            "title": "Intracratonic asthenosphere upwelling and lithosphere rejuvenation beneath the Hoggar swell (Algeria): Evidence from HIMU metasomatized lherzolite mantle xenoliths",
+            "authors": [
+                "LBeccaluva",
+                "AAzzouni-Sekkal",
+                "ABenhallou",
+                "GBianchini",
+                "RMEllam",
+                "MMarzola",
+                "FSienna",
+                "FMStuart"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2007",
+            "pages": {
+                "from": "482",
+                "to": "494"
+            }
+        },
+        {
+            "title": "The role of HIMU metasomatic components in the North African lithospheric mantle: Petrological evidence from the Gharyan lherzolite xenoliths",
+            "authors": [
+                "LBeccaluva",
+                "GBianchini",
+                "RMEllam",
+                "MMarzola",
+                "KMOun",
+                "FSiena",
+                "FMStuart"
+            ],
+            "journal": "Geol. Soc. Spec. Publ",
+            "date": "2008",
+            "pages": {
+                "from": "253",
+                "to": "277"
+            }
+        },
+        {
+            "title": "Trace and REE content of clinopyroxenes from supra-subduction zone peridotites: Implications for melting and enrichment processes in island arcs",
+            "authors": [
+                "MBizimis",
+                "VJSalters",
+                "EBonatti"
+            ],
+            "journal": "Chem. Geol",
+            "date": "2000",
+            "pages": {
+                "from": "67",
+                "to": "85"
+            }
+        },
+        {
+            "title": "The brevity of carbonatite sources in the mantle: Evidence from Hf isotopes",
+            "authors": [
+                "MBizimis",
+                "VJSalters",
+                "JBDawson"
+            ],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": "2003",
+            "pages": {
+                "from": "281",
+                "to": "300"
+            }
+        },
+        {
+            "title": "Hf-Nd isotope decoupling in the oceanic lithosphere: Constraints from spinel peridotites from",
+            "authors": [
+                "MBizimis",
+                "GSen",
+                "VJ MSalters"
+            ],
+            "journal": null,
+            "date": "2003",
+            "pages": {
+                "from": "43",
+                "to": "58"
+            }
+        },
+        {
+            "title": "Ancient recycled mantle lithosphere in the Hawaiian plume: Osmium-Hafnium isotopic evidence from peridotite mantle xenoliths",
+            "authors": [
+                "MBizimis",
+                "MGriselin",
+                "JCLassiter",
+                "VJSalters",
+                "GSen"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2007",
+            "pages": {
+                "from": "259",
+                "to": "273"
+            }
+        },
+        {
+            "title": "Compositional distinction between oceanic and cratonic lithosphere",
+            "authors": [
+                "FRBoyd"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1989",
+            "pages": {
+                "from": "15",
+                "to": "26"
+            }
+        },
+        {
+            "title": "Cretaceous geotectonic patterns in the New Zealand region",
+            "authors": [
+                "JDBradshaw"
+            ],
+            "journal": null,
+            "date": "1989",
+            "pages": {
+                "from": "803",
+                "to": "820"
+            }
+        },
+        {
+            "title": "190 Pt-186 Os and 187 Re-187 Os systematics of abyssal peridotites",
+            "authors": [
+                "ADBrandon",
+                "JESnow",
+                "RJWalker",
+                "JWMorgan",
+                "TDMock"
+            ],
+            "journal": null,
+            "date": "2000",
+            "pages": {
+                "from": "319",
+                "to": "335"
+            }
+        },
+        {
+            "title": "Nodule associations from ouachitite and camptonite lamprophyres, western Otago and south Westland",
+            "authors": [
+                "CGBrodie",
+                "CooperA F"
+            ],
+            "journal": null,
+            "date": "1989",
+            "pages": {
+                "from": "545",
+                "to": "559"
+            }
+        },
+        {
+            "title": "The geology of Siberia Hill and Mount Dasher",
+            "authors": [
+                "DABrown"
+            ],
+            "journal": null,
+            "date": "1954",
+            "pages": {
+                "from": "347",
+                "to": "372"
+            }
+        },
+        {
+            "title": "Physical, chemical, and chronological characteristics of continental mantle",
+            "authors": [
+                "RWCarlson",
+                "DGPearson",
+                "DEJames"
+            ],
+            "journal": "Rev. Geophys",
+            "date": "2005",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Mantle derived lherzolite nodules associated with kimberlite, carbonatite and basalt magmatism: A review",
+            "authors": [
+                "DACarswell"
+            ],
+            "journal": "Lithos",
+            "date": "1980",
+            "pages": {
+                "from": "121",
+                "to": "138"
+            }
+        },
+        {
+            "title": "Oceanic island Pb: 2-stage histories and mantle evolution",
+            "authors": [
+                "CGChase"
+            ],
+            "journal": null,
+            "date": "1981",
+            "pages": {
+                "from": "277",
+                "to": "284"
+            }
+        },
+        {
+            "title": "Carbonatite metasomatism of the oceanic upper mantle: Evidence from clinopyroxenes and glasses in ultramafic xenoliths of Grande Comore, Indian Ocean",
+            "authors": [
+                "MColtorti",
+                "CBonadiman",
+                "RWHinton",
+                "FSiena",
+                "BG JUpton"
+            ],
+            "journal": "J. Petrol",
+            "date": "1999",
+            "pages": {
+                "from": "133",
+                "to": "165"
+            }
+        },
+        {
+            "title": "Petrology and geochemistry of intraplate basalts in the South Auckland volcanic field",
+            "authors": [
+                "CCook",
+                "RMBriggs",
+                "IESmith",
+                "RMaas"
+            ],
+            "journal": "J. Petrol",
+            "date": "2005",
+            "pages": {
+                "from": "473",
+                "to": "503"
+            }
+        },
+        {
+            "title": "Cenozoic volcanism in North, East, and Central Otago",
+            "authors": [
+                "DSCoombs",
+                "RACas",
+                "YKawachi",
+                "CALandis",
+                "WFMcdonough",
+                "AReay"
+            ],
+            "journal": "Bull. R. Soc. N. Z",
+            "date": "1986",
+            "pages": {
+                "from": "278",
+                "to": "312"
+            }
+        },
+        {
+            "title": "Geochronology and geochemistry of the Dunedin Volcanic Group, eastern Otago",
+            "authors": [
+                "DSCoombs",
+                "CJAdams",
+                "BPRoser",
+                "AReay"
+            ],
+            "journal": "N. Z. J. Geol. Geophys",
+            "date": "2008",
+            "pages": {
+                "from": "195",
+                "to": "218"
+            }
+        },
+        {
+            "title": "A carbonatitic lamprophyre dike swarm from the Southern Alps, Otago and Westland",
+            "authors": [
+                "AFCooper"
+            ],
+            "journal": "Bull. R. Soc. N. Z",
+            "date": "1986",
+            "pages": {
+                "from": "313",
+                "to": "336"
+            }
+        },
+        {
+            "title": "Cretaceous sedimentation and metamorphism of the western Alpine Schist protoliths associated with the Pounamu Ultramafic Belt",
+            "authors": [
+                "AFCooper",
+                "TRIreland"
+            ],
+            "journal": "N. Z. J. Geol. Geophys",
+            "date": "2013",
+            "pages": {
+                "from": "188",
+                "to": "199"
+            }
+        },
+        {
+            "title": "Carbonatites from a lamprophyre dyke swarm, south Westland",
+            "authors": [
+                "AFCooper",
+                "LAPaterson"
+            ],
+            "journal": "Can. Mineral",
+            "date": "2008",
+            "pages": {
+                "from": "753",
+                "to": "777"
+            }
+        },
+        {
+            "title": "Lamprophyre dike intrusion and the age of the Alpine fault",
+            "authors": [
+                "AFCooper",
+                "BABarreiro",
+                "DLKimbrough",
+                "JMMattinson"
+            ],
+            "journal": "Geology",
+            "date": "1987",
+            "pages": {
+                "from": "941",
+                "to": "944"
+            }
+        },
+        {
+            "title": "Carbonate metasomatism in the lithospheric mantle: Peridotitic xenoliths from a melilititic district of the Sahara basin",
+            "authors": [
+                "JMDautria",
+                "CDupuy",
+                "DTakherist",
+                "JDostal"
+            ],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": "1992",
+            "pages": {
+                "from": "37",
+                "to": "52"
+            }
+        },
+        {
+            "title": "Chromian spinel as a petrogenetic indicator in abyssal and alpine-type peridotites and spatially associated lavas",
+            "authors": [
+                "HJDick",
+                "TBullen"
+            ],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": "1984",
+            "pages": {
+                "from": "54",
+                "to": "76"
+            }
+        },
+        {
+            "title": "Highly refractory peridotites on Macquarie Island and the case for anciently depleted domains in the Earth's mantle",
+            "authors": [
+                "AHDijkstra",
+                "DSSergeev",
+                "CSpandler",
+                "TPettke",
+                "TMeisel",
+                "PACawood"
+            ],
+            "journal": "J. Petrol",
+            "date": "2010",
+            "pages": {
+                "from": "469",
+                "to": "493"
+            }
+        },
+        {
+            "title": "Lignite resources of central Otago, Publ. PI04",
+            "authors": [
+                "BJDouglas"
+            ],
+            "journal": "N. Z. Energ. Res. and Dev. Comm",
+            "date": "1986",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Formation and modification of the shallow sub-continental lithospheric mantle: A review of geochemical evidence from ultramafic xenolith suites and tectonically emplaced ultramafic massifs of western and central Europe",
+            "authors": [
+                "HDownes"
+            ],
+            "journal": "J. Petrol",
+            "date": "2001",
+            "pages": {
+                "from": "233",
+                "to": "250"
+            }
+        },
+        {
+            "title": "Mantle tectonics beneath New Zealand inferred from SKS splitting and petrophysics",
+            "authors": [
+                "MDuclos",
+                "MKSavage",
+                "ATommasi",
+                "KRGledhill"
+            ],
+            "journal": null,
+            "date": "2005",
+            "pages": {
+                "from": "760",
+                "to": "774"
+            }
+        },
+        {
+            "title": "The composition of peridotites and their minerals: A laser-ablation ICP-MS study",
+            "authors": [
+                "SMEggins",
+                "RLRudnick",
+                "WFMcdonough"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1998",
+            "pages": {
+                "from": "53",
+                "to": "71"
+            }
+        },
+        {
+            "title": "A Cenozoic diffuse alkaline magmatic province (DAMP) in the southwest Pacific without rift or plume origin",
+            "authors": [
+                "CAFinn",
+                "RD",
+                "KSPanter"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2005",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Carboniferous conodonts from the Rakaia Terrane, East Otago, New Zealand",
+            "authors": [
+                "PJForsyth",
+                "GMMartin",
+                "HJCampbell",
+                "JESimes"
+            ],
+            "journal": null,
+            "date": "2006",
+            "pages": {
+                "from": "329",
+                "to": "336"
+            }
+        },
+        {
+            "title": "The stability of hydrous mantle phases",
+            "authors": [
+                "DJFrost"
+            ],
+            "journal": "Rev. Mineral. Geochem",
+            "date": "2006",
+            "pages": {
+                "from": "243",
+                "to": "271"
+            }
+        },
+        {
+            "title": "Heat flow, heat generation, and the thermal state of the lithosphere",
+            "authors": [
+                "KPFurlong",
+                "DSChapman"
+            ],
+            "journal": "Annu. Rev. Earth Planet. Sci",
+            "date": "2013",
+            "pages": {
+                "from": "385",
+                "to": "410"
+            }
+        },
+        {
+            "title": "The tectonic history of the Tasman Sea: A puzzle with 13 pieces",
+            "authors": [
+                "CGaina",
+                "DRM\u20ac Uller",
+                "JYRoyer",
+                "JStock",
+                "JHardebeck",
+                "PSymonds"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1998",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The geology, petrology and geochemistry of Cenozoic volcanic rocks from the Campbell Plateau and Chatham Rise",
+            "authors": [
+                "JAGamble",
+                "PAMorris",
+                "CJAdams"
+            ],
+            "journal": "Bull. R. Soc. N. Z",
+            "date": "1986",
+            "pages": {
+                "from": "344",
+                "to": "365"
+            }
+        },
+        {
+            "title": "Age constraints on metamorphism and the development of a metamorphic core complex in Fiordland",
+            "authors": [
+                "GMGibson",
+                "IMcdougall",
+                "TRIreland"
+            ],
+            "journal": "Geology",
+            "date": "1988",
+            "pages": {
+                "from": "405",
+                "to": "408"
+            }
+        },
+        {
+            "title": "Crustal structure and thermal anomalies of the Dunedin region",
+            "authors": [
+                "NJGodfrey",
+                "TADavey",
+                "DStern",
+                "Okaya"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "2001",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Water and its influence on the lithosphere-asthenosphere boundary",
+            "authors": [
+                "DHGreen",
+                "WOHibberson",
+                "I",
+                "ARosenthal"
+            ],
+            "journal": null,
+            "date": "2010",
+            "pages": {
+                "from": "448",
+                "to": "451"
+            }
+        },
+        {
+            "title": "A translithospheric suture in the vanished 1-Ga lithospheric root of South India: Evidence from contrasting lithosphere sections in the Dharwar Craton",
+            "authors": [
+                "WLGriffin",
+                "AFKobussen",
+                "EV S S KBabu",
+                "SYO'reilly",
+                "RNorris",
+                "PSengupta"
+            ],
+            "journal": "Lithos",
+            "date": "2009",
+            "pages": {
+                "from": "1109",
+                "to": "1119"
+            }
+        },
+        {
+            "title": "The composition and evolution of lithospheric mantle: A re-evaluation and its tectonic implications",
+            "authors": [
+                "WLGriffin",
+                "SYO'reilly",
+                "JCAfonso",
+                "GCBegg"
+            ],
+            "journal": "J. Petrol",
+            "date": "2009",
+            "pages": {
+                "from": "1185",
+                "to": "1204"
+            }
+        },
+        {
+            "title": "Coupling, decoupling and metasomatism: Evolution of crust-mantle relationships beneath NW Spitsbergen",
+            "authors": [
+                "WLGriffin",
+                "NNikolic",
+                "SYO'reilly",
+                "NJPearson"
+            ],
+            "journal": "Lithos",
+            "date": "2012",
+            "pages": {
+                "from": "115",
+                "to": "135"
+            }
+        },
+        {
+            "title": "A large scale isotope anomaly in the Southern Hemisphere mantle",
+            "authors": [
+                "SRHart"
+            ],
+            "journal": "Nature",
+            "date": "1984",
+            "pages": {
+                "from": "753",
+                "to": "757"
+            }
+        },
+        {
+            "title": "Hobbs Coast Cenozoic volcanism: Implications for the West Antarctic rift system",
+            "authors": [
+                "SRHart",
+                "JBlusztajn",
+                "WELemasurier",
+                "DCRex"
+            ],
+            "journal": "Chem. Geol",
+            "date": "1997",
+            "pages": {
+                "from": "223",
+                "to": "248"
+            }
+        },
+        {
+            "title": "Rock nomenclature with particular relation to deformation and recrystallization textures in olivine-bearing xenoliths",
+            "authors": [
+                "BHarte"
+            ],
+            "journal": "J. Geol",
+            "date": "1977",
+            "pages": {
+                "from": "279",
+                "to": "288"
+            }
+        },
+        {
+            "title": "Ancient melt extraction from the oceanic upper mantle revealed by Re-Os isotopes in abyssal peridotites from the Mid-Atlantic ridge",
+            "authors": [
+                "JHarvey",
+                "AGannoun",
+                "KWBurton",
+                "NWRogers",
+                "OAlard",
+                "IJParkinson"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2006",
+            "pages": {
+                "from": "606",
+                "to": "621"
+            }
+        },
+        {
+            "title": "Coupled major and trace elements as indicators of the extent of melting in mid-ocean-ridge peridotites",
+            "authors": [
+                "EHellebrand",
+                "JESnow",
+                "HJDick",
+                "AWHofmann"
+            ],
+            "journal": "Nature",
+            "date": "2001",
+            "pages": {
+                "from": "677",
+                "to": "681"
+            }
+        },
+        {
+            "title": "Cenozoic intraplate volcanism on New Zealand: Upwelling induced by lithospheric removal",
+            "authors": [
+                "KHoernle",
+                "JD LWhite",
+                "PVan Den Bogaard",
+                "FHauff",
+                "DSCoombs",
+                "RWerner",
+                "CTimm",
+                "DGarbe-Sch\u20ac Onberg",
+                "AReay",
+                "AFCooper"
+            ],
+            "journal": null,
+            "date": "2006",
+            "pages": {
+                "from": "350",
+                "to": "367"
+            }
+        },
+        {
+            "title": "Sampling mantle heterogeneity through oceanic basalts: Isotopes and trace elements",
+            "authors": [
+                "AWHofmann"
+            ],
+            "journal": "Treat. Geochem",
+            "date": "2003",
+            "pages": {
+                "from": "61",
+                "to": "101"
+            }
+        },
+        {
+            "title": "Mantle plumes from ancient oceanic crust",
+            "authors": [
+                "AWHofmann",
+                "WMWhite"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1982",
+            "pages": {
+                "from": "421",
+                "to": "436"
+            }
+        },
+        {
+            "title": "The subcontinental mantle beneath southern New Zealand, characterized by helium isotopes in intraplate basalts and gas-rich springs",
+            "authors": [
+                "LHoke",
+                "RPoreda",
+                "AReay",
+                "SDWeaver"
+            ],
+            "journal": "Geochim. Cosmochim. Acta",
+            "date": "2000",
+            "pages": {
+                "from": "2489",
+                "to": "2507"
+            }
+        },
+        {
+            "title": "Carbonated peridotite xenoliths from Spitsbergen: Implications for trace element signature of mantle carbonate metasomatism",
+            "authors": [
+                "DAIonov",
+                "CDupuy",
+                "SYO'reilly",
+                "MGKopylova",
+                "YSGenshaft"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1993",
+            "pages": {
+                "from": "283",
+                "to": "297"
+            }
+        },
+        {
+            "title": "A new parameterization of hydrous mantle melting",
+            "authors": [
+                "RFKatz",
+                "MSpiegelman",
+                "CHLangmuir"
+            ],
+            "journal": null,
+            "date": "2003",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Seamounts off the West Antarctic margin: A case for non-hotspot driven intraplate volcanism",
+            "authors": [
+                "AKipf",
+                "FHauff",
+                "RWerner",
+                "KGohl",
+                "PVan Den Bogaard",
+                "KHoernle",
+                "DMaicher",
+                "AKl\u20ac"
+            ],
+            "journal": null,
+            "date": "2013",
+            "pages": {
+                "from": "1660",
+                "to": "1679"
+            }
+        },
+        {
+            "title": "The influence of Cr on the garnet-spinel transition in the Earth's mantle: Experiments in the system MgO-Cr 2 O 3 -SiO 2 and thermodynamic modeling",
+            "authors": [
+                "SKlemme"
+            ],
+            "journal": "Lithos",
+            "date": "2004",
+            "pages": {
+                "from": "639",
+                "to": "646"
+            }
+        },
+        {
+            "title": "Metamorphic belts and orogenesis in southern New Zealand",
+            "authors": [
+                "CALandis",
+                "DSCoombs"
+            ],
+            "journal": null,
+            "date": "1967",
+            "pages": {
+                "from": "501",
+                "to": "518"
+            }
+        },
+        {
+            "title": "Tasmanian Tertiary basalts, the Balleny plume, and opening of the Tasman Sea (southwest Pacific Ocean)",
+            "authors": [
+                "RLanyon",
+                "RVarne",
+                "AJCrawford"
+            ],
+            "journal": "Geology",
+            "date": "1993",
+            "pages": {
+                "from": "555",
+                "to": "558"
+            }
+        },
+        {
+            "title": "Preservation of ancient and fertile lithospheric mantle beneath the southwestern United States",
+            "authors": [
+                "CTLee",
+                "QYin",
+                "RLRudnick",
+                "SBJacobsen"
+            ],
+            "journal": "Nature",
+            "date": "2001",
+            "pages": {
+                "from": "69",
+                "to": "73"
+            }
+        },
+        {
+            "title": "Building and destroying continental mantle",
+            "authors": [
+                "CT ALee",
+                "PLuffi",
+                "EJChin"
+            ],
+            "journal": "Annu. Rev. Earth Planet. Sci",
+            "date": "2011",
+            "pages": {
+                "from": "59",
+                "to": "90"
+            }
+        },
+        {
+            "title": "Ancient, highly heterogeneous mantle beneath Gakkel ridge",
+            "authors": [
+                "CZLiu",
+                "JESnow",
+                "EHellebrand",
+                "GBr\u20ac Ugmann",
+                "ADer Handt",
+                "AB\u20ac",
+                "AWHofmann"
+            ],
+            "journal": null,
+            "date": "2008",
+            "pages": {
+                "from": "311",
+                "to": "316"
+            }
+        },
+        {
+            "title": "Comparative Sr-Nd-Hf-Os-Pb isotope systematics of xenolithic peridotites from Yangyuan, North China Craton: Additional evidence for a Paleoproterozoic age",
+            "authors": [
+                "JLiu",
+                "RWCarlson",
+                "RLRudnick",
+                "RJWalker",
+                "SGao",
+                "F.-YWu"
+            ],
+            "journal": "Chem. Geol",
+            "date": "2012",
+            "pages": {
+                "from": "1",
+                "to": "14"
+            }
+        },
+        {
+            "title": "Big insights from tiny peridotites: Evidence for persistence of Precambrian lithosphere beneath the eastern North China Craton",
+            "authors": [
+                "JLiu",
+                "RLRudnick",
+                "RJWalker",
+                "WLXu",
+                "SGao",
+                "FYWu"
+            ],
+            "journal": null,
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Implications for the long-lived HIMU magmatic mega-province of the SW Pacific",
+            "authors": [
+                "AJMccoy-West",
+                "JABaker",
+                "KFaure",
+                "RWysoczanski"
+            ],
+            "journal": "J. Petrol",
+            "date": "2010",
+            "pages": {
+                "from": "2003",
+                "to": "2045"
+            }
+        },
+        {
+            "title": "Extreme persistence of cratonic lithosphere in the southwest Pacific: Paleoproterozoic Os isotopic signatures in Zealandia",
+            "authors": [
+                "AJMccoy-West",
+                "VCBennett",
+                "ISPuchtel",
+                "RJWalker"
+            ],
+            "journal": "Geology",
+            "date": "2013",
+            "pages": {
+                "from": "231",
+                "to": "234"
+            }
+        },
+        {
+            "title": "Asthenospheric control of melting processes in a monogenetic basaltic system: A case study of the Auckland Volcanic Field",
+            "authors": [
+                "LEMcgee",
+                "IESmith",
+                "MAMillet",
+                "HKHandley",
+                "JMLindsay"
+            ],
+            "journal": "J. Petrol",
+            "date": "2013",
+            "pages": {
+                "from": "2125",
+                "to": "2153"
+            }
+        },
+        {
+            "title": "Characterising modal metasomatic processes in young continental lithospheric mantle: A microsampling isotopic and trace element study on xenoliths from the Middle Atlas Mountains",
+            "authors": [
+                "JMalarkey",
+                "NWittig",
+                "DGPearson",
+                "JPDavidson"
+            ],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": "2011",
+            "pages": {
+                "from": "289",
+                "to": "302"
+            }
+        },
+        {
+            "title": "Petrogenesis of Cenozoic, alkalic volcanic lineages at Mount Morning, West Antarctica and their entrained lithospheric mantle xenoliths: Lithospheric versus asthenospheric mantle sources",
+            "authors": [
+                "APMartin",
+                "AFCooper",
+                "RCPrice"
+            ],
+            "journal": "Geochim. Cosmochim. Acta",
+            "date": "2013",
+            "pages": {
+                "from": "127",
+                "to": "152"
+            }
+        },
+        {
+            "title": "Constraints on the composition of the continental lithospheric mantle",
+            "authors": [
+                "WFMcdonough"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1990",
+            "pages": {
+                "from": "1",
+                "to": "18"
+            }
+        },
+        {
+            "title": "New Zealand's geological foundations",
+            "authors": [
+                "NMortimer"
+            ],
+            "journal": null,
+            "date": "2004",
+            "pages": {
+                "from": "261",
+                "to": "272"
+            }
+        },
+        {
+            "title": "Paleocene MORB and OIB from the Resolution Ridge, Tasman Sea",
+            "authors": [
+                "NMortimer",
+                "PBGans",
+                "FHauff",
+                "DH NBarker"
+            ],
+            "journal": "Aust. J. Earth Sci",
+            "date": "2012",
+            "pages": {
+                "from": "953",
+                "to": "964"
+            }
+        },
+        {
+            "title": "An integrated stratigraphical, paleontological, and geochemical approach",
+            "authors": [
+                "CM\u20ac Unker",
+                "RCooper"
+            ],
+            "journal": "N. Z. J. Geol. Geophys",
+            "date": "1999",
+            "pages": {
+                "from": "415",
+                "to": "445"
+            }
+        },
+        {
+            "title": "The petrology of high pressure xenoliths and associated Cenozoic basalts from Northeastern Tasmania",
+            "authors": [
+                "SJNasir",
+                "JLEverard",
+                "MPMcclenaghan",
+                "DBombardieri",
+                "MAWorthing"
+            ],
+            "journal": "Lithos",
+            "date": "2010",
+            "pages": {
+                "from": "35",
+                "to": "49"
+            }
+        },
+        {
+            "title": "Coupled Hf-Nd-Pb isotope co-variations of HIMU oceanic island basalts from Mangaia, Cook-Austral islands",
+            "authors": [
+                "ONebel",
+                "RJArculus",
+                "WVan Westrenen",
+                "JDWoodhead",
+                "FEJenner",
+                "YJNebel-Jacobsen",
+                "MWille",
+                "SMEggins"
+            ],
+            "journal": null,
+            "date": "2013",
+            "pages": {
+                "from": "87",
+                "to": "101"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The origin of abyssal peridotites: A new perspective",
+            "authors": [
+                "NNiu",
+                "CHLangmuir",
+                "RJKinzler"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1997",
+            "pages": {
+                "from": "251",
+                "to": "265"
+            }
+        },
+        {
+            "title": "Apatite in the mantle: Implications for metasomatic processes and high heat production in Phanerozoic mantle",
+            "authors": [
+                "SYO'reilly",
+                "WLGriffin"
+            ],
+            "journal": "Lithos",
+            "date": "2000",
+            "pages": {
+                "from": "217",
+                "to": "232"
+            }
+        },
+        {
+            "title": "Geochemistry Late Cenozoic basalts from the Crary Mountains: Characterization of mantle sources in Marie Byrd Land",
+            "authors": [
+                "KSPanter",
+                "SRHart",
+                "PKyle",
+                "JBlusztanjn",
+                "TWilch"
+            ],
+            "journal": null,
+            "date": "2000",
+            "pages": {
+                "from": "215",
+                "to": "241"
+            }
+        },
+        {
+            "title": "The origin of HIMU in the SW Pacific: Evidence from intraplate volcanism in southern New Zealand and the Subantarctic Islands",
+            "authors": [
+                "KSPanter",
+                "JBlusztajn",
+                "SRHart",
+                "PRKyle",
+                "REsser",
+                "WCMcintosh"
+            ],
+            "journal": "J. Petrol",
+            "date": "2006",
+            "pages": {
+                "from": "1673",
+                "to": "1704"
+            }
+        },
+        {
+            "title": "Ancient mantle in a modern arc: Osmium isotopes in Izu-Bonin-Mariana forearc peridotites",
+            "authors": [
+                "IJParkinson",
+                "CJHawkesworth",
+                "ASCohen"
+            ],
+            "journal": "Science",
+            "date": "1998",
+            "pages": {
+                "from": "2011",
+                "to": "2013"
+            }
+        },
+        {
+            "title": "The formation and evolution of cratonic mantle lithosphere: Evidence from mantle xenoliths",
+            "authors": [
+                "DGPearson",
+                "NWittig"
+            ],
+            "journal": null,
+            "date": "2014",
+            "pages": {
+                "from": "255",
+                "to": "292"
+            }
+        },
+        {
+            "title": "Mantle samples included in volcanic rocks: Xenoliths and diamonds",
+            "authors": [
+                "DGPearson",
+                "DCanil",
+                "SBShirey"
+            ],
+            "journal": "Treat. Geochem",
+            "date": "2003",
+            "pages": {
+                "from": "171",
+                "to": "275"
+            }
+        },
+        {
+            "title": "The significance of corona textured inclusions from a high pressure fractionated alkalic lava: North Otago",
+            "authors": [
+                "RCPrice",
+                "CWallace"
+            ],
+            "journal": null,
+            "date": "1976",
+            "pages": {
+                "from": "319",
+                "to": "329"
+            }
+        },
+        {
+            "title": "Phonolitic Diatremes within the Dunedin Volcano, South Island",
+            "authors": [
+                "RCPrice",
+                "AFCooper",
+                "JDWoodhead",
+                "IA NCartwright"
+            ],
+            "journal": null,
+            "date": "2003",
+            "pages": {
+                "from": "2053",
+                "to": "2080"
+            }
+        },
+        {
+            "title": "The anatomy of an andesitic volcano: A time-stratigraphic study of andesite petrogenesis and crustal evolution at Ruapehu Volcano",
+            "authors": [
+                "RCPrice",
+                "JAGamble",
+                "IE MSmith",
+                "RMaas",
+                "TEWaight",
+                "RBStewart",
+                "JWoodhead"
+            ],
+            "journal": "J. Petrol",
+            "date": "2012",
+            "pages": {
+                "from": "2139",
+                "to": "2189"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "MSRattenbury",
+                "RJongens",
+                "SCCox"
+            ],
+            "journal": "Geology of the Haast Area, Institute of Geological and Nuclear Sciences",
+            "date": "2010",
+            "pages": {
+                "from": "250000",
+                "to": "250014"
+            }
+        },
+        {
+            "title": "A global overview of isotopic heterogeneities in the oceanic mantle",
+            "authors": [
+                "ERampone",
+                "AHofmann"
+            ],
+            "journal": "Lithos",
+            "date": "2012",
+            "pages": {
+                "from": "247",
+                "to": "261"
+            }
+        },
+        {
+            "title": "The depth of the spinel to garnet transition at the peridotite solidus",
+            "authors": [
+                "AReay",
+                "PPSipiera",
+                "JohnWiley",
+                "UKChichester",
+                "JA CRobinson",
+                "BJWood"
+            ],
+            "journal": null,
+            "date": "1987",
+            "pages": {
+                "from": "277",
+                "to": "284"
+            }
+        },
+        {
+            "title": "Cenozoic magmatism in the western Ross Embayment: Role of mantle plume versus plate dynamics in the development of the West Antarctic Rift System",
+            "authors": [
+                "SRocchi",
+                "PArmienti",
+                "MD'orazio",
+                "STonarini",
+                "JRWijbrans",
+                "GDiVincenzo"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "2002",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Geochemical evolution of rift magmas by progressive tapping of a stratified mantle source beneath the Ross Sea Rift",
+            "authors": [
+                "ARocholl",
+                "MStein",
+                "MMolzahn",
+                "SRHart",
+                "GW\u20acOrner"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1995",
+            "pages": {
+                "from": "207",
+                "to": "224"
+            }
+        },
+        {
+            "title": "Carbonatite metasomatism in the northern Tanzanian mantle: Petrographic and geochemical characteristics",
+            "authors": [
+                "RLRudnick",
+                "WFMcdonough",
+                "BWChappell"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1993",
+            "pages": {
+                "from": "463",
+                "to": "475"
+            }
+        },
+        {
+            "title": "Composition of the depleted mantle, Geochem., Geophys. Geosyst., 5, Q05B07",
+            "authors": [
+                "VJSalters",
+                "AStracke"
+            ],
+            "journal": null,
+            "date": "2004",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Extreme 176 Hf/ 177 Hf in the sub-oceanic mantle",
+            "authors": [
+                "VJ MSalters",
+                "AZindler"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1995",
+            "pages": {
+                "from": "13",
+                "to": "30"
+            }
+        },
+        {
+            "title": "Mafic and ultramafic mantle and deep crustal xenoliths from Banks Peninsula, South Islands",
+            "authors": [
+                "RJSewell",
+                "BJHobden",
+                "SDWeaver"
+            ],
+            "journal": "N. Z. J. Geol. Geophys",
+            "date": "1993",
+            "pages": {
+                "from": "233",
+                "to": "231"
+            }
+        },
+        {
+            "title": "Early Cretaceous extensional exhumation of the lower crust of a magmatic arc: Evidence from the Mount Irene Shear Zone, Fiordland",
+            "authors": [
+                "JMScott",
+                "AFCooper"
+            ],
+            "journal": "TC",
+            "date": "2006",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The relationship of Palaeozoic metamorphism and S-type magmatism on the paleo-Pacific Gondwana margin",
+            "authors": [
+                "JScott",
+                "JMuhling",
+                "IFletcher",
+                "MBillia",
+                "JMPalin",
+                "TElliot",
+                "CUnter"
+            ],
+            "journal": null,
+            "date": "2011",
+            "pages": {
+                "from": "522",
+                "to": "534"
+            }
+        },
+        {
+            "title": "The sub-Antarctic Antipodes Volcano: A < 0.5 Ma HIMU-like Surtseyan volcanic outpost on the edge of the Campbell Plateau",
+            "authors": [
+                "JMScott",
+                "IMTurnbull",
+                "AAuer",
+                "JMPalin"
+            ],
+            "journal": "N. Z. J. Geol. Geophys",
+            "date": "2013",
+            "pages": {
+                "from": "134",
+                "to": "153"
+            }
+        },
+        {
+            "title": "Ancient melt depletion overprinted by young metasomatism",
+            "authors": [
+                "JMScott",
+                "AHodgkinson",
+                "JMPalin",
+                "TEWaight",
+                "QH AVan Der Meer",
+                "AFCooper"
+            ],
+            "journal": "Evolution of the New Zealand lithospheric mantle",
+            "date": "2014",
+            "pages": {
+                "from": "1",
+                "to": "17"
+            }
+        },
+        {
+            "title": "The geochemistry of the Arabian lithospheric mantle: A source for intraplate volcanism?",
+            "authors": [
+                "JEShaw",
+                "JABaker",
+                "AJ RKent",
+                "KMIbrahim",
+                "MAMenzies"
+            ],
+            "journal": "J. Petrol",
+            "date": "2007",
+            "pages": {
+                "from": "1495",
+                "to": "1512"
+            }
+        },
+        {
+            "title": "Ultra-refractory domains in the oceanic mantle lithosphere sampled as mantle xenoliths at ocean islands",
+            "authors": [
+                "NSSimon",
+                "ERNeumann",
+                "CBonadiman",
+                "MColtorti",
+                "GDelpech",
+                "MGr",
+                "EWidom"
+            ],
+            "journal": "J. Petrol",
+            "date": "2008",
+            "pages": {
+                "from": "1223",
+                "to": "1251"
+            }
+        },
+        {
+            "title": "The origin and interpretation of spinel-pyroxene clusters in peridotite",
+            "authors": [
+                "DSmith"
+            ],
+            "journal": "J. Geol",
+            "date": "1977",
+            "pages": {
+                "from": "476",
+                "to": "482"
+            }
+        },
+        {
+            "title": "Garnet breakdown, Symplectite formation and melting in Basanite-hosted peridotite xenoliths from Zinst",
+            "authors": [
+                "PSpac \u02c7ek",
+                "LAckerman",
+                "GHabler",
+                "RAbart",
+                "JUlrych"
+            ],
+            "journal": null,
+            "date": "2013",
+            "pages": {
+                "from": "1691",
+                "to": "1723"
+            }
+        },
+        {
+            "title": "Intraplate volcanism in New Zealand: The role of fossil plume material and variable lithospheric properties",
+            "authors": [
+                "PSprung",
+                "SSchuth",
+                "C",
+                "LHoke"
+            ],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": "2007",
+            "pages": {
+                "from": "669",
+                "to": "687"
+            }
+        },
+        {
+            "title": "Recycling oceanic crust: Quantitative constraints",
+            "authors": [
+                "AStracke",
+                "MBizimis",
+                "VJSalters"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2003",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "FOZO, HIMU, and the rest of the mantle zoo",
+            "authors": [
+                "AStracke",
+                "AWHofmann",
+                "SRHart"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2005",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Abyssal peridotite Hf isotopes identify extreme mantle depletion",
+            "authors": [
+                "AStracke",
+                "JESnow",
+                "EHellebrand",
+                "ADer Handt",
+                "BBourdon",
+                "KBirbaum",
+                "DUnther"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2011",
+            "pages": {
+                "from": "359",
+                "to": "368"
+            }
+        },
+        {
+            "title": "To each plutonic rock its proper name",
+            "authors": [
+                "AStreckeisen"
+            ],
+            "journal": "Earth-Science Reviews",
+            "date": "1976",
+            "pages": {
+                "from": "1",
+                "to": "33"
+            }
+        },
+        {
+            "title": "Chemical and isotopic systematics of oceanic basalts: Implications for mantle composition and processes",
+            "authors": [
+                "SSSun",
+                "WMcdonough"
+            ],
+            "journal": "Geol. Soc. Spec. Publ",
+            "date": "1989",
+            "pages": {
+                "from": "313",
+                "to": "345"
+            }
+        },
+        {
+            "title": "Magmatic response to the evolving New Zealand margin of Gondwana during the Mid-Late Cretaceous, PhD thesis",
+            "authors": [
+                "VETappenden"
+            ],
+            "journal": null,
+            "date": "2003",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "An experimental test of some geothermometer and geobarometer formulations for upper mantle peridotites with application to the thermobarometry of fertile lherzolite and garnet websterite",
+            "authors": [
+                "WRTaylor"
+            ],
+            "journal": "Neues Jahrb. Mineral. Abh",
+            "date": "1998",
+            "pages": {
+                "from": "381",
+                "to": "408"
+            }
+        },
+        {
+            "title": "Geochemical evolution of intraplate volcanism at Banks Peninsula, New Zealand: Interaction between asthenospheric and lithospheric melts",
+            "authors": [
+                "CTimm",
+                "KHoernle",
+                "PVan Den Bogaard",
+                "IBindemann",
+                "SDWeaver"
+            ],
+            "journal": "J. Petrol",
+            "date": "2009",
+            "pages": {
+                "from": "989",
+                "to": "1023"
+            }
+        },
+        {
+            "title": "Temporal and geochemical evolution of the Cenozoic intraplate volcanism of Zealandia",
+            "authors": [
+                "CTimm",
+                "KHoernle",
+                "RWerner",
+                "FHauff",
+                "PVan Den Bogaard",
+                "JWhite",
+                "NMortimer",
+                "DGarbe-Sch\u20ac Onberg"
+            ],
+            "journal": "Earth Sci. Rev",
+            "date": "2010",
+            "pages": {
+                "from": "38",
+                "to": "64"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Cretaceous extension associated with fragmentation of the Pacific margin of Gondwana",
+            "authors": [
+                "AJTulloch",
+                "DLKimbrough"
+            ],
+            "journal": "Tectonics",
+            "date": "1989",
+            "pages": {
+                "from": "1217",
+                "to": "1234"
+            }
+        },
+        {
+            "title": "Spinel harzburgite xenoliths in alkali basalt and camptonite from North Westland and southeast Nelson",
+            "authors": [
+                "AJTulloch",
+                "SNathan"
+            ],
+            "journal": "N. Z. J. Geol. Geophys",
+            "date": "1990",
+            "pages": {
+                "from": "529",
+                "to": "534"
+            }
+        },
+        {
+            "title": "a), U-Pb geochronology of mid-Paleozoic plutonism in western New Zealand: Implications for S-type granite generation and growth of the east Gondwana margin",
+            "authors": [
+                "AJTulloch",
+                "JRamezani",
+                "DLKimbrough",
+                "K",
+                "AHAllibone"
+            ],
+            "journal": null,
+            "date": "2009",
+            "pages": {
+                "from": "1236",
+                "to": "1261"
+            }
+        },
+        {
+            "title": "Cretaceous felsic volcanism in New Zealand and Lord Howe Rise (Zealandia) as a precursor to final Gondwana break-up",
+            "authors": [
+                "AJTulloch",
+                "JRamezani",
+                "NMortimer",
+                "JMortensen",
+                "PVan Den Bogaard",
+                "RMaas"
+            ],
+            "journal": "Geol. Soc. Spec. Publ",
+            "date": "2009",
+            "pages": {
+                "from": "89",
+                "to": "118"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "IMTurnbull"
+            ],
+            "journal": "Geology of the Wakatipu Area, Institute of Geological and Nuclear Sciences",
+            "date": "2000",
+            "pages": {
+                "from": "250000",
+                "to": "250018"
+            }
+        },
+        {
+            "title": "Magmatism during Gondwana breakup; new geochronological data from Westland",
+            "authors": [
+                "QH AVan Der Meer",
+                "JMScott",
+                "TEWaight",
+                "MSudo",
+                "ASchersten",
+                "AFCooper",
+                "TLSpell"
+            ],
+            "journal": null,
+            "date": "2013",
+            "pages": {
+                "from": "229",
+                "to": "242"
+            }
+        },
+        {
+            "title": "Relationships between Lu-Hf and Sm-Nd isotopic systems in the global sedimentary system",
+            "authors": [
+                "JDVervoort",
+                "PJPatchett",
+                "JBlichert-Toft",
+                "FAlbare",
+                "De"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1999",
+            "pages": {
+                "from": "79",
+                "to": "99"
+            }
+        },
+        {
+            "title": "Bimodal Late Cretaceous alkaline magmatism and the opening of the Tasman Sea: West Coast, South Island",
+            "authors": [
+                "TEWaight",
+                "SDWeaver",
+                "RMaas",
+                "GNEby"
+            ],
+            "journal": "J. Earth Sci",
+            "date": "1998",
+            "pages": {
+                "from": "823",
+                "to": "835"
+            }
+        },
+        {
+            "title": "Mid-Cretaceous granitic magmatism during the transition from subduction to extension in southern New Zealand: A chemical and tectonic synthesis",
+            "authors": [
+                "TEWaight",
+                "SDWeaver",
+                "RJMuir"
+            ],
+            "journal": "Lithos",
+            "date": "1998",
+            "pages": {
+                "from": "469",
+                "to": "482"
+            }
+        },
+        {
+            "title": "Mineralogy and petrology of xenoliths in a diatreme from South Westland",
+            "authors": [
+                "RCWallace"
+            ],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": "1975",
+            "pages": {
+                "from": "191",
+                "to": "199"
+            }
+        },
+        {
+            "title": "Intraplate Volcanism in Eastern Australia and New Zealand",
+            "authors": [
+                "SDWeaver",
+                "IE MSmith"
+            ],
+            "journal": null,
+            "date": "1989",
+            "pages": {
+                "from": "157",
+                "to": "188"
+            }
+        },
+        {
+            "title": "Lithospheric mantle evolution beneath the Eifel (Germany): Constraints from Sr-Nd-Pb isotopes and trace element abundances in spinel peridotite and pyroxenite xenoliths",
+            "authors": [
+                "GWitt-Eickschen",
+                "HASeck",
+                "KMezger",
+                "SMEggins",
+                "RAltherr"
+            ],
+            "journal": "J. Petrol",
+            "date": "2003",
+            "pages": {
+                "from": "1077",
+                "to": "1095"
+            }
+        },
+        {
+            "title": "Tracing the metasomatic and magmatic evolution of continental mantle roots with Sr, Nd, Hf and Pb isotopes: A case study of Middle Atlas (Morocco) peridotite xenoliths",
+            "authors": [
+                "NWittig",
+                "DGPearson",
+                "SDuggen",
+                "JABaker",
+                "KHoernle"
+            ],
+            "journal": "Geochim. Cosmochim. Acta",
+            "date": "2010",
+            "pages": {
+                "from": "1417",
+                "to": "1435"
+            }
+        },
+        {
+            "title": "Contributions to the volcanic succession and petrology of the Auckland Islands. II. Upper parts of the Ross Volcano",
+            "authors": [
+                "JBWright"
+            ],
+            "journal": "Trans. R. Soc. N. Z. Geol",
+            "date": "1967",
+            "pages": {
+                "from": "71",
+                "to": "87"
+            }
+        },
+        {
+            "title": "Carbonatite metasomatism in the southeastern Australian lithosphere",
+            "authors": [
+                "GMYaxley",
+                "DHGreen",
+                "VKamenetsky"
+            ],
+            "journal": "J. Petrol",
+            "date": "1998",
+            "pages": {
+                "from": "1917",
+                "to": "1930"
+            }
+        },
+        {
+            "title": "Petrogenesis and geodynamic implications of late Cenozoic basalts in North Queensland, Australia: Trace-element and Sr-Nd-Pb isotope evidence",
+            "authors": [
+                "MZhang",
+                "PJStephenson",
+                "SYO'reilly",
+                "MTMcculloch",
+                "MNorman"
+            ],
+            "journal": "J. Petrol",
+            "date": "2001",
+            "pages": {
+                "from": "685",
+                "to": "719"
+            }
+        },
+        {
+            "title": "Chemical geodynamics",
+            "authors": [
+                "AZindler",
+                "SHart"
+            ],
+            "journal": "Annu. Rev. Earth Planet. Sci",
+            "date": "1986",
+            "pages": {
+                "from": "493",
+                "to": "571"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        }
+    ]
+}

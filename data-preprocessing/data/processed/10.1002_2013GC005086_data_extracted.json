@@ -1,0 +1,2021 @@
+{
+    "metadata": {
+        "title": "Geochemistry of volcanic glasses from the Louisville Seamount Trail (IODP Expedition 330): Implications for eruption environments and mantle melting",
+        "abstract": "Volcanic glasses recovered from four guyots during drilling along the Louisville Seamount Trail, southwest Pacific, have been analyzed for major, trace, and volatile elements (H 2 O, CO 2 , S, and Cl), and oxygen isotopes. Compared to other oceanic island settings, they are geochemically homogeneous, providing no evidence of the tholeiitic stage that characterizes Hawai'i. The degrees and depth of partial melting remained constant over 1-3 Ma represented by the drill holes, and along-chain over several million years. The only exception is Hadar Guyot with compositions that suggest small degree preferential melting of an enriched source, possibly because it erupted on the oldest and thickest lithosphere. Incompatible element enriched glass from late-stage volcaniclastics implies lower degrees of melting as the volcanoes moved off the melting anomaly. Volcaniclastic glasses from throughout the igneous basement are degassed suggesting generation during shallow submarine eruptions (<20 mbsl) or as subaerial flows entered the sea. Drill depths may no longer reflect relative age due to postquench downslope movement. Higher volatile contents in late-stage volcaniclastics indicate submarine eruptions at 118-258 mbsl and subsidence of the edifices below sea level by the time they erupted, or generation in flank eruptions. Glass from intrusion margins suggests emplacement 100 m below the surface. The required uplift to achieve these paleo-quench depths and the subsequent subsidence to reach their current depths exceeds that expected for normal oceanic lithosphere, consistent with the Louisville melting anomaly being <100 C hotter than normal asthenosphere at 50-70 Ma when the guyots were erupted.",
+        "authors": [
+            {
+                "name": "AlexanderR LNichols",
+                "affiliation": [
+                    {
+                        "department": "Institute for Research on Earth Evolution",
+                        "institution": null,
+                        "address": {
+                            "settlement": null,
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "ChristophBeier",
+                "affiliation": [
+                    {
+                        "department": "Agency for Marine Earth Science and Technology",
+                        "institution": "GeoZentrum Nordbayern",
+                        "address": {
+                            "settlement": "Yokosuka",
+                            "region": "Kanagawa",
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "PhilippABrandl",
+                "affiliation": [
+                    {
+                        "department": "Agency for Marine Earth Science and Technology",
+                        "institution": "GeoZentrum Nordbayern",
+                        "address": {
+                            "settlement": "Yokosuka",
+                            "region": "Kanagawa",
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "DavidMBuchs",
+                "affiliation": [
+                    {
+                        "department": "GEOMAR Research Center",
+                        "institution": "Friedrich-Alexander-Universit\u20ac at Erlangen-N\u20ac urnberg",
+                        "address": {
+                            "settlement": "Erlangen Research Division",
+                            "region": null,
+                            "postcode": null
+                        }
+                    },
+                    {
+                        "department": "Dynamics of the Ocean Floor",
+                        "institution": null,
+                        "address": {
+                            "settlement": "Kiel",
+                            "region": null,
+                            "postcode": null
+                        }
+                    },
+                    {
+                        "department": "Now at School of Earth and Ocean Sci- ences",
+                        "institution": "Cardiff University",
+                        "address": {
+                            "settlement": "Cardiff",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "StefanHKrumm",
+                "affiliation": [
+                    {
+                        "department": "Agency for Marine Earth Science and Technology",
+                        "institution": "GeoZentrum Nordbayern",
+                        "address": {
+                            "settlement": "Yokosuka",
+                            "region": "Kanagawa",
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "NRBanerjee",
+                "affiliation": []
+            },
+            {
+                "name": "KMuehlenbachs",
+                "affiliation": []
+            },
+            {
+                "name": "CBeier",
+                "affiliation": []
+            },
+            {
+                "name": "SPTurner",
+                "affiliation": []
+            },
+            {
+                "name": "TPlank",
+                "affiliation": []
+            },
+            {
+                "name": "WWhite",
+                "affiliation": []
+            },
+            {
+                "name": "CBeier",
+                "affiliation": []
+            },
+            {
+                "name": "LVanderkluysen",
+                "affiliation": []
+            },
+            {
+                "name": "MRegelous",
+                "affiliation": []
+            },
+            {
+                "name": "JJMahoney",
+                "affiliation": []
+            },
+            {
+                "name": "DGarbe-Sch\u20ac Onberg",
+                "affiliation": []
+            },
+            {
+                "name": "JDBlundy",
+                "affiliation": []
+            },
+            {
+                "name": "JA CRobinson",
+                "affiliation": []
+            },
+            {
+                "name": "BJWood",
+                "affiliation": []
+            },
+            {
+                "name": "BBourdon",
+                "affiliation": []
+            },
+            {
+                "name": "SPTurner",
+                "affiliation": []
+            },
+            {
+                "name": "NMRibe",
+                "affiliation": []
+            },
+            {
+                "name": "PABrandl",
+                "affiliation": []
+            },
+            {
+                "name": "CBeier",
+                "affiliation": []
+            },
+            {
+                "name": "MRegelous",
+                "affiliation": []
+            },
+            {
+                "name": "WAbouchami",
+                "affiliation": []
+            },
+            {
+                "name": "KMHaase",
+                "affiliation": []
+            },
+            {
+                "name": "DGarbe-Sch\u20ac Onberg",
+                "affiliation": []
+            },
+            {
+                "name": "SJ GGaler",
+                "affiliation": []
+            },
+            {
+                "name": "JCCarracedo",
+                "affiliation": []
+            },
+            {
+                "name": "C.-YChen",
+                "affiliation": []
+            },
+            {
+                "name": "FAFrey",
+                "affiliation": []
+            },
+            {
+                "name": "QCheng",
+                "affiliation": []
+            },
+            {
+                "name": "K.-HPark",
+                "affiliation": []
+            },
+            {
+                "name": "JDMacdougall",
+                "affiliation": []
+            },
+            {
+                "name": "AZindler",
+                "affiliation": []
+            },
+            {
+                "name": "GWLugmair",
+                "affiliation": []
+            },
+            {
+                "name": "HStaudigel",
+                "affiliation": []
+            },
+            {
+                "name": "JHawkins",
+                "affiliation": []
+            },
+            {
+                "name": "PLonsdale",
+                "affiliation": []
+            },
+            {
+                "name": "SJCollins",
+                "affiliation": []
+            },
+            {
+                "name": "JMaclennan",
+                "affiliation": []
+            },
+            {
+                "name": "DMPyle",
+                "affiliation": []
+            },
+            {
+                "name": "SJBarnes",
+                "affiliation": []
+            },
+            {
+                "name": "BG JUpton",
+                "affiliation": []
+            },
+            {
+                "name": "STCrough",
+                "affiliation": []
+            },
+            {
+                "name": "MGDavis",
+                "affiliation": []
+            },
+            {
+                "name": "MOGarcia",
+                "affiliation": []
+            },
+            {
+                "name": "PWallace",
+                "affiliation": []
+            },
+            {
+                "name": "RSDetrick",
+                "affiliation": []
+            },
+            {
+                "name": "STCrough",
+                "affiliation": []
+            },
+            {
+                "name": "JEDixon",
+                "affiliation": []
+            },
+            {
+                "name": "DAClague",
+                "affiliation": []
+            },
+            {
+                "name": "JEDixon",
+                "affiliation": []
+            },
+            {
+                "name": "EMStolper",
+                "affiliation": []
+            },
+            {
+                "name": "JEDixon",
+                "affiliation": []
+            },
+            {
+                "name": "EMStolper",
+                "affiliation": []
+            },
+            {
+                "name": "JRHolloway",
+                "affiliation": []
+            },
+            {
+                "name": "JEDixon",
+                "affiliation": []
+            },
+            {
+                "name": "DAClague",
+                "affiliation": []
+            },
+            {
+                "name": "PWallace",
+                "affiliation": []
+            },
+            {
+                "name": "RPoreda",
+                "affiliation": []
+            },
+            {
+                "name": "JDixon",
+                "affiliation": []
+            },
+            {
+                "name": "DAClague",
+                "affiliation": []
+            },
+            {
+                "name": "BCousens",
+                "affiliation": []
+            },
+            {
+                "name": "MLMonsalve",
+                "affiliation": []
+            },
+            {
+                "name": "JUhl",
+                "affiliation": []
+            },
+            {
+                "name": "KEDonnelly",
+                "affiliation": []
+            },
+            {
+                "name": "SLGoldstein",
+                "affiliation": []
+            },
+            {
+                "name": "CHLangmuir",
+                "affiliation": []
+            },
+            {
+                "name": "MSpiegelman",
+                "affiliation": []
+            },
+            {
+                "name": "JDubois",
+                "affiliation": []
+            },
+            {
+                "name": "JLaunay",
+                "affiliation": []
+            },
+            {
+                "name": "JRecy",
+                "affiliation": []
+            },
+            {
+                "name": "JMEiler",
+                "affiliation": []
+            },
+            {
+                "name": "JGeldmacher",
+                "affiliation": []
+            },
+            {
+                "name": "KHoernle",
+                "affiliation": []
+            },
+            {
+                "name": "PVan Den Bogaard",
+                "affiliation": []
+            },
+            {
+                "name": "GZankl",
+                "affiliation": []
+            },
+            {
+                "name": "DGarbe-Schoenberg",
+                "affiliation": []
+            },
+            {
+                "name": "KMHaase",
+                "affiliation": []
+            },
+            {
+                "name": "SKrumm",
+                "affiliation": []
+            },
+            {
+                "name": "MRegelous",
+                "affiliation": []
+            },
+            {
+                "name": "MJoachimski",
+                "affiliation": []
+            },
+            {
+                "name": "ANHalliday",
+                "affiliation": []
+            },
+            {
+                "name": "D.-CLee",
+                "affiliation": []
+            },
+            {
+                "name": "STommasini",
+                "affiliation": []
+            },
+            {
+                "name": "GRDavies",
+                "affiliation": []
+            },
+            {
+                "name": "CRPaslick",
+                "affiliation": []
+            },
+            {
+                "name": "JGFitton",
+                "affiliation": []
+            },
+            {
+                "name": "DEJames",
+                "affiliation": []
+            },
+            {
+                "name": "JWHawkins",
+                "affiliation": []
+            },
+            {
+                "name": "PFLonsdale",
+                "affiliation": []
+            },
+            {
+                "name": "RBatiza",
+                "affiliation": []
+            },
+            {
+                "name": "CHerzberg",
+                "affiliation": []
+            },
+            {
+                "name": "PDAsimow",
+                "affiliation": []
+            },
+            {
+                "name": "KHoernle",
+                "affiliation": []
+            },
+            {
+                "name": "H.-USchminke",
+                "affiliation": []
+            },
+            {
+                "name": "AWHofmann",
+                "affiliation": []
+            },
+            {
+                "name": "KPJochum",
+                "affiliation": []
+            },
+            {
+                "name": "MSeufert",
+                "affiliation": []
+            },
+            {
+                "name": "WMWhite",
+                "affiliation": []
+            },
+            {
+                "name": "GIto",
+                "affiliation": []
+            },
+            {
+                "name": "PDClift",
+                "affiliation": []
+            },
+            {
+                "name": "GIto",
+                "affiliation": []
+            },
+            {
+                "name": "JJMahoney",
+                "affiliation": []
+            },
+            {
+                "name": "BIwaski",
+                "affiliation": []
+            },
+            {
+                "name": "TKatsura",
+                "affiliation": []
+            },
+            {
+                "name": "MGJackson",
+                "affiliation": []
+            },
+            {
+                "name": "MDKurz",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "RKWorkman",
+                "affiliation": []
+            },
+            {
+                "name": "MGJackson",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "AA PKoppers",
+                "affiliation": []
+            },
+            {
+                "name": "HStaudigel",
+                "affiliation": []
+            },
+            {
+                "name": "JKonter",
+                "affiliation": []
+            },
+            {
+                "name": "JBlusztajin",
+                "affiliation": []
+            },
+            {
+                "name": "MDKurz",
+                "affiliation": []
+            },
+            {
+                "name": "JARussell",
+                "affiliation": []
+            },
+            {
+                "name": "EMKlein",
+                "affiliation": []
+            },
+            {
+                "name": "CHLangmuir",
+                "affiliation": []
+            },
+            {
+                "name": "JGKonter",
+                "affiliation": []
+            },
+            {
+                "name": "HStaudigel",
+                "affiliation": []
+            },
+            {
+                "name": "JBlichert-Toft",
+                "affiliation": []
+            },
+            {
+                "name": "BBHanan",
+                "affiliation": []
+            },
+            {
+                "name": "MPolv E",
+                "affiliation": []
+            },
+            {
+                "name": "GRDavies",
+                "affiliation": []
+            },
+            {
+                "name": "NShimizu",
+                "affiliation": []
+            },
+            {
+                "name": "PSchiffman",
+                "affiliation": []
+            },
+            {
+                "name": "AA PKoppers",
+                "affiliation": []
+            },
+            {
+                "name": "RADuncan",
+                "affiliation": []
+            },
+            {
+                "name": "BSteinberger",
+                "affiliation": []
+            },
+            {
+                "name": "AA PKoppers",
+                "affiliation": []
+            },
+            {
+                "name": "TYamazaki",
+                "affiliation": []
+            },
+            {
+                "name": "J",
+                "affiliation": []
+            },
+            {
+                "name": "AA PKoppers",
+                "affiliation": []
+            },
+            {
+                "name": "RWLe Maitre",
+                "affiliation": []
+            },
+            {
+                "name": "PLonsdale",
+                "affiliation": []
+            },
+            {
+                "name": "TLyubetskaya",
+                "affiliation": []
+            },
+            {
+                "name": "JKorenaga",
+                "affiliation": []
+            },
+            {
+                "name": "GAMacdonald",
+                "affiliation": []
+            },
+            {
+                "name": "TKatsura",
+                "affiliation": []
+            },
+            {
+                "name": "PJMichael",
+                "affiliation": []
+            },
+            {
+                "name": "PJMichael",
+                "affiliation": []
+            },
+            {
+                "name": "PJMichael",
+                "affiliation": []
+            },
+            {
+                "name": "WCCornell",
+                "affiliation": []
+            },
+            {
+                "name": "JGMoore",
+                "affiliation": []
+            },
+            {
+                "name": "DAClague",
+                "affiliation": []
+            },
+            {
+                "name": "RTHolcomb",
+                "affiliation": []
+            },
+            {
+                "name": "PWLipman",
+                "affiliation": []
+            },
+            {
+                "name": "WRNormark",
+                "affiliation": []
+            },
+            {
+                "name": "METorresan",
+                "affiliation": []
+            },
+            {
+                "name": "RDM\u20ac Uller",
+                "affiliation": []
+            },
+            {
+                "name": "MSdrolias",
+                "affiliation": []
+            },
+            {
+                "name": "CGaina",
+                "affiliation": []
+            },
+            {
+                "name": "WRRoest",
+                "affiliation": []
+            },
+            {
+                "name": "JHNatland",
+                "affiliation": []
+            },
+            {
+                "name": "SNewman",
+                "affiliation": []
+            },
+            {
+                "name": "JBLowenstern",
+                "affiliation": []
+            },
+            {
+                "name": "HENewsom",
+                "affiliation": []
+            },
+            {
+                "name": "WMWhite",
+                "affiliation": []
+            },
+            {
+                "name": "KPJochum",
+                "affiliation": []
+            },
+            {
+                "name": "AWHofmann",
+                "affiliation": []
+            },
+            {
+                "name": "BParsons",
+                "affiliation": []
+            },
+            {
+                "name": "JGSclater",
+                "affiliation": []
+            },
+            {
+                "name": "JAPf\u20ac Ander",
+                "affiliation": []
+            },
+            {
+                "name": "CUnker",
+                "affiliation": []
+            },
+            {
+                "name": "AStracke",
+                "affiliation": []
+            },
+            {
+                "name": "KMezger",
+                "affiliation": []
+            },
+            {
+                "name": "JRivera",
+                "affiliation": []
+            },
+            {
+                "name": "GLastras",
+                "affiliation": []
+            },
+            {
+                "name": "MCanals",
+                "affiliation": []
+            },
+            {
+                "name": "JAcosta",
+                "affiliation": []
+            },
+            {
+                "name": "BArrese",
+                "affiliation": []
+            },
+            {
+                "name": "NHermida",
+                "affiliation": []
+            },
+            {
+                "name": "AMicallef",
+                "affiliation": []
+            },
+            {
+                "name": "OTello",
+                "affiliation": []
+            },
+            {
+                "name": "DAmblas",
+                "affiliation": []
+            },
+            {
+                "name": "JRoberge",
+                "affiliation": []
+            },
+            {
+                "name": "RVWhite",
+                "affiliation": []
+            },
+            {
+                "name": "PJWallace",
+                "affiliation": []
+            },
+            {
+                "name": "MFRoden",
+                "affiliation": []
+            },
+            {
+                "name": "TTrull",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "FAFrey",
+                "affiliation": []
+            },
+            {
+                "name": "CISchipper",
+                "affiliation": []
+            },
+            {
+                "name": "JD LWhite",
+                "affiliation": []
+            },
+            {
+                "name": "AR LNichols",
+                "affiliation": []
+            },
+            {
+                "name": "ABurgisser",
+                "affiliation": []
+            },
+            {
+                "name": "EHellebrand",
+                "affiliation": []
+            },
+            {
+                "name": "RMMurtagh",
+                "affiliation": []
+            },
+            {
+                "name": "KSimons",
+                "affiliation": []
+            },
+            {
+                "name": "JDixon",
+                "affiliation": []
+            },
+            {
+                "name": "J.-GSchilling",
+                "affiliation": []
+            },
+            {
+                "name": "RKingsley",
+                "affiliation": []
+            },
+            {
+                "name": "RPoreda",
+                "affiliation": []
+            },
+            {
+                "name": "NHSleep",
+                "affiliation": []
+            },
+            {
+                "name": "NHSleep",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            },
+            {
+                "name": "CAStein",
+                "affiliation": []
+            },
+            {
+                "name": "SStein",
+                "affiliation": []
+            },
+            {
+                "name": "NAStroncik",
+                "affiliation": []
+            },
+            {
+                "name": "KMHaase",
+                "affiliation": []
+            },
+            {
+                "name": "JATarduno",
+                "affiliation": []
+            },
+            {
+                "name": "VDWanless",
+                "affiliation": []
+            },
+            {
+                "name": "MRPerfit",
+                "affiliation": []
+            },
+            {
+                "name": "WIRidley",
+                "affiliation": []
+            },
+            {
+                "name": "PJWallace",
+                "affiliation": []
+            },
+            {
+                "name": "CBGrimes",
+                "affiliation": []
+            },
+            {
+                "name": "EMKlein",
+                "affiliation": []
+            },
+            {
+                "name": "ABWatts",
+                "affiliation": []
+            },
+            {
+                "name": "JKWeissel",
+                "affiliation": []
+            },
+            {
+                "name": "RADuncan",
+                "affiliation": []
+            },
+            {
+                "name": "RLLarson",
+                "affiliation": []
+            },
+            {
+                "name": "PWessel",
+                "affiliation": []
+            },
+            {
+                "name": "WH FSmith",
+                "affiliation": []
+            },
+            {
+                "name": "PWessel",
+                "affiliation": []
+            },
+            {
+                "name": "WH FSmith",
+                "affiliation": []
+            },
+            {
+                "name": "RS RWorkman",
+                "affiliation": []
+            },
+            {
+                "name": "MHart",
+                "affiliation": []
+            },
+            {
+                "name": "MJackson",
+                "affiliation": []
+            },
+            {
+                "name": "KARegelous",
+                "affiliation": []
+            },
+            {
+                "name": "JFarley",
+                "affiliation": []
+            },
+            {
+                "name": "MBlusztajn",
+                "affiliation": []
+            },
+            {
+                "name": "HKurz",
+                "affiliation": []
+            },
+            {
+                "name": "Staudigel",
+                "affiliation": []
+            },
+            {
+                "name": "H.-JYang",
+                "affiliation": []
+            },
+            {
+                "name": "FAFrey",
+                "affiliation": []
+            },
+            {
+                "name": "DAClague",
+                "affiliation": []
+            }
+        ],
+        "publication_date": "2014",
+        "funder": [
+            "Japan Drilling Earth Science ConsortiumDESC"
+        ]
+    },
+    "sections": {
+        "Introduction": "Introduction\nThe Louisville Seamount Trail is a 4300 km long chain of seamounts and guyots on the Pacific Plate (Figure\n1\n). It extends from the oldest, the 80 Ma Osbourn Guyot (25.9 S, 175.1 W), which is entering the Tonga-Kermadec Trench, at its northwestern end, to the youngest at the southeastern end (50.4 S, 139.1 W), the 139.1 W seamount, dated at 1.11 Ma\n[Cheng et al., 1987;\nHawkins et al., 1987;\nLonsdale, 1988;\nWatts et al., 1988;\nKoppers et al., 2004]\n. The overall along-chain age progression has led to the hypothesis that the volcanism that has built the seamounts and guyots is caused by the plate moving over a persistent mantle melting anomaly or hot spot\n[Cheng et al., 1987;\nHawkins et al., 1987;\nLonsdale, 1988;\nWatts et al., 1988]\n. From December 2010 to February 2011, five of the Louisville seamounts were drilled during Integrated Ocean Drilling Program (IODP) Expedition 330 (Figure\n1\n). Drilling focused on the northwestern end of the trail and, thus, the oldest seamounts. This was in order to have samples of similar age to those recovered from the Hawaiian-Emperor Seamount Chain during Ocean Drilling Program (ODP) Leg 197. Samples recovered during ODP Leg 197 show that the Hawaiian hot spot moved southward by 15 from 80 to 50 Ma\n[Tarduno et al., 2003]\n. The primary objective of IODP Expedition 330 was to use paleomagnetic and age data to test whether the Louisville melting anomaly moved with, or independently of, the Hawaiian hot spot\n[Koppers et al., 2012a\n[Koppers et al., , 2012b\n]. In addition, as the seamounts are larger at the northwestern end of the trail\n[Lonsdale, 1988]\n, the geochemical evolution within an individual volcano and along-chain variation could be better investigated.\nGeochemistry, Geophysics, Geosystems PUBLICATIONS\nBeier et al. [2011]\n, and L. Vanderkluysen et al. (Louisville Seamount Chain: Petrogenetic processes and geochemical evolution of the mantle source, submitted to Geochemistry Geophysics Geosystems, 2013). The glasses provide much tighter constraints on the evolution of the sources and melting dynamics beneath the Louisville seamounts than the whole rock data. We show that the geochemical variability of the major and trace elements along the western, older section of the chain is even less than that inferred on the basis of the dredged whole rocks. This is likely to be because the dredging recovered a greater diversity of samples from a wider range of stratigraphic levels than the drilling. The trace element enrichment observed in the whole rocks in the vicinity of the western and eastern Wishbone scarps is also evident in the glasses. Overall, the degree and depth of partial melting stays remarkably constant along the western, older part of the chain, but degrees of melting significantly decrease and the depth of melting increases in the few glasses sampled from late-stage volcaniclastic sediments covering two of the guyots. In addition, we present the first glass volatile data from Louisville Seamount Trail. However, as the glasses are extensively degassed they provide no information on the role or evolution of volatiles in the source region of the Louisville magmas, but they can be used to estimate paleo-quench depths of the glasses from which uplift and subsidence can be inferred. ). Map prepared using Generic Mapping Tools (GMT)\n[Wessel and Smith, 1991;\nWessel and Smith, 1998\n].\nGeochemistry, Geophysics, Geosystems 10.1002/2013GC005086",
+        "Samples": "Samples\nDuring IODP Expedition 330, eight holes were drilled on five of the Louisville guyots decreasing in age from west to east (Figure\n1\n). Hole U1372A on Canopus Guyot (formerly known as 26.5 S Guyot,\n[Lonsdale, 1988]\n, located at 26.5 S, 174.7 W), Holes U1373A and U1374A on Rigil\nGuyot (28.6 S,\n173.3 W)\n, Holes U1375A and U1375B on Achernar\nGuyot (33.7 S,\n171.7 W)\n, Hole U1376A on Burton Guyot (32.2 S, 171.9 W), and Holes U1377A and U1377B on Hadar\nGuyot (38.2 S,\n168.6 W)\n[Koppers et al., 2012a]\n. Glassy material was recovered from four of these holes: U1372A on Canopus, U1374A on Rigil, U1376A on Burton, and U1377B on Hadar. Most of the glass occurred as small clasts within the breccia or selvages on the larger clasts in volcaniclastic breccias within the igneous basements. In addition, at Rigil, three glass samples were recovered from the volcaniclastics in the sediment cover and one from the margin of an intrusive sheet encountered toward the bottom of the hole. At Burton, two glass samples were recovered from the volcanic sand in the sediment cover and three from the margins of intrusive sheets. At Hadar, glass was sampled from the thick glassy margins that separated units in the lower part of Hole U1377B. For more detailed descriptions of the stratigraphy in each drill hole see the supporting information text and\nKoppers et al. [2012a]\n.\nThe selected glass samples were loosely crushed, or in the case of the glassy margins of the intrusive sheets, carefully separated from more crystalline material using a diamond cutter, and the freshest glassiest chips were selected under a binocular microscope. Some glass samples from the volcaniclastic breccias in Hole U1376A contained hair-like tubules, extending from areas of glass that had completely altered to clay into the fresh sideromelane glass. These features were exactly like those described by\nBanerjee and Muehlenbachs [2003]\nin volcaniclastic glass recovered during drilling of the Ontong Java Plateau that they ascribed to microbial alteration. In this study, although glassy samples containing these features were analyzed, the tubules were avoided.\nThe samples were analyzed for major elements using electron microprobe (EPMA), trace elements using laser ablation-inductively coupled plasma-mass spectrometry (LA-ICP-MS), and for H 2 O and CO 2 by Fouriertransform infrared spectroscopy (FTIR). For further details on the analytical methods see the supporting information text. For most of the samples that were successfully analyzed by FTIR, the same glass chip was analyzed by EPMA and LA-ICP-MS to ensure that the analyses were performed in exactly the same area of the sample (see supporting information Table\nS1\n).",
+        "Results": "Results\nWe present the new glass data (see supporting information Tables\nS1\nand\nS3\n) grouped according to drill hole and lithology, and compare them with the published whole rock data from\nHawkins et al. [1987]\n,\nBeier et al. [2011] and L. Vanderkluysen et al. (Louisville Seamount Chain:\nPetrogenetic processes and geochemical evolution of the mantle source, submitted to Geochemistry Geophysics Geosystems, 2013). The glass data generally have major element totals >97%, Ce/Ce* ratios of 0.9-1.1 (where Ce/Ce* 5 Ce N /(La N ) 0.5 3 (Pr N ) 0.5 ) and do not display any evidence for low-temperature or high-temperature alteration that would affect the major or trace elements.",
+        "Major Elements": "Major Elements\nIn a total alkali versus SiO 2 diagram, the glasses overlap and cover a narrower range than the variably altered whole rock samples (Figure\n2\n). In agreement with previous observations by\nHawkins et al. [1987]\nand\nBeier et al. [2011]\n, none of the glasses exhibit a transitional or tholeiitic character unlike those from Hawaiian volcanoes; instead they are all alkali basalts sensu strictu. The glasses also display much less variability than the whole rocks in MgO variation diagrams (Figure\n3\n), with those from Canopus and Rigil defining liquid lines of descent that imply significant fractional crystallization of olivine, clinopyroxene, and plagioclase in agreement with the phenocrysts observed in the drill cores\n[Koppers et al., 2012a]\n. The largest variability in glass compositions is observed at Rigil, likely as a result of the greater drill depth and number of samples compared to the other guyots. Samples from Burton and Hadar display increasing Al 2 O 3 contents at 5-7 wt % MgO, while Canopus and Rigil overall display decreasing Al 2 O 3 contents. Samples from Hadar and the volcaniclastic sediment covering Rigil and Burton have a distinct enrichment in K 2 O at a given MgO that is also observed in the trace elements (see section 3.4.1).\nGeochemistry, Geophysics, Geosystems 10.1002/2013GC005086",
+        "Trace Elements": "Trace Elements\nThe primitive mantle normalized incompatible trace element pattern is convex upward, typical of ocean island basalts (OIB), with a pronounced enrichment of the incompatible elements relative to the rare earth elements (REE) (Figure\n4\n). The strongest enrichment of all incompatible elements is observed in samples from Rigil that also display the largest range in MgO, however, the overall relative enrichment of the incompatible trace elements and light REE (LREE) compared to the heavy REE (HREE) is similar.\nAll trace elements used in the ratios discussed here are incompatible in the phases observed to be crystallizing in the Louisville glasses, i.e., they do not correlate with any of the fractionation indices (e.g., see supporting information Figure\nS2\n). An exception is the elemental concentrations of the incompatible major elements K 2 O and Na 2 O that were fractionation corrected to an MgO content of 8 wt % using a linear correction following the method of\nKlein and Langmuir [1987]\n, giving (K 2 O) 8 and (Na 2 O) 8 . The trace element ratios of the drilled glass samples cover a narrow range of Nb/Zr, from 0.12 to 0.17, but the samples from the sediment cover on Rigil and Burton, and samples from Hadar Guyot in the vicinity of West Wishbone Scarp, display a marked enrichment in Nb/Zr, La/ Yb, Sm/Yb, and Tb/Yb (Figure\n5\n). We observe correlations of Nb/Zr with middle REE/HREE, LREE/HREE, (K 2 O) 8 , (Na 2 O) 8 , and K 2 O/TiO 2 . The (K 2 O) 8 and (Na 2 O) 8 in the samples from the volcaniclastic sediment cover on Rigil and Burton are significantly higher than in the other samples. The ratios of Ce/Pb and Nb/U are within the range that has previously been proposed for OIB by\nNewsom et al. [1986]\nand\nHofmann et al. [1986]\nimplying that neither Pb nor U has been influenced by alteration or contamination (Figure\n6\n).",
+        "Oxygen Isotopes": "Oxygen Isotopes\nThe d 18 O values of the selected and analyzed glasses (n 5 10) from all seamounts drilled range from values comparable to mid-ocean ridge basalts (5.4-5.8)\n[Eiler, 2001;\nWanless et al., 2011]\nto significantly increased d 18 O for some samples (Figure\n7\n). Samples from Burton display a negative correlation between SiO 2 and d 18 O, but we do not observe a correlation between d 18 O and drill depth (not shown) or incompatible element ratios and fractionation corrected major elements (Figure\n7\n). We do not believe that this lack of correlation reflects fractionation as\nHaase et al. [2011]\nshow with more fractionated samples than the Louisville glasses that the variability in oxygen isotopes is relatively small.",
+        "Downhole Variability 3.4.1. Major and Trace Elements": "Downhole Variability 3.4.1. Major and Trace Elements\nOverall, the variability in major and trace elements in the Louisville whole rocks, and, thus, the glasses that exhibit a narrower range of compositions, is small compared to other oceanic island settings, e.g., Hawai'i (as shown by\nBeier et al. [2011, Figure 2\n] in terms of total alkalis, and La/Yb and Zr/Nb in the whole rocks). Rigil Guyot displays a slight sense of decreasing SiO 2 contents with depth/age (Figure\n8a\n). However, at 450 mbsf the SiO 2 contents slightly increase. It should be noted that these changes are small and may reflect the temporal evolution in a magma chamber rather than a long-term evolution of the source or in the conditions of melting. With the exception of the samples from the volcaniclastic sediment covering Rigil and  Geochemistry, Geophysics, Geosystems 10.1002/2013GC005086 subaqueous pyroclasts from Loihi Seamount, Hawai'i\n[Schipper et al., 2012]\n. The tachylitesideromelane transition zone in these samples was noted for the occurrence of intravesicular extrusions (IVEs), submillimeter balloons of glass that penetrate larger vesicles; similar IVE structures were also observed in the vesicles within the tachylite of the Louisville glasses. Any analysis in which anomalous H 2 O mol was detected, resulting either from low-temperature, posteruption hydration or crystallization, was omitted from the calculation of the mean H 2 O contents that are used in the calculations and shown in the figures and supporting information Table\nS3\n.\nThe mean total H 2 O contents do not vary systematically downhole among the volcaniclastics in Canopus (0.08-0.10 wt %, 8 samples; Figure\n8g\n). In Rigil and Burton, there is a clear difference between the mean total H 2 O contents of the late-stage volcaniclastics (0.47 wt %, 1 sample, and 0.29-0.30 wt %, 2 samples, respectively) and the volcaniclastic breccias deeper in the holes (0.07-0.12 wt %, 14 samples, and 0.07-0.10 wt %, 16 samples, respectively) (Figure\n8g\n). In both holes, the highest mean total H 2 O contents are from the chilled margins of the intrusive sheets, 0.68 wt % (1 sample) in Rigil and 0.51-0.58 wt % (3 samples) in Burton (Figure\n8g\n). In Hadar Guyot, there is a systematic increase in the H 2 O content of the glassy rims of the pillow lavas over 8.66 m from 0.09 to 0.57 wt % (7 samples) (Figure\n8g\n).",
+        "CO 2": "CO 2\nIn all the samples that were analyzed, CO 2 was below detection. In FTIR spectroscopy, the detection limits for a volatile species depend on the thicknesses of the analyzed wafers. At the thicknesses of wafers prepared for this study, the detection limits for CO 2 are on average 22 ppm; in the thickest sample prepared (280 mm) the detection limit is as low as 14 ppm yet still no CO 2 was detected.",
+        "Sulfur": "Sulfur\nLike H 2 O, glass S contents do not vary systematically downhole in Canopus (92-530 ppm, 28 samples) (Figure\n8h\n). In Rigil the late-stage volcaniclastics (507-637 ppm, 3 samples) are at the upper end of the range exhibited by the volcaniclastic breccias in the igneous basement (49-740 ppm, 45 samples) (Figure\n8h\n). In Burton, the late-stage volcaniclastics contain more S (531-687 ppm, 2 samples) than the volcaniclastic breccias from the igneous basement (200-400 ppm, 27 samples) (Figure\n8h\n). The glasses from the chilled margins of the intrusive sheets at the bottom of Holes U1374A on Rigil (1456 ppm, 1 sample) and U1376A on Burton (942-1091 ppm, 3 samples) have the highest S contents in their respective hole. Unlike for H 2 O, there is no systematic increase in S with depth among the glassy pillow rims from Hadar Guyot (8 samples) (Figure\n8h\n). However, the highest stratigraphic sample contains 662 ppm S, while the others range from 890 to 1041 ppm.",
+        "Chlorine": "Chlorine\nThe Louisville glasses show a range of Cl contents independent of lithology and stratigraphic depth (Figure\n8i\n). The volcaniclastic breccias from Canopus, Rigil, and Burton contain 351-1551 ppm Cl, with the exception of one sample from Canopus that contains 2156 ppm. The glassy margins of the intrusive sheets in Burton Guyot contain 483-503 ppm, while the glassy pillow rims on Hadar Guyot contain 952-2171 ppm Cl.",
+        "Discussion": "Discussion\nThe geochemistry of the Louisville seamounts may in part reflect the long-term evolution of the persistent melting anomaly that the lithospheric plate has moved across to create the seamount trail. In addition, the Geochemistry, Geophysics, Geosystems 10.1002/2013GC005086 drilled samples provide information on shorter term changes that occur during emplacement of a single volcanic edifice. Together, these observations will better constrain the geochemical evolution of intraplate volcanoes.",
+        "Temporal Major and Trace Element Evolution of the Louisville Seamounts 4.1.1. Within Individual Seamounts": "Temporal Major and Trace Element Evolution of the Louisville Seamounts 4.1.1. Within Individual Seamounts\nThe temporal evolution of the Louisville seamounts and the overall lack of a tholeiitic stage in both drilled and dredged samples imply that the Louisville seamounts may not have evolved through a tholeiitic shield building stage as was observed in the Hawaiian volcanoes\n[Chen and Frey, 1983]\n. Instead, the Louisville seamounts are compositionally comparable to intraplate settings where relatively large volumes of alkalictransitional basalt are erupted, such as the Samoan, Marquesas, and Cook-Austral chains, [e.g., Natland, Geochemistry, Geophysics, Geosystems 10.\n1002\n/2013GC005086 1980;;\nWorkman et al., 2004;\nJackson et al., 2007a\nJackson et al., , 2007b]]\n, the Canary Islands [e.g.,\nHoernle and Schminke, 1993;\nGeldmacher et al., 2001]\n, and Jasper Seamount in the Fieberling-Guadalupe Seamount Trail, located off the coast of Baja California, Mexico [e.g.,\nKonter et al., 2009]\n. A lack of tholeiitic samples (Figure\n2\n), however, does not entirely exclude the presence of a shield building stage at the Louisville seamounts, as they may be covered by younger, alkaline lavas, and the drilling has only penetrated at most 12% of the total height of the guyots, and <1% in the case of Hadar. A tholeiitic sample that was sampled in DSDP Site 204\n[Hawkins et al., 1987]\nsuggests that the presence of a tholeiitic shield building stage may not entirely be ruled out, as also discussed in\nBeier et al. [2011]\n.\nThe glass in the volcaniclastic sediments covering Rigil and Burton guyots\n[Koppers et al., 2012a]\nimplies that although the Louisville seamounts may not have evolved through a shield building and postshield stage, they had a phase of rejuvenated, late-stage volcanism that is characterized by more evolved compositions (Figure\n8\n) and lower degrees of partial melting at greater depth. The distinct enrichment of these samples may also reflect a more enriched source composition that will be preserved as a result of the lower degrees of partial melting\n[Ito and Mahoney, 2005;\nBeier et al., 2011;\nBrandl et al., 2012]\nor melting of depleted mantle recently metasomatized and enriched by incipient melts from the plume or melting anomaly\n[Roden et al., 1994;\nYang et al., 2003;\nDixon et al., 2008]\n. This implies that the increased Nb/Zr are the result of an enriched source signature that are likely to be preserved from lower degrees of partial melting (Figure\n9\nand Pf\u20ac ander et al.\n[2007]\n) as was previously suggested by\nBeier et al. [2011]\n. Hence, we suggest that the late-stage volcanism reflects both lower degrees of partial melting and a more enriched source composition consistent with that observed for Hawai'i.",
+        "Along-Chain": "Along-Chain\nThe variability in major and trace element geochemistry along the Louisville Seamount Trail is small\n[Hawkins et al., 1987;\nBeier et al., 2011]\ncompared to other intraplate settings. That exhibited by the glasses is even smaller than that observed in the whole rocks\n[Beier et al., 2011]\n(L. Vanderkluysen et al., Louisville Seamount Chain: Petrogenetic processes and geochemical evolution of the mantle source, submitted to Geochemistry Geophysics Geosystems, 2013), although this is likely to reflect the sampling bias of drilling. However, the glasses from Hadar do have higher incompatible element ratios (La/Yb, Nb/Zr) than those from the other guyots (Figures\n5, 8,\nand\n9\n), and we agree with\nBeier et al. [2011]\nthat this either reflects lower degrees of partial melting and/or a more enriched source composition. Based on the glasses, there is only a small difference in the degrees of partial melting between Hadar and the other drilled guyots (Figure\n9\n); however, the dredged whole rock samples imply significantly smaller degrees of partial melting in the vicinity of the Wishbone scarps. The lithosphere in the vicinity of the Wishbone scarps has an age of 70-90 Ma at the time the seamounts were emplaced compared to 35 Ma close to Canopus Guyot\n[M\u20ac uller et al., 2008]\n, which corresponds to an increase in lithosphere thickness from 35 km to >90 km, respectively\n[Parsons and Sclater, 1977;\nStein and Stein, 1992]\n. According to\nBeier et al. [2011]\n, the significantly thickened lithospheric lid where the Wishbone scarps intersect the seamount trail may lead to preferential melting of an enriched source resulting in significantly enriched trace element signatures (see supporting information     Geochemistry, Geophysics, Geosystems 10.1002/2013GC005086 compared to the glass from the volcaniclastic breccias deeper in the igneous basement suggest that they are less degassed. Lower Cu contents in the most fractionated Louisville glasses suggest that the melts could have been saturated with an immiscible sulfide phase, but the low S in the volcaniclastic breccias and the correlation between H 2 O and S indicate that S has subsequently been affected by degassing\n[Dixon et al., 1997;\nDavis et al., 2003;\nCollins et al., 2012]\n. Contrary to H 2 O, CO 2 and S, Cl does not appear to be controlled by degassing, consistent with its higher solubility in basaltic melts compared to H 2 O and S\n[Iwaski and Katsura, 1967;\nDixon et al., 1997]\n. Instead, Cl is controlled by its incompatibility during melting or crystallization and additionally, in samples with Cl/K above those of MORB and OIB (Figure\n10\n), assimilation of hydrothermally altered material.\n[Michael, 1999;\nRoberge et al., 2004]\n, Loihi\n[Michael, 1995;\n[Michael, 1999;\nRoberge et al., 2004]\n, Loihi\n[Dixon and Clague, 2001]\n, North Arch Volcanic Field, Hawai'i\n[Dixon et al., 1997]\n, and Easter-Salas y Gomez Seamount Chain (ESC)\n[Simons et al., 2002]\n. Circles highlight samples with Cl/K > 0.15.\nGeochemistry, Geophysics, Geosystems Degassing has also removed any effects from the assimilation of hydrothermally altered material on the H 2 O contents of affected samples. In conjunction with volatile solubilities, variably degassed volatiles do allow the depths at which the glass erupted or intruded to be constrained, which can then be used to estimate the uplift and subsidence that has affected each seamount.",
+        "H 2 O Saturation Pressures and Constraints on the Mode of Glass Emplacement": "H 2 O Saturation Pressures and Constraints on the Mode of Glass Emplacement\nAssuming the melts were saturated with respect to H 2 O when they erupted, the solubility model in Volatile-Calc\n[Newman and Lowenstern, 2002]\nhas been used to estimate the pressures of eruption. VolatileCalc is widely applied to evaluate H 2 O-CO 2 solubility in basalts. The model takes into account SiO 2 content, which can be set accordingly at values below 49 wt %, while the results for 49 wt % SiO 2 are generally applicable to basalts with SiO 2 <52 wt %, and thus it can be used for the Louisville glass compositions. The low-H 2 O glasses from the volcaniclastic breccia in the igneous basement at Canopus, Rigil and Burton are estimated to have quenched at <0.2 MPa while the glasses from the late-stage volcaniclastics at Rigil and Burton quenched at 2.6 MPa and Burton at 1.2-1.3 MPa, respectively. The glassy margin of the intrusive sheet in Rigil quenched at 4.9 MPa and those in Burton quenched at 2.8-3.5 MPa. The pillow lavas from Hadar quenched at 1.6-3.3 MPa, with the exception of the shallowest sample, which quenched at 0.1 MPa, with the pressures increasing systematically downhole at Hadar (see supporting information Table\nS3\n). These estimates assume that CO 2 has completely degassed from the melts prior to quenching and are thus based entirely on H 2 O solubility. Pressure estimates using the detection limits for CO 2 are also shown in Table\nS2\n, but, as has already been discussed, low H 2 O/K 2 O and H 2 O/Ce in the Louisville glasses (Figure\n12\n) suggest that H 2 O is degassing from the melts prior to quenching. The degassing behavior of H 2 O-CO 2 -bearing basaltic melts [e.g.,\nDixon and Stolper, 1995;\nNewman and Lowenstern, 2002]\nindicates that during open system degassing, virtually all of the CO 2 is lost before there is extensive exsolution of H 2 O. Thus, it is likely that CO 2 has completely degassed from the Louisville glasses prior to quenching and in all subsequent discussions and estimations this is assumed to be the case. However, it should be noted that as a result of assuming that CO 2 has completely degassed from the glass the calculated pressure and paleo-depths are minimum estimates.\nThe low pressures estimated for the glass from the volcaniclastic breccias in the igneous basement at Canopus, Rigil, and Burton Guyots indicate that these glasses quenched in shallow water, no more than 20 mbsl, but mostly 11 mbsl (density for seawater 1030 kg m 23 ) (Figure\n14\n). The saturation pressures for the glasses recovered from the late-stage volcaniclastic sediments in Rigil and Burton suggest that they erupted in deeper water, 258 mbsl in the case of the sample from Rigil and 118-128 mbsl below the surface in the case of those from Burton (Figure\n14\n). The intrusive sheets in Rigil Geochemistry, Geophysics, Geosystems 10.1002/2013GC005086\nand Burton intruded into the volcaniclastic piles, and assuming the piles were not underwater at the time of the intrusion, the saturation pressures for the glassy margin from Rigil indicates emplacement and quenching 166 m below the surface (using a rock density of 3045 kg m 23 , the average density calculated for the glasses analyzed from Rigil) and those from Burton 94-118 m below the surface (using a rock density of 3008 kg m 23 ) (Figure\n14\n). It seems reasonable to assume that the volcaniclastic piles were at or above sea level at the time it was intruded, because it was likely that the intrusions were feeding lavas (not drilled) stratigraphically higher than the breccias, and the high quantities of glass in the breccias into which the sheets intrude suggest the breccias were quenched in water.\nThe glassy pillow lava rims from Hadar show a systematic variation in saturation pressures, with the stratigraphic highest sample indicating quenching in 10 m of water, and the other samples indicating an increase in water depth from 162 to 326 m, downhole (Figure\n14\n). Such a large depth difference is difficult to reconcile with the current thickness of the pillow lavas over which the glass was collected, which is less than 9 m; material loading would not be expected to have such a effect. Core recovery across these units was high (>80%), and there was no obvious evidence for an unconformity. Furthermore, particularly among all but the stratigraphically highest sample, the variation in H 2 O is smooth. One possibility that would reduce the vertical distance over which the glasses were quenched would be if, rather than being a sequence of pillow lavas, this was a series of intrusive sheets with thick glassy chilled margins. This would explain some of the unusual ''intrusive'' textures that were observed\n[Koppers et al., 2012a]\nand also the close association of the low-and high-H 2 O samples, with the low-H 2 O sample degassed material into which the sheets intruded. If this was the case, the saturation pressure of the low-H 2 O sample suggests quenching in shallow water. If the other samples are from the glassy margins of intrusive sheets, their saturation pressures are equivalent to depths of 56-113 m below the surface (Figure\n14\n), assuming that the material into which they intruded was not underwater, as discussed above, and a rock density of 2966 kg m 23 , the average density calculated for the glasses analyzed from Hadar Guyot.\nAll the glasses analyzed from the volcaniclastic breccias in the igneous basement indicate that they were quenched close to the surface even though they were collected over a significant range of depths (see supporting information Table\nS1\nand Figure\nS3\n). This is particularly the case in Rigil Guyot where glass analyzed from over 450 m of vertical stratigraphic depth all have volatile saturation pressures equivalent to quenching depths within 20 m of the sea surface. If the volcaniclastics remained in situ, their volatile contents would record the shoaling of the seamount as the edifice grew, and a systematic downhole increase in quenching depths would be expected. The copious amounts of glassy material, the presence of pillow fragments among the volcaniclastics, and peperites observed at the top of the volcaniclastic breccia sequences . Paleo-quench depths under water (for volcaniclastics and pillow lavas) and emplacement depths with overburden of rock (for intrusive sheets) estimated for each sample from H 2 O solubility curves calculated using VolatileCalc\n[Newman and Lowenstern, 2002]\n. Error bars show depths calculated using VolatileCalc for the mean sample H 2 O values 6 their standard deviation (see supporting information Table\nS3\n). If high-H 2 O samples from Hadar are the glassy margins of sheets that intruded into a rock pile, they would have been emplaced over a much narrower depth range than if they were erupted under water, whereas the low-H 2 O sample may have been erupted under water (for further discussion see text). Solubility curves under seawater (solid) show effect of composition (labels show SiO 2 contents used to calculate curves, 46.63 wt % is the average SiO 2 content for the analyzed Louisville glasses), calculated using a density of 1030 kg m 23 . Solubility curve with an overburden of rock (dashed) calculated using a density of 3006 kg m 23 , the average density of the glasses from Rigil, Burton and Hadar.\nGeochemistry, Geophysics, Geosystems 10.1002/2013GC005086 in Canopus and Rigil guyots\n[Koppers et al., 2012a]\ndo suggest water was in the vicinity of the quenching site and was likely to have been interacting with the lava as it cooled. One possible explanation for these thick sequences of degassed volcaniclastic breccias is that while the deposits were generated and quenched during very shallow submarine or even subaerial eruptions, at some later stage, postquenching, these deposits were involved in a flank collapse and became part of a thick debris-avalanche deposit. Large flank collapses are believed to play an important role in the evolution of seamounts and oceanic islands\n[Moore et al., 1989;\nCarracedo, 1999;\nRivera et al., 2013]\n. As a result, despite being generated at the same stratigraphic level on the seamount, the downslope movement has spread the material across a considerable vertical distance. Some of the textures seen in places within the volcaniclastics are consistent with reworking of cold material: angular broken clasts that are not ringed entirely by chilled margins\n[Koppers et al., 2012a]\n.\nHowever,\nKoppers et al. [2012b]\nshow that there is little variation in the paleomagnetic inclinations of the larger clasts from the volcaniclastic breccias in Canopus, Rigil, and Burton. For example, the thick sequence of volcaniclastic breccias from Hole U1374A on Rigil Seamount gives remarkably consistent paleomagnetic inclinations (268.7 6 8.4 ), particularly in the lower 250 m of the hole. If the clasts had been redeposited postquenching during collapse of the flanks randomly oriented inclinations would be expected, unless the paleomagnetic properties of the clasts had been reset postdeposition. Instead, the consistent paleomagnetic inclinations suggest that at least the larger clasts in the volcaniclastic breccias were emplaced hot, at temperatures above their Curie temperature. Such a scenario could be envisaged if these breccias were syn-eruptional talus deposits below shallow submarine eruptions or even deltas of flow-foot breccia that formed where active subaerial lava flows were entering the sea. Some of the observed textures in the volcaniclastic breccias\n[Koppers et al., 2012a]\n, such as lobate and intricate margins, suggest that the clasts cooled in situ, supporting this hypothesis. If the lava that quenched to form the volcaniclastics did erupt and flow subaerially before entering the sea, this would explain the undetectable levels of CO 2 remaining in the glass, as it would allow time for any remaining dissolved CO 2 to reach equilibrium at atmospheric pressure. The morphology of the seamounts, with an apparent shelf break between the flat tops and steep slopes that may record the level of effective wave action\n[Lonsdale, 1988]\n, suggest that they may have once formed islands that reached altitudes of 1000 m, but that have since been eroded and planed off by wave action. However, the thin layers of sediments and sparse signs of subaerial volcanism encountered during the drilling of each hole, suggest that these volcanoes only formed small islands that remained above sea level for a relatively short time\n[Koppers et al., 2012a]\n. Another possibility, which would give rise to consistent paleomagnetic inclinations amongst the clasts, is that the sequences are part of a large slump block that displaced the entire package of volcaniclastics, as a result the clasts did not move relative to each other during their downslope movement. Large slump blocks have been observed around the Hawaiian Islands\n[Moore et al., 1989]\n.\nIn summary, the low volatile contents of the glass in the volcaniclastic breccias reflect the low pressure at the eruption site, either in a shallow submarine or even a subaerial setting, and not their eventual resting place further downslope. Usually, oceanic drilling offers an advantage over conventional sampling by dredging in that the drill depths can constrain relative ages within a single hole. However, if the volcaniclastic breccias in the igneous basement are part of a flank collapse or talus deposits, the drill depths will not reflect relative eruption ages.\nThe deeper water depths inferred from the late-stage volcaniclastics at Rigil and Burton suggest that at the time these were erupted, Rigil had subsided over 200 m and Burton 125 m below sea level. Alternatively, the late-stage volcaniclastics may have formed during flank eruptions on top of the volcanic breccias after the breccias had been redeposited.",
+        "Contributions From Seamount Growth and Dynamic Uplift to the Heights Reached by the Louisville Seamounts": "Contributions From Seamount Growth and Dynamic Uplift to the Heights Reached by the Louisville Seamounts\nIt is expected that as a hot spot begins to impact upon lithosphere away from an oceanic spreading center, the excess temperature will cause dynamic uplift of the lithosphere as a result of thermal erosion of the lithosphere and the buoyancy of mantle plume material [e.g.,\nSleep, 1990\nSleep, , 1994]]\n. In order to determine if there was any dynamic uplift associated with the Louisville hot spot, we first need to estimate the amount of subsidence that would be expected of the underlying normal oceanic lithosphere before the emplacement of each seamount. In this study, we use the oceanic lithosphere subsidence model of Stein and Stein\nGeochemistry, Geophysics, Geosystems 10.1002\n/2013GC005086 [1992]\n, in which initially hot and thin lithosphere near a ridge axis cools and thickens approximately with the square root of age. The age of the lithosphere beneath each seamount has been determined using the lithosphere age model for the southwest Pacific of Mu \u00a8ller et al.\n[2008]\n. The subsidence model includes a starting depth of 2600 m, the average depth of mid-ocean ridges at the present day. We have no evidence to suggest that the lithosphere underlying the Louisville seamounts was generated at a different depth so we use this value in the modeling; however, if the underlying lithosphere was generated at a different depth this would affect the subsidence curve for normal oceanic lithosphere, although that effect is likely to be small. Assuming no impact from a hot spot, the normal oceanic lithosphere would be at water depths of\n3859,\n4302,\n4716,\nand 5326 m beneath Canopus,\nRigil,\nBurton,\nand Hadar,\nrespectively\n, at the time they erupted (Figure\n15\n). From our volatile analyses, we believe that at each guyot the glass quenched close to sea level, <20 mbsl for the volcaniclastic breccias and up to a few hundred meters below the surface, which was close to sea level, for the intrusive sheets. Thus, at Canopus this would have meant that the seamount had reached a height of approximately 3850 m above its base at the time the analyzed material was erupted (Figure\n15a\n). At the present day, glassy materials at Canopus are 3354-3410 m above the base of seamount (abyssal plain at 5500 mbsl based on bathymetry, which approximates that predicted by the\nStein and Stein [1992]\nmodel for the subsidence of normal oceanic lithosphere of that age). Thus, 439-496 m of dynamic uplift is required to account for this difference, with the range reflecting the collection depths. As discussed in section 4.3, if the glass has moved downslope either syn-eruptionally or posteruptionally, the most relevant value in these ranges will be the minimum value, as otherwise the amount of downslope movement will be included in the uplift value. Applying similar procedures to the data from the volcaniclastic breccia of Rigil, Burton, and Hadar guyots, the minimum amounts of dynamic uplift are 202, 619, and 699 m, respectively (Figures\n15b-15d\n). For the intrusive sheets in Rigil, Burton, and Hadar, uplift of 515, 620-645, and 605-653 m, respectively, are estimated. Thus, while most of the relief required for the guyots to have approached the sea surface was provided by material that built up as the volcanoes erupted, additional uplift is required consistent with an influence from a small thermal anomaly associated with a hot spot (Figure\n15\n)\n[Ito and Clift, 1998\n]. The lack of any evidence for a flexural bulge in the lithosphere associated with the Louisville Seamount Trail suggests that the amounts of dynamic uplift associated with the mantle plume were small.\nIn the case of the late-stage volcaniclastic sediments, whose volatile contents suggest deeper quench depths, less uplift is required; with those of Rigil requiring no uplift and Burton only 420 m. This is due to their later eruption, by which time any uplift was beginning to be counteracted by subsidence (see section 4.5), or this in combination with their eruption deeper on the flanks.",
+        "Subsidence": "Subsidence\nThe paleo-quenching depth can also be used to estimate the subsidence that each seamount has experienced since its formation (Figure\n16\n). (For further details regarding the calculation see the supporting information text.) As expected, these show that the older the seamount, the more it has subsided. The wide range of subsidence values estimated for Rigil (1614-2034 m) reflects that the quenching depths used for all samples are essentially the same, water depths <20 m, yet the samples are spread over 420 m of stratigraphic depth (supporting information Figure\nS3\n). The same effect occurs at the other guyots in which glass from the volcaniclastic breccias have been sampled, but it is not as extreme because the volcaniclastic breccias were not drilled as deeply (Figure\n16\n). The minimum amount of subsidence in these ranges is the approximate subsidence experienced by all samples if the difference between their current stratigraphic position and the top of the breccia represents the amount they had moved downslope. The maximum amount of subsidence represents the largest amount of subsidence, on the basis of the samples recovered, assuming no downslope movement. Thus, this range shows the two end-members for the mode of emplacement of the volcaniclastic breccias. If the glass did move downslope either syn-eruptionally or posteruptionally, then the minimum subsidence estimate is most relevant.\nLithosphere under the influence of a hot spot is expected to initially exhibit an enhanced rate of subsidence as it migrates away from the temperature anomaly associated with the hot spot\n[Crough, 1978;\nDetrick and Crough, 1978;\nIto and Clift, 1998\n] compared to normal oceanic lithosphere. As Figure\n15\nshows, the subsidence estimated for the drilled guyots do exceed what would be expected for normal oceanic lithosphere\n[Stein and Stein, 1992\n] even if we consider the minimum subsidence estimates inferred from measured H 2 O contents and CO 2 detection limits. In addition, the current water depths of the guyot tops, which may Geochemistry, Geophysics, Geosystems 10.1002/2013GC005086 record the level of effective wave action\n[Lonsdale, 1988\n] and thus sea level shortly after the guyots formed, also exceed what would be expected if the lithosphere had subsided normally (Figure\n15\n). In the case of Canopus (26.5 S guyot in\nLonsdale [1988]\n), some of the excess subsidence may be due to that fact that it is currently beginning to enter the Tonga-Kermadec Trench\n[Lonsdale, 1988]\n. However, there is no evidence for a flexural bulge of the lithosphere as it enters the trench in the vicinity of the seamounts studied here\n[Dubois et al., 1975]\n. The subsidence anomalies are not as high as would be expected if the hot spot had reheated and thinned the lithosphere such that in effect its age had been reset to zero-age (Figure\n15\n), similar to the lithospheric reheating models proposed by\nCrough [1978]\nand\nDetrick and Crough [1978]\n.\nIto and Clift [1998]\nS3\n). Small green symbols show the current water depths of the top of each guyot for comparison. Lower solid curves show the predicted subsidence of normal oceanic lithosphere\n[Stein and Stein, 1992]\n. At the time of emplacement, accumulation of erupted material (indicated by line labeled seamount edifice up to horizontal tick) and any dynamic uplift (arrow labeled uplift) will allow the seamount to reach the water depths indicated by the paleo-quench depths estimated for the glass samples. The estimated height of the seamount edifice from its base is indicated by the height difference between the tick and the\nStein and Stein [1992]\nsubsidence model, with the remainder of the relief required to reach the paleo-quench depths provided by uplift. Postemplacement, the seamount will then continue to subside. The upper solid curves (labeled lithosphere age) show the predicted subsidence if the subsidence simply continues to be controlled by the age of the underlying lithosphere. The middle solid curves (labeled age reset to 0 Ma) show the predicted subsidence if the Louisville mantle plume had reheated and thinned the lithosphere so that the guyot subsided as if the underlying lithosphere had been reset to zero-age. The dashed curve shows the predicted subsidence if the oceanic lithosphere had been influenced by a hot spot with a temperature anomaly of 150 C and a diameter of 100 km using the model of\n[Herzberg and Asimow, 2008]\n.\nIf dynamic flow or compositional buoyancy from the mantle plume also contribute then the temperature anomaly may be smaller. Thus, the Louisville melting anomaly may be taken as a primary example of an extremely long-lived hot spot with a small temperature anomaly. However, it still remains a matter of debate whether excess melting in the Louisville mantle plume is solely due to increased temperature or whether the composition of the mantle source, such as its volatile content, also played a role.\nFor the edifice to subside from sea level to the depths inferred for the eruption of the late-stage volcaniclastics from the glass volatile contents, 8 and 5 Ma would be required for normal oceanic lithosphere of the age underlying Rigil and Burton, respectively. For lithosphere subsiding more rapidly under the influence of a hot spot, time gaps of only 1.4 and 0.7 Ma would be required. If the late-stage volcanism was on the flanks and/or the volcaniclastic breccias have moved downslope, the difference in eruption depths would not help to constrain the time between the two different phases of volcanism. This may be the more likely scenario if the earlier volcaniclastic breccias were redeposited in flank collapses.",
+        "Conclusions": "Conclusions\nThe major and trace elements of the drilled Louisville glasses indicate a surprising homogeneity implying that degrees and depth of partial melting not only remained constant over 1-3 Ma within a single volcanic edifice, but also along-chain over several tens of millions of years with the notable exception of Hadar Guyot close to the Wishbone scarps. The Hadar glasses indicate slightly smaller degrees of melting and display a more strongly enriched source signature suggesting there may be preferential melting of an enriched source as a result of a significantly thickened lithospheric lid in the vicinity of the Wishbone scarps. A few late-stage glasses from Rigil and Burton imply significantly lower degrees of melting, which would be expected as the volcanoes moved away from the melting anomaly.\nThe volatile contents of all the glassy material recovered are variably degassed. As degassing overprints all the other processes affecting the volatile contents, they do not provide any reliable information on the role of volatiles in the generation and evolution of the Louisville magmas. However, the volatiles can be used to constrain the pressures at which the melts quenched, which can be used to infer paleo-eruption or emplacement depths. Glass from the volcaniclastic breccias in the igneous basement at all four guyots is almost completely degassed. This, together with the lithology, suggests these deposits formed in shallow submarine eruptions (<20 mbsl) or where subaerial flows entered the sea. They now span a large depth . Estimated subsidence of each guyot since its respective formation using paleo-quench depths derived from the measured H 2 O contents (for more details see supporting information text). Error bars show the minimum subsidence values estimated using the maximum paleo-quench depths derived from the measured H 2 O content and detection limits for CO 2 (see supporting information Table\nS2\n). Small green symbols show the current water depths of the top of each guyot for comparison.\nGeochemistry, Geophysics, Geosystems 10.1002/2013GC005086 range on the guyots due to postquenching downslope movement, either syn-or posteruptionally. As a result, drill depths may no longer reflect the relative ages of material recovered from the drill hole. Higher volatile contents in the glass from the late-stage volcaniclastics in the sediment cover on Rigil and Burton indicate they formed in submarine eruptions at 258 mbsl and 118-128 mbsl, respectively. As a result, by the time the glass in the late-stage volcaniclastics erupted, the edifices must have subsided back below sea level or alternatively they may have formed in flank eruptions. The glassy margins of intrusive sheets in Burton and Hadar guyots suggest emplacement 100 m and 56-113 m below the surface, assumed to be sea level, respectively. On the basis of these depths, the expected depth of the underlying oceanic lithosphere at the time of eruption and the subsidence of normal oceanic lithosphere, the guyots require some uplift and greater amounts of subsidence than is predicted for normal oceanic lithosphere. If these excesses reflect a hotter asthenosphere as a result of a mantle plume, the thermal anomaly required was <100 C at 50-70 Ma when the guyots were erupted. It could have been less if dynamic flow or compositional buoyancy also played a role, in which case the melting may have been initiated by a combination of factors rather than solely by increased temperature."
+    },
+    "references": [
+        {
+            "title": "Geochemistry of volcanic glasses from the Louisville Seamount Trail (IODP Expedition 330): Implications for eruption environments and mantle melting",
+            "authors": [
+                "AlexanderR LNichols",
+                "ChristophBeier",
+                "PhilippABrandl",
+                "DavidMBuchs",
+                "StefanHKrumm"
+            ],
+            "journal": null,
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Tuff life: Bioalteration in volcaniclastic rocks from the Ontong Java Plateau",
+            "authors": [
+                "NRBanerjee",
+                "KMuehlenbachs"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2003",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "A preliminary assessment of the symmetry of source composition and melting dynamics across the Azores plume",
+            "authors": [
+                "CBeier",
+                "SPTurner",
+                "TPlank",
+                "WWhite"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2010",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Lithospheric control on geochemical composition along the Louisville Seamount Chain",
+            "authors": [
+                "CBeier",
+                "LVanderkluysen",
+                "MRegelous",
+                "JJMahoney",
+                "DGarbe-Sch\u20ac Onberg"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2011",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Heavy REE are compatible in clinopyroxene on the spinel lherzolite solidus",
+            "authors": [
+                "JDBlundy",
+                "JA CRobinson",
+                "BJWood"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1998",
+            "pages": {
+                "from": "493",
+                "to": "504"
+            }
+        },
+        {
+            "title": "Partial melting and upwelling rates beneath the Azores from a U-series isotope perspective",
+            "authors": [
+                "BBourdon",
+                "SPTurner",
+                "NMRibe"
+            ],
+            "journal": null,
+            "date": "2005",
+            "pages": {
+                "from": "42",
+                "to": "56"
+            }
+        },
+        {
+            "title": "Volcanism on the flanks of the East Pacific Rise: Quantitative constraints on mantle heterogeneity and melting processes",
+            "authors": [
+                "PABrandl",
+                "CBeier",
+                "MRegelous",
+                "WAbouchami",
+                "KMHaase",
+                "DGarbe-Sch\u20ac Onberg",
+                "SJ GGaler"
+            ],
+            "journal": "Chem. Geol",
+            "date": "2012",
+            "pages": {
+                "from": "41",
+                "to": "56"
+            }
+        },
+        {
+            "title": "Growth, structure, instability and collapse of Canarian volcanoes and comparisons with Hawaiian volcanoes",
+            "authors": [
+                "JCCarracedo"
+            ],
+            "journal": "J. Volcanol. Geotherm. Res",
+            "date": "1999",
+            "pages": {
+                "from": "1",
+                "to": "19"
+            }
+        },
+        {
+            "title": "Origin of Hawaiian tholeiite and alkalic basalt",
+            "authors": [
+                "C.-YChen",
+                "FAFrey"
+            ],
+            "journal": "Nature",
+            "date": "1983",
+            "pages": {
+                "from": "785",
+                "to": "789"
+            }
+        },
+        {
+            "title": "Isotopic evidence for a hotspot origin of the Louisville Seamount Chain",
+            "authors": [
+                "QCheng",
+                "K.-HPark",
+                "JDMacdougall",
+                "AZindler",
+                "GWLugmair",
+                "HStaudigel",
+                "JHawkins",
+                "PLonsdale"
+            ],
+            "journal": null,
+            "date": "1987",
+            "pages": {
+                "from": "283",
+                "to": "296"
+            }
+        },
+        {
+            "title": "Two phases of sulphide saturation in R eunion magmas: Evidence from cumulates",
+            "authors": [
+                "SJCollins",
+                "JMaclennan",
+                "DMPyle",
+                "SJBarnes",
+                "BG JUpton"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2012",
+            "pages": {
+                "from": "104",
+                "to": "113"
+            }
+        },
+        {
+            "title": "Thermal origin of mid-plate hot-spot swells",
+            "authors": [
+                "STCrough"
+            ],
+            "journal": "Geophys. J. R. Astron. Soc",
+            "date": "1978",
+            "pages": {
+                "from": "451",
+                "to": "469"
+            }
+        },
+        {
+            "title": "Volatiles in glasses from Mauna Loa Volcano, Hawai'i: Implications for magma degassing and contamination, and growth of Hawaiian volcanoes",
+            "authors": [
+                "MGDavis",
+                "MOGarcia",
+                "PWallace"
+            ],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": "2003",
+            "pages": {
+                "from": "570",
+                "to": "591"
+            }
+        },
+        {
+            "title": "Island subsidence, hot spots, and lithospheric thinning",
+            "authors": [
+                "RSDetrick",
+                "STCrough"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1978",
+            "pages": {
+                "from": "1236",
+                "to": "1244"
+            }
+        },
+        {
+            "title": "Volatiles in basaltic glasses from Loihi seamount, Hawaii: Evidence for a relatively dry plume component",
+            "authors": [
+                "JEDixon",
+                "DAClague"
+            ],
+            "journal": "J. Petrol",
+            "date": "2001",
+            "pages": {
+                "from": "627",
+                "to": "654"
+            }
+        },
+        {
+            "title": "An experimental study of water and carbon dioxide solubilities in MORB liquids. Part II: Applications to degassing",
+            "authors": [
+                "JEDixon",
+                "EMStolper"
+            ],
+            "journal": "J. Petrol",
+            "date": "1995",
+            "pages": {
+                "from": "1633",
+                "to": "1646"
+            }
+        },
+        {
+            "title": "An experimental study of water and carbon dioxide solubilities in MORB liquids. Part I: Calibration and solubility models",
+            "authors": [
+                "JEDixon",
+                "EMStolper",
+                "JRHolloway"
+            ],
+            "journal": "J. Petrol",
+            "date": "1995",
+            "pages": {
+                "from": "1607",
+                "to": "1631"
+            }
+        },
+        {
+            "title": "Volatiles in alkalic basalts from the North Arch Volcanic Field, Hawaii: Extensive degassing of deep submarine-erupted alkalic series lavas",
+            "authors": [
+                "JEDixon",
+                "DAClague",
+                "PWallace",
+                "RPoreda"
+            ],
+            "journal": "J. Petrol",
+            "date": "1997",
+            "pages": {
+                "from": "911",
+                "to": "939"
+            }
+        },
+        {
+            "title": "Carbonatite and silicate melt metasomatism of the mantle surrounding the Hawaiian plume",
+            "authors": [
+                "JDixon",
+                "DAClague",
+                "BCousens",
+                "MLMonsalve",
+                "JUhl"
+            ],
+            "journal": null,
+            "date": "2008",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Origin of enriched ocean ridge basalts and implications for mantle dynamics",
+            "authors": [
+                "KEDonnelly",
+                "SLGoldstein",
+                "CHLangmuir",
+                "MSpiegelman"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2004",
+            "pages": {
+                "from": "347",
+                "to": "366"
+            }
+        },
+        {
+            "title": "Some new evidence on lithospheric bulges close to island arcs",
+            "authors": [
+                "JDubois",
+                "JLaunay",
+                "JRecy"
+            ],
+            "journal": "Tectonophysics",
+            "date": "1975",
+            "pages": {
+                "from": "189",
+                "to": "196"
+            }
+        },
+        {
+            "title": "Oxygen isotope variations of basaltic lavas and upper mantle rocks",
+            "authors": [
+                "JMEiler"
+            ],
+            "journal": null,
+            "date": "2001",
+            "pages": {
+                "from": "319",
+                "to": "364"
+            }
+        },
+        {
+            "title": "Earlier history of the 70-Ma-old Canary hotspot based on the temporal and geochemical evolution of the Selvagen Archipelago and neighboring seamounts in the eastern North Atlantic",
+            "authors": [
+                "JGeldmacher",
+                "KHoernle",
+                "PVan Den Bogaard",
+                "GZankl",
+                "DGarbe-Schoenberg"
+            ],
+            "journal": "J. Volcanol. Geotherm. Res",
+            "date": "2001",
+            "pages": {
+                "from": "55",
+                "to": "87"
+            }
+        },
+        {
+            "title": "Oxygen isotope evidence for the formation of silicic Kermadec island arc and Havre-Lau backarc magmas by fractional crystallisation",
+            "authors": [
+                "KMHaase",
+                "SKrumm",
+                "MRegelous",
+                "MJoachimski"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2011",
+            "pages": {
+                "from": "348",
+                "to": "355"
+            }
+        },
+        {
+            "title": "Incompatible trace elements in OIB and MORB and source enrichment in the sub-oceanic mantle",
+            "authors": [
+                "ANHalliday",
+                "D.-CLee",
+                "STommasini",
+                "GRDavies",
+                "CRPaslick",
+                "JGFitton",
+                "DEJames"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1995",
+            "pages": {
+                "from": "379",
+                "to": "395"
+            }
+        },
+        {
+            "title": "Petrologic evolution of the Louisville Seamount Chain",
+            "authors": [
+                "JWHawkins",
+                "PFLonsdale",
+                "RBatiza"
+            ],
+            "journal": null,
+            "date": "1987",
+            "pages": {
+                "from": "235",
+                "to": "254"
+            }
+        },
+        {
+            "title": "Petrology of some oceanic island basalts: PRIMELT2.XLS software for primary magma calculation",
+            "authors": [
+                "CHerzberg",
+                "PDAsimow"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2008",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The role of partial melting in the 15 Ma geochemical evolution of Gran Canaria: A blob model for the Canary hotspot",
+            "authors": [
+                "KHoernle",
+                "H.-USchminke"
+            ],
+            "journal": "J. Petrol",
+            "date": "1993",
+            "pages": {
+                "from": "599",
+                "to": "626"
+            }
+        },
+        {
+            "title": "Nb and Pb in oceanic basalts: New constraints on mantle evolution",
+            "authors": [
+                "AWHofmann",
+                "KPJochum",
+                "MSeufert",
+                "WMWhite"
+            ],
+            "journal": null,
+            "date": "1986",
+            "pages": {
+                "from": "33",
+                "to": "45"
+            }
+        },
+        {
+            "title": "Subsidence and growth of Pacific Cretaceous plateaus",
+            "authors": [
+                "GIto",
+                "PDClift"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1998",
+            "pages": {
+                "from": "85",
+                "to": "100"
+            }
+        },
+        {
+            "title": "Flow and melting of a heterogeneous mantle: 1. Method and importance to the geochemistry of ocean island and mid-ocean ridge basalts",
+            "authors": [
+                "GIto",
+                "JJMahoney"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2005",
+            "pages": {
+                "from": "29",
+                "to": "46"
+            }
+        },
+        {
+            "title": "The solubility of hydrogen chloride in volcanic rock melts at total pressure of one atmosphere and at temperatures of 1200 C and 1290 C under anhydrous conditions",
+            "authors": [
+                "BIwaski",
+                "TKatsura"
+            ],
+            "journal": "Bull. Chem. Soc. Jpn",
+            "date": "1967",
+            "pages": {
+                "from": "554",
+                "to": "561"
+            }
+        },
+        {
+            "title": "New Samoan lavas from Ofu Island reveal a hemispherically heterogeneous high 3 He/ 4 He mantle",
+            "authors": [
+                "MGJackson",
+                "MDKurz",
+                "SRHart",
+                "RKWorkman"
+            ],
+            "journal": null,
+            "date": "2007",
+            "pages": {
+                "from": "360",
+                "to": "374"
+            }
+        },
+        {
+            "title": "The return of subducted continental crust in Samoan lavas",
+            "authors": [
+                "MGJackson",
+                "SRHart",
+                "AA PKoppers",
+                "HStaudigel",
+                "JKonter",
+                "JBlusztajin",
+                "MDKurz",
+                "JARussell"
+            ],
+            "journal": "Nature",
+            "date": "2007",
+            "pages": {
+                "from": "684",
+                "to": "687"
+            }
+        },
+        {
+            "title": "Global correlations of ocean ridge basalt chemistry with axial depth and crustal thickness",
+            "authors": [
+                "EMKlein",
+                "CHLangmuir"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1987",
+            "pages": {
+                "from": "8089",
+                "to": "8115"
+            }
+        },
+        {
+            "title": "Geochemical stages at Jasper Seamount and the origin of intraplate volcanoes",
+            "authors": [
+                "JGKonter",
+                "HStaudigel",
+                "JBlichert-Toft",
+                "BBHanan",
+                "MPolv E",
+                "GRDavies",
+                "NShimizu",
+                "PSchiffman"
+            ],
+            "journal": null,
+            "date": "2009",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Implications of a nonlinear 40 Ar/ 39 Ar age progression along the Louisville seamount trail for models of fixed and moving hot spots",
+            "authors": [
+                "AA PKoppers",
+                "RADuncan",
+                "BSteinberger"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2004",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Proceedings of the Integrated Ocean Drilling Program",
+            "authors": [
+                "AA PKoppers",
+                "TYamazaki",
+                "J"
+            ],
+            "journal": null,
+            "date": "2012",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Limited latitudinal mantle plume motion for the Louisville hotspot",
+            "authors": [
+                "AA PKoppers"
+            ],
+            "journal": "Nat. Geosci",
+            "date": "2012",
+            "pages": {
+                "from": "911",
+                "to": "917"
+            }
+        },
+        {
+            "title": "A Classification of Igneous Rocks and Glossary of Terms: Recommendations of the International Union of Geological Sciences Subcommission on the Systematics of Igneous Rocks",
+            "authors": [
+                "RWLe Maitre"
+            ],
+            "journal": "Blackwell Sci",
+            "date": "1989",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Geography and history of the Louisville Hotspot Chain in the Southwest Pacific",
+            "authors": [
+                "PLonsdale"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1988",
+            "pages": {
+                "from": "3078",
+                "to": "3104"
+            }
+        },
+        {
+            "title": "Chemical composition of Earth's primitive mantle and its variance: 1. Method and results",
+            "authors": [
+                "TLyubetskaya",
+                "JKorenaga"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "2007",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Chemical composition of Hawaiian lavas",
+            "authors": [
+                "GAMacdonald",
+                "TKatsura"
+            ],
+            "journal": "J. Petrol",
+            "date": "1964",
+            "pages": {
+                "from": "82",
+                "to": "133"
+            }
+        },
+        {
+            "title": "Regionally distinctive sources of depleted MORB: Evidence from trace elements and H 2 O",
+            "authors": [
+                "PJMichael"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1995",
+            "pages": {
+                "from": "301",
+                "to": "320"
+            }
+        },
+        {
+            "title": "Implications for magmatic processes at Ontong Java Plateau from volatile and major element contents of Cretaceous basalt glass",
+            "authors": [
+                "PJMichael"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "1999",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Influence of spreading rate and magma supply on crystallization and assimilation beneath midocean ridges: Evidence from chlorine and major element chemistry of mid-ocean ridge basalts",
+            "authors": [
+                "PJMichael",
+                "WCCornell"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1998",
+            "pages": {
+                "from": "18325",
+                "to": "18356"
+            }
+        },
+        {
+            "title": "Prodigious submarine landslides on the Hawaiian ridge",
+            "authors": [
+                "JGMoore",
+                "DAClague",
+                "RTHolcomb",
+                "PWLipman",
+                "WRNormark",
+                "METorresan"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1989",
+            "pages": {
+                "from": "465",
+                "to": "482"
+            }
+        },
+        {
+            "title": "Age, spreading rates, and spreading asymmetry of the world's ocean crust",
+            "authors": [
+                "RDM\u20ac Uller",
+                "MSdrolias",
+                "CGaina",
+                "WRRoest"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2008",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The progression of volcanism in the Samoan linear volcanic chain",
+            "authors": [
+                "JHNatland"
+            ],
+            "journal": null,
+            "date": "1980",
+            "pages": {
+                "from": "709",
+                "to": "735"
+            }
+        },
+        {
+            "title": "VolatileCalc: A silicate melt-H 2 O-CO 2 solution model written in Visual Basic for excel",
+            "authors": [
+                "SNewman",
+                "JBLowenstern"
+            ],
+            "journal": "Comput. Geosci",
+            "date": "2002",
+            "pages": {
+                "from": "597",
+                "to": "604"
+            }
+        },
+        {
+            "title": "Siderophile and chalcophile element abundances in oceanic basalts, Pb isotope evolution and growth of the Earth's core",
+            "authors": [
+                "HENewsom",
+                "WMWhite",
+                "KPJochum",
+                "AWHofmann"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1986",
+            "pages": {
+                "from": "299",
+                "to": "313"
+            }
+        },
+        {
+            "title": "An analysis of the variation of ocean floor bathymetry and heat flow with age",
+            "authors": [
+                "BParsons",
+                "JGSclater"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1977",
+            "pages": {
+                "from": "803",
+                "to": "827"
+            }
+        },
+        {
+            "title": "Nb/Ta and Zr/Hf in ocean island basalts-Implications for crust-mantle differentiation and the fate of Niobium",
+            "authors": [
+                "JAPf\u20ac Ander",
+                "CUnker",
+                "AStracke",
+                "KMezger"
+            ],
+            "journal": null,
+            "date": "2007",
+            "pages": {
+                "from": "158",
+                "to": "172"
+            }
+        },
+        {
+            "title": "Construction of an oceanic island: Insights from the El Hierro (Canary Islands) 2011-2012 submarine volcanic eruption",
+            "authors": [
+                "JRivera",
+                "GLastras",
+                "MCanals",
+                "JAcosta",
+                "BArrese",
+                "NHermida",
+                "AMicallef",
+                "OTello",
+                "DAmblas"
+            ],
+            "journal": "Geology",
+            "date": "2013",
+            "pages": {
+                "from": "355",
+                "to": "358"
+            }
+        },
+        {
+            "title": "Volatiles in submarine basaltic glasses from the Ontong Java Plateau (ODP Leg 192): Implications for magmatic processes and source region compositions, in Origin and Evolution of the Ontong Java Plateau",
+            "authors": [
+                "JRoberge",
+                "RVWhite",
+                "PJWallace"
+            ],
+            "journal": "Geol. Soc. Spec",
+            "date": "2004",
+            "pages": {
+                "from": "239",
+                "to": "257"
+            }
+        },
+        {
+            "title": "New He, Sr, Nd and Pb isotopic constraints on the constitution of the Hawaiian plume: Results from Koolau Volcano",
+            "authors": [
+                "MFRoden",
+                "TTrull",
+                "SRHart",
+                "FAFrey"
+            ],
+            "journal": "Geochim. Cosmochim. Acta",
+            "date": "1994",
+            "pages": {
+                "from": "1431",
+                "to": "1440"
+            }
+        },
+        {
+            "title": "Incipient melt segregation as preserved in subaqueous pyroclasts",
+            "authors": [
+                "CISchipper",
+                "JD LWhite",
+                "AR LNichols",
+                "ABurgisser",
+                "EHellebrand",
+                "RMMurtagh"
+            ],
+            "journal": "Geology",
+            "date": "2012",
+            "pages": {
+                "from": "355",
+                "to": "358"
+            }
+        },
+        {
+            "title": "Volatiles in basaltic glasses from the Easter-Salas y Gomez Seamount Chain and Easter Microplate: Implications for geochemical cycling of volatile elements",
+            "authors": [
+                "KSimons",
+                "JDixon",
+                "J.-GSchilling",
+                "RKingsley",
+                "RPoreda"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2002",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Hotspots and mantle plumes: Some phenomenology",
+            "authors": [
+                "NHSleep"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1990",
+            "pages": {
+                "from": "6715",
+                "to": "6736"
+            }
+        },
+        {
+            "title": "Lithospheric thinning by midplate mantle plumes and the thermal history of hot plume material ponded at sublithospheric depths",
+            "authors": [
+                "NHSleep"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1994",
+            "pages": {
+                "from": "9327",
+                "to": "9343"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "A model for the global variation in oceanic depth and heat flow with lithospheric age",
+            "authors": [
+                "CAStein",
+                "SStein"
+            ],
+            "journal": "Nature",
+            "date": "1992",
+            "pages": {
+                "from": "123",
+                "to": "129"
+            }
+        },
+        {
+            "title": "Chlorine in oceanic intraplate basalts: Constraints on mantle sources and recycling processes",
+            "authors": [
+                "NAStroncik",
+                "KMHaase"
+            ],
+            "journal": "Geology",
+            "date": "2004",
+            "pages": {
+                "from": "945",
+                "to": "948"
+            }
+        },
+        {
+            "title": "The emperor Seamounts: Southward motion of the Hawaiian hotspot plume in Earth's Mantle",
+            "authors": [
+                "JATarduno"
+            ],
+            "journal": "Science",
+            "date": "2003",
+            "pages": {
+                "from": "1064",
+                "to": "1069"
+            }
+        },
+        {
+            "title": "Volatile abundances and oxygen isotopes in basaltic to dacitic lavas on mid-ocean ridges: The role of assimilation at spreading centers",
+            "authors": [
+                "VDWanless",
+                "MRPerfit",
+                "WIRidley",
+                "PJWallace",
+                "CBGrimes",
+                "EMKlein"
+            ],
+            "journal": "Chem. Geol",
+            "date": "2011",
+            "pages": {
+                "from": "54",
+                "to": "65"
+            }
+        },
+        {
+            "title": "Origin of the Louisville Ridge and its relationship to the Eltanin Fracture Zone system",
+            "authors": [
+                "ABWatts",
+                "JKWeissel",
+                "RADuncan",
+                "RLLarson"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1988",
+            "pages": {
+                "from": "3051",
+                "to": "3077"
+            }
+        },
+        {
+            "title": "Free software helps map and display data",
+            "authors": [
+                "PWessel",
+                "WH FSmith"
+            ],
+            "journal": "Eos Trans. AGU",
+            "date": "1991",
+            "pages": {
+                "from": "441",
+                "to": "446"
+            }
+        },
+        {
+            "title": "New, improved version of the Generic Mapping Tools released",
+            "authors": [
+                "PWessel",
+                "WH FSmith"
+            ],
+            "journal": "Eos Trans. AGU",
+            "date": "1998",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Recycled metasomatized lithosphere as the origin of the Enriched Mantle II (EM2) end-member: Evidence from the Samoan Volcanic Chain",
+            "authors": [
+                "RS RWorkman",
+                "MHart",
+                "MJackson",
+                "KARegelous",
+                "JFarley",
+                "MBlusztajn",
+                "HKurz",
+                "Staudigel"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2004",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Constraints on the source components of lavas forming the Hawaiian North Arch and Honolulu Volcanics",
+            "authors": [
+                "H.-JYang",
+                "FAFrey",
+                "DAClague"
+            ],
+            "journal": "J. Petrol",
+            "date": "2003",
+            "pages": {
+                "from": "603",
+                "to": "627"
+            }
+        }
+    ]
+}

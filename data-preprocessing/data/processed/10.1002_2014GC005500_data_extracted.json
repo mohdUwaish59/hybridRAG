@@ -1,0 +1,2073 @@
+{
+    "metadata": {
+        "title": "The Early-Middle Miocene subduction complex of the Louisiade Archipelago, southern margin of the Woodlark Rift",
+        "abstract": "Field, microstructural, and 40Ar/ 39 Ar thermochronologic data from the Louisiade Archipelago, the southern rifted margin of the Woodlark Basin in SE Papua New Guinea, document an accretionary wedge that formed during Early-Middle Miocene N-dipping subduction of the Australian margin and transpression along the Australian-Pacific plate boundary. Metasedimentary rocks of the Calvados Schist and the metagabbros that intrude them were metamorphosed at up to greenschist-facies conditions. Three tectonic foliations (S 1 -S 3 ) are present and F 1 -F 3 fold hinges plunge ESE or WNW, parallel to mineral, stretching, and intersection lineations. Fold vergence is dominantly to the SW, and top-to-the-SW thrusting of ultramafic rocks over the Calvados Schist is documented locally on Rossel Island. The data suggest progressive deformation associated with NNE-SSW shortening and ESE-WNW extension via dissolution-precipitation creep and, more locally, dislocation creep. 40 Ar/ 39 Ar step-heating analyses of three white mica separates yield Middle Miocene plateau or plateau-like segments that are affected by variable Pliocene argon loss and are interpreted as syntectonic mica growth during metamorphism and deformation followed by partial resetting just prior to the onset of seafloor spreading in the Woodlark Basin. A 12 Ma 40 Ar/ 39 Ar age from a dacite sill of the Panarora Volcanics provides a minimum age constraint for the termination of northward subduction and a maximum age for crosscutting brittle strike-slip faults. These data are critical to constraining the subduction-exhumation history of the world's youngest high-ultrahigh-pressure terrane and further support analogies between SE Papua New Guinea and the Early Oligocene Western Alps.",
+        "authors": [
+            {
+                "name": "LauraEWebb",
+                "affiliation": [
+                    {
+                        "department": "Department of Geology",
+                        "institution": "University of Vermont",
+                        "address": {
+                            "settlement": "Burlington",
+                            "region": "Vermont",
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "SuzanneLBaldwin",
+                "affiliation": [
+                    {
+                        "department": "Department of Earth Sciences",
+                        "institution": "Syracuse University",
+                        "address": {
+                            "settlement": "Syracuse",
+                            "region": "New York",
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "PaulGFitzgerald",
+                "affiliation": [
+                    {
+                        "department": "Department of Earth Sciences",
+                        "institution": "Syracuse University",
+                        "address": {
+                            "settlement": "Syracuse",
+                            "region": "New York",
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "KAppleby",
+                "affiliation": []
+            },
+            {
+                "name": "PMAshley",
+                "affiliation": []
+            },
+            {
+                "name": "RHFlood",
+                "affiliation": []
+            },
+            {
+                "name": "KTAshley",
+                "affiliation": []
+            },
+            {
+                "name": "LEWebb",
+                "affiliation": []
+            },
+            {
+                "name": "FSSpear",
+                "affiliation": []
+            },
+            {
+                "name": "JBThomas",
+                "affiliation": []
+            },
+            {
+                "name": "MGAudley-Charles",
+                "affiliation": []
+            },
+            {
+                "name": "SLBaldwin",
+                "affiliation": []
+            },
+            {
+                "name": "GSLister",
+                "affiliation": []
+            },
+            {
+                "name": "EHill",
+                "affiliation": []
+            },
+            {
+                "name": "DAFoster",
+                "affiliation": []
+            },
+            {
+                "name": "IMcdougall",
+                "affiliation": []
+            },
+            {
+                "name": "SLBaldwin",
+                "affiliation": []
+            },
+            {
+                "name": "BMonteleone",
+                "affiliation": []
+            },
+            {
+                "name": "LEWebb",
+                "affiliation": []
+            },
+            {
+                "name": "PGFitzgerald",
+                "affiliation": []
+            },
+            {
+                "name": "MGrove",
+                "affiliation": []
+            },
+            {
+                "name": "EJHill",
+                "affiliation": []
+            },
+            {
+                "name": "SLBaldwin",
+                "affiliation": []
+            },
+            {
+                "name": "LEWebb",
+                "affiliation": []
+            },
+            {
+                "name": "BDMonteleone",
+                "affiliation": []
+            },
+            {
+                "name": "SLBaldwin",
+                "affiliation": []
+            },
+            {
+                "name": "PGFitzgerald",
+                "affiliation": []
+            },
+            {
+                "name": "LEWebb",
+                "affiliation": []
+            },
+            {
+                "name": "SEBryan",
+                "affiliation": []
+            },
+            {
+                "name": "AEConstantine",
+                "affiliation": []
+            },
+            {
+                "name": "CJStephens",
+                "affiliation": []
+            },
+            {
+                "name": "AEwart",
+                "affiliation": []
+            },
+            {
+                "name": "RWSchon",
+                "affiliation": []
+            },
+            {
+                "name": "JParianos",
+                "affiliation": []
+            },
+            {
+                "name": "JPCatalano",
+                "affiliation": []
+            },
+            {
+                "name": "MCloos",
+                "affiliation": []
+            },
+            {
+                "name": "BSapiie",
+                "affiliation": []
+            },
+            {
+                "name": "AQVan Ufford",
+                "affiliation": []
+            },
+            {
+                "name": "RJWeiland",
+                "affiliation": []
+            },
+            {
+                "name": "PQWarren",
+                "affiliation": []
+            },
+            {
+                "name": "TPMcmahon",
+                "affiliation": []
+            },
+            {
+                "name": "BECohen",
+                "affiliation": []
+            },
+            {
+                "name": "KMKnesel",
+                "affiliation": []
+            },
+            {
+                "name": "PMVasconcelos",
+                "affiliation": []
+            },
+            {
+                "name": "WPSchellart",
+                "affiliation": []
+            },
+            {
+                "name": "PJColeman",
+                "affiliation": []
+            },
+            {
+                "name": "LWKroenke",
+                "affiliation": []
+            },
+            {
+                "name": "PCooper",
+                "affiliation": []
+            },
+            {
+                "name": "BTaylor",
+                "affiliation": []
+            },
+            {
+                "name": "NRDaczko",
+                "affiliation": []
+            },
+            {
+                "name": "PCaffi",
+                "affiliation": []
+            },
+            {
+                "name": "PMann",
+                "affiliation": []
+            },
+            {
+                "name": "HLDavies",
+                "affiliation": []
+            },
+            {
+                "name": "HLDavies",
+                "affiliation": []
+            },
+            {
+                "name": "HLDavies",
+                "affiliation": []
+            },
+            {
+                "name": "HLDavies",
+                "affiliation": []
+            },
+            {
+                "name": "IESmith",
+                "affiliation": []
+            },
+            {
+                "name": "HLDavies",
+                "affiliation": []
+            },
+            {
+                "name": "RGWarren",
+                "affiliation": []
+            },
+            {
+                "name": "HLDavies",
+                "affiliation": []
+            },
+            {
+                "name": "RGWarren",
+                "affiliation": []
+            },
+            {
+                "name": "CDemets",
+                "affiliation": []
+            },
+            {
+                "name": "RGGordon",
+                "affiliation": []
+            },
+            {
+                "name": "DFArgus",
+                "affiliation": []
+            },
+            {
+                "name": "SStein",
+                "affiliation": []
+            },
+            {
+                "name": "SMEllis",
+                "affiliation": []
+            },
+            {
+                "name": "TALittle",
+                "affiliation": []
+            },
+            {
+                "name": "LMWallace",
+                "affiliation": []
+            },
+            {
+                "name": "BRHacker",
+                "affiliation": []
+            },
+            {
+                "name": "SJ HBuiter",
+                "affiliation": []
+            },
+            {
+                "name": "AEwart",
+                "affiliation": []
+            },
+            {
+                "name": "RWSchon",
+                "affiliation": []
+            },
+            {
+                "name": "BWChappell",
+                "affiliation": []
+            },
+            {
+                "name": "DAFerrill",
+                "affiliation": []
+            },
+            {
+                "name": "APMorris",
+                "affiliation": []
+            },
+            {
+                "name": "MAEvans",
+                "affiliation": []
+            },
+            {
+                "name": "MBurkhard",
+                "affiliation": []
+            },
+            {
+                "name": "RHGroshongJr",
+                "affiliation": []
+            },
+            {
+                "name": "CMOnasch",
+                "affiliation": []
+            },
+            {
+                "name": "GFitz",
+                "affiliation": []
+            },
+            {
+                "name": "PMann",
+                "affiliation": []
+            },
+            {
+                "name": "CGaina",
+                "affiliation": []
+            },
+            {
+                "name": "RDM\u20ac Uller",
+                "affiliation": []
+            },
+            {
+                "name": "J.-YRoyer",
+                "affiliation": []
+            },
+            {
+                "name": "PSymonds",
+                "affiliation": []
+            },
+            {
+                "name": "AMGoodliffe",
+                "affiliation": []
+            },
+            {
+                "name": "BTaylor",
+                "affiliation": []
+            },
+            {
+                "name": "SMGordon",
+                "affiliation": []
+            },
+            {
+                "name": "TALittle",
+                "affiliation": []
+            },
+            {
+                "name": "BRHacker",
+                "affiliation": []
+            },
+            {
+                "name": "SABowring",
+                "affiliation": []
+            },
+            {
+                "name": "MKorchinski",
+                "affiliation": []
+            },
+            {
+                "name": "SLBaldwin",
+                "affiliation": []
+            },
+            {
+                "name": "AR CKylander-Clark",
+                "affiliation": []
+            },
+            {
+                "name": "RHall",
+                "affiliation": []
+            },
+            {
+                "name": "CHeine",
+                "affiliation": []
+            },
+            {
+                "name": "DRM\u20ac Uller",
+                "affiliation": []
+            },
+            {
+                "name": "BSteinberger",
+                "affiliation": []
+            },
+            {
+                "name": "LDicaprio",
+                "affiliation": []
+            },
+            {
+                "name": "WHildreth",
+                "affiliation": []
+            },
+            {
+                "name": "SMoorbath",
+                "affiliation": []
+            },
+            {
+                "name": "EJHill",
+                "affiliation": []
+            },
+            {
+                "name": "EJHill",
+                "affiliation": []
+            },
+            {
+                "name": "SLBaldwin",
+                "affiliation": []
+            },
+            {
+                "name": "KCHill",
+                "affiliation": []
+            },
+            {
+                "name": "RHall",
+                "affiliation": []
+            },
+            {
+                "name": "RWJohnson",
+                "affiliation": []
+            },
+            {
+                "name": "DEMackenzie",
+                "affiliation": []
+            },
+            {
+                "name": "IE MSmith",
+                "affiliation": []
+            },
+            {
+                "name": "TJohnson",
+                "affiliation": []
+            },
+            {
+                "name": "PMolnar",
+                "affiliation": []
+            },
+            {
+                "name": "GSLister",
+                "affiliation": []
+            },
+            {
+                "name": "MAEtheridge",
+                "affiliation": []
+            },
+            {
+                "name": "PASymonds",
+                "affiliation": []
+            },
+            {
+                "name": "TALittle",
+                "affiliation": []
+            },
+            {
+                "name": "SLBaldwin",
+                "affiliation": []
+            },
+            {
+                "name": "PGFitzgerald",
+                "affiliation": []
+            },
+            {
+                "name": "BMonteleone",
+                "affiliation": []
+            },
+            {
+                "name": "TALittle",
+                "affiliation": []
+            },
+            {
+                "name": "BRHacker",
+                "affiliation": []
+            },
+            {
+                "name": "SMGordon",
+                "affiliation": []
+            },
+            {
+                "name": "SLBaldwin",
+                "affiliation": []
+            },
+            {
+                "name": "PGFitzgerald",
+                "affiliation": []
+            },
+            {
+                "name": "SEllis",
+                "affiliation": []
+            },
+            {
+                "name": "MKorchinski",
+                "affiliation": []
+            },
+            {
+                "name": "WYLus",
+                "affiliation": []
+            },
+            {
+                "name": "IMcdougall",
+                "affiliation": []
+            },
+            {
+                "name": "HLDavies",
+                "affiliation": []
+            },
+            {
+                "name": "BPLuyendyk",
+                "affiliation": []
+            },
+            {
+                "name": "KCMacdonald",
+                "affiliation": []
+            },
+            {
+                "name": "WBBryan",
+                "affiliation": []
+            },
+            {
+                "name": "MGMalus A",
+                "affiliation": []
+            },
+            {
+                "name": "EGarzanti",
+                "affiliation": []
+            },
+            {
+                "name": "MGMalus A",
+                "affiliation": []
+            },
+            {
+                "name": "CFaccenna",
+                "affiliation": []
+            },
+            {
+                "name": "EGarzanti",
+                "affiliation": []
+            },
+            {
+                "name": "RPolino",
+                "affiliation": []
+            },
+            {
+                "name": "FMartinez",
+                "affiliation": []
+            },
+            {
+                "name": "AMGoodliffe",
+                "affiliation": []
+            },
+            {
+                "name": "BTaylor",
+                "affiliation": []
+            },
+            {
+                "name": "PMoni E",
+                "affiliation": []
+            },
+            {
+                "name": "BDMonteleone",
+                "affiliation": []
+            },
+            {
+                "name": "SLBaldwin",
+                "affiliation": []
+            },
+            {
+                "name": "TRIreland",
+                "affiliation": []
+            },
+            {
+                "name": "PGFitzgerald",
+                "affiliation": []
+            },
+            {
+                "name": "BDMonteleone",
+                "affiliation": []
+            },
+            {
+                "name": "SLBaldwin",
+                "affiliation": []
+            },
+            {
+                "name": "LEWebb",
+                "affiliation": []
+            },
+            {
+                "name": "PGFitzgerald",
+                "affiliation": []
+            },
+            {
+                "name": "MGrove",
+                "affiliation": []
+            },
+            {
+                "name": "AKSchmitt",
+                "affiliation": []
+            },
+            {
+                "name": "CWPasschier",
+                "affiliation": []
+            },
+            {
+                "name": "RA JTrouw",
+                "affiliation": []
+            },
+            {
+                "name": "NYSpringer",
+                "affiliation": []
+            },
+            {
+                "name": "GPegler",
+                "affiliation": []
+            },
+            {
+                "name": "SDas",
+                "affiliation": []
+            },
+            {
+                "name": "JHWoodhouse",
+                "affiliation": []
+            },
+            {
+                "name": "KPeters",
+                "affiliation": []
+            },
+            {
+                "name": "MGPetterson",
+                "affiliation": []
+            },
+            {
+                "name": "CJPigram",
+                "affiliation": []
+            },
+            {
+                "name": "PJDavies",
+                "affiliation": []
+            },
+            {
+                "name": "DAFeary",
+                "affiliation": []
+            },
+            {
+                "name": "PASymonds",
+                "affiliation": []
+            },
+            {
+                "name": "IESmith",
+                "affiliation": []
+            },
+            {
+                "name": "IESmith",
+                "affiliation": []
+            },
+            {
+                "name": "JSMilsom",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            },
+            {
+                "name": "IESmith",
+                "affiliation": []
+            },
+            {
+                "name": "PEPieters",
+                "affiliation": []
+            },
+            {
+                "name": "IESmith",
+                "affiliation": []
+            },
+            {
+                "name": "PEPieters",
+                "affiliation": []
+            },
+            {
+                "name": "CJSimpson",
+                "affiliation": []
+            },
+            {
+                "name": "IE MSmith",
+                "affiliation": []
+            },
+            {
+                "name": "BTaylor",
+                "affiliation": []
+            },
+            {
+                "name": "AMGoodliffe",
+                "affiliation": []
+            },
+            {
+                "name": "FMartinez",
+                "affiliation": []
+            },
+            {
+                "name": "RHey",
+                "affiliation": []
+            },
+            {
+                "name": "BTaylor",
+                "affiliation": []
+            },
+            {
+                "name": "AMGoodliffe",
+                "affiliation": []
+            },
+            {
+                "name": "FMartinez",
+                "affiliation": []
+            },
+            {
+                "name": "BTaylor",
+                "affiliation": []
+            },
+            {
+                "name": "PHuchon",
+                "affiliation": []
+            },
+            {
+                "name": "DSTrail",
+                "affiliation": []
+            },
+            {
+                "name": "PTregoning",
+                "affiliation": []
+            },
+            {
+                "name": "FJTurner",
+                "affiliation": []
+            },
+            {
+                "name": "AVan Ufford",
+                "affiliation": []
+            },
+            {
+                "name": "MCloos",
+                "affiliation": []
+            },
+            {
+                "name": "LMWallace",
+                "affiliation": []
+            },
+            {
+                "name": "CStevens",
+                "affiliation": []
+            },
+            {
+                "name": "ESilver",
+                "affiliation": []
+            },
+            {
+                "name": "RMccaffrey",
+                "affiliation": []
+            },
+            {
+                "name": "WLoratung",
+                "affiliation": []
+            },
+            {
+                "name": "SHasiata",
+                "affiliation": []
+            },
+            {
+                "name": "RStanaway",
+                "affiliation": []
+            },
+            {
+                "name": "RCurley",
+                "affiliation": []
+            },
+            {
+                "name": "RRosa",
+                "affiliation": []
+            },
+            {
+                "name": "JTaugaloidi",
+                "affiliation": []
+            },
+            {
+                "name": "SWassman",
+                "affiliation": []
+            },
+            {
+                "name": "BSt\u20ac",
+                "affiliation": []
+            },
+            {
+                "name": "LEWebb",
+                "affiliation": []
+            },
+            {
+                "name": "SLBaldwin",
+                "affiliation": []
+            },
+            {
+                "name": "TALittle",
+                "affiliation": []
+            },
+            {
+                "name": "PGFitzgerald",
+                "affiliation": []
+            },
+            {
+                "name": "JKWeissel",
+                "affiliation": []
+            },
+            {
+                "name": "ABWatts",
+                "affiliation": []
+            },
+            {
+                "name": "JKWeissel",
+                "affiliation": []
+            },
+            {
+                "name": "BTaylor",
+                "affiliation": []
+            },
+            {
+                "name": "GDKarner",
+                "affiliation": []
+            },
+            {
+                "name": "JRWijbrans",
+                "affiliation": []
+            },
+            {
+                "name": "IMcdougall",
+                "affiliation": []
+            },
+            {
+                "name": "MAWorthing",
+                "affiliation": []
+            },
+            {
+                "name": "MAWorthing",
+                "affiliation": []
+            },
+            {
+                "name": "AJCrawford",
+                "affiliation": []
+            },
+            {
+                "name": "CYYan",
+                "affiliation": []
+            },
+            {
+                "name": "LWKroenke",
+                "affiliation": []
+            },
+            {
+                "name": "NAZirakparvar",
+                "affiliation": []
+            },
+            {
+                "name": "SLBaldwin",
+                "affiliation": []
+            },
+            {
+                "name": "AKSchmitt",
+                "affiliation": []
+            },
+            {
+                "name": "NAZirakparvar",
+                "affiliation": []
+            },
+            {
+                "name": "SLBaldwin",
+                "affiliation": []
+            },
+            {
+                "name": "JDVervoort",
+                "affiliation": []
+            },
+            {
+                "name": "NAZirakparvar",
+                "affiliation": []
+            },
+            {
+                "name": "SLBaldwin",
+                "affiliation": []
+            },
+            {
+                "name": "AKSchmitt",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            }
+        ],
+        "publication_date": "2014",
+        "funder": [
+            "Continental Dynamics Program, Division of Earth Sciences, United States National Science Foundation"
+        ]
+    },
+    "sections": {
+        "Introduction": "Introduction\nThe Louisiade Archipelago comprises the southern rifted margin of the Woodlark Basin in southeastern Papua New Guinea (Figure\n1\n). The region has received significant attention as a natural laboratory to study the transition from rifting to seafloor spreading and the exhumation of high and ultrahigh-pressure (HP, UHP) rocks in an active plate boundary setting [e.g.,\nDavies and\nWarren, 1988, 1992;\nHill and Baldwin, 1993;\nHill, 1994;\nTaylor et al., 1995\nTaylor et al., , 1999;;\nMartinez et al., 2001;\nGoodliffe and Taylor, 2007;\nBaldwin et al., 2004\nBaldwin et al., , 2008;;\nLittle et al., 2007\nLittle et al., , 2011;;\nFitz and Mann, 2013]\n, and has been proposed to be a modern-day analog for the Early Oligocene Western Alps\n[Malus a et al., 2011;\nMalus a and Garzanti, 2012]\n. Despite the rapidly growing body of data from geologic and geophysical studies of HP-UHP metamorphism, exhumation, and rifting in southeastern Papua New Guinea, debate continues regarding the history of Cenozoic subduction and collision (e.g., number and polarity of subduction zones) [see von\nUfford and Cloos, 2005, and references therein]\nas well as mechanisms for eclogite exhumation (e.g., tectonic exhumation versus diaprism)\n[Webb et al., 2008;\nEllis et al., 2011;\nLittle et al., 2011]\n.\nMetasedimentary rocks of the Louisiade Archipelago have long been correlated with the Owen Stanley Metamorphic Belt in the D'Entrecasteaux Islands and on the Papuan Peninsula (Figure\n2\n) [Davis and\nSmith, 1971]\n, yet relatively few studies of the archipelago have been published\n[Davies, 1959;\nSmith, 1973;\nSmith and Pieters, 1973;\nSmith et al., 1973;\nAppleby, 1996;\nZirakparvar et al., 2012]\n. Recent detrital U-Pb zircon studies have demonstrated that protoliths of both the metasedimentary rocks in the archipelago and the HP-UHP eclogite-host gneisses in D'Entrecasteaux Islands are volcaniclastic sediments of the eastern Australian margin\n[Zirakparvar et al., 2012]\n. Thus, the history of metamorphism and deformation in the Louisiade Archipelago, which until now has largely been unknown, is critical to unraveling the subductionrifting history of the Woodlark Rift and may ultimately bear on models for UHP exhumation globally. This manuscript presents results of a first-order geologic study of the region, including field observations, Geochemistry, Geophysics, Geosystems PUBLICATIONS microstructural analyses, and 40 Ar/ 39 Ar geochronology for the southern and eastern Louisiade Archipelago. These data are integrated to evaluate the timing of deformation and metamorphism with resultant implications for the tectonic evolution of the region, including the timing of the transition from subduction to rifting and the relationship of the Louisiade Archipelago to the exhumed HP-UHP terrane in the Woodlark Rift.",
+        "Tectonic Evolution and Present-Day Setting": "Tectonic Evolution and Present-Day Setting\nThe Louisiade Archipelago resides at the present-day northeastern limit of the Australian plate, which has moved northward 30 of latitude since the end of the Cretaceous\n[Heine et al., 2010]\n. This northward translation is associated with a complicated history of subduction, collision, and accretion, recorded in part by blueschists, eclogites, and ophiolites along its plate boundary in New Guinea (Figure\n1\n) [e.g.,\nBaldwin et al., 2012]\n. Rapid, oblique convergence between the Pacific and Australian plates\n[Johnson and Molnar, 1972;\nDeMets et al., 1994]\nin the Papua New Guinea region is presently partitioned across several microplates. These microplates are rotating rapidly relative to Australia about nearby Euler poles\n[Tregoning et al., 1998;\nWallace et al., 2004]\n, so the plate boundaries are variable, changing in nature both along strike and rapidly through time.\nBasement rocks in southeastern Papua New Guinea represent a fragment of the Australian continental margin, displaced from the continent and translated northeastward as a result of Cretaceous rifting and subsequent Paleocene-Early Eocene seafloor spreading in the Coral Sea\n[Smith, 1973;\nWeissel and Watts, 1979;\nGaina et al., 1999;\nZirakparvar et al., 2012]\n. The northeastward transport of this continental fragment coincided with its collision with a Late Paleocene-Early Eocene island arc on the Papuan Peninsula\n[Davies, 1980a\n[Davies, , 1980b;;\nDavies and Warren, 1988]\nand Late Paleocene obduction of the Papuan Ultramafic Belt\n[Lus et al., 2004]\n. Further east, Late Cretaceous-Paleocene ages are preserved in the Woodlark Rift. Inferred Papuan Ultramafic Belt remnants in close proximity to the active seafloor-spreading rift tip yielded a 66.4 Ma U-Pb zircon age interpreted to date diabase crystallization\n[Monteleone et al., 2001]\n. Additionally, a garnet porphyroclast preserved in the Pleistocene shear zone carapace bounding the Goodenough Island metamorphic core complex\n[Baldwin et al., 1993]\nyielded a 68 Ma Lu-Hf age, interpreted to possibly date metamorphism associated with obduction of the ophiolite\n[Zirakparvar et al., 2011]\n.\nHP and UHP rocks formed during subduction are preserved in the D'Entrecasteaux Islands. U-Pb dating of zircon from eclogites and host gneisses yield Late Miocene-Pliocene ages for eclogite-facies metamorphism\n[Baldwin et al., 2004;\nMonteleone et al., 2007;\nGordon et al., 2012;\nZirakparvar et al., 2014]\n. Zircon U-Pb and garnet Lu-Hf ages on coesite eclogite indicate the timing of UHP metamorphism as Late Miocene (8-7 Ma)\n[Monteleone et al., 2007;\nZirakparvar et al., 2011]\n. Lu-Hf and geochemical data from the coesite eclogite sample presented in\nZirakparvar et al. [2011]\nare consistent with a partial melt of the mantle (i.e., basalt) having crystallized at eclogite-facies P-T conditions consistent with a subduction zone geothermal gradient\n[Baldwin et al., 2008]\n.\nMiocene and younger igneous rocks are relatively abundant in the southeastern Papua New Guinea region, including the Louisiade Archipelago. Compositionally these igneous rocks define two groups: (1) Middle-Late Miocene rocks with high-K and calc-alkaline signatures often interpreted as representing the ''Maramuni arc''; and (2) Pliocene and younger rift-related low-K tholeiites and peralkaline rhyolite\n[Smith and Milson, 1984]\n. Maramuni igneous rocks are accepted by several authors to represent an arc associated with southward dipping subduction at the Trobriand Trough during the Miocene [e.g.,\nTaylor and Huchon, 2002;\nLittle et al., 2007;\nFitz and Mann, 2013]\n. However, geophysical evidence for a south dipping subducted slab associated with the arc is weak-to-absent, and the subduction-like signatures could instead be linked to melting of subduction-modified lithosphere during the early stages of rifting (see discussion in Baldwin Line of section shown in Fig.\n13\nLine of section shown in Fig.\n13\nLine of section shown in Fig.\n13\nLine of section shown in Fig.\n13\nLine of section shown in Fig.\n13\nLine of section shown in Fig.\n13\nLine of section shown in Fig.\n13\nFigure\n2\n. Tectonic and geologic map of the Woodlark Rift region. Geology modified from\nDavies et al. [1971]\n,\nDavies [1980]\n,\nSmith [1973]\n, and\nSmith and Pieters [1973]\n; magnetic anomalies from\nTaylor et al. [1999]\nand\nGaina and M\u20ac uller [2007]\n.\net al. [2012]\n). An alternative hypothesis is that the Aure-Moresby and Pocklington Troughs (Figure\n2\n) mark the former trench of an Eocene (or younger), north dipping subduction zone\n[Yan and Kroenke, 1993]\n.\nThe Woodlark Basin formed during Late Miocene-present-day rifting along the Australian-Woodlark plate boundary, a process likely linked to slab-pull forces associated with northward subduction of Solomon Sea oceanic lithosphere at the New Britain and South Solomon trenches\n[Weissel et al., 1982;\nHall, 2001]\n. Counterclockwise rotation of the Woodlark microplate with respect to the Australia plate results in a west-east transition from rifting to seafloor spreading associated with westward propagation of the seafloorspreading rift tip. Ahead of the propagating rift-tip, in the Woodlark Rift, HP-UHP rocks on the D'Entrecasteaux Islands, Misima Island, and the Papuan Peninsula have been exhumed in the lower plates of active metamorphic core complexes\n[Davies, 1980b;\nDavies and Warren, 1988;\nWorthing, 1988;\nHill and Baldwin, 1993;\nLittle et al., 2007;\nAppleby, 1996;\nPeters, 2007;\nWebb et al., 2008;\nDaczko et al., 2011]\n. The timing of rifting along this plate boundary is largely constrained by marine geophysical surveys that constrain the age of the oldest oceanic crust in the eastern Woodlark Basin as 6 Ma, and as 2 Ma to the north of the Louisiade Archipelago\n[Taylor et al., 1995\n[Taylor et al., , 1999]]\n.\nTaylor and Huchon [2002]\nestimate the onset of rifting 8.4 Ma based on a regional unconformity identified in correlated well logs and seismic reflection profiles.\n1.2. Geology of the Southern and Eastern Louisiade Archipelago: Calvados Chain, Sudest, and Rossel Islands Islands of the southern and eastern Louisiade Archipelago range in maximum elevation from 200 to 800 m, are locally fringed by small coral islands (uplifted Tertiary reef limestones), and partially submerged barrier reefs to the south\n[Smith, 1973]\n. The dominant rock type throughout the archipelago is the Calvados Schist, named by\nDavies [1959]\nfor a sequence of primarily low-grade metapelites on Sudest Island and eastern Misima Island. The Calvados Schist comprises pelitic siltstone, sandstone, and minor conglomerate that have undergone regional metamorphism up to greenschist facies\n[Smith, 1973]\n. Metagabbro and ultramafic rocks are mapped locally on Rossel Island\n[Smith and Pieters, 1973]\n.\nSmith [1973]\nand\nSmith and Pieters [1973]\ndocumented an early, bedding-parallel foliation in the Calvados Schist in both the Calvados Chain and on Rossel Island, followed by crenulation-cleavage development associated with a regional set of WNW-ENE-trending folds.\nThe Calvados Schist is cross cut by intermediate dikes and sills and is stratigraphically overlain by intermediate to mafic volcanic rocks (Panarora Volcanics). Dikes cross cutting the Calvados Schist are recorded as far east as Rossel Island, whereas the Panarora Volcanics are present in the western end of the Calvados Chain (Figure\n2\n). Two K-Ar whole-rock analyses of pyroxene andesites yielded ages of 11.4 6 0.3 and 11.0 6 0.3 Ma, indicating that the volcanism is Late Miocene in age\n[Smith, 1973]\n.\nDavies and Smith [1971]\ncorrelated the Calvados Schist with the Owen Stanley Metamorphic Belt, suggesting that the rocks have late Mesozoic protoliths, and\nSmith [1973]\nsuggested that the Calvados Schist was possibly metamorphosed in the Eocene. Subsequently,\nZirakparvar et al. [2012]\ndemonstrated that exhumed metamorphic rocks of the southern-rifted margin of the Woodlark Basin/Rift have geochemical (major, trace, REE), isotopic (Hf, Nd) and geochronologic (zircon U-Pb ages) similarities to the Early Cretaceous Whitsunday Volcanic Province of northeastern Australia\n[Ewart et al., 1992;\nBryan et al., 1997]\n. Zircon U-Pb LA-ICP-MS analyses for two Calvados Schist samples from the Louisiade Archipelago (Figure\n3\n) yielded prominent early to middle Cretaceous zircon populations (120 to 90 Ma) that are concordant with 132-95 Ma isotopic ages (Rb/Sr and K-Ar) for magmatic rocks from the Whitsunday Volcanic Province\n[Bryan et al., 1997]\n. These geochemical and isotopic data suggest that the protoliths of felsic and intermediate metamorphic rocks in the Louisiade Archipelago and D'Entrecasteaux Islands were derived from volcanic and volcaniclastic sediments deposited on the Australian rifted margin in the Early Cretaceous\n[Zirakparvar et al., 2012]\n. Because the Calvados Schist represents lower metamorphic grade correlatives of the exhumed HP and UHP rocks in the D'Entrecasteaux Islands, information gleaned from the Louisiade Archipelago on the style and timing of deformation relating to polarity of subduction, for example, will add considerably to understanding the regional tectonic evolution, particularly in regard to the subduction-exhumation history of the HP-UHP rocks in the Woodlark Rift.",
+        "Fieldwork and Microstructural Observations": "Fieldwork and Microstructural Observations\nWe evaluated relationships between deformation, metamorphism, and igneous activity at 56 sites in the Louisiade Archipelago, documenting orientations and relative ages of features such as bedding, foliations,\nGeochemistry, Geophysics, Geosystems\n[1973]\n, showing location of field/sample sites and structural trends. The topographic base for the islands is version 2 of the Shuttle Radar Topography Mission digital topographic data. Structural data are shown for field sites in lower-hemisphere equal-area stereonets. Brittle faults are shown as great circles in stereonet plots with the exception of two ductile high-strain zones shown in red. Sense of slip, when determined in the field, is expressed by arrows showing the motion of then hanging wall with respect to the footwall; degrees of certainty (certain, probable, inferred, and unknown) are expressed by the style of arrowheads\n(filled, open, half, and headless, respectively)\n. See Figure\n11\nfor comparison of right-dihedra fault-plane solutions (for faults for which slip sense was determined) with regional earthquake focal mechanisms.\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005500 lineations, folds, and faults. Samples were collected for petrography, microstructural analyses, and 40 Ar/ 39 Ar thermochronology. Mesoscopic fault-slip data were collected, including orientations of fault planes and striae, along with details regarding the fault surface, overprinting relationships, and the age and nature of the faulted lithologies. Sense of slip was deduced based on offset markers or features on the fault plane such as steps, Riedel shears, or fibers. Right-dihedra fault plane solutions were generated with the computer program MyFault [Pangaea Scientific, 2011] using the methods of\nTurner [1953]\n. This analysis method was chosen due to the limited data set and to facilitate comparison of the brittle fault data with historical seismicity in the region for which focal mechanisms are available.",
+        "Calvados Chain": "Calvados Chain\nThe Calvados Chain is a series of islands defining the southwestern end of the Louisiade Archipelago (Figure\n2\n). Maximum elevations range up to 200-300 m, generally increasing in a NW to SE direction along the southern margin of the islands, the highest peak of which is on Panatinane Island (Figure\n3\n). There are two general map units in the Calvados Islands: Calvados Schist and Panarora Volcanics. While granite was previously mapped on eastern Panatinane Island by\nSmith [1973]\n, we were unable to confirm the presence of this lithology despite several attempts to locate intrusive bodies.\nPhyllites, psammitic schists, and white mica or graphite-bearing schists are the predominant rock types throughout the Calvados Chain. Metamorphism and deformation are variable over m to km scales. Protoliths for the Calvados Schist range from mudstone to siltstone, sandstone, carbonaceous sandstone, and pebbly sandstone. Sedimentary bedding and primary structures are locally preserved. Graded bedding is locally evident in fine-grained protoliths. Units with pebble-sized to small-cobble-sized clasts are typically matrix-supported and poorly sorted.\nAs observed by\nSmith [1973]\n, up to three tectonic foliations (S 1 -S 3 ) are locally apparent. Primary foliations (S 0 ; i.e., sedimentary bedding) are isoclinally folded (F 1 ) at several localities (Figure\n4a\n) and S 1 foliations are axial planar to F 1 . S 1 foliations commonly coincide with or closely parallel compositional banding. S 1 foliations are folded (F 2 ), the style of which in outcrop ranges from mesoscopic crenulations to m scale SW-vergent folds. S 2 foliations are locally observed to be axial planar to both F 2 fold styles (Figure\n4b\n). S 3 foliations are rare, though locally dominant (e.g., at site PNG09-001), and are associated with a second episode of crenulation cleavage development (F 3 ). S 3 foliations dip shallowly to moderately to the NE where observed.\nF 1 and F 2 fold hinges, crenulation lineations, and intersection lineations plunge shallowly to moderately to the SE, consistent with fold axes determined from dispersion of foliation poles (p axes depicted in stereonets in Figure\n3\n). Both S 1 and S 2 foliations are locally associated with stretching lineations (L 1 and L 2 ) defined by mica, quartz, and feldspar grains and aggregates, as well as by the long axes of stretched pebbles (Figure\n4c\n). Both generations of stretching lineations plunge SE or NW and in most cases share similar SE-plunging trends as all documented generations of intersection lineations and fold hinges.\nMylonite zones (dm to m scale) are locally associated with S 2 foliations. At station PNG09-006 (Figure\n3\n), we observed mylonitic fabrics with porphyroclastic feldspar grains and lithic clasts in association with steep NE dipping S 2 foliations and stretching lineations with moderate NW plunges. Approximately 50m away, S 1 foliations are associated with mm to m scale folds in outcrop and S 2 is an axial planar crenulation cleavage (Figure\n4b\n); minor flexural slip is locally apparent along SW-vergent fold limbs. At station PNG09-002, mylonitic fabrics are associated with shallow ENE dipping S 2 foliations and ESE shallowly plunging stretching lineations (paralleling F 2 fold hinges). In lower strain domains at the same locality with disjunctive S 2 foliations, S 1 is locally apparent and dips at a shallower angle than S 2 .\nQuartz veins are abundant in the Calvados Schist and comprise multiple generations, ranging in thickness from lm to dm scale. The oldest generation includes quartz veins oblique to S 0 and folded by F 1 folds (Figure\n4d\n). Two intermediate generations of veins include: (1) quartz veins concordant with the S 1 foliation, and (2) quartz veins emplaced at high angle to S 1 and folded during S 2 development. The youngest generation of quartz veins and tension gashes cross-cut S 2 , the poles to which share a similar trend with stretching lineations, fold hinges, intersection lineations and p axes (Figures\n3\nand\n4e\n).\nIntermediate to mafic dikes and sills intrude the Calvados Schist and were observed at PNG09-005 on a small island offshore of eastern Motorina Island (Figure\n4f\n). There, sills are concordant with S 1 foliations and\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005500 dikes crosscut S 1 foliations. The dikes and sills do not display any evidence of ductile deformation at outcrop or thin section scale but are locally crosscut by brittle faults.\nThin section analyses support and augment field observations. Figure\n5a\nshows a metapelite (sample PNG09-003B) in which a quartz vein has intruded at a high angle to the S 1 foliation and has been subsequently folded during S 2 crenulation cleavage development. The vein preserves some evidence for syntaxial quartz textures, but the quartz has been variably deformed by bulging recrystallization. S 1 foliations are well developed and defined by the orientations of micas and compositional banding. S 2 foliations are axial planar with F 2 folds and are developed most intensely in fine-grained mica layers and defined by pressure solution seams. Similar observations are made in other samples, where S 1 foliations defined by white mica and/or biotite are preserved in the microlithons of spaced S 2 cleavages defined by pressure solution seams.\nIn a few samples, the S 1 foliations are also preserved as inclusion trails in albite porphyroblasts that appear  Geochemistry, Geophysics, Geosystems 10.1002/2014GC005500 to predate S 2 development based on the formation of strain caps (selvages of pressure solution) that parallel the S 2 foliation (Figure\n5b\n). Quartz grains show evidence for bulging recrystallization, but many samples display quartz-rich domains with polygonal textures. In these samples, there is sometimes evidence for two generations of white mica and biotite growth, distinguishable by orientation with respect to foliations, and locally with respect to grain size.\nd e f F 2 F 2 F 2 F 2 S 1 S 1 S 1 S 1 F 1 F 1 F 1 F 1 F 1 F 1 F 1 F 1 S 0 S 0 S 0 S 0 S 1 S 1 S 1 S 1\nIn the western part of the Calvados Chain, thin sections of the mylonitic fabrics associated with S 2 foliations at station PNG09-002 display dynamically recrystallized quartz with microstuctures characteristic of bulging and subgrain rotation. Feldspars deformed brittlely and preserve quartz-filled factures. Lithic fragments (fine-grained volcanics with microlites, siltstone, shale, quartzofeldspathic) are deformed into asymmetric boudinage and sigma-type objects (Figure\n5c\n). White mica, biotite, and chlorite are synkinematic. On Panatinane Island, quartz domains in mylonitic fabrics associated with S 2 foliations sampled at station PNG09-006 predominately display polygonal textures; some evidence for dynamic recrystallization via subgrain rotation is locally preserved. Feldspar porphyroclasts display core mantle structures (Figure\n5d\n) and biotite and white mica are synkinematic.\nSamples of thick quartz veins (cm scale or wider) display large quartz grains with chessboard extinction and grain boundary migration textures that are modified at grain and subgrain boundaries by bulging recrystallization, locally on the cusp of subgrain rotation recrystallization. In some cases, the quartz veins contain calcite as well, which seems to be linked to finer-scale, late calcite veins that coincide with or are parallel to brittle fractures. Locally this calcite displays type II, on the cusp of type III, twins\n[Ferrill et al., 2004]\n. Quartz domains in this sample predominately display polygonal textures; feldspar porphyroclasts (e.g., grain labeled ''Ab'') locally display core-and-mantle structures.\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005500 2.2. Sudest Island Sudest Island (also known as Tagula) is the largest island in the Louisiade Archipelago. There are two dominant topographic trends, one trend is roughly NW-SE, parallel to the long axis of the island; peak elevations are in the center of the island (typically 500-600 m, the highest elevation is 800 m) and decrease both to the . This topography in general slopes more gently toward the southwestern shores. The secondary trend is defined smaller-scale ridgelines oriented NE-SW. As with the Calvados Chain, the Calvados Schist is the dominant rock type on Sudest (Figure\n6\n). Locally, basaltic dikes cut across the foliation of the Calvados Schist.\nCalvados Schist lithologies documented on Sudest Island include phyllites, psammites, and carbonaceous schists. Structural trends and their relationship to quartz veining are similar to those observed in the Calvados Chain; however, only two generations of tectonic foliations are observed (S 1 , S 2 ). S 1 foliations are commonly associated with compositional banding and, in some outcrops, S 1 is observed to be axial planar to isoclinal folds (F 1 ) of S 0 (e.g., PNG09-025). S 1 foliations are variably folded by F 2 folds that range from recumbent and isoclinal (e.g., PNG09-013) to more upright geometries (PNG09-018, Figure\n7a\n). F 2 vergence, where documented, is to the SW based on the disposition of long versus short limbs in asymmetrical folds. S 2 foliations are axial planar to F 2 folds (Figure\n7b\n), and dip moderately to the NE. Stretching lineations (L 1 ) defined by micas, quartz, and feldspar aggregates plunge shallowly to moderately to the SE, sharing similar trends with intersection lineations, crenulation lineations, measured fold hinges, and p axes (Figure\n6\n).\nIn thin sections oriented with respect to a dominant S 1 foliation, S 1 is defined by compositional banding, the orientation of micas, pressure solution selvages, and flattened quartz grains. Feldspar grains and lithic clasts develop pressure shadows in S 1 and comprise asymmetric boudinage and sigma type objects (Figure\n7c\n). Feldspar core and mantle structures are locally incipient, and fine-grained white mica and biotite are synkinematic. Quartz grains in microlithons and veins show some evidence for dynamic recrystallization via bulging, but polygonal textures are also common.\nWhere S 2 is principally a mesoscopic crenulation cleavage in outcrop, S 2 foliations in thin section are defined by pressure solution selvages. Offsets of quartz veins and S 1 foliations are only locally apparent across these S 2 cleavage domains. In samples from localities where S 2 is the dominant foliation in outcrop (e.g., PNG09-013 where S 2 is axial planar to isoclinal F 2 folds of S 1 ) only one foliation is apparent in thin section (S 2 ) and largely shares the same description of S 1 above (Figure\n7d\n).",
+        "Rossel Island": "Rossel Island\nRossel Island (also known as Yela Island) is the easternmost island in the Louisiade Archipelago. The highest elevations (700-800 m range) are on the northeastern half of the island, with a general decrease toward the southwest, where peaks are in the 300-400 m range. In comparison to the Calvados Chain and Sudest Island, lithologies observed on Rossel Island are more diverse, including the Calvados Schist, metagabbro, ultramafic rocks, and mafic intrusive rocks (gabbro and basalt dikes; Figure\n8\n). All units are cross cut by mafic dikes; constraints on the relative ages of all units are discussed below and summarized in section 4.1.\nExposures of the Calvados Schist on the north-central coast of Rossel Island (PNG09-029-032) reveal structures similar to those observed in the Calvados Chain and on Sudest Island. There, S 1 foliations are folded, and S 2 foliations are axial planar to an F 2 crenulation cleavage. Poles to F 1 foliations define a p axis that plunges shallowly to the NW. Structurally below the Calvados Schist is the metagabbro. The metagabbro varies from more massive with a weak S 1 foliation (e.g., site PNG09-030) to greenschist with a welldeveloped S 1 foliation (e.g., site PNG09-032). In thin section, the greenschist preserves igneous orthopyroxenes (Figure\n10a\n) and plagioclase as porphyroclasts, and chlorite and actinolite are synkinematic.\nOutcrop exposures along the northwestern coastline reveal gabbro and basalt, comprising the mafic intrusives shown in Figure\n8\n, and variably metamorphosed metasediments of the Calvados Schist (prehnitepumpellyite up to low greenschist facies). Sedimentary bedding (S 0 ) and, locally, primary features such as soft-sediment deformation (flame structures at PNG09-037) are well preserved. Bedding orientations are variable, but generally dip shallowly to the NE. In other localities, S 1 foliations are folded and S 2 foliations are associated with crenulation cleavage. In thin section, cleavage domains of S 2 foliations are defined by pressure solution seams, and S 1 foliations in microlithons are defined by the orientation of micas and Geochemistry, Geophysics, Geosystems 10.1002/2014GC005500 flattened quartz grains (Figure\n10b\n). The metasedimentary rocks are intruded by gabbro (PNG09-036 and 037) and show evidence for contact metamorphism; gabbros display chilled margins. Both the gabbros and the metasedimentary rocks are crosscut by basaltic dikes. Basalts are also observed as layered flows with possible pillow structures (e.g., PNG09-033 and 034). In thin section, gabbro and basalt samples are altered (e.g., serpentine replaces pyroxene) and are locally intruded by thin quartz and/or antigorite veins. Geochemistry, Geophysics, Geosystems",
+        "10.1002/2014GC005500": "10.1002/2014GC005500\nA m elange of ultramafic rocks, both fine and coarse-grained pyroxenite, with a serpentinite matrix is exposed on the southwestern tip of Rossel Island (PNG09-044). At site PNG09-045 the ultramafic rocks are structurally above and in fault contact with Calvados Schist. Shearing within the ultramafic unit locally formed meter-scale sigma-shaped blocks or phacoids. The dominant outcrop-scale fault zone within the unit dips to the SW (Figures\n8\nand\n9a\n) and exposed surfaces are characterized by SW plunging (downdip) serpentine fibers (Figures\n8\nand\n9b\n). Shear sense appears to be top-to-the-SW based on asymmetry of serpentine fiber terminations and antithetic faults within ultramafic blocks. In the Calvados Schist, structurally below this fault, we observed fabrics that are consistent with those in the ultramafic rocks but deviate from the regional structural trends of the Louisiade Archipelago. For example, the dominant foliation (S 2 ) observed at PNG09-045 in the Calvados Schist dips to the SW and stretching lineations plunge downdip, parallel to fold hinges (Figure\n9c\n).\nIn thin section, primary igneous minerals in the ultramafic rocks are largely serpentinized. Samples of the Calvados Schist immediately below the ultramafic rocks display crenulation cleavages (defined by white mica and pressure solution seams) and folded quartz veins in thin sections oriented both parallel (Figure\n10c\n) and perpendicular to the stretching lineation (L 2 ). Quartz displays evidence for dynamic recrystallization of veins by subgrain rotation. Oblique foliations defined by subgrains and dynamically recrystallized grains are consistent with top-to-the-SW sense of shear (Figure\n10d\n). Locally, quartz grains in quartz-rich domains have polygonal grain boundaries.\nAlong the southern coastline of Rossel Island, exposures of the Calvados Schist reveal structural fabrics that are more consistent with the regional trends. There, up to three tectonic foliations are observed (S 1 -S 3 ). Locally, S 2 foliations are axial planar to F 2 folds defined by quartz veins (Figure\n9d\n). Elsewhere, S 2 foliations are folded about F 3 folds that plunge moderately to the SE, parallel to intersection lineations. While axial planes regionally tend to dip to the NE, F 3 axial planes on southern Rossel Island dip steeply to moderately\nS 2 S 2 S 2 S 2 F 2 F 2 F 2 F 2 F 2 F 2 F 2 F 2 S 2 S 2 S 2 S 2 S 1 S 1 F 2 F 2 F 2 F 2",
+        "Brittle Faulting": "Brittle Faulting\nBrittle faults crosscut all lithologies observed in the Louisiade Archipelago\n(Figures 3,\n6,\n8,\nand 11\n). In the Calvados Chain and on Sudest Island, faults crosscut both the Calvados Schist and the dikes and sills documented near Motorina Island (PNG09-005) in the Calvados Chain. There, we observed evidence for at least one generation of NE striking, sinistral strike-slip faults associated with quartz fibers. Faults with dominantly top-to-the-N normal-sense of motion strike west or northwest, including a fault on Sudest Island with 1 m of gouge below a landslide deposit (PNG09-023; Figure\n6\n).\nThe majority of brittle faults documented were observed on western Rossel Island. There, faults crosscut the Calvados Schist, the ultramafic rocks, gabbro, and basalt flows and dikes. Faults are associated with quartz and calcite fibers, veins, and mineralized fracture planes. En echelon quartz veins are locally observed. Three generalized sets of faults are apparent: normal faults with principally top-to-the-N displacement, NE striking sinistral faults, and NW striking dextral faults. Crosscutting relationships between these brittle faults are vague. A limited number of NW striking, subvertical calcite-filled fracture sets crosscut normal faults, Geochemistry, Geophysics, Geosystems 10.1002/2014GC005500\nsuggesting that the strike-slip faults may locally be younger. Of the strike-slip fault sets, the NE-striking sinistral strike-slip faults dominate.",
+        "Ar/ 39 Ar Dating": "Ar/ 39 Ar Dating\nFour samples from the Louisiade Archipelago were dated by the 40 Ar/ 39 Ar method: three white mica separates from samples of the Calvados Schist taken from Panatinane Island and a hornblende separate from a porphyritic dacite sill that intrudes the Calvados Schist near Motorina Island (Figure\n3\n). Samples were selected after petrographic and microstructural observations were made to evaluate suitability for dating based on considerations such as grain size, single generations of, for example, white mica growth, and/or lack of alteration. Apparent age spectra and inverse isochrons are shown in Figure\n12\n. Detailed methods, sample data tables (Tables\nS1-S4\n), and a summary data table (Table\nS5\n) are included in the supporting information. Errors are quoted in the text at the 1r level.\nFrom Panatinane Island in the Calvados Chain, sample PNG09-054A is a quartz mica schist taken from an outcrop that preserves evidence for the protoliths having been interbedded sandstone and mudstone layers. In outcrop, S 0 parallels S 1 , both of which are axial planar to isoclinal F 1 folds. Stretched sandstone pebbles in mudstone layers define a lineation with similar trend to F 1 fold hinge measured in outcrop. This sample is composed of quartz 1 white mica 1 epidote 1 albite 1 biotite. In thin section, many quartz domains display polygonal textures. The S 1 foliation is characterized by disjunctive cleavage defined mostly by mica domains and pressure solution seams.\nStep-heating of white mica from sample PNG09-054A Geochemistry, Geophysics, Geosystems 10.1002/2014GC005500 yielded a complex 40 Ar/ 39 Ar age spectrum which in general is dominated by progressively ages. The minimum age associated with the lowest temperature step is 3 Ma. The steps defining the flattest part of the spectra yield a weighted mean age of 15.27 6 0.15 Ma. The total fusion age for the sample is 13.5 6 0.2 Ma. PNG09-007A, also from Panatinane Island, is a weakly crenulated white mica schist that exhibits a moderately SE dipping S 1 foliation and weak SE plunging stretching lineation. In thin section, the sample contains the assemblage quartz 1 albite 1 white mica 1 biotite and also preserves possible relic fiamm e that are flattened in a plane that parallels S 1 . The S 1 foliation is continuous and defined by mica cleavage domains and microlithons of polygonal quartz grains. Step-heating of white mica from this sample yields a complex apparent age spectra. With increasing temperature, ages initially increase from a minimum age of 3 Ma to a hump-shaped segment with a corresponding age of 14.67 6 0.37 Ma. The sample does not yield a meaningful inverse isochron. The total fusion age for the sample is 12.8 6 0.2 Ma. PNG09-011A is also from Panatinane Island and comes from an outcrop of quartz mica schist that was intruded by quartz veins and subsequently crenulated (F 2 ). In thin section, the sample has the assemblage of quartz 1 white mica 1 albite 1 biotite. An S 1 foliation is defined by white mica in S 2 microlithons and is continuous with an internal foliation defined by inclusion trails in albite porphyroblasts. The S 2 foliation associated with the crenulation cleavage is defined in thin section by pressure solution seams. Step-heating of white mica from this sample yielded a minimum age of 3 Ma associated with the lowest temperature step. The majority of the steps define a plateau-like segment with a weighted mean age of 13.73 6 0.26 Ma. The sample yields a concordant inverse isochron age (15.7 6 7.7 Ma) and an atmospheric 40 Ar/ 36 Ar ratio within error. The total fusion age for the sample is 10.4 6 0.2 Ma. PNG09-005A is from a porphyritic dacite of the Panarora Volcanics sampled near Motorina Island in the Calvados Chain. In thin section, the sample displays small (<500 lm) euhedral hornblende phenocrysts and mm scale feldspar phenocrysts. Feldspar phenocrysts exhibit slightly corroded margins of large cores and reaction rims up to 100 mm wide. Step-heating of hornblende from this sample yielded a plateau age of 11.83 6 0.15 Ma. The sample yields a concordant inverse isochron age (11.9 6 2.6 Ma) and a 40 Ar/ 36 Ar ratio within error of atmospheric value. The total fusion age for the sample is 12.0 6 0.1 Ma. Geochemistry, Geophysics, Geosystems 10.1002/2014GC005500",
+        "Discussion": "Discussion",
+        "Metamorphism and Deformation in the Louisiade Archipelago": "Metamorphism and Deformation in the Louisiade Archipelago\nBased on the cross-cutting relationships, the oldest rocks in the Louisiade Archipelago are the metasedimentary rocks of the Calvados Schist and the metagabbros that intrude them. The metasedimentary rocks appear to be turbidites sourced from a volcanic continental margin as demonstrated by the preservation of volcanic lithic fragments, fiamm e, and quartzofeldspathic lithic fragments. This is consistent with the findings of\nZirakparvar et al. [2012]\nwho correlated the Calvados Schist with the Whitsunday Volcanic Province\n[Bryan et al., 1997]\n.\nThe integration of field and thin section observations indicates that the protoliths of the Calvados Schist were intruded by gabbros and both rock types subsequently experienced regional metamorphism under prehnite-pumpellyite to greenschist-facies conditions. Regionally, there is no clear pattern in metamorphic grade across the archipelago, at least not which can be resolved by the distribution of field sites in this study. Small differences in bulk composition could account for the apparent variability in metamorphic grade both at a single outcrop as well as over larger scales; however it is likely that tectonic juxtaposition of units with different metamorphic histories also plays a role.\nA more clearly defined regional pattern of deformation does emerge from our data set. S 1 -S 3 foliations across the Louisiade Archipelago appear to have formed during progressive deformation and are axial planar to F 1 -F 3 folds with hinges that plunge shallowly to moderately to the ESE or WNW. The majority of all lineations (mineral, stretching, and intersection) share similar trends as the F 1 -F 3 fold hinges. No progressive rotation of linear structural elements into this ESE-WNW trend was observed and, thus, this ESE-WNW orientation appears to be primary regardless of fabric element generation. Fold vergence is dominantly to the SW, although some minor variability was observed (e.g., asymmetric folds with SW dipping F 3 axial planes on southern Rossel Island, Figure\n8\n). The combination of fold vergence, parallelism of all lineations and fold hinges, and the orientation of quartz veins suggests that the progressive deformation was associated with NNE-SSW shortening and ESE-WNW extension. Comparisons of features such as boudinage, and pressure shadows in orthogonal, oriented thin sections (i.e., X-Z and X-Y sections with respect to the finite strain ellipse) confirm a strong component of stretching and material transport in the ESE-WNW direction regionally within the Calvados Schist.\nWhile the dominant structures in the Calvados Schist are folds and associated crenulation cleavage, strain is variable at both regional and outcrop scale and shear zones are locally observed. In such samples where minerals exhibit microstructures characteristic of deformation via dislocation glide, we can glean some additional insight into temperatures associated with deformation\n[Passchier and Trouw, 2005, and references therein]\n. For example, in the Calvados Chain, mylonitic fabrics are associated locally with S 2 foliations. In the western Calvados Chain, PNG09-002 quartz grains exhibit microstructures characteristic of bulging recrystallization and minor subgrain rotation crystallization. Feldspars are deformed by brittle microfracturing, resulting in boudinaged and tiled grains. These observations, coupled with the presence of synkinematic white mica and chlorite, imply temperatures of deformation on the order of 400 C. Farther east in the Calvados Chain on Panatinane Island, samples of the high strain zone associated with S 2 foliations at PNG09-006 display feldspar porphyroclasts with core-and-mantle structures, synkinematic white mica and biotite, and quartz grains principally display polygonal textures. These observations suggest that the temperatures of deformation at PNG09-006 were 450-500 C, slightly higher than at PNG09-002. The polygonal quartz textures imply recovery of quartz via grain boundary area reduction postdeformation. At both sites, maximum temperatures appear to have coincided with development of the mylonitic fabrics and, in the case of PNG09-006, either slow cooling or reheating may have facilitated recovery in quartz.\nPolygonal quartz textures are observed in several samples throughout the Louisiade Archipelago and in many cases may be associated with deformation accommodated by dissolution-precipitation creep rather than being an indication of recovery postdeformation\n[Ashley et al., 2013]\n. While deformation was clearly accommodated in some samples via dislocation glide in quartz and, locally, feldspar, evidence for pressure solution (dissolution-precipitation creep) is ubiquitous in all samples and during all stages of deformation based on the observation of: (1) selvages and strain caps associated with S 1 -S 3 foliations; (2) precipitation of quartz in strain shadows and dilatational sites between boudinage; and (3) prolific veining.\nLineations in the Louisiade Archipelago parallel early crenulations documented in low-grade upper-plate rocks of Misima Island\n[Peters, 2007]\nthat have been correlated with the Calvados Schist. Stretching lineations in the Calvados Schist, sharing this same ESE-WNW trend, roughly parallel those observed locally Geochemistry, Geophysics, Geosystems 10.1002/2014GC005500 preserved in the footwalls of metamorphic core complexes of the D'Entrecasteaux Islands\n[Little et al., 2011]\nand the footwall rocks on Misima Island\n[Peters, 2007]\n.\nOne important exception in our data set to the ESE-WNW lineation trend relates to observations made on southwest Rossel Island (PNG09-045) where the Calvados Schist is observed to be in fault contact with and structurally below ultramafic rocks. There, lineations in the schist and fold hinges share a similar SW plunge, and kinematic indicators observed at the fault interface in outcrop and in thin sections are consistent with top-to-the-SW kinematics. Quartz microstructures observed in thin section are characteristic of subgrain rotation recrystallization, implying temperatures of deformation in the range of 400-450 C, consistent with greenschist-facies metamorphic conditions. We infer that this deformation occurred coevally with that described above for the rest of the Louisiade Archipelago. The differences observed in structural trends may relate to kinematic and/or strain partitioning along the obliquely convergent (transpressional) plate boundary at the regional scale; this is an issue that requires further study.",
+        "Timing of Metamorphism and Deformation": "Timing of Metamorphism and Deformation\nThe age of the protoliths of the Calvados Schist is constrained by the work of\nZirakparvar et al. [2012]\n. U-Pb LA-ICP-MS dating of detrital zircons from two samples taken from the Calvados Chain (Figure\n3\n) yielded dominant populations in the range of 120-90 Ma with peaks in age probability spectra of 100 Ma. These data provide a mid-Cretaceous maximum depositional age constraint for the protoliths of the Calvados Schist, and thus a maximum age constraint on the timing of metamorphism and deformation.\nSmith [1973]\nconducted two K/Ar analyses of a pyroxene andesite of the Panarora volcanic rocks on Panarora Island, approximately 10 km to the WSW of site PNG09-005, and obtained ages of 11.4 6 0.3 and 11.0 6 0.3 Ma. These ages are in reasonable agreement with our 40 Ar/ 39 Ar hornblende plateau age of 11.83 6 0.15 Ma obtained from a porphyritic dacite volcanic sill (PNG09-005). We interpret this age as the timing of intrusion of the undeformed (with respect to ductile fabrics) and unmetamorphosed sill. The date further constrains (1) the minimum age for deformation associated with NNE-SSW shortening and ESE-WNW extension and (2) the maximum age for the brittle strike-slip faults that crosscut the sills and dikes near Motorina Island.\nThe results of the 40 Ar/ 39 Ar step-heating analyses of three white mica separates from the Calvados Schist on Panatinane Island bear directly on the timing of metamorphism and ductile deformation. All three apparent age spectra yield Middle Miocene plateau or plateau-like segments and are affected by variable argon loss, with Pliocene apparent ages in the lowest temperature steps. Additionally, all white mica samples yielded some anomalously older apparent ages than the weighted mean ages, principally associated with the highest temperature steps and the lowest K/Ca ratios. Given that these samples were incipiently metamorphosed under low-grade conditions (up to greenschist facies), it is possible that some small plagioclase inclusions could have been present in the mica separates. Based on the results of\nZirakparvar et al. [2012]\n, detrital grains would likely be Cretaceous or older and thus be contributing to the older apparent ages obtained from the highest temperature steps. We also note that these older apparent ages for the higher temperature steps are similar to those obtained by step-heating of plagioclase from core zone gneisses in the D'Entrecasteaux Islands\n[Baldwin et al., 1993]\n. With the exception of PNG09-007a, the shape of the apparent age spectra (not convex up or hump-shaped; cf.\nWijbrans and McDougall [1986]\n) in combination with reasonably linear inverse isochron data (as opposed to two or more trends being apparent; cf. Moni e\n[1990]\n) do not suggest a significant argon contribution from more than one generation of mica. Rather, based on the microstructural data set, we infer that our data record partial Pliocene resetting of syntectonic Miocene white micas in the Calvados Schist and that the white micas grew during metamorphism and deformation at greenschist-facies conditions. We infer that the partial Pliocene resetting is associated with rifting-to-seafloor-spreading transition in the Woodlark Basin.",
+        "Tectonic Interpretations": "Tectonic Interpretations\nIntegrated structural and 40 Ar/ 39 Ar geochronologic data suggest that the Louisiade Archipelago preserves a record of Middle Miocene NNE-SSW convergence. The Calvados Schist records metamorphism at up to greenschist-facies conditions during progressive SSW vergent folding and foliation development and, locally on southwestern Rossel Island, top-to-the-SSW overthrusting of ultramafic rocks. Away from the thrust, the schist beneath the ultramafic rocks also records a strong component of WNW-ESE stretching and material flow for which evidence is locally recorded in mylonitic fabrics. Abundant veining and microstructures in the Calvados Schist testify to the importance of dissolution-precipitation creep in accommodating Geochemistry, Geophysics, Geosystems 10.1002/2014GC005500 deformation and its dominance over dislocation creep [cf.\nWassman and St\u20ac ockhert, 2013]\n. We interpret these data to be consistent with deformation in an accretionary wedge during Early-Middle Miocene northward subduction of a rifted fragment of the Australian margin, a time when\nHill and Hall [2003]\ninfer that transpression along the Australian-Pacific plate boundary resulted in 100-200 km of shortening along the New Guinea margin. In this scenario, the Calvados Schist represents mid-Cretaceous volcaniclastic sediments scraped off the subducting plate and incorporated into the accretionary wedge (Figure\n13\n), likely analogous to the Northern Apennine frontal wedge (Helmatoid Flysch) of the Early Oligocene Western Alps as proposed by Malus a et al.\n[2011]\nand Malus a and Garzanti\n[2012]\n.\nCenozoic oblique convergence between the Australia and Pacific plates has been accommodated variably through time along a complex plate boundary zone by transient subduction at (micro)plate boundaries. In the Miocene, fast northward motion of Australian Plate 22 to 16 Ma\n[Cohen et al., 2013]\noverlaps temporally with soft docking of the Ontong Java Plateau with the Melanesian arc during subduction of the Plate beneath oceanic lithosphere of the Solomon Sea\n[Petterson et al., 1999]\n. The onset of collision of this thick, oceanic plateau with the Melanesian arc trench may have promoted subduction of the Australian plate at the Aure-Moresby-Pocklington Troughs. Around this time,\nPigram et al. [1989]\ndocuments foreland basin development in the Gulf of Papua and\nCloos et al. [2005]\ncall for northward subduction of the Australian margin leading up to the Central Range Orogeny.\nWorthing and Crawford [1996]\nb\n) prior to the transition from north dipping subduction to rifting (15 Ma). The line of section is denoted in Figure\n2\n. The cross section for 15 Ma depicts northward subduction of a rifted fragment of the Australian Margin and associated development of an accretionary wedge (Louisiade Archipelago) and an island arc (Woodlark Island). The cross section for 0 Ma highlights extensional reworking of the subduction complex following the transition from subduction to rifting 12 Ma, driven by subduction of the upper plate (Solomon Sea lithosphere) at the New Britain and South San Cristobal trenches. The normal fault shown under the label for Misima Island depicts the Weipoou detachment fault of the Misima Island core complex, an active normal fault for which greenschist-facies correlatives of the Calvados Schist are in the upper plate and amphibolite-facies metamorphic rocks are in the lower plate\n[Peters, 2007]\n. Color gradations in cross sections from yellow-blue or white-blue colors represent increasing metamorphic grade, where dark blue is highest metamorphic grade; red depicts the presence of melt; purple is oceanic crust and taupe is mantle (undifferentiated). Abbreviations are as follows: MT 5 Moresby Trough; LA 5 Louisiade Archipelago; MI 5 Misima Island; WB SFS 5 Woodlark Basin seafloor-spreading system; NF 5 Nubara Fault; WI 5 Woodlark Island; TT 5 Trobriand Trough.\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005500 several authors have called upon slab-pull associated with subduction at the New Britain and South Solomon Sea trenches as the driving force for rifting in the Woodlark Basin [e.g.,\nWeissel and Watts, 1982;\nHall, 2001]\n.\nGeophysical studies indicate that the Pocklington Rise and Woodlark Rise constitute lower and upper-plate margins [cf.\nLister et al., 1986]\n, respectively, based on the recognition of N-dipping normal faults across the Woodlark Basin\n[Goodliffe and Taylor, 2007]\n. The geology of the Woodlark Rise contrasts with that of the Louisiade Archipelago. On Woodlark Island, basement rocks comprise low-K tholeiitic basaltic rocks with N-MORB signatures (the Luluai volcanics) which are unconformably overlain by Early Miocene limestone and Late Miocene calc-alkaline to shoshonitic volcanic rocks (''Maramuni arc'' association)\n[Trail, 1967;\nAshley and Flood, 1981;\nSmith, 1973]\n. The Luluai volcanics were thought by these authors to correlate with the Papuan Ultramafic Belt, but recent 40 Ar/ 39 Ar dating of pillow lavas suggest a Solomon Sea affinity instead\n[Catalano, 2012]\n. We suggest that the Woodlark Rise comprises crust and mantle lithosphere of the Solomon Sea and represents the upper plate of the Early-Middle Miocene subduction zone (Figure\n13\n). 40 Ar/ 39 Ar dating of amphibole from alkaline granite and high-K dacite on Woodlark Island yield 13-12 Ma ages\n[Catalano, 2012]\n, similar ages obtained for igneous rocks of the Panarora volcanics in this study and by\nSmith and Pieters [1973]\n. Trace element geochemistry of the Woodlark intrusives is consistent with melting of metasomatized subduction zone mantle wedge\n[Catalano, 2012]\n. Workers have noted a general westward younging of ages for the high-K igneous rocks, consistent with the stepwise rifting and propagation of seafloor spreading in the Woodlark Rift/Basin\n[Smith, 1973;\nJohnson et al., 1978;\nAshley and Flood, 1981]\n. The onset of rifting in the region of the Moresby Seamount and D'Entrecasteaux Islands occurred 8 Ma\n[Taylor and Huchon, 2002]\n, and geochemical and isotopic studies of the UHP eclogite in the D'Entrecasteaux Islands indicate the eclogite formed as a garnet-bearing partial melt of the mantle that intruded subducted continental lithosphere that crystallized at UHP conditions 8-7 Ma\n[Zirakparvar et al., 2011;\nMonteleone et al., 2007;\nBaldwin et al., 2008]\n. It follows that rifting farther east in the Louisiade Archipelago and near Woodlark Island likely began earlier. We interpret the Middle Miocene igneous rocks in the Louisiade Archipelago and on Woodlark Island to be reflections of the initial stages of extension and the intrusion of mantle melts into the subduction complex, resulting in mixing, assimilation, storage and hybridization processes\n[Hildreth and Moorbath, 1988\n]-a possibility recognized in earlier regional studies of the Maramuni igneous rocks\n[Smith, 1982]\n.\nBrittle faulting in the Louisiade Archipelago is dominated by two trends: earlier NE-SW extension and a younger history of sinistral strike-slip faulting. The strike-slip faults on western Rossel Island may be analogous to the sinistral Trobriand Fault (small circles about the pole of rotation)\n[Little et al., 2007]\n; the faults are notably along strike of the Moresby Transform and thus the latter may be ancestral. The onset of seafloor-spreading north of the Louisiade Archipelago is constrained to be Pliocene-Pleistocene (2 Ma)\n[Taylor et al., 1999]\n, suggesting that the history of brittle normal faulting recorded on the islands continued until at least this time. The Moresby Transform formed at 1.5 Ma\n[Taylor et al., 1999]\n; we infer that the sinistral faults documented on Rossel Island were active prior to 2.0-1.5 Ma and likely became inactive following formation of the transform.\nThe integrated data set suggests that the Louisiade Archipelago is an accretionary complex associated with a north dipping subduction zone and Woodlark Island represents the upper plate (i.e., the magmatic arc); the Aure-Moresby-Pocklington Troughs likely mark the trench of the former subduction zone. This model for Early-Middle Miocene convergence associated with northward dipping subduction of a rifted fragment of Australian passive margin beneath oceanic lithosphere of the Solomon Sea needs to account for the presence of the Trobriand Trough. This bathymetric feature has been interpreted by some workers as a south dipping subduction zone\n[Cooper and Taylor, 1987;\nPegler et al., 1995]\n, further inferred as the cause of Maramuni magmatism with arc-like signatures. As stated previously, there is no compelling geophysical evidence for a deeply subducted, south dipping slab. It is possible that some convergence was accommodated by thrusting at the Trobriand Trough, but rather than a bonafide subduction zone, any such north directed thrusting there may be more analogous to the Banda Thrust, a back thrust in the overriding plate of the subducting Australian margin at the Banda Trench\n[Audley-Charles, 2004]\n.",
+        "Conclusions": "Conclusions\nMetasedimentary rocks of the Calvados Schist and the metagabbros that intrude them represent a rifted fragment of the Australian passive margin that formed during Cretaceous-Early Cenozoic rifting and Geochemistry, Geophysics, Geosystems 10.1002/2014GC005500 subsequent seafloor spreading in the Coral Sea. Both lithologies were regionally metamorphosed at up to greenschist-facies conditions. S 1 -S 3 foliations recorded in the Louisiade Archipelago formed during progressive deformation; F 1 -F 3 fold hinges plunge shallowly to moderately to the ESE or WNW, parallel to mineral, stretching, and intersection lineations. Fold vergence, where recognized based on fold asymmetry, is dominantly to the SW and top-to-the-SW overthrusting of ultramafic rock is locally observed on southwestern Rossel Island. These data are consistent with progressive deformation associated with NNE-SSW shortening and ESE-WNW extension. A combination of dissolution-precipitation creep and, more locally, dislocation creep accommodated stretching and material transport in the ESE-WNW direction regionally within the Calvados Schist during oblique convergence.\nConstraints for the timing of metamorphism and deformation are provided by a mid-Cretaceous maximum depositional age constraint for the protoliths of the Calvados Schist\n[Zirakaparvar et al., 2012]\nand a 12 Ma 40 Ar/ 39 Ar age presented here for an undeformed sill of the Panarora Volcanics. The latter further constrains the maximum age for the brittle strike-slip faults that crosscut the sill and associated dikes. 40 Ar/ 39 Ar stepheating analyses of three white mica separates from the Calvados Schist yield Middle Miocene plateau or plateau-like segments and are affected by variable argon loss, yielding Pliocene apparent ages in the lowest temperature steps. These data are interpreted to record syntectonic mica growth during metamorphism and deformation at greenschist-facies conditions followed by partial Pliocene resetting prior to the onset of seafloor spreading to the north in the Woodlark Basin.\nThe integrated structural and geochronologic data suggest that the Louisiade Archipelago is an accretionary wedge that preserves a record of Early-Middle Miocene NNE-SSW convergence associated with transpression along the Australian-Pacific plate boundary. We propose that this event was associated with a short-lived episode of northward subduction of the Australian margin fragment beneath Solomon Sea lithosphere, and that the Woodlark Rise and Louisiade Archipelago (Pocklington Rise) represent upper and lower-plate margins of both the subduction zone and subsequent Woodlark Rift [cf.\nWebb et al., 2008]\n. Based on the synthesis of regional geological and geophysical data sets, the transition from subduction to rifting possibly occurred locally by 13-12 Ma. Figures\n3,\n6\n, and 8; the data may be acquired in spreadsheet format by contacting the corresponding author. We are grateful for field logistical support from captain and crew (who only mutinied once) of the RV Marlin1 as well as contributions from Alex Zirakparvar and Leigh Castellani to the field work conducted as part of this study. We express our thanks to the locals in the Louisiade Archipelago for their generous help and hospitality during fieldwork.\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005500"
+    },
+    "references": [
+        {
+            "title": "The Early-Middle Miocene subduction complex of the Louisiade Archipelago, southern margin of the Woodlark Rift",
+            "authors": [
+                "LauraEWebb",
+                "SuzanneLBaldwin",
+                "PaulGFitzgerald"
+            ],
+            "journal": null,
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "New model for controls on gold-silver mineralization on Misima Island",
+            "authors": [
+                "KAppleby"
+            ],
+            "journal": null,
+            "date": "1996",
+            "pages": {
+                "from": "33",
+                "to": "36"
+            }
+        },
+        {
+            "title": "Low-K tholeiites and high-K igneous rocks from Woodlark Island, Papua New Guinea",
+            "authors": [
+                "PMAshley",
+                "RHFlood"
+            ],
+            "journal": "J. Geol. Soc. Aust",
+            "date": "1981",
+            "pages": {
+                "from": "227",
+                "to": "240"
+            }
+        },
+        {
+            "title": "P-T-D histories from quartz: A case study of the application of the TitaniQ thermobarometer to progressive fabric development in metapelites",
+            "authors": [
+                "KTAshley",
+                "LEWebb",
+                "FSSpear",
+                "JBThomas"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2013",
+            "pages": {
+                "from": "3821",
+                "to": "3843"
+            }
+        },
+        {
+            "title": "Ocean trench blocked and obliterated by Banda forearc collision with Australian proximal continental slope",
+            "authors": [
+                "MGAudley-Charles"
+            ],
+            "journal": "Tectonophysics",
+            "date": "2004",
+            "pages": {
+                "from": "65",
+                "to": "79"
+            }
+        },
+        {
+            "title": "Thermochronologic constraints on the tectonic evolution of active metamorphic core complexes, D'Entrecasteaux Islands",
+            "authors": [
+                "SLBaldwin",
+                "GSLister",
+                "EHill",
+                "DAFoster",
+                "IMcdougall"
+            ],
+            "journal": null,
+            "date": "1993",
+            "pages": {
+                "from": "611",
+                "to": "628"
+            }
+        },
+        {
+            "title": "Pliocene eclogite exhumation at plate tectonic rates in eastern Papua New Guinea",
+            "authors": [
+                "SLBaldwin",
+                "BMonteleone",
+                "LEWebb",
+                "PGFitzgerald",
+                "MGrove",
+                "EJHill"
+            ],
+            "journal": "Nature",
+            "date": "2004",
+            "pages": {
+                "from": "263",
+                "to": "267"
+            }
+        },
+        {
+            "title": "Late Miocene coesite eclogite exhumed in the Woodlark Rift",
+            "authors": [
+                "SLBaldwin",
+                "LEWebb",
+                "BDMonteleone"
+            ],
+            "journal": "Geology",
+            "date": "2008",
+            "pages": {
+                "from": "735",
+                "to": "738"
+            }
+        },
+        {
+            "title": "Tectonics of the New Guinea region",
+            "authors": [
+                "SLBaldwin",
+                "PGFitzgerald",
+                "LEWebb"
+            ],
+            "journal": "Annu. Rev. Earth Planet. Sci",
+            "date": "2012",
+            "pages": {
+                "from": "495",
+                "to": "520"
+            }
+        },
+        {
+            "title": "Early Cretaceous volcano-sedimentary successions along the eastern Australian continental margin: Implications for the break-up of eastern Gondwana",
+            "authors": [
+                "SEBryan",
+                "AEConstantine",
+                "CJStephens",
+                "AEwart",
+                "RWSchon",
+                "JParianos"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1997",
+            "pages": {
+                "from": "85",
+                "to": "102"
+            }
+        },
+        {
+            "title": "Geochemical and 40 Ar/ 39 Ar constraints on the evolution of volcanism in the Woodlark Rift, Papua New Guinea",
+            "authors": [
+                "JPCatalano"
+            ],
+            "journal": null,
+            "date": "2012",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Collisional delamination in New Guinea: The geotectonics of subducting slab breakoff",
+            "authors": [
+                "MCloos",
+                "BSapiie",
+                "AQVan Ufford",
+                "RJWeiland",
+                "PQWarren",
+                "TPMcmahon"
+            ],
+            "journal": "Geol. Soc. Am. Spec. Pap",
+            "date": "2005",
+            "pages": {
+                "from": "1",
+                "to": "51"
+            }
+        },
+        {
+            "title": "Tracking the Australian plate motion through the Cenozoic: Constraints from 40 Ar/ 39 Ar geochronology",
+            "authors": [
+                "BECohen",
+                "KMKnesel",
+                "PMVasconcelos",
+                "WPSchellart"
+            ],
+            "journal": null,
+            "date": "2013",
+            "pages": {
+                "from": "1371",
+                "to": "1383"
+            }
+        },
+        {
+            "title": "Subduction without volcanism in the Solomon Islands arc",
+            "authors": [
+                "PJColeman",
+                "LWKroenke"
+            ],
+            "journal": "Geo Mar. Lett",
+            "date": "1981",
+            "pages": {
+                "from": "129",
+                "to": "134"
+            }
+        },
+        {
+            "title": "Seismotectonics of New Guinea: A model for arc reversal following arc-continent collision",
+            "authors": [
+                "PCooper",
+                "BTaylor"
+            ],
+            "journal": "Tectonics",
+            "date": "1987",
+            "pages": {
+                "from": "53",
+                "to": "67"
+            }
+        },
+        {
+            "title": "Structural evolution of the Dayman dome metamorphic core complex, eastern Papua New Guinea",
+            "authors": [
+                "NRDaczko",
+                "PCaffi",
+                "PMann"
+            ],
+            "journal": "Geol. Soc. Am. Bull",
+            "date": "2011",
+            "pages": {
+                "from": "2335",
+                "to": "2351"
+            }
+        },
+        {
+            "title": "Geological observations in the Louisiade Archipelago",
+            "authors": [
+                "HLDavies"
+            ],
+            "journal": "Bur. of Miner. Resour. Geol. and Geophys",
+            "date": "1959",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Crustal structure and emplacement of ophiolite in southeastern Papua New Guinea",
+            "authors": [
+                "HLDavies"
+            ],
+            "journal": "Colloq. Int. C. N. R. S",
+            "date": "1980",
+            "pages": {
+                "from": "17",
+                "to": "33"
+            }
+        },
+        {
+            "title": "Folded thrust fault and associated metamorphics in the Suckling-Dayman Massif, Papua New Guinea",
+            "authors": [
+                "HLDavies"
+            ],
+            "journal": "Am. J. Sci",
+            "date": "1980",
+            "pages": {
+                "from": "171",
+                "to": "191"
+            }
+        },
+        {
+            "title": "Geology of Eastern Papua",
+            "authors": [
+                "HLDavies",
+                "IESmith"
+            ],
+            "journal": "Geol. Soc. Am. Bull",
+            "date": "1971",
+            "pages": {
+                "from": "3299",
+                "to": "3312"
+            }
+        },
+        {
+            "title": "Origin of eclogite-bearing, domed, layered metamorphic complexes (core complexes) in the D'Entrecasteaux Islands",
+            "authors": [
+                "HLDavies",
+                "RGWarren"
+            ],
+            "journal": "Papua New Guinea",
+            "date": "1988",
+            "pages": {
+                "from": "1",
+                "to": "21"
+            }
+        },
+        {
+            "title": "Eclogites of the D'Entrecasteaux Islands",
+            "authors": [
+                "HLDavies",
+                "RGWarren"
+            ],
+            "journal": null,
+            "date": "1992",
+            "pages": {
+                "from": "463",
+                "to": "474"
+            }
+        },
+        {
+            "title": "Events of recent revisions to the geomagnetic reversal time scale on estimates of current plate motions",
+            "authors": [
+                "CDemets",
+                "RGGordon",
+                "DFArgus",
+                "SStein"
+            ],
+            "journal": "Geophys. Res. Lett",
+            "date": "1994",
+            "pages": {
+                "from": "2191",
+                "to": "2194"
+            }
+        },
+        {
+            "title": "Feedback between rifting and diapirism can exhume ultrahighpressure rocks",
+            "authors": [
+                "SMEllis",
+                "TALittle",
+                "LMWallace",
+                "BRHacker",
+                "SJ HBuiter"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2011",
+            "pages": {
+                "from": "427",
+                "to": "438"
+            }
+        },
+        {
+            "title": "The Cretaceous volcanic-plutonic province of the central Queensland (Australia) coast-A rift related 'calc-alkaline' province",
+            "authors": [
+                "AEwart",
+                "RWSchon",
+                "BWChappell"
+            ],
+            "journal": "Trans. R. Soc. Edinburgh Earth Sci",
+            "date": "1992",
+            "pages": {
+                "from": "327",
+                "to": "345"
+            }
+        },
+        {
+            "title": "Calcite twin morphology: A lowtemperature deformation geothermometer",
+            "authors": [
+                "DAFerrill",
+                "APMorris",
+                "MAEvans",
+                "MBurkhard",
+                "RHGroshongJr",
+                "CMOnasch"
+            ],
+            "journal": "J. Struct. Geol",
+            "date": "2004",
+            "pages": {
+                "from": "1521",
+                "to": "1529"
+            }
+        },
+        {
+            "title": "Tectonic uplift mechanism of the Goodenough and Fergusson Island gneiss domes, eastern Papua New Guinea: Constraints from seismic reflection and well data",
+            "authors": [
+                "GFitz",
+                "PMann"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2013",
+            "pages": {
+                "from": "3969",
+                "to": "3995"
+            }
+        },
+        {
+            "title": "Evolution of the Louisiade triple junction",
+            "authors": [
+                "CGaina",
+                "RDM\u20ac Uller",
+                "J.-YRoyer",
+                "PSymonds"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1999",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The boundary between continental rifting and sea-floor spreading in the Woodlark Basin, Papua New Guinea",
+            "authors": [
+                "AMGoodliffe",
+                "BTaylor"
+            ],
+            "journal": "Geol. Soc. Spec. Publ",
+            "date": "2007",
+            "pages": {
+                "from": "217",
+                "to": "238"
+            }
+        },
+        {
+            "title": "Multi-stage exhumation of young UHP-HP rocks: Timescales of melt crystallization in the D'Entrecasteaux Islands, southeastern Papua New Guinea",
+            "authors": [
+                "SMGordon",
+                "TALittle",
+                "BRHacker",
+                "SABowring",
+                "MKorchinski",
+                "SLBaldwin",
+                "AR CKylander-Clark"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2012",
+            "pages": {
+                "from": "237",
+                "to": "246"
+            }
+        },
+        {
+            "title": "Cenozoic reconstructions of SE Asia and the SW Pacific: Changing patterns of land and sea",
+            "authors": [
+                "RHall"
+            ],
+            "journal": null,
+            "date": "2001",
+            "pages": {
+                "from": "35",
+                "to": "56"
+            }
+        },
+        {
+            "title": "Integrating deep Earth dynamics in paleogeographic reconstructions of Australia",
+            "authors": [
+                "CHeine",
+                "DRM\u20ac Uller",
+                "BSteinberger",
+                "LDicaprio"
+            ],
+            "journal": "Tectonophysics",
+            "date": "2010",
+            "pages": {
+                "from": "135",
+                "to": "150"
+            }
+        },
+        {
+            "title": "Crustal contributions to arc magmatism in the Andes of central Chile",
+            "authors": [
+                "WHildreth",
+                "SMoorbath"
+            ],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": "1988",
+            "pages": {
+                "from": "455",
+                "to": "489"
+            }
+        },
+        {
+            "title": "Geometry and kinematics of shear zones formed during continental extension in eastern Papua New Guinea",
+            "authors": [
+                "EJHill"
+            ],
+            "journal": "J. Struct. Geol",
+            "date": "1994",
+            "pages": {
+                "from": "1093",
+                "to": "1105"
+            }
+        },
+        {
+            "title": "Exhumation of high-pressure metamorphic rocks during crustal extension in the D'Entrecasteaux region, Papua New Guinea",
+            "authors": [
+                "EJHill",
+                "SLBaldwin"
+            ],
+            "journal": "J. Metamorph. Geol",
+            "date": "1993",
+            "pages": {
+                "from": "261",
+                "to": "277"
+            }
+        },
+        {
+            "title": "Mesozoic-Cenozoic evolution of Australia's New Guinea margin in a west Pacific context",
+            "authors": [
+                "KCHill",
+                "RHall"
+            ],
+            "journal": "Geol. Soc. Am. Spec. Pap",
+            "date": "2003",
+            "pages": {
+                "from": "265",
+                "to": "290"
+            }
+        },
+        {
+            "title": "Delayed partial melting of subduction-modified mantle in Papua New Guinea",
+            "authors": [
+                "RWJohnson",
+                "DEMackenzie",
+                "IE MSmith"
+            ],
+            "journal": "Tectonophysics",
+            "date": "1978",
+            "pages": {
+                "from": "197",
+                "to": "216"
+            }
+        },
+        {
+            "title": "Focal mechanisms and plate tectonics of the southwest Pacific",
+            "authors": [
+                "TJohnson",
+                "PMolnar"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1972",
+            "pages": {
+                "from": "5000",
+                "to": "5032"
+            }
+        },
+        {
+            "title": "Detachment faulting and the evolution of passive continental margins",
+            "authors": [
+                "GSLister",
+                "MAEtheridge",
+                "PASymonds"
+            ],
+            "journal": null,
+            "date": "1986",
+            "pages": {
+                "from": "246",
+                "to": "250"
+            }
+        },
+        {
+            "title": "Continental rifting and metamorphic core complex formation ahead of the Woodlark spreading ridge, D'Entrecasteaux Islands",
+            "authors": [
+                "TALittle",
+                "SLBaldwin",
+                "PGFitzgerald",
+                "BMonteleone"
+            ],
+            "journal": "TC",
+            "date": "2007",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Diapiric exhumation of Earth's youngest (UHP) eclogites in the gneiss domes of the D'Entrecasteaux Islands, Papua New Guinea",
+            "authors": [
+                "TALittle",
+                "BRHacker",
+                "SMGordon",
+                "SLBaldwin",
+                "PGFitzgerald",
+                "SEllis",
+                "MKorchinski"
+            ],
+            "journal": "Tectonophysics",
+            "date": "2011",
+            "pages": {
+                "from": "39",
+                "to": "68"
+            }
+        },
+        {
+            "title": "Age of the metamorphic sole of the Papuan Ultramafic Belt ophiolite",
+            "authors": [
+                "WYLus",
+                "IMcdougall",
+                "HLDavies"
+            ],
+            "journal": null,
+            "date": "2004",
+            "pages": {
+                "from": "85",
+                "to": "101"
+            }
+        },
+        {
+            "title": "Rifting history of the Woodlark Basin in the southwest Pacific",
+            "authors": [
+                "BPLuyendyk",
+                "KCMacdonald",
+                "WBBryan"
+            ],
+            "journal": "Geol. Soc. Am. Bull",
+            "date": "1973",
+            "pages": {
+                "from": "1125",
+                "to": "1134"
+            }
+        },
+        {
+            "title": "Actualistic snapshot of the early Oligocene Alps: The Alps-Apennines knot disentangled",
+            "authors": [
+                "MGMalus A",
+                "EGarzanti"
+            ],
+            "journal": "Terra Nova",
+            "date": "2012",
+            "pages": {
+                "from": "1",
+                "to": "6"
+            }
+        },
+        {
+            "title": "Divergence in subduction zones and exhumation of high pressure rocks (Eocene Western Alps)",
+            "authors": [
+                "MGMalus A",
+                "CFaccenna",
+                "EGarzanti",
+                "RPolino"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2011",
+            "pages": {
+                "from": "21",
+                "to": "32"
+            }
+        },
+        {
+            "title": "Metamorphic core complex formation by density inversion and lower-crust extrusion",
+            "authors": [
+                "FMartinez",
+                "AMGoodliffe",
+                "BTaylor"
+            ],
+            "journal": "Nature",
+            "date": "2001",
+            "pages": {
+                "from": "930",
+                "to": "934"
+            }
+        },
+        {
+            "title": "Preservation of Hercynian 40 Ar/ 39 Ar ages through high-pressure low-temperature Alpine metamorphism in the Western Alps",
+            "authors": [
+                "PMoni E"
+            ],
+            "journal": "Eur. J. Mineral",
+            "date": "1990",
+            "pages": {
+                "from": "343",
+                "to": "361"
+            }
+        },
+        {
+            "title": "Thermochronologic constraints for the tectonic evolution of the Moresby seamount, Woodlark Basin, Papua New Guinea",
+            "authors": [
+                "BDMonteleone",
+                "SLBaldwin",
+                "TRIreland",
+                "PGFitzgerald"
+            ],
+            "journal": "Proc. Ocean Drill. Program Sci. Results",
+            "date": "2001",
+            "pages": {
+                "from": "1",
+                "to": "34"
+            }
+        },
+        {
+            "title": "Late Miocene-Pliocene eclogite facies metamorphism, D'Entrecasteaux Islands, SE Papua New Guinea",
+            "authors": [
+                "BDMonteleone",
+                "SLBaldwin",
+                "LEWebb",
+                "PGFitzgerald",
+                "MGrove",
+                "AKSchmitt"
+            ],
+            "journal": "J. Metamorph. Geol",
+            "date": "2007",
+            "pages": {
+                "from": "245",
+                "to": "265"
+            }
+        },
+        {
+            "title": "MyFault, version 1.04",
+            "authors": [],
+            "journal": null,
+            "date": "2005",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "A seismological study of the eastern New Guinea and the western Solomon Sea regions and its tectonic implications",
+            "authors": [
+                "CWPasschier",
+                "RA JTrouw",
+                "NYSpringer",
+                "GPegler",
+                "SDas",
+                "JHWoodhouse"
+            ],
+            "journal": "Geophys. J. Int",
+            "date": "1995",
+            "pages": {
+                "from": "961",
+                "to": "981"
+            }
+        },
+        {
+            "title": "Exhumation of high-pressure metamorphic rocks by low angle normal faulting at Misima Island, Woodlark rift, Papua New Guinea",
+            "authors": [
+                "KPeters"
+            ],
+            "journal": null,
+            "date": "2007",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Geological-tectonic framework of Solomon Islands, SW Pacific: Crustal accretion and growth within an intraoceanic setting",
+            "authors": [
+                "MGPetterson"
+            ],
+            "journal": "Tectonophysics",
+            "date": "1999",
+            "pages": {
+                "from": "35",
+                "to": "60"
+            }
+        },
+        {
+            "title": "Tectonic controls on carbonate platform evolution in southern Papua New Guinea: passive margin to foreland basin",
+            "authors": [
+                "CJPigram",
+                "PJDavies",
+                "DAFeary",
+                "PASymonds"
+            ],
+            "journal": "Geology",
+            "date": "1989",
+            "pages": {
+                "from": "199",
+                "to": "202"
+            }
+        },
+        {
+            "title": "The geology of the Calvados Chain, southeastern Papua",
+            "authors": [
+                "IESmith"
+            ],
+            "journal": "Bur. Miner. Resour. Aust. Bull",
+            "date": "1973",
+            "pages": {
+                "from": "59",
+                "to": "65"
+            }
+        },
+        {
+            "title": "Late Cenozoic volcanism and extension in eastern Papua",
+            "authors": [
+                "IESmith",
+                "JSMilsom"
+            ],
+            "journal": "Geol. Soc. Spec. Publ",
+            "date": "1984",
+            "pages": {
+                "from": "163",
+                "to": "171"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The geology of the Deboyne Island Group, Southeastern Papua",
+            "authors": [
+                "IESmith",
+                "PEPieters"
+            ],
+            "journal": "Bur. Miner. Resour. Aust. Bull",
+            "date": "1973",
+            "pages": {
+                "from": "71",
+                "to": "74"
+            }
+        },
+        {
+            "title": "Notes to accompany a geological map of Rossel Island, southeastern Papua",
+            "authors": [
+                "IESmith",
+                "PEPieters",
+                "CJSimpson"
+            ],
+            "journal": "Bur. Miner. Resour. Aust. Bull",
+            "date": "1973",
+            "pages": {
+                "from": "75",
+                "to": "78"
+            }
+        },
+        {
+            "title": "Volcanic evolution in eastern Papua",
+            "authors": [
+                "IE MSmith"
+            ],
+            "journal": "Tectonophysics",
+            "date": "1982",
+            "pages": {
+                "from": "315",
+                "to": "333"
+            }
+        },
+        {
+            "title": "Continental rifting and initial sea-floor spreading in the Woodlark Basin",
+            "authors": [
+                "BTaylor",
+                "AMGoodliffe",
+                "FMartinez",
+                "RHey"
+            ],
+            "journal": "Nat. Geosci",
+            "date": "1995",
+            "pages": {
+                "from": "534",
+                "to": "537"
+            }
+        },
+        {
+            "title": "How continents break up: Insights from Papua New Guinea",
+            "authors": [
+                "BTaylor",
+                "AMGoodliffe",
+                "FMartinez"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1999",
+            "pages": {
+                "from": "7497",
+                "to": "7512"
+            }
+        },
+        {
+            "title": "Active continental extension in the western Woodlark Basin: A synthesis of Leg 180 results",
+            "authors": [
+                "BTaylor",
+                "PHuchon"
+            ],
+            "journal": null,
+            "date": "2002",
+            "pages": {
+                "from": "1",
+                "to": "36"
+            }
+        },
+        {
+            "title": "Geology of Woodlark Island, Papua, Rep",
+            "authors": [
+                "DSTrail"
+            ],
+            "journal": "Bur. of Miner. Resour. Geol. and Geophys",
+            "date": "1967",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Estimation of current plate motions in Papua New Guinea from Global Positioning System observations",
+            "authors": [
+                "PTregoning"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1998",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Nature and dynamic interpretation of deformation lamellae in calcite of three marbles",
+            "authors": [
+                "FJTurner"
+            ],
+            "journal": "Am. J. Sci",
+            "date": "1953",
+            "pages": {
+                "from": "276",
+                "to": "298"
+            }
+        },
+        {
+            "title": "Cenozoic tectonics of New Guinea",
+            "authors": [
+                "AVan Ufford",
+                "MCloos"
+            ],
+            "journal": "AAPG Bull",
+            "date": "2005",
+            "pages": {
+                "from": "119",
+                "to": "140"
+            }
+        },
+        {
+            "title": "GPS and seismological constraints on active tectonics and arc-continent collision in Papua New Guinea: Implications for mechanics of microplate rotations in a plate boundary zone",
+            "authors": [
+                "LMWallace",
+                "CStevens",
+                "ESilver",
+                "RMccaffrey",
+                "WLoratung",
+                "SHasiata",
+                "RStanaway",
+                "RCurley",
+                "RRosa",
+                "JTaugaloidi"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "2004",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Rheology of the plate interface-Dissolution precipitation creep in high pressure metamorphic rocks",
+            "authors": [
+                "SWassman",
+                "BSt\u20ac"
+            ],
+            "journal": "Tectonophysics",
+            "date": "2013",
+            "pages": {
+                "from": "1",
+                "to": "29"
+            }
+        },
+        {
+            "title": "Can microplate rotation drive subduction inversion?",
+            "authors": [
+                "LEWebb",
+                "SLBaldwin",
+                "TALittle",
+                "PGFitzgerald"
+            ],
+            "journal": "Geology",
+            "date": "2008",
+            "pages": {
+                "from": "823",
+                "to": "826"
+            }
+        },
+        {
+            "title": "Tectonic evolution of the Coral Sea basin",
+            "authors": [
+                "JKWeissel",
+                "ABWatts"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1979",
+            "pages": {
+                "from": "4572",
+                "to": "4582"
+            }
+        },
+        {
+            "title": "The opening of the Woodlark Basin, subduction of the Woodlark spreading system, and the evolution of northern Melanesia since mid-Pliocene time",
+            "authors": [
+                "JKWeissel",
+                "BTaylor",
+                "GDKarner"
+            ],
+            "journal": "Tectonophysics",
+            "date": "1982",
+            "pages": {
+                "from": "253",
+                "to": "277"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "JRWijbrans",
+                "IMcdougall"
+            ],
+            "journal": null,
+            "date": "1986",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Ar/ 39 Ar dating of white micas from an Alpine high-pressure metamorphic belt on Naxos (Greece): The resetting of the argon isotopic system",
+            "authors": [],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": null,
+            "pages": {
+                "from": "187",
+                "to": "194"
+            }
+        },
+        {
+            "title": "Petrology and tectonic setting of blueschist facies metabasites from the Emo Metamorphics of Papua New Guinea",
+            "authors": [
+                "MAWorthing"
+            ],
+            "journal": "J. Geol. Soc. Aust",
+            "date": "1988",
+            "pages": {
+                "from": "159",
+                "to": "168"
+            }
+        },
+        {
+            "title": "The igneous geochemistry and tectonic setting of metabasites from the Emo Metamorphics, Papua New Guinea; a record of the evolution and destruction of a backarc basin",
+            "authors": [
+                "MAWorthing",
+                "AJCrawford"
+            ],
+            "journal": "Mineral. Petrol",
+            "date": "1996",
+            "pages": {
+                "from": "79",
+                "to": "100"
+            }
+        },
+        {
+            "title": "A plate tectonic reconstruction of the southwest Pacific, 0-100 Ma",
+            "authors": [
+                "CYYan",
+                "LWKroenke"
+            ],
+            "journal": null,
+            "date": "1993",
+            "pages": {
+                "from": "697",
+                "to": "709"
+            }
+        },
+        {
+            "title": "Lu-Hf garnet geochronology applied to plate boundary zones: Insights from the (U)HP terrane exhumed within the Woodlark Rift",
+            "authors": [
+                "NAZirakparvar",
+                "SLBaldwin",
+                "AKSchmitt"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2011",
+            "pages": {
+                "from": "56",
+                "to": "66"
+            }
+        },
+        {
+            "title": "The origin and geochemical evolution of the Woodlark Rift of Papua New Guinea",
+            "authors": [
+                "NAZirakparvar",
+                "SLBaldwin",
+                "JDVervoort"
+            ],
+            "journal": "Gondwana Res",
+            "date": "2012",
+            "pages": {
+                "from": "931",
+                "to": "943"
+            }
+        },
+        {
+            "title": "Zircon growth in (U)HP quartzo-feldspathic host gneisses exhumed in the Woodlark Rift of Papua New Guinea",
+            "authors": [
+                "NAZirakparvar",
+                "SLBaldwin",
+                "AKSchmitt"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2014",
+            "pages": {
+                "from": "1258",
+                "to": "1282"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+[console_scripts]
+metadata-extractor = metadata_extractor:main
+pdf-extractor = pdf_extractor:main
+pdf-loader = pdf_loader:main
+run-pipeline = preprocess:main

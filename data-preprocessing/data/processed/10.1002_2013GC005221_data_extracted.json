@@ -1,0 +1,2114 @@
+{
+    "metadata": {
+        "title": "Ta'u and Ofu/Olosega volcanoes: The ''Twin Sisters'' of Samoa, their P, T, X melting regime, and global implications",
+        "abstract": "The Samoan islands of Ta'u and Ofu/Olosega (Ofol hereafter) are single shield volcanoes that have erupted alkali basalt for the past 70 and 440 kyr, respectively. They are 20 km apart, and are the easternmost subaerial expressions of the Samoan plume. The isotopic data for these islands are published; we report here the first major and trace element data for Ofol. The two islands are similar isotopically and in trace elements. Their high 3 He/ 4 He marks them as being a FOZO mantle end-member. By comparing data from both volcanoes, we test the efficacy of melting models in constraining the mantle compositions and their P-T of melting. We show that the mantle sources are similar, with spidergrams that peak at Ta (43 BSE), and Lu 0.53 BSE. Melts and mantle sources both have Lu/Hf ratios that are too low to support measured 176 Hf/ 177 Hf ratios, pointing to a young enrichment event in the mantle source. Degrees of melting are 6.5% for Ta'u and 5.2% for Ofol. P-T of melting show a wide, overlapping range, but define a precise array; average values are 1475 C-77 km for Ta'u and 1550 C-110 km for Ofol. The deepest P-T estimate is 4.2 GPa and 1550 C. The P-T array is either a melting adiabat, or a mixing line of melts equilibrated at various depths. Kinetic modeling shows melt re-equilibration will be likely for ascent velocities (m/yr) less than 40/ (conduit radius in cm) 2 . P-T estimates for melting may typically be minimum values. Key Points: Ofu Island in Samoa has the highest 3He/4He ratio measured in the Pacific Major and trace element data for Ofu are presented here for the first time We present melt models evaluating the Ofu and Ta'u Island mantle sources",
+        "authors": [
+            {
+                "name": "StanleyRHart",
+                "affiliation": [
+                    {
+                        "department": null,
+                        "institution": "Woods Hole Oceanographic Institution",
+                        "address": {
+                            "settlement": "Massachusetts",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "MatthewGJackson",
+                "affiliation": [
+                    {
+                        "department": "Department of Earth Science",
+                        "institution": "University of California",
+                        "address": {
+                            "settlement": "Santa Barbara ReadMe Appendix section III Figures",
+                            "region": "California",
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "CTemperature",
+                "affiliation": []
+            },
+            {
+                "name": "Nd;Sr",
+                "affiliation": []
+            },
+            {
+                "name": "Johnson",
+                "affiliation": []
+            },
+            {
+                "name": "PBeattie",
+                "affiliation": []
+            },
+            {
+                "name": "JBeavan",
+                "affiliation": []
+            },
+            {
+                "name": "PTregoning",
+                "affiliation": []
+            },
+            {
+                "name": "MBevis",
+                "affiliation": []
+            },
+            {
+                "name": "TKato",
+                "affiliation": []
+            },
+            {
+                "name": "CMeertens",
+                "affiliation": []
+            },
+            {
+                "name": "BBourdon",
+                "affiliation": []
+            },
+            {
+                "name": "KW WSims",
+                "affiliation": []
+            },
+            {
+                "name": "ABouvier",
+                "affiliation": []
+            },
+            {
+                "name": "JDVervoort",
+                "affiliation": []
+            },
+            {
+                "name": "PJPatchett",
+                "affiliation": []
+            },
+            {
+                "name": "MBoyet",
+                "affiliation": []
+            },
+            {
+                "name": "RWCarlson",
+                "affiliation": []
+            },
+            {
+                "name": "MBoyet",
+                "affiliation": []
+            },
+            {
+                "name": "RWCarlson",
+                "affiliation": []
+            },
+            {
+                "name": "SChakraborty",
+                "affiliation": []
+            },
+            {
+                "name": "AMCourtier",
+                "affiliation": []
+            },
+            {
+                "name": "RDasgupta",
+                "affiliation": []
+            },
+            {
+                "name": "MMHirschmann",
+                "affiliation": []
+            },
+            {
+                "name": "WFMcdonough",
+                "affiliation": []
+            },
+            {
+                "name": "MSpiegelman",
+                "affiliation": []
+            },
+            {
+                "name": "ACWithers",
+                "affiliation": []
+            },
+            {
+                "name": "RADaly",
+                "affiliation": []
+            },
+            {
+                "name": "MHDodson",
+                "affiliation": []
+            },
+            {
+                "name": "FAFrey",
+                "affiliation": []
+            },
+            {
+                "name": "DHGreen",
+                "affiliation": []
+            },
+            {
+                "name": "SDRoy",
+                "affiliation": []
+            },
+            {
+                "name": "EGazel",
+                "affiliation": []
+            },
+            {
+                "name": "TPlank",
+                "affiliation": []
+            },
+            {
+                "name": "DWForsyth",
+                "affiliation": []
+            },
+            {
+                "name": "CBendersky",
+                "affiliation": []
+            },
+            {
+                "name": "CT ALee",
+                "affiliation": []
+            },
+            {
+                "name": "EHHauri",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "EHHauri",
+                "affiliation": []
+            },
+            {
+                "name": "LAOschmann",
+                "affiliation": []
+            },
+            {
+                "name": "JAWhitehead",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "JBlusztajn",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "GAGaetani",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "AZindler",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "JBlusztajn",
+                "affiliation": []
+            },
+            {
+                "name": "WELemasurier",
+                "affiliation": []
+            },
+            {
+                "name": "DCRex",
+                "affiliation": []
+            },
+            {
+                "name": "EHHauri",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "EHHauri",
+                "affiliation": []
+            },
+            {
+                "name": "NShimizu",
+                "affiliation": []
+            },
+            {
+                "name": "JJDieu",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "CHerzberg",
+                "affiliation": []
+            },
+            {
+                "name": "PDAsimow",
+                "affiliation": []
+            },
+            {
+                "name": "NArndt",
+                "affiliation": []
+            },
+            {
+                "name": "YNiu",
+                "affiliation": []
+            },
+            {
+                "name": "CMLesher",
+                "affiliation": []
+            },
+            {
+                "name": "JGFitton",
+                "affiliation": []
+            },
+            {
+                "name": "MJCheadle",
+                "affiliation": []
+            },
+            {
+                "name": "ADSaunders",
+                "affiliation": []
+            },
+            {
+                "name": "CHolzapfel",
+                "affiliation": []
+            },
+            {
+                "name": "SChakraborty",
+                "affiliation": []
+            },
+            {
+                "name": "DCRubie",
+                "affiliation": []
+            },
+            {
+                "name": "DJFrost",
+                "affiliation": []
+            },
+            {
+                "name": "MGJackson",
+                "affiliation": []
+            },
+            {
+                "name": "RWCarlson",
+                "affiliation": []
+            },
+            {
+                "name": "MGJackson",
+                "affiliation": []
+            },
+            {
+                "name": "AMJellinek",
+                "affiliation": []
+            },
+            {
+                "name": "MGJackson",
+                "affiliation": []
+            },
+            {
+                "name": "MDKurz",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "RKWorkman",
+                "affiliation": []
+            },
+            {
+                "name": "MGJackson",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "AAKoppers",
+                "affiliation": []
+            },
+            {
+                "name": "HStaudigel",
+                "affiliation": []
+            },
+            {
+                "name": "JKonter",
+                "affiliation": []
+            },
+            {
+                "name": "JBlusztajn",
+                "affiliation": []
+            },
+            {
+                "name": "MKurz",
+                "affiliation": []
+            },
+            {
+                "name": "JARussell",
+                "affiliation": []
+            },
+            {
+                "name": "MGJackson",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "AESaal",
+                "affiliation": []
+            },
+            {
+                "name": "NShimizu",
+                "affiliation": []
+            },
+            {
+                "name": "MDKurz",
+                "affiliation": []
+            },
+            {
+                "name": "JSBlusztajn",
+                "affiliation": []
+            },
+            {
+                "name": "ACSkovgaard",
+                "affiliation": []
+            },
+            {
+                "name": "MGJackson",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "JGKonter",
+                "affiliation": []
+            },
+            {
+                "name": "AAKoppers",
+                "affiliation": []
+            },
+            {
+                "name": "HStaudigel",
+                "affiliation": []
+            },
+            {
+                "name": "MDKurz",
+                "affiliation": []
+            },
+            {
+                "name": "JBlusztajn",
+                "affiliation": []
+            },
+            {
+                "name": "JMSinton",
+                "affiliation": []
+            },
+            {
+                "name": "JCJaeger",
+                "affiliation": []
+            },
+            {
+                "name": "JohnsonD M",
+                "affiliation": []
+            },
+            {
+                "name": "PRHooper",
+                "affiliation": []
+            },
+            {
+                "name": "RMConrey",
+                "affiliation": []
+            },
+            {
+                "name": "RFKatz",
+                "affiliation": []
+            },
+            {
+                "name": "MSpiegelman",
+                "affiliation": []
+            },
+            {
+                "name": "CHLangmuir",
+                "affiliation": []
+            },
+            {
+                "name": "DKear",
+                "affiliation": []
+            },
+            {
+                "name": "BLWood",
+                "affiliation": []
+            },
+            {
+                "name": "KAKelley",
+                "affiliation": []
+            },
+            {
+                "name": "TPlank",
+                "affiliation": []
+            },
+            {
+                "name": "SNewman",
+                "affiliation": []
+            },
+            {
+                "name": "EMStolper",
+                "affiliation": []
+            },
+            {
+                "name": "TLGrove",
+                "affiliation": []
+            },
+            {
+                "name": "SParman",
+                "affiliation": []
+            },
+            {
+                "name": "EHHauri",
+                "affiliation": []
+            },
+            {
+                "name": "RJKinzler",
+                "affiliation": []
+            },
+            {
+                "name": "TLGrove",
+                "affiliation": []
+            },
+            {
+                "name": "CMKnaack",
+                "affiliation": []
+            },
+            {
+                "name": "SBCornelius",
+                "affiliation": []
+            },
+            {
+                "name": "PRHooper",
+                "affiliation": []
+            },
+            {
+                "name": "AAKoppers",
+                "affiliation": []
+            },
+            {
+                "name": "JARussell",
+                "affiliation": []
+            },
+            {
+                "name": "JRoberts",
+                "affiliation": []
+            },
+            {
+                "name": "MGJackson",
+                "affiliation": []
+            },
+            {
+                "name": "JGKonter",
+                "affiliation": []
+            },
+            {
+                "name": "DJWright",
+                "affiliation": []
+            },
+            {
+                "name": "HStaudigel",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "CT ALee",
+                "affiliation": []
+            },
+            {
+                "name": "PLuffi",
+                "affiliation": []
+            },
+            {
+                "name": "TPlank",
+                "affiliation": []
+            },
+            {
+                "name": "HDalton",
+                "affiliation": []
+            },
+            {
+                "name": "WPLeeman",
+                "affiliation": []
+            },
+            {
+                "name": "JLonghi",
+                "affiliation": []
+            },
+            {
+                "name": "WFMcdonough",
+                "affiliation": []
+            },
+            {
+                "name": "WFMcdonough",
+                "affiliation": []
+            },
+            {
+                "name": "SSSun",
+                "affiliation": []
+            },
+            {
+                "name": "IMcdougall",
+                "affiliation": []
+            },
+            {
+                "name": "IA NMcdougall",
+                "affiliation": []
+            },
+            {
+                "name": "WGMelson",
+                "affiliation": []
+            },
+            {
+                "name": "TO'hearn",
+                "affiliation": []
+            },
+            {
+                "name": "EJarosewich",
+                "affiliation": []
+            },
+            {
+                "name": "JFMinster",
+                "affiliation": []
+            },
+            {
+                "name": "CJAllegre",
+                "affiliation": []
+            },
+            {
+                "name": ";M\u20ac Unker",
+                "affiliation": []
+            },
+            {
+                "name": "C",
+                "affiliation": []
+            },
+            {
+                "name": "JAPf\u20ac Ander",
+                "affiliation": []
+            },
+            {
+                "name": "SWeyer",
+                "affiliation": []
+            },
+            {
+                "name": "AB\u20ac Uchl",
+                "affiliation": []
+            },
+            {
+                "name": "TKleine",
+                "affiliation": []
+            },
+            {
+                "name": "KMezger",
+                "affiliation": []
+            },
+            {
+                "name": "JAPf\u20ac Ander",
+                "affiliation": []
+            },
+            {
+                "name": "CUnker",
+                "affiliation": []
+            },
+            {
+                "name": "AStracke",
+                "affiliation": []
+            },
+            {
+                "name": "KMezger",
+                "affiliation": []
+            },
+            {
+                "name": "KDPutirka",
+                "affiliation": []
+            },
+            {
+                "name": "MPerfit",
+                "affiliation": []
+            },
+            {
+                "name": "FJRyerson",
+                "affiliation": []
+            },
+            {
+                "name": "MGJackson",
+                "affiliation": []
+            },
+            {
+                "name": "MRReid",
+                "affiliation": []
+            },
+            {
+                "name": "RABouchet",
+                "affiliation": []
+            },
+            {
+                "name": "JBlichert-Toft",
+                "affiliation": []
+            },
+            {
+                "name": "ALevander",
+                "affiliation": []
+            },
+            {
+                "name": "KLiu",
+                "affiliation": []
+            },
+            {
+                "name": "MSMiller",
+                "affiliation": []
+            },
+            {
+                "name": "FCRamos",
+                "affiliation": []
+            },
+            {
+                "name": "JA CRobinson",
+                "affiliation": []
+            },
+            {
+                "name": "BJWood",
+                "affiliation": []
+            },
+            {
+                "name": "JDBlundy",
+                "affiliation": []
+            },
+            {
+                "name": "MFRoden",
+                "affiliation": []
+            },
+            {
+                "name": "FAFrey",
+                "affiliation": []
+            },
+            {
+                "name": "DMFrancis",
+                "affiliation": []
+            },
+            {
+                "name": "MKRoden",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "FAFrey",
+                "affiliation": []
+            },
+            {
+                "name": "WGMelson",
+                "affiliation": []
+            },
+            {
+                "name": "TORooney",
+                "affiliation": []
+            },
+            {
+                "name": "CHerzberg",
+                "affiliation": []
+            },
+            {
+                "name": "IDBastow",
+                "affiliation": []
+            },
+            {
+                "name": "VJSalters",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart ; Salters",
+                "affiliation": []
+            },
+            {
+                "name": "VJ",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "VJSalters",
+                "affiliation": []
+            },
+            {
+                "name": "SMallick",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "CELangmuir",
+                "affiliation": []
+            },
+            {
+                "name": "AStracke",
+                "affiliation": []
+            },
+            {
+                "name": "MWSchmidt",
+                "affiliation": []
+            },
+            {
+                "name": "ADardon",
+                "affiliation": []
+            },
+            {
+                "name": "GChazot",
+                "affiliation": []
+            },
+            {
+                "name": "RVannucci",
+                "affiliation": []
+            },
+            {
+                "name": "KWSims",
+                "affiliation": []
+            },
+            {
+                "name": "DJDepaolo",
+                "affiliation": []
+            },
+            {
+                "name": "HTStearns",
+                "affiliation": []
+            },
+            {
+                "name": "ASStepanov",
+                "affiliation": []
+            },
+            {
+                "name": "JHermann",
+                "affiliation": []
+            },
+            {
+                "name": "GDStice",
+                "affiliation": []
+            },
+            {
+                "name": "FWMccoyJr",
+                "affiliation": []
+            },
+            {
+                "name": "TJTenner",
+                "affiliation": []
+            },
+            {
+                "name": "MMHirschmann",
+                "affiliation": []
+            },
+            {
+                "name": "MHumayun",
+                "affiliation": []
+            },
+            {
+                "name": "WTodt",
+                "affiliation": []
+            },
+            {
+                "name": "RACliff",
+                "affiliation": []
+            },
+            {
+                "name": "AHanser",
+                "affiliation": []
+            },
+            {
+                "name": "AWHofmann",
+                "affiliation": []
+            },
+            {
+                "name": "MJWalter",
+                "affiliation": []
+            },
+            {
+                "name": "LEWasylenki",
+                "affiliation": []
+            },
+            {
+                "name": "MBBaker",
+                "affiliation": []
+            },
+            {
+                "name": "AJKent",
+                "affiliation": []
+            },
+            {
+                "name": "EMStolper",
+                "affiliation": []
+            },
+            {
+                "name": "SPWilliams",
+                "affiliation": []
+            },
+            {
+                "name": "TRDavies",
+                "affiliation": []
+            },
+            {
+                "name": "TTBarrows",
+                "affiliation": []
+            },
+            {
+                "name": "MGJackson",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "JWCole",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            },
+            {
+                "name": "Hart And Jackson V C",
+                "affiliation": []
+            },
+            {
+                "name": "RKWorkman",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "RKWorkman",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "MJackson",
+                "affiliation": []
+            },
+            {
+                "name": "MRegelous",
+                "affiliation": []
+            },
+            {
+                "name": "KAFarley",
+                "affiliation": []
+            },
+            {
+                "name": "JBlusztajn",
+                "affiliation": []
+            },
+            {
+                "name": "MKurz",
+                "affiliation": []
+            },
+            {
+                "name": "HStaudigel",
+                "affiliation": []
+            },
+            {
+                "name": "RKWorkman",
+                "affiliation": []
+            },
+            {
+                "name": "EHauri",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "JWang",
+                "affiliation": []
+            },
+            {
+                "name": "JBlusztajn",
+                "affiliation": []
+            },
+            {
+                "name": "EWright",
+                "affiliation": []
+            },
+            {
+                "name": "WMWhite",
+                "affiliation": []
+            },
+            {
+                "name": "AZindler",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "FAFrey",
+                "affiliation": []
+            },
+            {
+                "name": "SPJakobsson",
+                "affiliation": []
+            }
+        ],
+        "publication_date": "2014",
+        "funder": [
+            "National Science Foundation"
+        ]
+    },
+    "sections": {
+        "Introduction": "Introduction\nTa'u and Ofol are the two easternmost volcanic islands of the Samoa plume lineament, see Figure\n1\n. The isotopic differences between the two volcanoes are very small, but distinct. This is in contrast to the very large isotopic variations displayed by all of the other volcanoes of the Samoa chain. In addition, while the chain as a whole has a strong EM2 character\n[Wright and White, 1987;\nWorkman et al., 2004;\nJackson et al., 2007b;\nHart and Zindler, 1989]\n, these two islands are devoid of EM2 material and have a FOZO signature, extending to very high 3 He/ 4 He\n[Jackson et al., 2007a]\n. This provides a unique opportunity to constrain the geochemical makeup of the FOZO mantle source, and to compare the pressure, temperature, and nature of the melting regime and melt transport system in these two Samoan volcanoes. Note that this paper presents the first major and trace element data for Ofol; sample localities are shown in Figure\n1\n, and their location and description are given in Appendix Table\nA1\n. The major and trace element data for Ta'u, and all of the isotopic data considered here have been previously published.\nFirst, we will briefly review the geology of these two volcanoes, to show that they are similar shield-stage alkali basalt volcanoes with a similar evolution, though they are at different geomorphic (erosional) stages. In section 3, the extant K-Ar age data are reviewed, showing that ages for Ofol are 440 kyr and younger, compared to ages of less than 70 kyr for Ta'u. Section 4 shows that Samoan volcanism occurs along two coeval trends separated by 50 km, with Pb isotopes becoming steadily higher along both trends as the active volcanism on the east ends is approached. Section 5 shows the resulting distinct but very small isotopic differences between Ta'u and Ofol. Section 6 compares trace element patterns, with both volcanoes being similar, and both having the distinct positive Nb, Ta, and Ti anomalies that are the hallmarks of high 3 He/ 4 He basalts and the FOZO mantle end-member\n[Jackson et al., 2007a\n[Jackson et al., , 2008]]\n. Mantle source compositions are modeled in section 7 using the techniques of\nMinster and Allegre [1978]\n, and Ta'u and Ofol give surprisingly comparable sources. Consideration of possible long-term isotopic evolution of these sources in section 8 suggests that these mantle compositions have undergone young modification. Section 9 uses the petrologic model of\nLee et al. [2009]\nto derive P-T estimates for the melting of Ta'u and Ofol mantle. Kinetic modeling is used in section 10 to assess possible effects of melt-wall rock re-equilibration on these P-T estimates.",
+        "Age of Volcanism": "Age of Volcanism\nK-Ar ages have recently become available for Ta'u, Ofu, and Olosega islands\n[McDougall, 2010]\n. Four samples from the oldest formation on Ta'u (Lata) range from 20 to 70 kyr\n(610-20 kyr)\n. Seven samples from the main shield formation on Ofu/Olosega (Tuafanua) range from 240 to 440 kyr (610 kyr). While these are total fusion K-Ar data, the rocks are reported to be unweathered, and there is no indication of excess Ar problems. In one case, adjacent flows on Ofu agree in age (240 and 250 kyr). In another case on Ofu, a lower flow gives a slightly younger age than an overlying flow (310 kyr versus 400 kyr). Two samples from the west rift of Ofu give 40 Ar/ 39 Ar plateau ages of 270 6 140 kyr and 560 6 70 kyr, while one sample from the south rift gives a plateau age of 490 6 210 kyr\n[Koppers et al., 2011]\n. These data provide compelling evidence that Ta'u is generally younger than Ofu/Olosega, as is also strongly endorsed by the relative morphologies of the two volcanoes. Geochemistry, Geophysics, Geosystems 10.1002/2013GC005221\nBased on the Pacific plate velocity in this region of 71.3 mm/yr\n[Beavan et al., 2002]\n, and the spacing of the two volcanoes ( center of mass) of 20 km, we would expect a difference in age of 280 kyr (for a stationary plume). This is remarkably close to the difference in average age of the samples reported by\nMcDougall [2010]\nof 275 kyr. We are not inclined to present this as more than a general statement of the relative ages of these two volcanoes, as were we to make the same calculation for Vailulu'u (a submarine volcano that is the active locus of the plume) versus Ta'u (45 km separation), we would expect an age difference of 620 kyr, whereas the oldest dated sample from Ta'u is only 70 kyr (but clearly there are older basalts on Ta'u at greater depths in the shield). Evidence for young postglacial volcanism (<10 kyr) on Ta'u is given in Appendix III. Having set the ''age'' stage for Ofol and Ta'u, we can now address the issue of isotopic variations through time.",
+        "Temporal Isotope Variations": "Temporal Isotope Variations\nAlthough we will make the argument below that Ta'u and Ofu/Olosega are very similar geochemically, there are minor differences associated with an overall isotopic trend along the en echelon Vai and Malu trends in the Eastern Volcanic Province\n[Workman et al., 2004]\n. This is illustrated in Figure\n2\n, where 206 Pb/ 204 Pb is plotted against distance from the easternmost dredge from Vailulu'u. The overall shape of the two trends is remarkably similar, with a small dip in 206 Pb/ 204 Pb between 70 and 130 km. The Malu Trend is shifted 20 km west of the Vai Trend, such that the currently youngest end of the Malu Trend (Malumalu seamount) would align with Ta'u Island in Figure\n2\n, not the presently active Vailulu'u. Thus the Vai and Malu Trends are not only evolving coevally, but with very similar Pb isotopic signatures. The Vai Trend was initiated at 0.97 Myr (Dredge 104 at 136 km)\n[Koppers et al., 2011]\n. The Malu Trend initiates from eastern Tutuila, where the average age of the shield is 1.3 Myr\n[McDougall, 1985]\n; the age of Dredge 108 at 123 km is 1.10 Myr\n[Koppers et al., 2011]\n. The en echelon trends are not discernable prior to the generation of the Tutuila shield. Note that Vailulu'u is not exactly on the Vai Trend, but is shifted to the NE, as if to begin a new echelon. The distance between the two trends is 50 km, and bears an uncanny resemblance to the Kea and Loa Trends on Hawaii, though these are somewhat closer together (30-40 km). These systematic Pb isotope variations will play a role in comparing isotopes between Ta'u and Ofol.",
+        "Isotopic Comparison of Ta'u and Ofu/Olosega": "Isotopic Comparison of Ta'u and Ofu/Olosega\nIn general, there is limited isotopic variability within and between the islands of Ta'u, Ofu, and Olosega, with significant overlap. First, there are no significant isotopic differences between Ofu and Olosega Islands, so we will treat them as a single domain (as expected, as they are part of a single volcano, only separated morphologically by erosion). The clearest distinction between Ta'u and Ofol (Ofu-Olosega) can be made in 143 Nd/ 144 Nd-206 Pb/ 204 Pb space, see Figure\n3\n. Except for two Ta'u samples that plot in the Ofol field (T54, T55), the two fields are distinct. These two Ta'u samples were collected very near to each other, from a flow running over a sea cliff, thus among the youngest samples analyzed from Ta'u. The two samples from the youngest formation on Ofu (Nu'u Fm) are on the lower edge of the Ofol field, but are not distinct (see Figure\n3\n). One of the dike rocks on Ta'u (T44) is an isotopic outlier in several respects-it is the lowest 143 Nd/ 144 Nd and highest 87 Sr/ 86 Sr and D 208/204Pb of all of the samples studied here. This is in contrast to dike rocks from Ofol, which are abundant but not distinctive isotopically. In a statistical sense, the average 143 Nd/ 144 Nd for Ofol is only 41 ppm higher than Ta'u (0.512818 versus 0.512797), but this is meaningful at 2r because the distributions for the two volcanoes are quite tight, with standard errors in each case of 7 ppm (1r). The two volcanoes are only 44 ppm different in 87 Sr/ 86 Sr (0.704622 Ofol versus 0.704653 Ta'u), but this is not statistically significant. Figure\n4\nshows that the two volcanoes form arrays in 208 Pb/ 204 Pb-206 Pb/ 204 Pb space that are colinear and overlap significantly. Finally, to provide some sense of the coherence between related geologic units, four samples were analyzed from across a coherent 50 m sequence of flows from the north shore of Ta'u; these samples are numbered in Figures\n3\nand\n4\n, and show significant clustering. This establishes a rather typical feature of hot spot volcanism, where the isotopic variability increases with the scale length of the sampling\n[Hart and Zindler, 1989\n]; these two volcanoes also show much less isotopic variability than the Samoan chain as a whole, with a distinct absence of the characteristic Samoan EM2 component\n[Wright and White, 1987;\nWorkman et al., 2004;\nJackson et al., 2007b\nJackson et al., , 2010]]\n.\nGeochemistry, Geophysics, Geosystems 10.1002/2013GC005221 Geochemistry, Geophysics, Geosystems 10.1002/2013GC005221\nFrom Figure\n2\n, it is clear that there is a gradual increase in 206 Pb/ 204 Pb toward the youngest end of the Samoan chain, and this slow ''drift'' in composition is likely causing the distinction between Ofol and Ta'u as seen in Figure\n3\n. In the scheme of things, however, these isotopic differences are miniscule, and should not be taken as evidence for a significantly heterogeneous mantle.",
+        "Trace Element Comparison of Ta'u and Ofu/Olosega": "Trace Element Comparison of Ta'u and Ofu/Olosega\nAverage trace element patterns (spidergrams) for the two islands are shown in Figure\n5a\nGeochemistry, Geophysics, Geosystems\n10.1002/2013GC005221\nand Pb, as is typically observed in OIB from HIMU, EM1, or EM2 hot spots\n[Hart and Gaetani, 2006]\n. There is a small Ba depletion as is typical only in EM2\n[Workman et al., 2004]\n. There is a small Ti peak, but no significant Eu anomaly (Eu/Eu* 5 1.01 and 1.00). The average Ofol pattern is more enriched than average Ta'u for most of the elements, with the patterns crossing only at Er. It is tempting to attribute the enrichment in the Ofol samples to their being generally more evolved (loss of olivine and/or clinopyroxene), or the Ta'u samples being more influenced by accumulation of olivine and/or clinopyroxene. The average Mg# is lower for Ofol than for Ta'u (57.8 versus 59.4), but this small difference cannot account for the observed difference in the spidergrams. Furthermore, the average MgO and CaO of the two islands are identical (10.11 versus 10.10, 10.77 versus 10.69), so differences due to olivine or clinopyroxene control during magmatic differentiation can be ruled out. It is likely then to be a source effect, whereby either the Ofol source is more enriched than the Ta'u source, or the degree of melting is smaller. We show below that it is most likely a degree of melting effect.\nTo pursue this question, in Figure\n5b\nwe show the difference between the two islands as a ratio of Ofol/ Ta'u, in percent. Ignoring the high Cs and Rb values for Ofol, that may be alteration related, we see a general enrichment level in Ofol of about 20% for elements from U to Gd, with peaks above this level of 5-10% at Ta, Pb, and Ti. The heavy REE from Gd to Lu show a very linear negative slope, reaching a depletion at Lu of 10%. The REE ''difference'' pattern is thus composed of two linear segments, one horizontal from La to Gd, and the negative sloped segment from Gd to Lu. This pattern is not difficult to generate as a melting effect, using variations in degree of melting, and modal source differences in clinopyroxene and garnet.\nJackson et al.\n[2008]\nshowed that all high 3 He/ 4 He ocean island basalts (OIB) are characterized by positive spidergram anomalies in Nb, Ta, and Ti. Therefore, the small Ta ''peak'' shown in Figure\n5b\nis examined further by noting that the Nb-Ta correlations are excellent, with a minor (2.5%) distinction between Ofol and Ta'u: Nb/Ta for Ta'u 5 14.22 6 0.10, and for Ofol 5 13.87 6 0.13 (2r standard errors). These values straddle the BSE (bulk silicate earth) value of 14.0 6 0.3 proposed by\nMunker et al. [2003]\n; both islands also have Nb/ Ta that is very similar to N-MORB (14.0 6 0.4)\n[Munker et al., 2003]\n. If real, the small difference between Ta'u and Ofol could be created by partitioning effects of a number of minor minerals that may be present in the mantle source, e.g., carbonate, rutile, biotite/phengite\n[Dasgupta et al., 2009;\nStepanov and Hermann, 2013;\nSchmidt et al., 2004]\n. It may be noted that Pfander et al.\n[2007]\ndetermined an average Nb/Ta 5 15.9 6 0.6 for a large suite of samples from six end-member OIB hot spots; however, out of 48 analyzed samples, none were as low in Nb/Ta as the Ta'u and Ofol values. Notably, the lowest Nb/Ta ratios reported by Pfander et al.\n[2007] were on samples from Samoa. Not only does this analysis confirm the broad correlation between high 3 He/ 4 He and positive Nb, Ta, Ti anomalies demonstrated by\nJackson et al. [2008]\n, but it draws the mantle end-member FOZO into the correlation since high 3 He/ 4 He was noted as a main signature of FOZO\n[Hart et al., 1992;\nJackson et al., 2007a]\n.",
+        "Mantle Source Spidergrams": "Mantle Source Spidergrams\nBy use of linear regression of reciprocal melt concentration plots (e.g., 1/Sm versus 1/Th), we can gain information about both elemental concentration ratios in the mantle source, and bulk partition coefficients during melting\n[Minster and Allegre, 1978;\nSims and DePaolo, 1997;\nHart et al., 1997]\n. For incompatible elements, or elements of similar bulk partition coefficient, the slope on such a plot is equal to the concentration ratio in the mantle source (e.g., Th o /Sm o ). The intercept is a function of the bulk partition coefficients and element concentration in the mantle source (e.g., Intercept 5 (D Sm -D Th )/Sm o, for small D Th ). This linearization is functional for incompatible elements, and for modal or nonmodal batch melting. While not strictly linear for the more likely melting process involving aggregated fractional melts, the nonlinearity is of minor\net al., 2003]\n. This would decrease the Nb-Ta slope on the spidergrams in Figure\n1a\n, but would not change the Ta ''peak'' in Figure\n1b\n.\nGeochemistry, Geophysics, Geosystems 10.1002/2013GC005221 consequence for highly incompatible elements and small degrees of melting\n[Hart et al., 1997]\n. Effects due to differentiation during magma ascent must first be assessed, since some samples have clearly accumulated olivine, and some have differentiated to Cpx crystallization. For our modeling, we have limited the data set, based on CaO-MgO relationships, to samples nominally free of Cpx control or olivine accumulation. We only used samples that fell within an area in CaO-MgO space bounded by lines connecting the CaO-MgO vertices 5 12.0%-5.0%, 9.0-15.0, 10.2-15.0, 13.3-5.0. In addition, the trace element contents of this selected set of samples have then been adjusted for the olivine masses that needed to be added or subtracted to reach a common Fo 87 equilibrium olivine (Fo 87 is the most magnesian olivine phenocryst in any of the lavas). This set of 15 Ta'u and 7 Ofol samples will be used for all further trace and major element modeling.\nUsing the filtered data set and pair-wise regressions of 1/C A 21/C B data, with iteration where necessary, we have derived full spidergrams for both the Ta'u and Ofol mantle sources-see Figure\n6\n. (A listing of all the regressions is given in Appendix Table\nA2\n. Appendix Table\nA3\nlists the final concentrations for the two sources, and the partition coefficients for the Ofol data set.) These sources have been ''pinned'' at Er as this is where the basalt spidergrams cross (Figure\n5b\n). The particular Er concentration is a free parameter, but was chosen at 0.685 PUM (0.300 ppm) based on actual data from peridotites in the\nMcDonough (1990)\ndatabase, and the discussion in\nHart et al. [1997]\n. Overall, the Ta'u and Ofol sources show remarkably similar spidergrams across the whole range of incompatibility, with a few exceptions. The heavy REE (Tm, Yb, Lu) show a curious flattening for Ofol relative to Ta'u, significant at 1.5r. Both sources exhibit the marked K and Pb depletions that characterize most oceanic basalts\n[Hart and Gaetani, 2006]\n, showing that these depletions are present in the source and are not produced by the melting process. The source for the HIMU suite from the Hobbs Lineament, Antarctica, showed similar K depletions\n[Hart et al., 1997]\n. The difference between the Ta'u and Ofol K anomalies is significant at 2r, the difference between the Pb anomalies is not demonstrable due to a very uncertain value for Pb in Ta'u. Sr shows a small positive anomaly in the Ta'u source, and a marked negative anomaly in the Ofol source; the difference is significant at 1.6r. Neither the Ta'u Ti anomaly nor the Ofol Th anomaly is provable at the 1r level. However, the Nb/U ratio is significantly higher in Ta'u than in Ofol by >2r (79 versus 47).\nIf Ofol is a FOZO mantle end-member, as argued based on its high 3 He/ 4 He, then Figure\n6\nis the first estimate for the geochemical makeup of FOZO. It is certainly not a ''primitive'' or ''primordial'' source as might be argued based on the high 3 He/ 4 He. It is also not ''depleted,'' as was argued by\nHart et al. [1992]\n. The LREE are more than 10 times enriched over the depleted MORB mantle of\nWorkman and Hart [2005]\n. The LREE Figure\n6\n. Mantle source for Ta'u and Ofol (see text). Only the samples filtered for Cpx control or olivine accumulation are used here; these samples are also corrected to a common Fo 87 olivine equilibrium. Sample 04-12 from the posterosional Nu'u Formation was excluded from the regressions because it appears anomalous on most element-element plots. The regressions that were used to generate these source compositions are given in Appendix Table\nA2\n. The mantle composition data are given in Appendix Table\nA3\n.\nGeochemistry, Geophysics, Geosystems 10.1002/2013GC005221 are also 3 times more enriched than the HIMU mantle defined by\nHart et al. [1997]\n, and the overall REE pattern is slightly convex upward, versus the markedly bowl-shaped REE pattern for the HIMU source. But, as we will discuss in the next section, this FOZO mantle composition does not appear to have a long-time integrated history.\nFrom the source spidergrams (Figure\n6\n), the olivine-corrected rock compositions, and the bulk partition coefficients (D, given in Appendix Table\nA3\n), it is straightforward to calculate the fractional degree of melting (F) for each sample and each element (only the Ofol data provided intercept estimates of reasonable precision to constrain bulk D's. These D's were thus also used for the Ta'u calculations, given the similarity of the source spidergrams, and the insensitivity of F to D, when D is small). Using the 15 most incompatible elements, from Ba to Ti (excluding Rb, K, Pb, and Sr), there is typically good agreement for F in a given sample (1r SE typically 0.005 for Ta'u samples and 0.001 for Ofol samples). F for the 14 Ta'u samples from 0.058 to 0.076, averaging 0.0650 6 0.0026 (2r standard error); for the seven Ofol samples, the range is 0.044-0.060, with a mean of 0.0516 6 0.0045. Thus there is only overlap in F with one sample (from Ofol), and the means are strongly different at 2r, with F for Ta'u being 26% greater than for Ofol. This follows directly from the 20 to 30% trace element enrichment in Ofol lavas compared to Ta'u, as shown in Figures\n5a\nand\n5b\n. For comparison, the degrees of melting for these FOZO sources may be compared to that determined for a HIMU source (Hobbs Lineament, Antarctica\n[Hart et al., 1997]\n), using the same techniques: average F for Coleman Nunatak lavas 5 1.6% versus 5.2% for the Ofol mantle source. This difference is consistent with the fact that the Hobbs volcanoes are small, erupted through continental lithosphere, and are rift related, not plume-driven. This is not to imply that melting under Ofol was fundamentally different from that under Ta'u. There are simply more samples from Ofol that were derived from lower F melting domains than from Ta'u. Interestingly, the P-T modeling discussed below shows that these Ofol samples also have a higher mean P and T than Ta'u, consistent with more rapid melt migration from greater depths in the Ofol plumbing system. In other words, Ofol melts were effectively removed from the system at deeper levels and lower degrees of melting. Under Ta'u, melting and ongoing equilibration between mantle and melt continued during upwelling to shallower depths than under Ofol, leading to the overall higher degrees of melting.",
+        "Mantle Source Evolution": "Mantle Source Evolution\nIn common with many other OIB suites of HIMU/FOZO taxonomy, the Ta'u-Ofol volcanic suite shows a disconnect between low (or subchondritic) Lu/Hf ratios and high (or superchondritic) Hf isotopes. This is also true for Sm/Nd and Nd isotopes for Ofol lavas (Ta'u lavas are slightly superchondritic in Sm/Nd). While recognized for decades, this dilemma is commonly dismissed by asserting that the melting process has simply decreased the parent/daughter ratios relative to the mantle source. To the extent that the source compositions we have modeled above (e.g., Figure\n6\n) are valid, we show that both the source and the melts are LILelement enriched, or subchondritic in Lu/Hf. So sources with subchondritic Sm/Nd and Lu/Hf have produced superchondritic ratios of 143 Nd/ 144 Nd and 176 Hf/ 177 Hf.\nFor the Sm/Nd system, the Ofol source has precise enough Sm/Nd data to show this effect: the weight ratio is 0.280 6 0.009, whereas the 143 Nd/ 144 Nd ratio is 0.512814 (average of the seven basalts used to define the source). Chondritic values are: 0.324 and 0.512630. The effect is much more clearly shown for Lu/Hf, where even a visual inspection of Figure\n6\nshows very low subchondritic Lu/Hf ratios for both Ta'u and Ofol.\nFor Ta'u, the Lu/Hf (weight ratio) is 0.0405; for Ofol it is 0.0631; both are markedly lower than the chondritic ratio of 0.2367. Ta'u and Ofol have very similar 176 Hf/ 177 Hf isotope ratios\n(0.282946 and 0.282964 [Salters et al., 2011]\n), both clearly higher than the chondritic value of 0.282785 (definitive chondritic values for the Sm/Nd and Lu/Hf systems are from\nBouvier et al. [2008]\n).\nExtrapolating back in time on an isotope evolution plot, the Lu/Hf evolution trajectories for Ta'u and Ofol do not converge with the chondritic evolution curve. They do intersect the mantle evolution curve for depleted MORB (DMM, from\nWorkman and Hart [2005]\n), at about 300 Myr. They would likewise intersect an evolution curve for the Early Depleted Reservoir (EDR) formed by early segregation of an enriched, now hidden, reservoir, proposed by\nBoyet and\nCarlson [2005, 2006]\nto solve the problem of the superchondritic 142 Nd/ 144 Nd ratios of the accessible earth. Using the average Lu/Hf system values for the EDR as given by Geochemistry, Geophysics, Geosystems 10.1002/2013GC005221\nJackson and Jellinek [2013]\nwould lead to an intersection with Ta'u/Ofol of about 300 Myr, the same as with DMM. In either event, a young process of trace element enrichment of a long-term depleted source must have taken place. This enrichment process may be metasomatic in nature and separate in time and space from the melting process producing\nTa'u and Ofol volcanism [e.g., Frey et al., 1978;\nZindler et al., 1979;\nRoden et al., 1984a]\n, or it may be an integral part of the melting process (termed ''consequent metasomatism'' by\nRoden et al. [1984b]\n, and essentially an autometasomatic process). There is abundant evidence for metasomatism in mantle xenoliths from Samoa, with isotopic character similar to erupted melts\n[Hauri et al., 1993;\nHauri and Hart, 1994]\n. While most easily considered as an autometasomatic signature created by the infiltration and passage of Samoan melts, we cannot rule out an earlier unrelated metasomatic event that in effect created the present Samoan mantle source. For example, underplating and lithospheric metasomatism from earlier hot spot tracks in the Samoa region may be an important process\n[Jackson et al., 2010]\n. And finally, a young metasomatic process could generate the minor differences in the Ta'u and Ofol source compositions (Figure\n6\n), without concomitant significant differences in isotopic character. Thus, while we have defined a mantle source composition for these two volcanoes, it is not the same as the long-term source in which the isotopes were incubated.",
+        "P-T Conditions of Melting": "P-T Conditions of Melting\nTo further compare the melting regimes and P-T conditions between Ta'u and Ofol, we have used the filtered data set described above (section 7) to calculate P-T of melting, using the parameterized model of\nLee et al. [2009]\n. While models such as these are not yet fully realized, due to inadequate phase equilibria data, the similarity of the Ta'u and Ofol mantle sources may lead to a better intercomparison than the absolute precision expected from the model implementation. For example, the major free parameter in the model is the selection of the Fo content of the mantle source. A variation of only 1 Fo unit creates a P and T shift of 0.5 GPa and 50 C (at Fo89). But, given the isotopic and trace element similarity of Ta'u and Ofol, we can safely assume the same Fo for both sources.\nFigure\n7a\nshows the P-T data calculated for the filtered Ta'u and Ofol data sets (for Fo89 mantle olivine), along with a 1550 C potential temperature adiabat, and both a dry and a damp solidus. The Ta'u and Ofol data fall closely along a single trend, which we for now identify as an isentropic melting adiabat. This melting adiabat falls 50-70 C above a dry peridotite solidus, and 200-240 C above the most likely damp solidus (see figure legend for how this was estimated). It is unlikely that this melting adiabat is following a depleted solidus, as\nWasylenki et al. [2003]\nshowed that the solidus for a very depleted peridotite was only 55 C higher than that for a fertile (PUM or BSE) peridotite [see also\nRobinson et al., 1998]\n.\nWorkman and Hart [2005]\nshowed that the depleted upper mantle (DMM) is only mildly depleted relative to PUM, and the Samoa source mantle is probably not as depleted as DMM. Nevertheless, the tight array shown by the Ta'u-Ofol data (Figure\n7a\n) suggests a strong control by phase equilibria, probably a melting reaction boundary such as Ol 1 Cpx 1 Gnt 5 Opx 1 Liquid [e.g.,\nKinzler and Grove, 1992;\nLonghi, 2002;\nWalter, 1998\n].\nPlots such as Figure\n7a\nare typically interpreted as indicating a range of actual potential temperatures, leading to averaging as a means of comparing potential temperatures of volcanism within or between various geotectonic environments. There is also the recognition that adiabatic cooling can occur during melt transport, thus arguing for the use of the maximum potential temperature for a given suite of volcanics\n[Herzberg et al., 2007;\nRooney et al., 2012;\nReid et al., 2012;\nPutirka et al., 2007;\nGazel et al., 2012;\nCourtier et al., 2007]\n.\nKelley et al. [2010]\noffer a more cautious interpretation of such P-T data, suggesting they may represent ''final conditions of equilibration of a single batch melt,'' or a ''continuously interacting melt that percolates upward through the solid mantle and reacts continuously along its path.'' We will evaluate this proposition below, using a formal diffusion closure-temperature approach; we find it quite likely that re-equilibration of melts during ascent will be the norm.\nThe range of potential temperatures captured by Figure\n7a\nis from 1400 to 1550 C. Thus the shallowest depth of origin or of re-equilibration is 60 km, which is within the lithosphere under Samoa, unless substantial lithospheric thinning has occurred as a result of erosion by the plume. Backtracking of the highest P-T sample along a curved melting adiabat will clearly lead to a much higher potential temperature at the point where the melting adiabat reaches the damp solidus. Thus the maximum potential temperature suggested by this data could be of order 1600 C, and the depth of intersection with the chosen damp solidus Geochemistry, Geophysics, Geosystems A mantle olivine composition of Fo89 was assumed for both suites, using the model of\nLee et al. [2009]\n. This choice is based on the assumption that the Ta'u-Ofol mantle will not be more depleted than the upper depleted MORB mantle, and this mantle is fairly well constrained to be Fo89.5\n[Workman and Hart, 2005]\n. The blue line is a best fit to the data from both Ta'u and Ofol Islands (p 5 0.0134*T-17.22). Also shown (green) is an anhydrous peridotite solidus\n[Katz et al., 2003]\n, and a ''damp'' peridotite solidus (dark green) using the parameterization of\nKatz et al. [2003]\n, refined with the new data of Tenner et al.\n[2012]. The measured water contents of 25 glasses from two dredges near Ta'u Island were used (average water content 5 1.30 wt %, shown to be unaffected by degassing\n[Workman et al., 2006]\n). This corresponds roughly to a subsolidus mantle water content of 150 ppm\n[Workman et al., 2006]\n. The solid mantle adiabat shown in black is for a potential temperature of 1550 C (slope 5 0.4 C/km). (b) Comparison of the Tau-Ofol P-T trend from Figure\n7a\nwith post-Fagaloa lavas from Upolu (11 samples) and Savai'i (nine samples). Fagaloa is the oldest mapped unit (shield) on Upolu and Savai'i\n[Kear and Wood, 1959]\n. These samples were selected from the data in Workman et al.\n[2004] solely based on MgO > 11%; the data were quite clustered in CaO-MgO space, with no evidence for Cpx control. Samples include all of the post-Fagaloa series on Upolu (diamonds) and Savai'i (circles). These series are, in decreasing age: Salani, Mulifanua, Lefaga, Puapua, and Aopo\n[Kear and Wood, 1959]\n. The high-pressure group includes only samples from Upolu (Mulifanua, Lefaga and Puapua series).\n(c) Comparison of the Tau-Ofol P-T trend from Figure\n7a\n(diamonds) with the 26 highest MgO N-MORB glasses from\nMelson et al. [2002]\n. These glasses have MgO from 8.83 to 9.80%, are from a water depth range of 2500-3625 m in active near-ridge environments only (ages <6 Myr). Two samples with anomalously high Al 2 O 3 were not used, nor were one plag-phyric glass and one sample from the Red Sea. This group of N-MORB glasses defines a very tight trend, subparallel to, but 120 C above, the anhydrous solidus; the maximum potential temperature is 1365 C. Also shown here is a melt mixing line between an average of the six lowest temperature primary N-MORBS and an average of the five highest temperatures Ofol-Ta'u samples; tic marks are at intervals of 5%.\nGeochemistry, Geophysics, Geosystems 10.1002/2013GC005221 of order 150-200 km. Were we to use a higher mantle Fo content for the modeling, the P-T of the high temperature end of the array would shift to even higher P and T. For example,\nHauri and Hart [1994]\nreport olivine compositions from a suite of xenoliths from Savai'i, and there is a clustering of 13 samples that averages Fo91.1. While these are harzburgites that are possibly derived from the sub-Samoan lithosphere, they have a strong EM2 Samoan isotope signature. Using Fo91.1 instead of Fo89 for the Ta'u-Ofol suite leads to a P-T for the highest pressure primary magma of 1740 C-6.94 GPa; this represents a temperature increase of 140 C, and a ''depth'' increase of 80 km.\nThe western islands of Upolu and Savai'i have entered a posterosional or rejuvenated stage of volcanism, and it is of interest to compare the P-T conditions of this stage with the shield stages on Ofol and Ta'u discussed above; Figure\n7b\nmakes this comparison. All of the Upolu-Savai'i data lie below the Ofol-Ta'u trend, by up to 1 GPa. While there is partial overlap of Upolu with Savai'i at shallow depths, there is a high P-T cluster of Upolu data that falls around the 1550 C potential temperature adiabat that also marks the high temperature end of the Ofol data. This Upolu cluster falls off a linear extension of the melting adiabat, but may mark the ''turning'' of this adiabat as is required for it to reach the damp solidus. In any event, this Upolu cluster clearly supports a potential temperature adiabat of >1570 C, as argued above for the Ofol data.\nTo add context to the Ta'u-Ofol P-T data, we have selected a set of high MgO N-MORB glasses from the Smithsonian glass data set\n[Melson et al., 2002]\n, and used the\nLee et al. [2009]\nmodel to calculate P-T conditions for these primary N-MORB melts; see Figure\n7c\n. These data define a very tight melting array, shifted far down in P and T from the Ta'u-Ofol array. The slope of the N-MORB array is slightly less than that of the Ta'u-Ofol array, but plausibly could represent a slightly curved extension of that array. This argues for the generalized phase equilibria control of the P-T melting trajectories as discussed above. The N-MORB melting adiabat falls above the dry solidus by 120 C, but is subparallel to it, again demonstrating that the melting adiabat is not controlled by the solidus (of course, all of this assumes the P-T parameterization of\nLee et al. [2009]\nis accurate). The range of potential temperatures represented by the N-MORB data is from 1290 to 1360 C, with a depth range from 25 to 45 km. Remember, this is not the depth of origin, but the depth of last equilibration with residual peridotite. Backtracking the melting adiabat to the dry solidus would put the maximum depth of melt origin in the 90-100 km range. This is consistent with a large body of data that argues for MORB melting to start in the garnet peridotite facies\n[Salters and\nHart, 1989, 1991;\nBeattie, 1993]\n.\nAlternatively, the wide separation between the N-MORB and Ta'u-Ofol arrays could be due to incorrect assignment of mantle olivine Fo values (we used Fo89 for Ta'u-Ofol and Fo90 for the N-MORB). In order to overlap the N-MORB with the lowest temperature Ta'u-Ofol samples, the N-MORB olivine Fo would have to Geochemistry, Geophysics, Geosystems 10.1002/2013GC005221 be increased from Fo90 to Fo93. The N-MORB array would then be subparallel to Tau-Ofu, but 0.5GPa above it. Conversely, the Fo for the Ta'u-Ofol mantle could be decreased to Fo86, and the array would be subparallel to N-MORB, though 0.5 GPa below it. In either event, to create an overlap would require that the Ta'u-Ofol mantle olivine be 4 Fo units below that of the ambient N-MORB upper mantle. This is simply unsustainable, and further argues for a real P-T difference between N-MORB and the Samoa plume, in either depth of melt origin or melt re-equilibration.\nThere is one further caveat in understanding these P-T arrays to be trajectories of apparent adiabatic mantle melting-they could also simply be mixing arrays. This process is illustrated in Figure\n7c\n, where an average N-MORB primary melt is mixed with an average of the highest pressure Ofol melts. The result is a slightly curved array that is a reasonable fit to both the N-MORB and Ta'u-Ofol data. This is not to imply an actual mixing of N-MORB and Samoa melts, but simply to show that if a Samoa melt were to stagnate at shallow depth, and re-equilibrate to a low P-T, and then mix with through-going melts derived from great depth, a mixing array would be formed that would explain all of the Samoa data.",
+        "Re-Equilibration of Migrating Melts": "Re-Equilibration of Migrating Melts\nWithout further guidance on whether or not melts typically maintain equilibrium during ascent, the best we can say from derived P-T arrays is that the depth and temperature of melt origin is at least as great as the highest ''recorded'' P and T. However, we can put further constraints on this problem by consideration of the kinetic parameters that govern equilibrium between olivine and silicate melt. Let us then examine the melt transport conditions that are required for a melt to maintain equilibration with the host mantle, or for a melt to re-equilibrate with a mantle wall rock. While\nHart [1993]\nestimated that melts traversing a fractal plumbing system would lose touch with their surroundings over a rather small ascent range (1-5 km), equilibration length scales may be extended due to a decreasing melting rate as mantle ascent is slowed by impingement on the overlying lithosphere. The simple fractal system considered by\nHart [1993]\nwas driven by melting that occurs during mantle upwelling. However, once the melt enters the overlying lithosphere, the transport system and the imposed fluxes will be less simply constrained.\nFigure\n8\nshows the relationship between melt velocities in a transport pipe, and the radius of the pipe, for two closure temperatures defined by the P-T conditions at each end of the P-T array in Figure\n7a\n. We model the diffusive equilibrium of a melt in a cylindrical geometry, equilibrating with a peridotitic wall rock [see\nHart, 1993;\nJaeger, 1956]\n. We use the interdiffusion of Mg-Fe in olivine (Fo91) as the rate-limiting step for setting the P-T conditions expressed in the\nLee et al. [2009]\nparameterization. Obviously, this is simplistic, as the other mantle phases are also important, and also likely to be diffusively slower (Opx, Cpx, and garnet).\nOn the other hand, the model ignores the certain solution-redeposition that is implied by a melting reaction-and this will tend to speed up the chemical equilibration process. Additionally, the re-equilibration model is insensitive to the total amount of melt that a conduit has carried, as long as the number of mantle phases is maintained, and the bulk composition is held within certain limits.\nThe closure-temperature formulation from\nDodson [1973]\nis adapted to the boundary conditions and geometry given above (see caption to Figure\n8\n). Two closure-temperature lines are calculated and shown in Figure\n8\n; one for the deepest sample (1600 C) and one for the shallowest sample (1435 C) from the Ofol-Tau array in Figure\n7a\n. Closure temperatures to the NE of each line are higher (nonequilibrated) and to the SW are lower (equilibrated), so the lines demarcate these two domains. A melt plotting in between the lines is thus equilibrated at 1600 but not at 1435 . Melts in a pipe with a large radius and/or high velocity relative to the 1600 line will have frozen in conditions at depths greater than 130 km. Melts in small pipes and/or low velocities relative to the 1435 line are yet to have their P-T conditions frozen in.\nFor comparison, a re-equilibration curve for the fractal system of\nHart [1993]\nis also shown in Figure\n8\n, and this tends to show an enlarged region of nonequilibration. Note that most choices of model parameters in the fractal model tend to align along a SW-NE field, and this intersection with the closure-temperature arrays may help constrain realistic values for conduit sizes and melt velocities. One constraint on melt velocities is provided by U-series measurements-specifically the fact that 226 Ra-230 Th disequilibria is common in many oceanic hot spot systems\n[Bourdon and Sims, 2003]\n. This implies a total melt transport plus storage time of less than, say, 5000 years (the half-life of 226 Ra is 1600 years). For melting depths of 100 km, melt velocities of greater than 20 m/yr are thus signified. This velocity is curiously close to the demarcation Geochemistry, Geophysics, Geosystems 10.1002/2013GC005221 between equilibrated and nonequilibrated domains in Figure\n8\n. There is little else that we know about melt conduit dimensions or melt migration velocities. It would however seem reasonable to expect continuous equilibration and/or re-equilibration events to be common, and it may in fact be difficult to see through to the starting P-T conditions of most melting scenarios.\nSo what might we conclude from all of this regarding the argument as to whether hot spots (plumes) are hotter than ambient upper (MORB) mantle? Were we to take the maximum potential temperatures indicated for Samoa (1550 C) and primary N-MORB (1360 C), we would conclude (as others have done) that Samoa (and plumes in general) are 200 C hotter than ambient upper mantle. Given the arguments embodied in Figure\n8\n, however, it could also be argued that N-MORB are as hot as plume mantle, but that virtually all N-MORB have re-equilibrated to relatively low ''potential'' temperatures due to the particular aspects of their shallow plumbing system (or that some N-MORB re-equilibrate, and the rest are mixed with these, thereby losing their high P-T signature). The geodynamic setting of MORB generation would seem to favor large conduits and rapid ascent velocities, thus making it unlikely that MORBs will have a significant re-equilibration length scale; this argues that the measured P-T values are fact representative of actual melt generation levels.\n[1973]\nare for spherical diffusion into an infinite medium, where 83% equilibration occurs at 0.13 (radius) 2 /diffusion coefficient. In contrast, 83% equilibration times for a melt tube of given radius embedded in olivine is given by (radius) 2 /diffusion coefficient\n[Hart, 1993;\nJaeger, 1956]\n. Thus to adjust the Dodson formulation to the more realistic geometry as used by\nHart [1993]\n, the Dodson times are increased by a factor of 7.7. The cooling rate of Dodson is converted to a melt velocity by using the T-P slope of 2.5 /km for the Ofol-Ta'u array in Figure\n7a\n. The diffusion data are given by Mg-Fe interdiffusion in Fo 91 olivine, with both temperature and pressure dependencies invoked, as published by\nChakraborty [1997]\nand\nHolzapfel et al. [2007]\n. Two closure-temperature curves are shown, for both the highest and lowest temperature ends of the Ofol-Ta'u array in Figure\n7a\n(1435 C, 2.0 GPa, D 5 4.7 3 10 216 m 2 /s; 1600 C, 4.25 GPa, D 5 1.3 3 10 215 m 2 /s). The equations of the two curves are: V 5 41.37/r 2 (dashed) and V 5 128.2/r 2 ( solid). For comparison, an equilibration curve is shown for the fractal tree melt transport model of\nHart [1993]\n, using his model C parameters and the updated Fe-Mg interdiffusion data. Points for 1, 5, 10, 20, and 30% equilibration are given. In this case, the melt tube radius increases as the fractal tree branches continue to coalesce. To ''lock in'' P-T conditions as represented in Figure\n7a\n, melts must have a V-r trajectory that crosses the domain boundary lines from the SW to the NE quadrant, i.e., melts migrating into larger tubes and/or increasing in velocity.\nGeochemistry, Geophysics, Geosystems 10.1002/2013GC005221\n3. Mantle source spidergrams constructed for the two volcanoes using melting models show similar patterns, though with statistical differences for U/Nb, K, Sr, Yb, and Lu. Bulk partition coefficients for melting range from 0.001 for Th to 0.10 for Lu.\n4. The mantle source spidergram for Ofol has strong positive Nb and Ta anomalies, and a smaller Ti anomaly, as is common in basalts with high 3 He/ 4 He and FOZO end-member characteristics.\n5. Sm/Nd and Lu/Hf ratios of the sources are low (subchondritic to slightly superchondritic), in contrast to the high (superchondritic) 143 Nd/ 144 Nd and 176 Hf/ 177 Hf isotopic ratios. This dichotomy argues for a recent source enrichment event, possibly autometasomatic in nature.\n6. P-T modeling of the basalts defines a tight colinear melting array, with Ofol melts lying at higher temperatures and pressures than Ta'u melts: 1500-1600 C and 90-130 km versus 1430-1560 C and 60-115 km. We argue that this data do not necessarily indicate a range of mantle potential temperatures for these volcanoes, but rather a range of final melt-rock equilibration depths. Diffusion calculations based on Fe-Mg exchange between olivine and melt show that equilibration is likely as long as the melt velocity (in meters per year) is <40/(conduit radius in cm) 2 .\n7. In this ''equilibration'' interpretation, the highest potential temperature for the Samoan plume would be 1550 C; this is 200 C higher than the highest observed potential temperature for primary N-MORB. We also show that typical P-T arrays can be well characterized as mixing lines."
+    },
+    "references": [
+        {
+            "title": "Ta'u and Ofu/Olosega volcanoes: The ''Twin Sisters'' of Samoa, their P, T, X melting regime, and global implications",
+            "authors": [
+                "StanleyRHart",
+                "MatthewGJackson"
+            ],
+            "journal": null,
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "CTemperature"
+            ],
+            "journal": null,
+            "date": "1483",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "a Analytical data and methods for all of the Ta'u samples except T54 can be",
+            "authors": [],
+            "journal": null,
+            "date": "2004",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Pb were all analyzed on acid-leached powders by NEPTUNE ICP/MS. The Ofu/ Olosega major and trace element data are presented here for the first time; analyses were provided by the GeoAnalytical Lab",
+            "authors": [
+                "Nd;Sr",
+                "Johnson"
+            ],
+            "journal": "Analytical methods are described in Hart and Blusztajn",
+            "date": "1994",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "All Sr data are reported relative to 0.710240 for SRM987; precision is 615-25 ppm (2s). All Nd data are reported relative to",
+            "authors": [],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "All Pb data are reported relative to the SRM 981 values of Todt et al. [1996]; TIMS precision is 60.05%/amu; ICP/MS precision is 6100-200 ppm",
+            "authors": [],
+            "journal": null,
+            "date": "2001",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Ofol volcano is 20% more enriched than Ta'u, and this can be attributed to a smaller degree of melting for Ofol volcano",
+            "authors": [],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Uranium-thorium disequilibria and partitioning on melting of garnet peridotite",
+            "authors": [
+                "PBeattie"
+            ],
+            "journal": "Nature",
+            "date": "1993",
+            "pages": {
+                "from": "63",
+                "to": "65"
+            }
+        },
+        {
+            "title": "Motion and rigidity of the Pacific Plate and implications for plate boundary deformation",
+            "authors": [
+                "JBeavan",
+                "PTregoning",
+                "MBevis",
+                "TKato",
+                "CMeertens"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "2002",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "U-series constraints on Intra-plate basaltic magmatism",
+            "authors": [
+                "BBourdon",
+                "KW WSims"
+            ],
+            "journal": "Rev. Mineral. Geochem",
+            "date": "2003",
+            "pages": {
+                "from": "215",
+                "to": "254"
+            }
+        },
+        {
+            "title": "The Lu-Hf and Sm-Nd isotopic composition of CHUR: Constraints from unequilibrated chondrites and implications for the bulk composition of terrestrial planets",
+            "authors": [
+                "ABouvier",
+                "JDVervoort",
+                "PJPatchett"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2008",
+            "pages": {
+                "from": "48",
+                "to": "57"
+            }
+        },
+        {
+            "title": "142 Nd evidence for early (> 4.53 Ga) global differentiation of the silicate Earth",
+            "authors": [
+                "MBoyet",
+                "RWCarlson"
+            ],
+            "journal": "Science",
+            "date": "2005",
+            "pages": {
+                "from": "576",
+                "to": "581"
+            }
+        },
+        {
+            "title": "A new geochemical model for the Earth's mantle inferred from 146 Sm-142 Nd systematics",
+            "authors": [
+                "MBoyet",
+                "RWCarlson"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2006",
+            "pages": {
+                "from": "254",
+                "to": "268"
+            }
+        },
+        {
+            "title": "Rates and mechanisms of Fe-Mg interdiffusion in olivine at 980 -1300 C",
+            "authors": [
+                "SChakraborty"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1997",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Correlation of seismic and petrologic thermometers suggests deep thermal anomalies beneath hotspots",
+            "authors": [
+                "AMCourtier"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2007",
+            "pages": {
+                "from": "308",
+                "to": "316"
+            }
+        },
+        {
+            "title": "Trace element partitioning between garnet lherzolite and carbonatite at 6.6 and 8.6 GPa with applications to the geochemistry of the mantle and of mantle-derived melts",
+            "authors": [
+                "RDasgupta",
+                "MMHirschmann",
+                "WFMcdonough",
+                "MSpiegelman",
+                "ACWithers"
+            ],
+            "journal": "Chem. Geol",
+            "date": "2009",
+            "pages": {
+                "from": "57",
+                "to": "77"
+            }
+        },
+        {
+            "title": "The geology of American Samoa",
+            "authors": [
+                "RADaly"
+            ],
+            "journal": null,
+            "date": "1924",
+            "pages": {
+                "from": "95",
+                "to": "145"
+            }
+        },
+        {
+            "title": "Closure temperature in cooling geochronological and petrological systems",
+            "authors": [
+                "MHDodson"
+            ],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": "1973",
+            "pages": {
+                "from": "259",
+                "to": "274"
+            }
+        },
+        {
+            "title": "Integrated models of basalt petrogenesis: A study of quartz tholeiites to olivine melilitites from south eastern Australia utilizing geochemical and experimental petrological data",
+            "authors": [
+                "FAFrey",
+                "DHGreen",
+                "SDRoy"
+            ],
+            "journal": "J. Petrol",
+            "date": "1978",
+            "pages": {
+                "from": "463",
+                "to": "513"
+            }
+        },
+        {
+            "title": "Lithosphere versus asthenosphere mantle sources at the Big Pine Volcanic Field, California, Geochem. Geophys. Geosyst., 13, Q0AK06",
+            "authors": [
+                "EGazel",
+                "TPlank",
+                "DWForsyth",
+                "CBendersky",
+                "CT ALee",
+                "EHHauri"
+            ],
+            "journal": null,
+            "date": "2012",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Mantle plumes and entrainment: isotopic evidence",
+            "authors": [
+                "SRHart",
+                "EHHauri",
+                "LAOschmann",
+                "JAWhitehead"
+            ],
+            "journal": "Science",
+            "date": "1992",
+            "pages": {
+                "from": "517",
+                "to": "520"
+            }
+        },
+        {
+            "title": "Equilibration during mantle melting: A fractal tree model",
+            "authors": [
+                "SRHart"
+            ],
+            "journal": "Proc. Natl. Acad. Sci",
+            "date": "1993",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Age and geochemistry of the mafic sills",
+            "authors": [
+                "SRHart",
+                "JBlusztajn"
+            ],
+            "journal": null,
+            "date": "2006",
+            "pages": {
+                "from": "222",
+                "to": "237"
+            }
+        },
+        {
+            "title": "Mantle Pb paradoxes: The sulfide solution",
+            "authors": [
+                "SRHart",
+                "GAGaetani"
+            ],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": "2006",
+            "pages": {
+                "from": "295",
+                "to": "308"
+            }
+        },
+        {
+            "title": "Constraints on the nature and development of chemical heterogeneities in the mantle",
+            "authors": [
+                "SRHart",
+                "AZindler"
+            ],
+            "journal": null,
+            "date": "1989",
+            "pages": {
+                "from": "261",
+                "to": "387"
+            }
+        },
+        {
+            "title": "Hobbs Coast Cenozoic volcanism: Implications for the West Antarctic rift system",
+            "authors": [
+                "SRHart",
+                "JBlusztajn",
+                "WELemasurier",
+                "DCRex"
+            ],
+            "journal": "Chem. Geol",
+            "date": "1997",
+            "pages": {
+                "from": "223",
+                "to": "248"
+            }
+        },
+        {
+            "title": "Constraints on melt migration from mantle plumes: A trace element study of peridotite xenoliths from Savai'i, Western Samoa",
+            "authors": [
+                "EHHauri",
+                "SRHart"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1994",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Evidence for hotspot-related carbonatite metasomatism in the oceanic upper mantle",
+            "authors": [
+                "EHHauri",
+                "NShimizu",
+                "JJDieu",
+                "SRHart"
+            ],
+            "journal": "Nature",
+            "date": "1993",
+            "pages": {
+                "from": "221",
+                "to": "227"
+            }
+        },
+        {
+            "title": "Temperatures in ambient mantle and plumes: Constraints from basalts, picrites, and komatiites",
+            "authors": [
+                "CHerzberg",
+                "PDAsimow",
+                "NArndt",
+                "YNiu",
+                "CMLesher",
+                "JGFitton",
+                "MJCheadle",
+                "ADSaunders"
+            ],
+            "journal": null,
+            "date": "2007",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Effect of pressure on Fe-Mg, Ni and Mn diffusion in (Fe x Mg 12x ) 2 SiO 4 olivine",
+            "authors": [
+                "CHolzapfel",
+                "SChakraborty",
+                "DCRubie",
+                "DJFrost"
+            ],
+            "journal": "Phys. Earth Planet. Inter",
+            "date": "2007",
+            "pages": {
+                "from": "186",
+                "to": "198"
+            }
+        },
+        {
+            "title": "Homogeneous superchondirtic 142 Nd/ 144 Nd in the mid-ocean ridge basalt and ocean island basalt mantle",
+            "authors": [
+                "MGJackson",
+                "RWCarlson"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2012",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Major and trace element composition of the high 3 He/ 4 He mantle: Implications for the composition of a non-chondritic Earth",
+            "authors": [
+                "MGJackson",
+                "AMJellinek"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2013",
+            "pages": {
+                "from": "2954",
+                "to": "2976"
+            }
+        },
+        {
+            "title": "New Samoan lavas from Ofu Island reveal a hemispherically heterogeneous high 3 He/ 4 He mantle",
+            "authors": [
+                "MGJackson",
+                "MDKurz",
+                "SRHart",
+                "RKWorkman"
+            ],
+            "journal": null,
+            "date": "2007",
+            "pages": {
+                "from": "360",
+                "to": "374"
+            }
+        },
+        {
+            "title": "The return of subducted continental crust in Samoan lavas",
+            "authors": [
+                "MGJackson",
+                "SRHart",
+                "AAKoppers",
+                "HStaudigel",
+                "JKonter",
+                "JBlusztajn",
+                "MKurz",
+                "JARussell"
+            ],
+            "journal": "Nature",
+            "date": "2007",
+            "pages": {
+                "from": "684",
+                "to": "687"
+            }
+        },
+        {
+            "title": "Globally elevated titanium, tantalum, and niobium (TITAN) in ocean island basalts with high 3He/4He",
+            "authors": [
+                "MGJackson",
+                "SRHart",
+                "AESaal",
+                "NShimizu",
+                "MDKurz",
+                "JSBlusztajn",
+                "ACSkovgaard"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2008",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Samoan hot spot track on a ''hot spot highway'': Implications for mantle plumes and a deep Samoan mantle source",
+            "authors": [
+                "MGJackson",
+                "SRHart",
+                "JGKonter",
+                "AAKoppers",
+                "HStaudigel",
+                "MDKurz",
+                "JBlusztajn",
+                "JMSinton"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2010",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Conduction of heat in an infinite region bounded internally by a circular cylinder of a perfect conductor",
+            "authors": [
+                "JCJaeger"
+            ],
+            "journal": "Aust. J. Phys",
+            "date": "1956",
+            "pages": {
+                "from": "167",
+                "to": "179"
+            }
+        },
+        {
+            "title": "XRF analysis of rocks and minerals for major and trace elements in a single low dilution Li-tetraborate fused bead",
+            "authors": [
+                "JohnsonD M",
+                "PRHooper",
+                "RMConrey"
+            ],
+            "journal": "Advances in X-Ray Analysis",
+            "date": "1999",
+            "pages": {
+                "from": "843",
+                "to": "867"
+            }
+        },
+        {
+            "title": "A new parameterization of hydrous mantle melting",
+            "authors": [
+                "RFKatz",
+                "MSpiegelman",
+                "CHLangmuir"
+            ],
+            "journal": null,
+            "date": "2003",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The geology and hydrology of Western Samoa",
+            "authors": [
+                "DKear",
+                "BLWood"
+            ],
+            "journal": "N. Z. Geol. Surv. Bull",
+            "date": "1959",
+            "pages": {
+                "from": "1",
+                "to": "90"
+            }
+        },
+        {
+            "title": "Mantle melting as a function of water content beneath the Mariana Arc",
+            "authors": [
+                "KAKelley",
+                "TPlank",
+                "SNewman",
+                "EMStolper",
+                "TLGrove",
+                "SParman",
+                "EHHauri"
+            ],
+            "journal": "J. Petrol",
+            "date": "2010",
+            "pages": {
+                "from": "1711",
+                "to": "1738"
+            }
+        },
+        {
+            "title": "Primary magmas of mid-ocean ridge basalts 1. Experiments and methods",
+            "authors": [
+                "RJKinzler",
+                "TLGrove"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1992",
+            "pages": {
+                "from": "6885",
+                "to": "6906"
+            }
+        },
+        {
+            "title": "Trace element analysis of rocks and minerals by ICP-MS",
+            "authors": [
+                "CMKnaack",
+                "SBCornelius",
+                "PRHooper"
+            ],
+            "journal": "Open File Report",
+            "date": "1994",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Age systematics of two young en echelon Samoan volcanic trails",
+            "authors": [
+                "AAKoppers",
+                "JARussell",
+                "JRoberts",
+                "MGJackson",
+                "JGKonter",
+                "DJWright",
+                "HStaudigel",
+                "SRHart"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2011",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Constraints on the depths and temperatures of basaltic magma generation on Earth and other terrestrial planets using new thermobarometers for mafic magmas",
+            "authors": [
+                "CT ALee",
+                "PLuffi",
+                "TPlank",
+                "HDalton",
+                "WPLeeman"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2009",
+            "pages": {
+                "from": "20",
+                "to": "33"
+            }
+        },
+        {
+            "title": "Some phase equilibrium systematics of lherzolite melting: I",
+            "authors": [
+                "JLonghi"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2002",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Constraints on the composition of the continental lithospheric mantle",
+            "authors": [
+                "WFMcdonough"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1990",
+            "pages": {
+                "from": "1",
+                "to": "18"
+            }
+        },
+        {
+            "title": "The composition of the Earth",
+            "authors": [
+                "WFMcdonough",
+                "SSSun"
+            ],
+            "journal": "Chem. Geol",
+            "date": "1995",
+            "pages": {
+                "from": "223",
+                "to": "253"
+            }
+        },
+        {
+            "title": "Age and evolution of the volcanoes of Tutuila",
+            "authors": [
+                "IMcdougall"
+            ],
+            "journal": "Pac. Sci",
+            "date": "1985",
+            "pages": {
+                "from": "311",
+                "to": "320"
+            }
+        },
+        {
+            "title": "Age of volcanism and its migration in the Samoa Islands",
+            "authors": [
+                "IA NMcdougall"
+            ],
+            "journal": "Geol. Mag",
+            "date": "2010",
+            "pages": {
+                "from": "705",
+                "to": "717"
+            }
+        },
+        {
+            "title": "A data brief on the Smithsonian abyssal volcanic glass data file",
+            "authors": [
+                "WGMelson",
+                "TO'hearn",
+                "EJarosewich"
+            ],
+            "journal": null,
+            "date": "2002",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Systematic use of trace elements in igneous processes",
+            "authors": [
+                "JFMinster",
+                "CJAllegre",
+                ";M\u20ac Unker",
+                "C",
+                "JAPf\u20ac Ander",
+                "SWeyer",
+                "AB\u20ac Uchl",
+                "TKleine",
+                "KMezger"
+            ],
+            "journal": null,
+            "date": "1978",
+            "pages": {
+                "from": "84",
+                "to": "87"
+            }
+        },
+        {
+            "title": "Nb/Ta and Zr/Hf in ocean island basalts-Implications for crust-mantle differentiation and the fate of Niobium",
+            "authors": [
+                "JAPf\u20ac Ander",
+                "CUnker",
+                "AStracke",
+                "KMezger"
+            ],
+            "journal": null,
+            "date": "2007",
+            "pages": {
+                "from": "158",
+                "to": "172"
+            }
+        },
+        {
+            "title": "Ambient and excess mantle temperatures, olivine thermometry, and active vs. passive upwelling",
+            "authors": [
+                "KDPutirka",
+                "MPerfit",
+                "FJRyerson",
+                "MGJackson"
+            ],
+            "journal": "Chem. Geol",
+            "date": "2007",
+            "pages": {
+                "from": "177",
+                "to": "206"
+            }
+        },
+        {
+            "title": "Melting under the",
+            "authors": [
+                "MRReid",
+                "RABouchet",
+                "JBlichert-Toft",
+                "ALevander",
+                "KLiu",
+                "MSMiller",
+                "FCRamos"
+            ],
+            "journal": null,
+            "date": "2012",
+            "pages": {
+                "from": "387",
+                "to": "390"
+            }
+        },
+        {
+            "title": "The beginning of melting of fertile and depleted peridotite at 1.5 GPa",
+            "authors": [
+                "JA CRobinson",
+                "BJWood",
+                "JDBlundy"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1998",
+            "pages": {
+                "from": "97",
+                "to": "111"
+            }
+        },
+        {
+            "title": "An example of consequent mantle metasomatism in peridotite inclusions from Nunivak Island",
+            "authors": [
+                "MFRoden",
+                "FAFrey",
+                "DMFrancis"
+            ],
+            "journal": "Alaska, J. Petrol",
+            "date": "1984",
+            "pages": {
+                "from": "546",
+                "to": "577"
+            }
+        },
+        {
+            "title": "Sr, Nd and Pb isotopic and REE geochemistry of St. Paul's Rocks: The metamorphic and metasomatic development of an alkali basalt mantle source",
+            "authors": [
+                "MKRoden",
+                "SRHart",
+                "FAFrey",
+                "WGMelson"
+            ],
+            "journal": "Contrib. Mineral. Petrol",
+            "date": "1984",
+            "pages": {
+                "from": "376",
+                "to": "390"
+            }
+        },
+        {
+            "title": "Elevated mantle temperature beneath East Africa",
+            "authors": [
+                "TORooney",
+                "CHerzberg",
+                "IDBastow"
+            ],
+            "journal": null,
+            "date": "2012",
+            "pages": {
+                "from": "27",
+                "to": "30"
+            }
+        },
+        {
+            "title": "The hafnium paradox and the role of garnet in the source of mid-ocean-ridge basalts",
+            "authors": [
+                "VJSalters",
+                "SRHart ; Salters",
+                "VJ",
+                "SRHart"
+            ],
+            "journal": null,
+            "date": "1989",
+            "pages": {
+                "from": "364",
+                "to": "380"
+            }
+        },
+        {
+            "title": "Domains of depleted mantle: New evidence from hafnium and neodymium isotopes",
+            "authors": [
+                "VJSalters",
+                "SMallick",
+                "SRHart",
+                "CELangmuir",
+                "AStracke"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2011",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The dependence of Nb and Ta rutile-melt partitioning on melt composition and Nb/Ta fractionation during subduction processes",
+            "authors": [
+                "MWSchmidt",
+                "ADardon",
+                "GChazot",
+                "RVannucci"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2004",
+            "pages": {
+                "from": "415",
+                "to": "432"
+            }
+        },
+        {
+            "title": "Inferences about mantle magma sources from incompatible element concentration ratios in oceanic basalts",
+            "authors": [
+                "KWSims",
+                "DJDepaolo"
+            ],
+            "journal": "Geochim. Cosmochim. Acta",
+            "date": "1997",
+            "pages": {
+                "from": "765",
+                "to": "784"
+            }
+        },
+        {
+            "title": "Geology of the Samoan Islands",
+            "authors": [
+                "HTStearns"
+            ],
+            "journal": "Bulletin of the Geological Society of America",
+            "date": "1944",
+            "pages": {
+                "from": "1279",
+                "to": "1332"
+            }
+        },
+        {
+            "title": "Fractionation of Nb and Ta by biotite and phengite: Implications for the ''missing Nb paradox",
+            "authors": [
+                "ASStepanov",
+                "JHermann"
+            ],
+            "journal": "Geology",
+            "date": "2013",
+            "pages": {
+                "from": "303",
+                "to": "306"
+            }
+        },
+        {
+            "title": "The geology of the Manu'a Islands",
+            "authors": [
+                "GDStice",
+                "FWMccoyJr"
+            ],
+            "journal": null,
+            "date": "1968",
+            "pages": {
+                "from": "427",
+                "to": "457"
+            }
+        },
+        {
+            "title": "The effect of H2O on partial melting of garnet peridotite at 3.5 GPa",
+            "authors": [
+                "TJTenner",
+                "MMHirschmann",
+                "MHumayun"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2012",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Evaluation of a 202Pb-205Pb double spike for high-precision lead isotope analysis",
+            "authors": [
+                "WTodt",
+                "RACliff",
+                "AHanser",
+                "AWHofmann"
+            ],
+            "journal": null,
+            "date": "1996",
+            "pages": {
+                "from": "429",
+                "to": "437"
+            }
+        },
+        {
+            "title": "Melting of garnet peridotite and the origin of komatiite and depleted lithosphere",
+            "authors": [
+                "MJWalter"
+            ],
+            "journal": "J. Petrol",
+            "date": "1998",
+            "pages": {
+                "from": "29",
+                "to": "60"
+            }
+        },
+        {
+            "title": "Near-solidus melting of the shallow upper mantle: Partial melting experiments on depleted peridotite",
+            "authors": [
+                "LEWasylenki",
+                "MBBaker",
+                "AJKent",
+                "EMStolper"
+            ],
+            "journal": "J. Petrol",
+            "date": "2003",
+            "pages": {
+                "from": "1163",
+                "to": "1191"
+            }
+        },
+        {
+            "title": "Flank-Collapse on Ta'u island, samoan archipelago: Timing and hazard implications",
+            "authors": [
+                "SPWilliams",
+                "TRDavies",
+                "TTBarrows",
+                "MGJackson",
+                "SRHart",
+                "JWCole"
+            ],
+            "journal": "Landslide Science for a Safer Geoenvironment",
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "Hart And Jackson V C"
+            ],
+            "journal": null,
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Major and trace element composition of the depleted MORB mantle (DMM)",
+            "authors": [
+                "RKWorkman",
+                "SRHart"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2005",
+            "pages": {
+                "from": "53",
+                "to": "72"
+            }
+        },
+        {
+            "title": "Recycled metasomatized lithosphere as the origin of the Enriched Mantle II (EM2) end-member: Evidence from the Samoan Volcanic Chain",
+            "authors": [
+                "RKWorkman",
+                "SRHart",
+                "MJackson",
+                "MRegelous",
+                "KAFarley",
+                "JBlusztajn",
+                "MKurz",
+                "HStaudigel"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2004",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Volatile and trace elements in basaltic glasses from Samoa: Implications for water distribution in the mantle",
+            "authors": [
+                "RKWorkman",
+                "EHauri",
+                "SRHart",
+                "JWang",
+                "JBlusztajn"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2006",
+            "pages": {
+                "from": "932",
+                "to": "951"
+            }
+        },
+        {
+            "title": "The origin of Samoa: New evidence from Sr, Nd, and Pb isotopes",
+            "authors": [
+                "EWright",
+                "WMWhite"
+            ],
+            "journal": null,
+            "date": "1987",
+            "pages": {
+                "from": "151",
+                "to": "162"
+            }
+        },
+        {
+            "title": "Nd and Sr isotope ratios and rare earth element abundances in Reykjanes Peninsula basalts: Evidence for mantle heterogeneity beneath Iceland",
+            "authors": [
+                "AZindler",
+                "SRHart",
+                "FAFrey",
+                "SPJakobsson"
+            ],
+            "journal": null,
+            "date": "1979",
+            "pages": {
+                "from": "249",
+                "to": "262"
+            }
+        }
+    ]
+}

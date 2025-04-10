@@ -1,0 +1,2802 @@
+{
+    "metadata": {
+        "title": "On the magmatic record of the Makran arc, southeastern Iran: Insights from zircon U-Pb geochronology and bulk-rock geochemistry",
+        "abstract": "Twenty-one magmatic rocks were analyzed for major and trace elements, and a subset of them for Sr-Nd isotopes and zircon U-Pb isotopes, to constrain magma genesis and tectonic evolution of the Makran arc, southeastern Iran. Representative samples from the Bazman and Taftan volcanoes yield zircon U-Pb ages from 0.84 to 7.5 Ma, consistent with published ages ranging from the Late Miocene to Late Pleistocene. The Mirabad granitic pluton adjacent to and geochemically similar to the Taftan volcano was dated at 19 Ma, indicating that arc magmatism might have started earlier than commonly thought in the Early Miocene. The studied rocks show basaltic to rhyolitic compositions, calc-alkaline affinity, and an orogenic signature involving enrichments in large ion lithophile elements, light rare earth elements, Th and Pb, and depletions in high field strength elements and P, relative to elements of similar incompatibilities. The trace element ratios in a subset of relatively primitive samples are consistent with derivation from a mantle source that underwent subduction-related enrichment. The covariations of Sr and Nd isotopic ratios, and of these ratios and MgO and SiO 2 , are consistent with combined assimilation and fractional crystallization. The process is modeled using covariations of 87 Sr/ 86 Sr and Sr concentration in the studied rocks given that Sr behaves as neutral or slightly incompatible. We propose, in light of published and our new data, that the Makran represents a window of continental collision between the India-Eurasia collision zone to the east and the Arabia-Eurasia collision zone to the west.Key Points:The Makran arc magmatism might have started at 19 Ma The arc magmas were derived from a subduction-modified, enriched mantle source The Makran represents a window between two continental collision zones",
+        "authors": [
+            {
+                "name": "Kwan-NangPang",
+                "affiliation": [
+                    {
+                        "department": "Department of Geosciences",
+                        "institution": "National Taiwan University",
+                        "address": {
+                            "settlement": "Taipei",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Sun-LinChung",
+                "affiliation": [
+                    {
+                        "department": "Department of Geosciences",
+                        "institution": "National Taiwan University",
+                        "address": {
+                            "settlement": "Taipei",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "MohammadHosseinZarrinkoub",
+                "affiliation": [
+                    {
+                        "department": "Department of Geology",
+                        "institution": "University of Birjand",
+                        "address": {
+                            "settlement": "Birjand",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Han-YiChiu",
+                "affiliation": [
+                    {
+                        "department": "Department of Geosciences",
+                        "institution": "National Taiwan University",
+                        "address": {
+                            "settlement": "Taipei",
+                            "region": null,
+                            "postcode": null
+                        }
+                    },
+                    {
+                        "department": "Department of Physics and Earth Sciences",
+                        "institution": "University of the Ryukyus",
+                        "address": {
+                            "settlement": "Okinawa",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Xian-HuaLi",
+                "affiliation": [
+                    {
+                        "department": "Institute of Geology and Geophysics",
+                        "institution": "Chinese Academy of Sciences",
+                        "address": {
+                            "settlement": "Beijing",
+                            "region": null,
+                            "postcode": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "K.-NPang",
+                "affiliation": []
+            },
+            {
+                "name": "PAgard",
+                "affiliation": []
+            },
+            {
+                "name": "JOmrani",
+                "affiliation": []
+            },
+            {
+                "name": "LJolivet",
+                "affiliation": []
+            },
+            {
+                "name": "HWhitechurch",
+                "affiliation": []
+            },
+            {
+                "name": "BVrielynck",
+                "affiliation": []
+            },
+            {
+                "name": "WSpakman",
+                "affiliation": []
+            },
+            {
+                "name": "PMoni E",
+                "affiliation": []
+            },
+            {
+                "name": "BMeyer",
+                "affiliation": []
+            },
+            {
+                "name": "RWortel",
+                "affiliation": []
+            },
+            {
+                "name": "MAghazadeh",
+                "affiliation": []
+            },
+            {
+                "name": "ACastro",
+                "affiliation": []
+            },
+            {
+                "name": "NROrman",
+                "affiliation": []
+            },
+            {
+                "name": "MHEmami",
+                "affiliation": []
+            },
+            {
+                "name": "HMoinvaziri",
+                "affiliation": []
+            },
+            {
+                "name": "ZBadrzadeh",
+                "affiliation": []
+            },
+            {
+                "name": "JAhmadian",
+                "affiliation": []
+            },
+            {
+                "name": "MHaschke",
+                "affiliation": []
+            },
+            {
+                "name": "IMcdonald",
+                "affiliation": []
+            },
+            {
+                "name": "MRegelous",
+                "affiliation": []
+            },
+            {
+                "name": "MRezaghorbani",
+                "affiliation": []
+            },
+            {
+                "name": "MHEmami",
+                "affiliation": []
+            },
+            {
+                "name": "MMurata",
+                "affiliation": []
+            },
+            {
+                "name": "MAlavi",
+                "affiliation": []
+            },
+            {
+                "name": "MAlavi",
+                "affiliation": []
+            },
+            {
+                "name": "HVaziri",
+                "affiliation": []
+            },
+            {
+                "name": "KSeyed-Emami",
+                "affiliation": []
+            },
+            {
+                "name": "YLasemi",
+                "affiliation": []
+            },
+            {
+                "name": "MBAllen",
+                "affiliation": []
+            },
+            {
+                "name": "HAArmstrong",
+                "affiliation": []
+            },
+            {
+                "name": "MBAllen",
+                "affiliation": []
+            },
+            {
+                "name": "MKheirkhah",
+                "affiliation": []
+            },
+            {
+                "name": "INeill",
+                "affiliation": []
+            },
+            {
+                "name": "MHEmami",
+                "affiliation": []
+            },
+            {
+                "name": "CLMcleod",
+                "affiliation": []
+            },
+            {
+                "name": "SAngiboust",
+                "affiliation": []
+            },
+            {
+                "name": "PAgard",
+                "affiliation": []
+            },
+            {
+                "name": "JC MDe Hoog",
+                "affiliation": []
+            },
+            {
+                "name": "JOmrani",
+                "affiliation": []
+            },
+            {
+                "name": "APlunder",
+                "affiliation": []
+            },
+            {
+                "name": "HAzizi",
+                "affiliation": []
+            },
+            {
+                "name": "S.-LChung",
+                "affiliation": []
+            },
+            {
+                "name": "TTanaka",
+                "affiliation": []
+            },
+            {
+                "name": "YAsahara",
+                "affiliation": []
+            },
+            {
+                "name": "PBallato",
+                "affiliation": []
+            },
+            {
+                "name": "CEUba",
+                "affiliation": []
+            },
+            {
+                "name": "ALandgraf",
+                "affiliation": []
+            },
+            {
+                "name": "MRStrecker",
+                "affiliation": []
+            },
+            {
+                "name": "MSudo",
+                "affiliation": []
+            },
+            {
+                "name": "DFStockli",
+                "affiliation": []
+            },
+            {
+                "name": "AFriedrich",
+                "affiliation": []
+            },
+            {
+                "name": "SHTabatabaei",
+                "affiliation": []
+            },
+            {
+                "name": "MBerberian",
+                "affiliation": []
+            },
+            {
+                "name": "GC PKing",
+                "affiliation": []
+            },
+            {
+                "name": "HBiabangard",
+                "affiliation": []
+            },
+            {
+                "name": "AMoradian",
+                "affiliation": []
+            },
+            {
+                "name": "WABohrson",
+                "affiliation": []
+            },
+            {
+                "name": "FJSpera",
+                "affiliation": []
+            },
+            {
+                "name": "DEByrne",
+                "affiliation": []
+            },
+            {
+                "name": "LRSykes",
+                "affiliation": []
+            },
+            {
+                "name": "DMDavis",
+                "affiliation": []
+            },
+            {
+                "name": "VECamp",
+                "affiliation": []
+            },
+            {
+                "name": "RJGriffis",
+                "affiliation": []
+            },
+            {
+                "name": "H.-YChiu",
+                "affiliation": []
+            },
+            {
+                "name": "S.-LChung",
+                "affiliation": []
+            },
+            {
+                "name": "MHZarrinkoub",
+                "affiliation": []
+            },
+            {
+                "name": "SSMohammadi",
+                "affiliation": []
+            },
+            {
+                "name": "MHKhatib",
+                "affiliation": []
+            },
+            {
+                "name": "YIizuka",
+                "affiliation": []
+            },
+            {
+                "name": "GConrad",
+                "affiliation": []
+            },
+            {
+                "name": "RMontigny",
+                "affiliation": []
+            },
+            {
+                "name": "RThuizat",
+                "affiliation": []
+            },
+            {
+                "name": "MWestphal",
+                "affiliation": []
+            },
+            {
+                "name": "JDavidson",
+                "affiliation": []
+            },
+            {
+                "name": "JHassanzadeh",
+                "affiliation": []
+            },
+            {
+                "name": "RBerzins",
+                "affiliation": []
+            },
+            {
+                "name": "DFStockli",
+                "affiliation": []
+            },
+            {
+                "name": "BBashukooh",
+                "affiliation": []
+            },
+            {
+                "name": "BTurrin",
+                "affiliation": []
+            },
+            {
+                "name": "APandamouz",
+                "affiliation": []
+            },
+            {
+                "name": "JFDewey",
+                "affiliation": []
+            },
+            {
+                "name": "WCPitman",
+                "affiliation": []
+            },
+            {
+                "name": "Iii",
+                "affiliation": []
+            },
+            {
+                "name": "WB FRyan",
+                "affiliation": []
+            },
+            {
+                "name": "JBonnin",
+                "affiliation": []
+            },
+            {
+                "name": "SDoucet",
+                "affiliation": []
+            },
+            {
+                "name": "DWeis",
+                "affiliation": []
+            },
+            {
+                "name": "JSScoates",
+                "affiliation": []
+            },
+            {
+                "name": "VDebaille",
+                "affiliation": []
+            },
+            {
+                "name": "AGiret",
+                "affiliation": []
+            },
+            {
+                "name": "GFarhoudi",
+                "affiliation": []
+            },
+            {
+                "name": "DEKarig",
+                "affiliation": []
+            },
+            {
+                "name": "ZGarfunkel",
+                "affiliation": []
+            },
+            {
+                "name": "EGarzanti",
+                "affiliation": []
+            },
+            {
+                "name": "SCritelli",
+                "affiliation": []
+            },
+            {
+                "name": "RVIngersoll",
+                "affiliation": []
+            },
+            {
+                "name": "AMGhazi",
+                "affiliation": []
+            },
+            {
+                "name": "AAHassanipak",
+                "affiliation": []
+            },
+            {
+                "name": "JJMahoney",
+                "affiliation": []
+            },
+            {
+                "name": "RADuncan",
+                "affiliation": []
+            },
+            {
+                "name": "JBGill",
+                "affiliation": []
+            },
+            {
+                "name": "GGrando",
+                "affiliation": []
+            },
+            {
+                "name": "KMcclay",
+                "affiliation": []
+            },
+            {
+                "name": "ZGuo",
+                "affiliation": []
+            },
+            {
+                "name": "MWilson",
+                "affiliation": []
+            },
+            {
+                "name": "JLiu",
+                "affiliation": []
+            },
+            {
+                "name": "QMao",
+                "affiliation": []
+            },
+            {
+                "name": "JHassanzadeh",
+                "affiliation": []
+            },
+            {
+                "name": "DFStockli",
+                "affiliation": []
+            },
+            {
+                "name": "BKHorton",
+                "affiliation": []
+            },
+            {
+                "name": "GJAxen",
+                "affiliation": []
+            },
+            {
+                "name": "LDStockli",
+                "affiliation": []
+            },
+            {
+                "name": "MGrove",
+                "affiliation": []
+            },
+            {
+                "name": "AKSchmitt",
+                "affiliation": []
+            },
+            {
+                "name": "JDWalker",
+                "affiliation": []
+            },
+            {
+                "name": "IHutchison",
+                "affiliation": []
+            },
+            {
+                "name": "KELouden",
+                "affiliation": []
+            },
+            {
+                "name": "RSWhite",
+                "affiliation": []
+            },
+            {
+                "name": "RPVon Herzen",
+                "affiliation": []
+            },
+            {
+                "name": "AJahangiri",
+                "affiliation": []
+            },
+            {
+                "name": "DJung",
+                "affiliation": []
+            },
+            {
+                "name": "JKeller",
+                "affiliation": []
+            },
+            {
+                "name": "RKhorasani",
+                "affiliation": []
+            },
+            {
+                "name": "CMarcks",
+                "affiliation": []
+            },
+            {
+                "name": "ABaumann",
+                "affiliation": []
+            },
+            {
+                "name": "PHorn",
+                "affiliation": []
+            },
+            {
+                "name": "RFKatz",
+                "affiliation": []
+            },
+            {
+                "name": "MSpiegelman",
+                "affiliation": []
+            },
+            {
+                "name": "CHLangmuir",
+                "affiliation": []
+            },
+            {
+                "name": "MKheirkhah",
+                "affiliation": []
+            },
+            {
+                "name": "MBAllen",
+                "affiliation": []
+            },
+            {
+                "name": "MEmami",
+                "affiliation": []
+            },
+            {
+                "name": "CKopp",
+                "affiliation": []
+            },
+            {
+                "name": "JFruehn",
+                "affiliation": []
+            },
+            {
+                "name": "ERFlueh",
+                "affiliation": []
+            },
+            {
+                "name": "CReichert",
+                "affiliation": []
+            },
+            {
+                "name": "NKukowski",
+                "affiliation": []
+            },
+            {
+                "name": "JBialas",
+                "affiliation": []
+            },
+            {
+                "name": "DKlaeschen",
+                "affiliation": []
+            },
+            {
+                "name": "NKukowski",
+                "affiliation": []
+            },
+            {
+                "name": "TSchillhorn",
+                "affiliation": []
+            },
+            {
+                "name": "ERFlueh",
+                "affiliation": []
+            },
+            {
+                "name": "KHuhn",
+                "affiliation": []
+            },
+            {
+                "name": "HKuno",
+                "affiliation": []
+            },
+            {
+                "name": "C.-TALee",
+                "affiliation": []
+            },
+            {
+                "name": "PLuffi",
+                "affiliation": []
+            },
+            {
+                "name": "TPlank",
+                "affiliation": []
+            },
+            {
+                "name": "HDalton",
+                "affiliation": []
+            },
+            {
+                "name": "WPLeeman",
+                "affiliation": []
+            },
+            {
+                "name": "MLustrino",
+                "affiliation": []
+            },
+            {
+                "name": "SDuggen",
+                "affiliation": []
+            },
+            {
+                "name": "CLRosenberg",
+                "affiliation": []
+            },
+            {
+                "name": "JJMahoney",
+                "affiliation": []
+            },
+            {
+                "name": "RFrei",
+                "affiliation": []
+            },
+            {
+                "name": "ML GTejada",
+                "affiliation": []
+            },
+            {
+                "name": "X.-XMo",
+                "affiliation": []
+            },
+            {
+                "name": "PTLeat",
+                "affiliation": []
+            },
+            {
+                "name": "TFAgler",
+                "affiliation": []
+            },
+            {
+                "name": "CMarone",
+                "affiliation": []
+            },
+            {
+                "name": "CHScholz",
+                "affiliation": []
+            },
+            {
+                "name": "GJ HMccall",
+                "affiliation": []
+            },
+            {
+                "name": "GJ HMccall",
+                "affiliation": []
+            },
+            {
+                "name": "NMcquarrie",
+                "affiliation": []
+            },
+            {
+                "name": "JMStock",
+                "affiliation": []
+            },
+            {
+                "name": "CVerdel",
+                "affiliation": []
+            },
+            {
+                "name": "BPWernicke",
+                "affiliation": []
+            },
+            {
+                "name": "NMcquarrie",
+                "affiliation": []
+            },
+            {
+                "name": "DJ JVan Hinsbergen",
+                "affiliation": []
+            },
+            {
+                "name": "GMountain",
+                "affiliation": []
+            },
+            {
+                "name": "WIPrell",
+                "affiliation": []
+            },
+            {
+                "name": "RDM\u20ac Uller",
+                "affiliation": []
+            },
+            {
+                "name": "MSdrolias",
+                "affiliation": []
+            },
+            {
+                "name": "CGaina",
+                "affiliation": []
+            },
+            {
+                "name": "WRRoest",
+                "affiliation": []
+            },
+            {
+                "name": "BJMurton",
+                "affiliation": []
+            },
+            {
+                "name": "AGTindle",
+                "affiliation": []
+            },
+            {
+                "name": "JAMilton",
+                "affiliation": []
+            },
+            {
+                "name": "DSauter",
+                "affiliation": []
+            },
+            {
+                "name": "SNohda",
+                "affiliation": []
+            },
+            {
+                "name": "IKaneoka",
+                "affiliation": []
+            },
+            {
+                "name": "THanyu",
+                "affiliation": []
+            },
+            {
+                "name": "SXu",
+                "affiliation": []
+            },
+            {
+                "name": "KUto",
+                "affiliation": []
+            },
+            {
+                "name": "JOmrani",
+                "affiliation": []
+            },
+            {
+                "name": "PAgard",
+                "affiliation": []
+            },
+            {
+                "name": "HWhitechurch",
+                "affiliation": []
+            },
+            {
+                "name": "MBenoit",
+                "affiliation": []
+            },
+            {
+                "name": "GProuteau",
+                "affiliation": []
+            },
+            {
+                "name": "LJolivet",
+                "affiliation": []
+            },
+            {
+                "name": "K.-NPang",
+                "affiliation": []
+            },
+            {
+                "name": "S.-LChung",
+                "affiliation": []
+            },
+            {
+                "name": "MHZarrinkoub",
+                "affiliation": []
+            },
+            {
+                "name": "SSMohammadi",
+                "affiliation": []
+            },
+            {
+                "name": "H.-MYang",
+                "affiliation": []
+            },
+            {
+                "name": "C.-HChu",
+                "affiliation": []
+            },
+            {
+                "name": "H.-YLee",
+                "affiliation": []
+            },
+            {
+                "name": "C.-HLo",
+                "affiliation": []
+            },
+            {
+                "name": "K.-NPang",
+                "affiliation": []
+            },
+            {
+                "name": "S.-LChung",
+                "affiliation": []
+            },
+            {
+                "name": "MHZarrinkoub",
+                "affiliation": []
+            },
+            {
+                "name": "MMKhatib",
+                "affiliation": []
+            },
+            {
+                "name": "SSMohammadi",
+                "affiliation": []
+            },
+            {
+                "name": "H.-YChiu",
+                "affiliation": []
+            },
+            {
+                "name": "C.-HChu",
+                "affiliation": []
+            },
+            {
+                "name": "H.-YLee",
+                "affiliation": []
+            },
+            {
+                "name": "C.-HLo",
+                "affiliation": []
+            },
+            {
+                "name": "K.-NPang",
+                "affiliation": []
+            },
+            {
+                "name": "S.-LChung",
+                "affiliation": []
+            },
+            {
+                "name": "MHZarrinkoub",
+                "affiliation": []
+            },
+            {
+                "name": "Y.-CLin",
+                "affiliation": []
+            },
+            {
+                "name": "H.-YLee",
+                "affiliation": []
+            },
+            {
+                "name": "C.-HLo",
+                "affiliation": []
+            },
+            {
+                "name": "MMKhatib",
+                "affiliation": []
+            },
+            {
+                "name": "JAPearce",
+                "affiliation": []
+            },
+            {
+                "name": "DWPeate",
+                "affiliation": []
+            },
+            {
+                "name": "JAPearce",
+                "affiliation": []
+            },
+            {
+                "name": "PEBaker",
+                "affiliation": []
+            },
+            {
+                "name": "PKHarvey",
+                "affiliation": []
+            },
+            {
+                "name": "IWLuff",
+                "affiliation": []
+            },
+            {
+                "name": "APeccerillo",
+                "affiliation": []
+            },
+            {
+                "name": "SRTaylor",
+                "affiliation": []
+            },
+            {
+                "name": "JPerell O",
+                "affiliation": []
+            },
+            {
+                "name": "ARazique",
+                "affiliation": []
+            },
+            {
+                "name": "JSchloderer",
+                "affiliation": []
+            },
+            {
+                "name": "ARehman",
+                "affiliation": []
+            },
+            {
+                "name": "TPlank",
+                "affiliation": []
+            },
+            {
+                "name": "TPlank",
+                "affiliation": []
+            },
+            {
+                "name": "CHLangmuir",
+                "affiliation": []
+            },
+            {
+                "name": "JPPlatt",
+                "affiliation": []
+            },
+            {
+                "name": "JKLeggett",
+                "affiliation": []
+            },
+            {
+                "name": "JYoung",
+                "affiliation": []
+            },
+            {
+                "name": "HRaza",
+                "affiliation": []
+            },
+            {
+                "name": "SAlam",
+                "affiliation": []
+            },
+            {
+                "name": "\u00b4Prelevic",
+                "affiliation": []
+            },
+            {
+                "name": "D",
+                "affiliation": []
+            },
+            {
+                "name": "ISeghedi",
+                "affiliation": []
+            },
+            {
+                "name": "\u00b4Prelevic",
+                "affiliation": []
+            },
+            {
+                "name": "D",
+                "affiliation": []
+            },
+            {
+                "name": "SFFoley",
+                "affiliation": []
+            },
+            {
+                "name": "RRomer",
+                "affiliation": []
+            },
+            {
+                "name": "SConticelli",
+                "affiliation": []
+            },
+            {
+                "name": "JRamezani",
+                "affiliation": []
+            },
+            {
+                "name": "RDTucker",
+                "affiliation": []
+            },
+            {
+                "name": "VRegard",
+                "affiliation": []
+            },
+            {
+                "name": "DHatzfeld",
+                "affiliation": []
+            },
+            {
+                "name": "MMolinaro",
+                "affiliation": []
+            },
+            {
+                "name": "CAubourg",
+                "affiliation": []
+            },
+            {
+                "name": "RBayer",
+                "affiliation": []
+            },
+            {
+                "name": "OBellier",
+                "affiliation": []
+            },
+            {
+                "name": "FYamini-Fard",
+                "affiliation": []
+            },
+            {
+                "name": "MPeyret",
+                "affiliation": []
+            },
+            {
+                "name": "MAbbassi",
+                "affiliation": []
+            },
+            {
+                "name": "JPRichards",
+                "affiliation": []
+            },
+            {
+                "name": "TSpell",
+                "affiliation": []
+            },
+            {
+                "name": "ERameh",
+                "affiliation": []
+            },
+            {
+                "name": "ARazique",
+                "affiliation": []
+            },
+            {
+                "name": "TFletcher",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            },
+            {
+                "name": "ALPang",
+                "affiliation": []
+            },
+            {
+                "name": "V C",
+                "affiliation": []
+            },
+            {
+                "name": "RLRudnick",
+                "affiliation": []
+            },
+            {
+                "name": "SGao",
+                "affiliation": []
+            },
+            {
+                "name": "SSaadat",
+                "affiliation": []
+            },
+            {
+                "name": "CRStern",
+                "affiliation": []
+            },
+            {
+                "name": "MSadeghian",
+                "affiliation": []
+            },
+            {
+                "name": "JLBouchez",
+                "affiliation": []
+            },
+            {
+                "name": "A",
+                "affiliation": []
+            },
+            {
+                "name": "RSiqueira",
+                "affiliation": []
+            },
+            {
+                "name": "MVValizadeh",
+                "affiliation": []
+            },
+            {
+                "name": "JWSchroder",
+                "affiliation": []
+            },
+            {
+                "name": "ISeghedi",
+                "affiliation": []
+            },
+            {
+                "name": "HDownes",
+                "affiliation": []
+            },
+            {
+                "name": "AM CS\u00b8eng\u20ac Or",
+                "affiliation": []
+            },
+            {
+                "name": "BANatal'in",
+                "affiliation": []
+            },
+            {
+                "name": ";KS\u00b8eng\u20ac Or",
+                "affiliation": []
+            },
+            {
+                "name": "AM C",
+                "affiliation": []
+            },
+            {
+                "name": "DAltlner",
+                "affiliation": []
+            },
+            {
+                "name": "ACin",
+                "affiliation": []
+            },
+            {
+                "name": "TUstaomer",
+                "affiliation": []
+            },
+            {
+                "name": "KJHsu",
+                "affiliation": []
+            },
+            {
+                "name": "GSmith",
+                "affiliation": []
+            },
+            {
+                "name": "LMcneill",
+                "affiliation": []
+            },
+            {
+                "name": "TJHenstock",
+                "affiliation": []
+            },
+            {
+                "name": "JBull",
+                "affiliation": []
+            },
+            {
+                "name": "GLSmith",
+                "affiliation": []
+            },
+            {
+                "name": "LCMcneill",
+                "affiliation": []
+            },
+            {
+                "name": "KWang",
+                "affiliation": []
+            },
+            {
+                "name": "JHe",
+                "affiliation": []
+            },
+            {
+                "name": "TJHenstock",
+                "affiliation": []
+            },
+            {
+                "name": "FJSpera",
+                "affiliation": []
+            },
+            {
+                "name": "WABohrson",
+                "affiliation": []
+            },
+            {
+                "name": "JSt\u20ac Ocklin",
+                "affiliation": []
+            },
+            {
+                "name": "AStreckeisen",
+                "affiliation": []
+            },
+            {
+                "name": "S.-SSun",
+                "affiliation": []
+            },
+            {
+                "name": "WFMcdonough",
+                "affiliation": []
+            },
+            {
+                "name": "YTatsumi",
+                "affiliation": []
+            },
+            {
+                "name": "RSThorpe",
+                "affiliation": []
+            },
+            {
+                "name": "RTirrul",
+                "affiliation": []
+            },
+            {
+                "name": "IRBell",
+                "affiliation": []
+            },
+            {
+                "name": "RJGriffis",
+                "affiliation": []
+            },
+            {
+                "name": "VECamp",
+                "affiliation": []
+            },
+            {
+                "name": "PhVerdant",
+                "affiliation": []
+            },
+            {
+                "name": "RWalker",
+                "affiliation": []
+            },
+            {
+                "name": "PGans",
+                "affiliation": []
+            },
+            {
+                "name": "MBAllen",
+                "affiliation": []
+            },
+            {
+                "name": "JJackson",
+                "affiliation": []
+            },
+            {
+                "name": "MKhatib",
+                "affiliation": []
+            },
+            {
+                "name": "NMarsh",
+                "affiliation": []
+            },
+            {
+                "name": "MZarrinkoub",
+                "affiliation": []
+            },
+            {
+                "name": "RBWhitmarsh",
+                "affiliation": []
+            },
+            {
+                "name": "MWilson",
+                "affiliation": []
+            },
+            {
+                "name": "RKWorkman",
+                "affiliation": []
+            },
+            {
+                "name": "SRHart",
+                "affiliation": []
+            },
+            {
+                "name": "CVerdel",
+                "affiliation": []
+            },
+            {
+                "name": "BPWernicke",
+                "affiliation": []
+            },
+            {
+                "name": "JHassanzadeh",
+                "affiliation": []
+            },
+            {
+                "name": "BGuest",
+                "affiliation": []
+            },
+            {
+                "name": "MHZarrinkoub",
+                "affiliation": []
+            },
+            {
+                "name": "K.-NPang",
+                "affiliation": []
+            },
+            {
+                "name": "S.-LChung",
+                "affiliation": []
+            },
+            {
+                "name": "MMKhatib",
+                "affiliation": []
+            },
+            {
+                "name": "SSMohammadi",
+                "affiliation": []
+            },
+            {
+                "name": "H.-YChiu",
+                "affiliation": []
+            },
+            {
+                "name": "H.-YLee",
+                "affiliation": []
+            },
+            {
+                "name": "S.-QZhang",
+                "affiliation": []
+            },
+            {
+                "name": "JJMahoney",
+                "affiliation": []
+            },
+            {
+                "name": "X.-XMo",
+                "affiliation": []
+            },
+            {
+                "name": "AMGhazi",
+                "affiliation": []
+            },
+            {
+                "name": "LMilani",
+                "affiliation": []
+            },
+            {
+                "name": "AJCrawford",
+                "affiliation": []
+            },
+            {
+                "name": "T.-YGuo",
+                "affiliation": []
+            },
+            {
+                "name": "Z.-DZhao",
+                "affiliation": []
+            },
+            {
+                "name": "GeophysicsGeochemistry",
+                "affiliation": []
+            },
+            {
+                "name": "ALPang",
+                "affiliation": []
+            },
+            {
+                "name": "V C",
+                "affiliation": []
+            }
+        ],
+        "publication_date": "2014",
+        "funder": [
+            "National Science Council, Taiwan",
+            "University of Birjand and National Taiwan University",
+            "unknown"
+        ]
+    },
+    "sections": {
+        "Introduction": "Introduction\nA fundamental step in unraveling the complex geodynamic history of orogenic belts is the establishment of magmatic records, which involve careful sampling, precise age determination, and geochemical characterization of magmatic products in a given region [e.g.,\nLustrino et al., 2011;\nSeghedi and Downes, 2011;\nPrelevic \u00e1nd Seghedi, 2013]\n. This paper investigates the petrogenesis and tectonic implications of a suite of magmatic rocks from the Makran arc, southeastern Iran, which is located in a poorly studied segment within the Alpine-Himalayan orogenic belt. The arc, which spans across southeastern Iran and southwestern Pakistan, is the surface expression of a 1000 km long subduction system situated between the India-Eurasia collision zone and the Arabia-Eurasia collision zone\n[McCall, 1997\n[McCall, , 2002]]\n. Its volcanic activity is manifested by a linear belt of three large eruptive centers including the Taftan and Bazman volcanoes in southeastern Iran, and the Koh-i-Saltan volcano in southwestern Pakistan, and many small eruptive centers between them. Sparse K/Ar and 39 Ar/ 40 Ar age data for rocks from the above volcanoes indicate an age range from the Late Miocene to Quaternary, a period generally taken as indicative of active arc magmatism. However, most previous investigations of the Makran arc have focused on its structure and seismicity\n[Byrne et al., 1992;\nKopp et al., 2000;\nGrando and McClay, 2007;\nRegard et al., 2010;\nSmith et al., 2012\nSmith et al., , 2013]]\n, and geochemical characterization of its magmatic rocks has not been systematically performed. In this study, we attempt to develop, together with published data, a magmatic record for the Makran arc using zircon U-Pb geochronology, bulk-rock elemental, and Sr-Nd isotopic geochemistry for a suite of magmatic rocks collected in the vicinity of the Taftan and Bazman regions, southeastern Iran. Our objectives are to better understand (i) the timing and duration of arc magmatism, (ii) the petrogenetic processes responsible for any geochemical variations among the arc rocks, and (iii) the tectonic implications associated with the formation of the arc.\nGeochemistry, Geophysics, Geosystems PUBLICATIONS 2. Background 2.1. Regional Geology The paleogeographic and tectonic evolution of Iran was presented in detail by St\u20ac ocklin\n[1968]\n,\nBerberian and King [1981]\n, and\nRamezani and Tucker [2003]\n, and only a brief summary is given here. As part of the Alpine-Himalayan orogenic system, Iran consists of a tectonic collage of Gondwana-derived terranes that had been successively accreted to the southern margin of Eurasia\n[Dewey et al., 1973;\nS \u00b8eng\u20ac or et al., 1988;\nAlavi, 1994;\nS \u00b8eng\u20ac or and Natal'in, 1996]\n. The terrane collision resulted in the obduction of ophiolitic rocks\n[Ghazi et al., 2004]\nand the development of mountain ranges including the Alborz-Kopeh Dagh ranges in northern Iran, the Zagros ranges in southwestern Iran, and the east Iranian ranges. The mountain ranges are juxtaposed with major suture zones, for example, a Paleotethyan suture along the Alborz-Kopeh Dagh ranges\n[Alavi et al., 1997]\n, the Bitlis-Zagros suture along the Zagros ranges\n[Agard et al., 2011, and references therein]\n, and the Sistan suture along the east Iranian ranges\n[Tirrul et al., 1983;\nMcCall, 1997]\n(Figure\n1a\n, inset). The latter two sutures are Neotethyan in nature; the north-south-trending Sistan suture marks the collision between the Lut and Afghan (or Helmand) microcontinental blocks in the Late Cretaceous\n[Zarrinkoub et al., 2012;\nAngiboust et al., 2013]\nwhereas the Bitlis-Zagros suture records the collision of Arabia to Eurasia, or any terranes accreted to its southern margin, since the Late Eocene-Early Oligocene\n[Allen and Armstrong, 2008;\nAgard et al., 2011;\nBallato et al., 2011;\nMcQuarrie and van Hinsbergen, 2013;\nMcQuarrie et al., 2003]\n. Surrounded by the aforementioned mountain ranges is a region of moderate relief known as the central Iranian microcontinent containing, from east to west, the Lut, Tabas, and Yazd blocks (Figure\n1a\n, inset). In southeastern Iran, the east-west-trending Makran ranges extend to southwestern Pakistan\n[McCall, 1997]\n.\nThe oldest magmatic rocks in Iran have Late Neoproterozoic to Early Cambrian ages (590-500 Ma) and have been related to an orogenic event along the Proto-Tethyan margin of the Gondwanaland\n[Ramezani and Tucker, 2003;\nHassanzadeh et al., 2008;\nAzizi et al., 2011;\nChiu et al., 2013]\n. During the Paleozoic, magmatism appeared to be largely inactive or of very limited extent throughout the country. From the Early Mezosoic to Late Cenozoic, extensive magmatism related to Neotethyan subduction was preserved in two magmatic belts subparallel to the Bitlis-Zagros suture: one dominated by Jurassic-Cretaceous granitic plutons and volcanic rocks in the Sanandaj-Sirjan zone\n[St\u20ac ocklin, 1968]\nand another dominated by Paleogene volcanic rocks, i.e., the Urumieh-Dohktar magmatic arc (UDMA)\n[Schroder, 1944;\nAlavi, 1994]\n. The Paleogene magmatic activity was confined not only to the UDMA but also along the Alborz ranges and in the Lut-Sistan region, together representing a period of magmatic flare-up\n[Berberian and King, 1981;\nCamp and Griffis 1982;\nJung et al., 1983;\nVerdel et al., 2011;\nPang et al., 2013a]\n. Magmatic activity from the Miocene to Quaternary appeared to be less extensive compared to the Paleogene pulse and was confined to isolated volcanic centers in northwestern Iran [e.g.,\nKheirkhah et al., 2009;\nAghazadeh et al., 2010;\nAllen et al., 2013;\nPang et al., 2013b]\n, northern Iran\n[Davidson et al., 2004]\n, northeastern Iran (Quchan), eastern Iran\n[Walker et al., 2009;\nPang et al., 2012]\n, and southeastern Iran\n[Saadat and Stern, 2011, this study]\n, and some volcanic centers and small plutons along the UDMA\n[Jahangiri, 2007;\nOmrani et al., 2008;\nChiu et al., 2013]\n. A wide range of magma types with ultrapotassic, adakitic, alkali basaltic, calc-alkaline, and shoshonitic compositions has been identified for the Miocene-Quaternary magmatism.",
+        "Geology of the Makran Subduction System": "Geology of the Makran Subduction System\nThe Makran of Iran and Pakistan is an active arc system where the oceanic portion of the Arabian Plate subducts toward the north beneath Eurasia at a rate of 2 cm per year\n[Farhoudi and Karig, 1977;\nVerdant et al., 2004]\n. It consists of a trench (i.e., the Makran trench) running roughly east-west at 24 N-25 N offshore in the Gulf of Oman, an extensive (1000 km 3 350 km) and one of the world's largest accretionary prism\n[Platt et al., 1985;\nKopp et al., 2000;\nGrando and McClay, 2007]\n, the subaerial portion of which is referred to as the Makran ranges, and a chain of arc volcanoes aligned in an ENE-WSW orientation further inland (i.e., the Makran arc). The eastern limit of the Makran is the sinistral Ornach-Nal and Chaman faults, the boundary between the Eurasian and the Indian plates continuing toward the Indus-Yarlung suture. To the west, the Makran passes into the Zagros ranges through the dextral Zendan-Minab-Palami fault system, which extends toward the Bitlis-Zagros suture (or the Main Zagros Thrust), the plate boundary between Arabia and Eurasia\n[Regard et al., 2010]\n. Situated to the north of Makran is the north-south-trending Sistan suture zone separating the Lut block to the west and the Afghan block to the east.\nA comprehensive review on the geology of the Iranian Makran is given by\nMcCall [1997\nMcCall [ , 2002]]\n. The age of the subducting Arabian Plate was inferred to be either Jurassic or older\n[Whitmarsh, 1979]\nor Eocene Geochemistry, Geophysics, Geosystems 10.1002/2014GC005262\n[Mountain and Prell, 1990]\n; the heat flow data by\nHutchison et al. [1981]\nare consistent with the older age. The Makran subduction system is associated with several characteristic features including high sediment input\n[Platt et al., 1985]\n, gentle dip of the downgoing slab\n[Byrne et al., 1992]\n, and low historical seismicity\n[Byrne et al., 1992]\n. The thickness of the incoming sediments is up to 5-7 km, most of which were accreted to form the accretionary prism and the rest of them might have been transported to greater depths with the subducting slab\n[Platt et al., 1985;\nKopp et al., 2000;\nGrando and McClay, 2007]\n. The source of sediments was likely to be the proto-Indus fan with accumulated sediments from the Himalayas\n[Garzanti et al., 1996]\n, in addition to those eroded from the Makran continental margin. The long arc-trench distance (400-600 km) and seismological data are indicative of a shallow-dipping (2-8 ) Benioff zone\n[Byrne et al., 1992\nGeochemistry, Geophysics, Geosystems\net al., 2000]\n. The generally low seismicity of the Makran, especially for its western part, might be attributable to the presence of an appreciable quantity of young and poorly consolidated sediments, which are resistant to accelerating slip associated with earthquakes\n[Marone and Scholz, 1988]\n, on the subducting slab.\n10.1002/2014GC005262\nThe Makran arc consists of three stratovolcanoes including, from east to west, the Koh-i-Sultan in Pakistan, and the Taftan and Bazman in Iran (Figure\n1a\n), and numerous smaller volcanic centers in between them. The fact that they form an ENE-WSW chain at an angle to the Makran trench has been ascribed to different dips of the subducting slab east and west of the Sonne fault, along which the Ormara microplate was torn from the eastern edge of the Arabian plate\n[Kukowski et al., 2000]",
+        "Sampling and Analytical Methods": "Sampling and Analytical Methods\nTwenty-one samples of igneous rocks were collected in the Makran region, southeastern Iran (Figure\n1b\n), including two from the Mirabad pluton (Figure\n2a\n), nine from the Taftan volcano (Figure\n2b\n), and ten near the Bazman volcano (Figure\n2c\n). Representative samples were selected for zircon U-Pb dating by laser ablation (LA)-inductively coupled plasma-mass spectrometry (ICP-MS) in Department of Geosciences, National\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005262\nTaiwan University, Taiwan and secondary ion mass spectrometry (SIMS) in Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing, China. The results of LA-ICP-MS and SIMS analyses are illustrated in Figures\n3\nand\n4\n, and the full analytical data are given in supporting information. All samples were measured for loss on ignition (LOI), major, and trace elements, and a subset of them for Sr-Nd isotopes in Department of Geosciences, National Taiwan University, Taiwan. Measurements were made on rock powders, which were carefully prepared by cutting, crushing, and pulverization in agate mortars to minimize potential contamination of transition elements in trace element analyses. The analytical procedures are described in further detail in supporting information.",
+        "Results": "Results",
+        "The Mirabad Pluton": "The Mirabad Pluton\nAccording to the QAPF modal classification of plutonic rocks\n[Streckeisen, 1976]\n, samples 10-22 and 10-23 from the Mirabad pluton are classified as granodiorite. They are dated at 19.1 6 0.2 and 19.0 6 0.2 Ma by LA-ICP-MS zircon U-Pb technique (Figures\n3a\nand\n3b\n). On a plot of K 2 O versus SiO 2\n[Peccerillo and Taylor, 1976]\n, they show high-K calc-alkaline affinity and represent intrusive equivalents of high-K andesite and high-K dacite (Figure\n5a\n). Sample 10-22 has a molar (Na 1 K)/Al value of 0.51 and an aluminum saturation index (ASI) of 0.95 and is thus metaluminous. Sample 10-23 has an identical molar (Na 1 K)/Al value but an ASI of 1.05 and is slightly peraluminous. The primitive mantle-normalized trace element patterns for both samples are characterized by enrichments of large ion lithophile elements (LILE) and light rare earth elements (LREE), a prominent Pb spike and Nb-Ta-Ti-P troughs (Figure\n7a\n). Such an orogenic signature is commonly observed in rocks of the upper continental crust\n[Rudnick and Gao, 2003]\nand in arc magmas [Gill, Geochemistry, Geophysics, Geosystems\nand Taylor, 1976]\n. Four common rock series include: the low-K series (low-K tholeiite (3), low-K basaltic andesite (7), low-K andesite (11), and low-K dacite (\n14\n)), the medium-K series (basalt (2), basaltic andesite (6), andesite (10), and dacite (\n13\n)), the high-K series (basalt (2), high-K basaltic andesite (5), high-K andesite (9), and high-K dacite (\n12\n)), and the shoshonitic series (absarokite (1), shoshonite (4), and banakite (\n8\n)). (b) A ternary plot of (Na 2 O 1 K 2 O)-FeO*-MgO (the AFM diagram)\n[Kuno, 1968]\n. FeO* denotes the amount of total iron oxides assuming Fe 2 O 3 /FeO 5 1:9. Reference fields for Neogene-Quaternary magmatic rocks at Bazman (Iran), Taftan (Iran), and Koh-i-Sultan (Pakistan) are drawn after published data by Biabangard\nand\nMoradian [2008], Saadat\nand\nStern [2011],\nand\nRichards et al. [2012]\n.\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005262",
+        "The Taftan Volcano": "The Taftan Volcano\nFive samples from the Taftan volcano are dated by LA-ICP-MS zircon U-Pb technique at 3.4 Ma (one sample), 3.2 Ma (three samples), and 0.8 Ma (one sample; Figures\n3c-3g\n). Among these, zircon in samples 10-25, 10-26, and 10-27 is also analyzed by SIMS (Figures\n4a-4c\n), yielding similar age results with higher precision (Figure\n4d\n). The Taftan samples have intermediate to rhyolitic compositions (56.1-63.9 wt % SiO 2 ) and their calc-alkaline affinity is evident in the K 2 O-SiO 2 diagram\n[Peccerillo and Taylor, 1976]\n(Figure\n5a\n) and the AFM diagram\n[Kuno, 1968]\n(Figure\n5b\n).\n1\n).",
+        "The Bazman Volcano": "The Bazman Volcano\nSamples 10-36 and 10-46 in the vicinity of the Bazman volcano are dated by LA-ICP-MS zircon U-Pb technique at 7.5 6 0.1 and 5.9 6 0.2 Ma, respectively (Figures\n3h\nand\n3i\n). Ranging from basaltic to rhyolitic in composition, most Bazman samples belong to the medium-K calc-alkaline series, except two rhyolitic samples lying close to the boundary between the medium-K and high-K series on the K 2 O-SiO 2 diagram (Figure\n5a\n). (h) Rb; and (i) La. Gray symbols denote published data following the same legend as in Figure\n6a\n, except triangular symbols standing for published data from the Koh-i-Sultan volcano.\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005262\nThe calc-alkaline affinity of the samples is also evident on the AFM diagram (Figure\n5b\n).\n[Workman and Hart, 2005]\nand GLOSS\n[Plank and Langmuir, 1998]\nor Tethyan flysch\n[Prelevic \u00b4et al., 2008]\nare binary mixing arrays, and the tick marks denote mixing percentages.\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005262\n6a-6e\nand\n6g\n), and positively with K 2 O (0.84-3.0 wt %), Rb (14-115 ppm), and La (11-28 ppm; Figures\n6h\nand\n6i\n). No systematic trend exists between Na 2 O and SiO 2 (Figure\n6f\n). As shown in Figure\n7c\n, an orogenic signature is apparent in the primitive mantle-normalized trace element diagram, and samples 10-36 and 10-46 exhibit slight positive Zr-Hf anomalies, a feature absent in the rest majority of samples. Compared with our data, samples obtained by\nSaadat and Stern [2011]\nfor the Bazman monogenetic parasitic cones extend to low SiO 2 compositions down to 45 wt %, but the trace element patterns for their samples and our samples largely overlap (Figure\n7c\n). The Bazman samples have 87 Sr/ 86 Sr ranging from 0.7039 to 0.7065 and 143 Nd/ 144 Nd from 0.5126 to 0.5128, extending from ratios similar to the Bulk Silicate Earth to depleted isotopic compositions (Figure\n8\nand Table\n1\n).",
+        "Discussion": "Discussion",
+        "The Makran as a Neogene-Quaternary Subduction System": "The Makran as a Neogene-Quaternary Subduction System\nOne important finding derived from this study is that the Makran arc magmatism might have started considerably earlier than generally appreciated. As summarized above, existing age data for the arc rocks range from the Late Miocene to Quaternary. Our new data show that the Mirabad pluton in the vicinity of the Taftan volcano formed at 19 Ma, which predated the Taftan volcano for at least 12 Myr (Figure\n9\n). Although 19 Ma ages are unknown from large eruptive centers of the arc like Bazman and Koh-i-Sultan, there are Late Oligocene-Early Miocene magmatic ages reported in the Pakistan Makran, including Reko Diq-Saindak (16 and 22 Ma)\n[Perell o, 2008;\nRichards et al., 2012]\nand Ting-Dargun (19 and 24 Ma)\n[Perell o, 2008]\n(Figure\n9\n). It is therefore very likely that the Taftan region and some regions in the Pakistan Makran was magmatically active by the Early Miocene and it is important whether this pulse of magmatism is related to the Makran arc or to the Zahedan-Shah Kuh belt composed of Oligocene-Miocene plutons (Figure\n1a\n). Our data show that rocks from the Mirabad pluton and the Taftan volcano are geochemically similar, consistent with a common petrogenetic relationship. In detail, the time-integrated enrichment in Sr-Nd isotopes is a diagnostic feature as the majority of Cenozoic magmatic rocks in Iran are characterized by depleted Sr-Nd isotopic compositions\n[Omrani et al., 2008;\nAhmadian et al., 2009;\nAghazadeh et al., 2010;\nAllen et al., 2013;\nPang et al., 2013a]\ncharacteristic of juvenile, or oceanic-type, terrane. The 32 Ma Zahedan pluton shows depletions in Y and heavy rare earth elements, and depleted to Bulk Silicate Earth-like Sr-Nd isotopic compositions\n[Sadeghian et al., 2005;\nZarrinkoub et al., unpublished manuscript, 2014]\n, features that compare differently to the Mirabad and Taftan samples. It is thus more likely, from a geochemical perspective, that the Mirabad pluton represents the root of an Early Miocene volcano that is compositionally similar to the Taftan volcano. Finally, the locality Ting-Dargun where 19 and 24 Ma andesitic rocks were documented is located far from the Zahedan-Shah Kuh belt, but lying along the chain of the Makran arc volcanoes (Figure\n1a\n). We thus believe that the Makran arc did consist of a magmatic pulse in the Early Miocene and arc magmatism presumably started by that time. Geochemistry, Geophysics, Geosystems 10.1002/2014GC005262",
+        "Petrogenetic Constraints": "Petrogenetic Constraints\nAll studied samples do not meet the criteria for primitive magmas in equilibrium with mantle peridotites, i.e., >400-500 ppm Ni, >1000 ppm Cr, and Mg# > 70\n[Wilson, 1989]\n. However, the following geochemical features point to contribution from the mantle in magma genesis: (i) the basaltic and andesitic compositions (<56 wt % SiO 2 ) of some Bazman and Taftan samples (Figure\n5a\n[Gill, 1981;\nThorpe, 1982;\nPearce and Peate, 1995]\n.\nLee et al. [2009]\npresented new thermobarometers based on Si and Mg contents of basaltic magmas to estimate the temperature and pressure (P-T) of magma generation. Using the Excel spreadsheet developed by these authors for fractionation correction and P-T estimation, we obtain 1400 C and 2.3 GPa for a basaltic sample in the vicinity of the Bazman volcano (Figure\n10\n). It is the only available analysis in the Makran arc having MgO high enough (>8.5 wt %) for estimation on anhydrous basis. Because the qualitative effect of H 2 O addition is a shift to lower temperature and higher pressure [see\nLee et al., 2009]\n, the estimated pressure of 2.3 GPa can be considered a minimum pressure of magma generation, corresponding to a depth of 76 km in the subarc upper mantle.\nSamples with >3 wt % MgO (on a volatile-free basis), a subset which should be less strongly affected by magma differentiation are screened to examine the features of the mantle source. Because of limited fluid mobility and different relative incompatibilities, the elements Nb and Yb are ideal to examine the degree of enrichment (or depletion) of the magma source. The Nb/Yb of this subset of samples is from 3.6 to 9.7, a range lying between values of average enriched mid-ocean ridge basalt (E-MORB; 3.5) and oceanic island basalts (OIB; 22) [see\nSun and McDonough, 1989]\n. This indicates that the mantle source is enriched in the more incompatible trace elements (e.g., Nb) or the degree of melting is low, or a combination of both. However, the calc-alkaline character of the studied rocks is consistent with normal degrees of mantle melting in arc settings (i.e., 5-15%) and the alternative possibility of magma derivation from an enriched mantle source appears more plausible. Similar arguments apply for elemental ratios Zr/Nb (12-22), Zr/Y (5.2-11), and Nb/Y (0.33-0.83) that compare closely to E-MORB-OIB ranges [see\nSun and McDonough, 1989\n]. We then plot Ba/Yb, Th/Yb, La/Yb, and Pb/Yb against Nb/Yb to investigate the behavior of LILE, LREE, Th, and Pb. As shown in Figure\n11\n, the data plot above the mantle array indicative of the nonconservative behavior of these elements characteristic of arc magmas\n[Pearce and Peate, 1995]\n. Also, the subparallel trends defined by these data to the mantle array can be readily explained by constant addition of a subduction component to the mantle source followed by dynamic melting\n[Pearce et al., 1995]\n.\nPlank [2005]\ndeveloped Th/La as a rigorous proxy for sediment recycling in subduction zones. The study demonstrated that arc magmas inherit Th/La from subducted sediments and high Th/La is not generated during subduction. Relatively high Th/La of the studied samples can be interpreted in a similar manner by mixing between an enriched mantle end-member like E-MORB and subducted sediments with high and variable Th/La (Figure\n12a\n). No systematic relations exist between the sediment proxy Th/La and Ba/Th (Figure\n12b\n), a Geochemistry, Geophysics, Geosystems 10.1002/2014GC005262 proxy for shallow subduction component, or Ce/Pb (Figure\n12c\n), a measure of the extent of the positive Pb anomaly. As shown in these diagrams, some samples having Ba/Th higher than E-MORB and Ce/Pb lower than the upper continental crust most likely reflect enrichment of LILE and Pb by hydrous fluid. In addition, the Th/La of the relatively primitive samples clusters over a range of 143 Nd/ 144 Nd (Figure\n12d\n), indicating that the isotopic variations are not primarily controlled by sediment melt addition (see later discussion).\nAs noted above, the studied rocks have compositions more evolved than any putative primitive magmas such that differentiation by fractional crystallization, with or without concomitant crustal contamination, can be expected. As shown in Figure\n13\n(inset), the tendency for samples with higher MgO to have lower 87 Sr/ 86 Sr, and vice versa, is consistent with the process of combined assimilation and fractional crystallization. However, the data cluster in a diagram of Sr versus 87 Sr/ 86 Sr (Figure\n13\n), an observation at odds with the positive correlation between Sr and its isotopic composition in the ''Bazman arc rocks'' noted by\nAhmadian et al. [2009]\n. The rocks referred to by these authors are, however, belong to the Bazman intrusive complex recently dated using zircon U-Pb method at the Late Cretaceous\n[Chiu et al., 2013]\nsuch that these rocks might not be directly comparable to the much younger Bazman volcano. The spread of data in Figure\n13\ncannot be explained by any simple classical assimilation-fractional crystallization (AFC) models, and we here attempt to model the data using the more robust, energy-constrained assimilation-fractional crystallization (EC-AFC) model established by\nBohrson and Spera [2001]\nand\nSpera and Bohrson [2001]\n. The parameters are given in Table\n2\n, including an initial magma with 500 ppm Sr and 87 Sr/ 86 Sr of 0.7039, a felsic assimilant with 156 ppm Sr and 87 Sr/ 86 Sr of 0.7157 and a mafic assimilant with 300 ppm Sr and 87 Sr/ 86 Sr of 0.7097. The results show that the elemental and isotopic variations of Sr can be modeled by variable bulk distribution coefficients (D) for Sr in magma and assimilant from neutral (D m 5 D a 5 1) to moderately incompatible (D m 5 D a 5 0.4) (Figure\n13\n), and the nature of the assimilant appears to be of secondary importance. The incompatible behavior of Sr might reflect a feldspar-poor assimilant and/or limited involvement of feldspar during differentiation [see\nGuo et al., 2006]\n. A caveat for the above model is that D is treated constant for each trajectory-the actual behavior of Sr in magmas ought to be more complicated, possibly involving a change from incompatible to compatible at the point of plagioclase saturation, a case Geochemistry, Geophysics, Geosystems 10.1002/2014GC005262 difficult to be modeled by EC-AFC. However, it is apparent that the incompatible behavior of Sr is required to explain samples with >500 ppm Sr and 87 Sr/ 86 Sr > 0.7039 for the assimilants examined.",
+        "A Three-Component Model for Magma Genesis": "A Three-Component Model for Magma Genesis\nThe petrogenetic constraints placed in the earlier section allow the establishment of a generalized model for magma genesis in the Makran arc. As described and explained below, the model consists of three components that are essential to explain the geochemical variations of the studied rocks.\nA depleted mantle component. The component is signified by the unradiogenic Sr and radiogenic Nd isotopic compositions, indicating time-integrated LILE and LREE depletion compared to the Bulk Silicate Earth. The component likely represents the subarc mantle wedge that underwent melt extraction long enough to impart a depleted signal with respect to Sr-Nd isotopes. At Makran, this component is the most obvious in the basaltic samples from the Bazman volcano.\nA trace element-rich component. The component is marked by enrichments in all incompatible trace elements and is responsible for imparting an orogenic geochemical signature to the mantle source. Although its Rb/Sr is higher and Sm/Nd lower than the Bulk Silicate Earth, the component does not reside in the lithosphere long enough to evolve to enriched Sr-Nd isotopic compositions. The component likely represents partial melts of subducted sediments and/or slab-derived hydrous fluid. At Makran, this component is hidden in the relatively primitive samples showing orogenic signatures and depleted Sr-Nd isotopic compositions from the Bazman and Taftan volcanoes.\nAn isotopically enriched component. The component is characterized by radiogenic Sr and unradiogenic Nd isotopic compositions, suggesting time-integrated LILE and LREE enrichment compared to the Bulk Silicate Earth. The component likely represents the continental crust whose elements were extracted from the mantle long enough for the Sr-Nd isotopes to evolve to enriched compositions. In theory, it should also exhibit an orogenic signature as component 2 [see\nRudnick and Gao, 2003]\n. At Makran, this component is the strongest in the Mirabad and Taftan samples.\nAlthough it could be argued that components 2 and 3 can be taken together to represent subducted sediments whose source rocks reside in the crust long enough to acquire enriched isotopic signatures, we do not prefer such an interpretation for the Makran arc because: (i) no negative trend is observed between Th/ La and 143 Nd/ 144 Nd for the relatively primitive samples (Figure\n12d\n), as would be expected if the variable addition of old sediment melt to the mantle source happened, (ii) these samples are enriched in terms of trace element concentrations coupled with depleted Sr-Nd isotopic compositions, indicating that the enrichment was a relatively recent event without significant involvement of old sediments in the petrogenesis, and (iii) the Sr-Nd isotopic compositions of the studied samples are not consistent with binary mixing between depleted MORB mantle\n[Workman and Hart, 2005]\nand global subducting sediment (GLOSS)\n[Plank and Langmuir, 1998]\nor Tethyan flysch\n[Prelevic et al., 2008]\n(Figure\n8\n). We thus consider that components 2 and e a for the felsic assimilant is taken from a meta-granite (sample IRK-GR1) from the Khoy metamorphic complex\n[Azizi et al., 2011]\n.\nd C a and e a for the mafic assimilant is taken from a meta-basite (sample IRK-AM2) from the Khoy metamorphic complex\n[Azizi et al., 2011]\n.\nGeochemistry, Geophysics, Geosystems 10.1002/2014GC005262 and 3 have no genetic relation to each other in the Makran arc. The model presented above has the advantage to explain the lack of coupled enrichment in terms of trace elements and radiogenic isotopes, and might be applicable to some other arc systems, particularly continental arcs.",
+        "Tectonic Implications": "Tectonic Implications\nOur results shed new lights on the geodynamic evolution of the Makran presented by\nMcCall [1997\nMcCall [ , 2002]]\n. He noted that there were probably two coexisting subduction zones in the Makran during the Paleogene, one at which is now the southeastern UDMA and another resulted in a plutonic belt from Zahedan to Shah-Kuh running subparallel to it (Figure\n1a\n). It was proposed that magmatic activity of the latter ceased toward the end of the Oligocene whereas the former shifted out in the Gulf of Oman at the Early Pliocene, a change accompanied by uplift and subsequent formation of the Makran arc. However, the initiation of the Makran arc magmatism at the Early Miocene, as discussed earlier based on our new data, implies that the Makran subduction likely began at pre-Miocene times. Recent zircon U-Pb dating results by\nChiu et al. [2013]\nconfirm that magmatic activity of the southeastern UDMA continued to the latest Pliocene. In view of the above, a likely scenario is that the Neotethyan subduction zone that generated the UDMA propagated from the northwest to southeast in the Gulf of Oman at pre-Miocene times and northward subduction since then produced the Makran arc (Figures\n14a\nand\n14b\n). A sudden jump of the subduction front at the Early Pliocene, as argued by\nMcCall [1997\nMcCall [ , 2002]]\n, probably did not happen.\nBased on available data and observations, we propose that the Makran represents a window of continental collision between the India-Eurasia collision zone to the east and the Arabia-Eurasia collision zone to the west (see Figure\n14\nfor details). It is part of the southern margin of Eurasia where remnant oceanic lithosphere of the Neotethys, as shown by heat flow data by\nHutchison et al. [1981]\n, has been destroyed in a subduction zone since the Early Miocene. At that time, a large part of Neotethys had been consumed in subduction zones along what are now the Indus-Yarlung suture to the east and the Bitlis-Zagros suture to the west. Prior to Miocene, it is either that subduction was inactive along this segment of the continental margin or that it did happened but left no magmatic record for some unknown reasons. An analogy can be drawn with the eastern Mediterranean that is also underlain by remnant Neotethyan oceanic lithosphere\n[Garfunkel, 2004, and references therein;\nM\u20ac uller et al., 2008]\n. A major difference is that the Mediterranean Sea will be closed in the future when Africa and Eurasia finally converge, whereas oceanic lithosphere of the Indian Ocean will continue to subduct beneath the Makran arc until the arrival of a continental block at the subduction zone.",
+        "Concluding Remarks": "Concluding Remarks\nThe important results of this study are summarized below:\n1. Magmatic activity of the Makran arc, previously considered to be active from the Late Miocene to Quaternary, might have actually commenced by the Early Miocene. The argument is based on the 19 Ma Mirabad pluton that is geochemically similar to the Taftan volcano.  4. The subduction zone generating the Makran arc might have been propagated from the one resulted in the UDMA to the northwest. The Makran represents a window of continental collision between the India-Eurasia collision zone to the east and the Arabia-Eurasia collision zone to the west."
+    },
+    "references": [
+        {
+            "title": "On the magmatic record of the Makran arc, southeastern Iran: Insights from zircon U-Pb geochronology and bulk-rock geochemistry",
+            "authors": [
+                "Kwan-NangPang",
+                "Sun-LinChung",
+                "MohammadHosseinZarrinkoub",
+                "Han-YiChiu",
+                "Xian-HuaLi",
+                "K.-NPang"
+            ],
+            "journal": null,
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Zagros orogeny: A subduction-dominated process",
+            "authors": [
+                "PAgard",
+                "JOmrani",
+                "LJolivet",
+                "HWhitechurch",
+                "BVrielynck",
+                "WSpakman",
+                "PMoni E",
+                "BMeyer",
+                "RWortel"
+            ],
+            "journal": "Geol. Mag",
+            "date": "2011",
+            "pages": {
+                "from": "692",
+                "to": "725"
+            }
+        },
+        {
+            "title": "The gabbro (shoshonitic)-monzonite-granodiorite association of Khankandi pluton",
+            "authors": [
+                "MAghazadeh",
+                "ACastro",
+                "NROrman",
+                "MHEmami",
+                "HMoinvaziri",
+                "ZBadrzadeh"
+            ],
+            "journal": "J. Asian Earth Sci",
+            "date": "2010",
+            "pages": {
+                "from": "199",
+                "to": "219"
+            }
+        },
+        {
+            "title": "High magmatic flux during Alpine-Himalayan collision: Constraints from the Kal-e-Kaf\u0131 complex, central Iran",
+            "authors": [
+                "JAhmadian",
+                "MHaschke",
+                "IMcdonald",
+                "MRegelous",
+                "MRezaghorbani",
+                "MHEmami",
+                "MMurata"
+            ],
+            "journal": null,
+            "date": "2009",
+            "pages": {
+                "from": "857",
+                "to": "868"
+            }
+        },
+        {
+            "title": "Tectonics of the Zagros orogenic belt of Iran: New data and interpretations",
+            "authors": [
+                "MAlavi"
+            ],
+            "journal": null,
+            "date": "1994",
+            "pages": {
+                "from": "211",
+                "to": "238"
+            }
+        },
+        {
+            "title": "The Triassic and associated rocks of the Nakhlak and Aghdarband areas in central and northeastern Iran as remnants of the southern Turanian active continental margin",
+            "authors": [
+                "MAlavi",
+                "HVaziri",
+                "KSeyed-Emami",
+                "YLasemi"
+            ],
+            "journal": "Geol. Soc. Am. Bull",
+            "date": "1997",
+            "pages": {
+                "from": "1563",
+                "to": "1575"
+            }
+        },
+        {
+            "title": "Arabia-Eurasia collision and the forcing of mid-Cenozoic global cooling",
+            "authors": [
+                "MBAllen",
+                "HAArmstrong"
+            ],
+            "journal": "Palaeogeogr. Palaeoclimatol. Palaeoecol",
+            "date": "2008",
+            "pages": {
+                "from": "52",
+                "to": "58"
+            }
+        },
+        {
+            "title": "Generation of arc and within-plate chemical signatures in collision zone magmatism: Quaternary lavas from Kurdistan Province",
+            "authors": [
+                "MBAllen",
+                "MKheirkhah",
+                "INeill",
+                "MHEmami",
+                "CLMcleod"
+            ],
+            "journal": "J. Petrol",
+            "date": "2013",
+            "pages": {
+                "from": "887",
+                "to": "911"
+            }
+        },
+        {
+            "title": "Insights on deep, accretionary subduction processes from the Sistan ophiolitic ''melange'' (Eastern Iran)",
+            "authors": [
+                "SAngiboust",
+                "PAgard",
+                "JC MDe Hoog",
+                "JOmrani",
+                "APlunder"
+            ],
+            "journal": "Lithos",
+            "date": "2013",
+            "pages": {
+                "from": "139",
+                "to": "158"
+            }
+        },
+        {
+            "title": "Isotopic dating of the Khoy metamorphic complex (KMC), northwestern Iran: A significant revision of the formation age and magma source",
+            "authors": [
+                "HAzizi",
+                "S.-LChung",
+                "TTanaka",
+                "YAsahara"
+            ],
+            "journal": "Precambrian Res",
+            "date": "2011",
+            "pages": {
+                "from": "87",
+                "to": "94"
+            }
+        },
+        {
+            "title": "Arabia-Eurasia continental collision: Insights from late Tertiary foreland-basin evolution in the Alborz Mountains, northern Iran",
+            "authors": [
+                "PBallato",
+                "CEUba",
+                "ALandgraf",
+                "MRStrecker",
+                "MSudo",
+                "DFStockli",
+                "AFriedrich",
+                "SHTabatabaei"
+            ],
+            "journal": null,
+            "date": "2011",
+            "pages": {
+                "from": "106",
+                "to": "131"
+            }
+        },
+        {
+            "title": "Towards a paleogeography and tectonic evolution of Iran",
+            "authors": [
+                "MBerberian",
+                "GC PKing"
+            ],
+            "journal": "Can. J. Earth Sci",
+            "date": "1981",
+            "pages": {
+                "from": "210",
+                "to": "265"
+            }
+        },
+        {
+            "title": "Geology and geochemical evaluation of Taftan Volcano, Sistan and Baluchestan Province, southeast of Iran",
+            "authors": [
+                "HBiabangard",
+                "AMoradian"
+            ],
+            "journal": "Chin. J. Geochem",
+            "date": "2008",
+            "pages": {
+                "from": "356",
+                "to": "369"
+            }
+        },
+        {
+            "title": "Energy-constrained open-system magmatic processes II: Application of energy-constrained assimilation-fractional crystallization (EC-AFC) model to magmatic systems",
+            "authors": [
+                "WABohrson",
+                "FJSpera"
+            ],
+            "journal": "J. Petrol",
+            "date": "2001",
+            "pages": {
+                "from": "1019",
+                "to": "1041"
+            }
+        },
+        {
+            "title": "Great thrust earthquakes and aseismic slip along the plate boundary of the Makran subduction zone",
+            "authors": [
+                "DEByrne",
+                "LRSykes",
+                "DMDavis"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1992",
+            "pages": {
+                "from": "449",
+                "to": "478"
+            }
+        },
+        {
+            "title": "Character, genesis and tectonic setting of igneous rocks in the Sistan suture zone, eastern Iran",
+            "authors": [
+                "VECamp",
+                "RJGriffis"
+            ],
+            "journal": "Lithos",
+            "date": "1982",
+            "pages": {
+                "from": "221",
+                "to": "239"
+            }
+        },
+        {
+            "title": "Zircon U-Pb age constraints from Iran on the magmatic evolution related to Neotethyan subduction and Zagros orogeny",
+            "authors": [
+                "H.-YChiu",
+                "S.-LChung",
+                "MHZarrinkoub",
+                "SSMohammadi",
+                "MHKhatib",
+                "YIizuka"
+            ],
+            "journal": null,
+            "date": "2013",
+            "pages": {
+                "from": "70",
+                "to": "87"
+            }
+        },
+        {
+            "title": "Tertiary and Quaternary geodynamics of southern Lut (Iran) as deduced from palaeomagnetic, isotopic and structural data",
+            "authors": [
+                "GConrad",
+                "RMontigny",
+                "RThuizat",
+                "MWestphal"
+            ],
+            "journal": null,
+            "date": "1981",
+            "pages": {
+                "from": "11",
+                "to": "17"
+            }
+        },
+        {
+            "title": "The geology of the Damavand",
+            "authors": [
+                "JDavidson",
+                "JHassanzadeh",
+                "RBerzins",
+                "DFStockli",
+                "BBashukooh",
+                "BTurrin",
+                "APandamouz"
+            ],
+            "journal": null,
+            "date": "2004",
+            "pages": {
+                "from": "16",
+                "to": "29"
+            }
+        },
+        {
+            "title": "Plate tectonics and the evolution of the Alpine system",
+            "authors": [
+                "JFDewey",
+                "WCPitman",
+                "Iii",
+                "WB FRyan",
+                "JBonnin"
+            ],
+            "journal": "Geol. Soc. Am. Bull",
+            "date": "1973",
+            "pages": {
+                "from": "3137",
+                "to": "3180"
+            }
+        },
+        {
+            "title": "Geochemical and Hf-Pb-Sr-Nd isotopic constraints on the origin of the Amsterdam-St. Paul (Indian Ocean) hotspot basalts",
+            "authors": [
+                "SDoucet",
+                "DWeis",
+                "JSScoates",
+                "VDebaille",
+                "AGiret"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2004",
+            "pages": {
+                "from": "179",
+                "to": "195"
+            }
+        },
+        {
+            "title": "Makran of Iran and Pakistan as an active arc system",
+            "authors": [
+                "GFarhoudi",
+                "DEKarig"
+            ],
+            "journal": "Geology",
+            "date": "1977",
+            "pages": {
+                "from": "664",
+                "to": "668"
+            }
+        },
+        {
+            "title": "Origin of the Eastern Mediterranean basin: A reevaluation",
+            "authors": [
+                "ZGarfunkel"
+            ],
+            "journal": "Tectonophysics",
+            "date": "2004",
+            "pages": {
+                "from": "11",
+                "to": "34"
+            }
+        },
+        {
+            "title": "Paleogeographic and paleotectonic evolution of the Himalayan Range as reflected by detrital modes of Tertiary sandstones and modern sands (Indus transect, India and Pakistan)",
+            "authors": [
+                "EGarzanti",
+                "SCritelli",
+                "RVIngersoll"
+            ],
+            "journal": "Geol. Soc. Am. Bull",
+            "date": "1996",
+            "pages": {
+                "from": "631",
+                "to": "642"
+            }
+        },
+        {
+            "title": "Geochemical characteristics, 40 Ar-39 Ar ages and original tectonic setting of the Band-e-Zeyarat/Dar Anar ophiolite",
+            "authors": [
+                "AMGhazi",
+                "AAHassanipak",
+                "JJMahoney",
+                "RADuncan"
+            ],
+            "journal": null,
+            "date": "2004",
+            "pages": {
+                "from": "175",
+                "to": "196"
+            }
+        },
+        {
+            "title": "Orogenic Andesites and Plate Tectonics",
+            "authors": [
+                "JBGill"
+            ],
+            "journal": null,
+            "date": "1981",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Morphotectonics domains and structural styles in the Makran accretionary prism, offshore Iran",
+            "authors": [
+                "GGrando",
+                "KMcclay"
+            ],
+            "journal": null,
+            "date": "2007",
+            "pages": {
+                "from": "157",
+                "to": "179"
+            }
+        },
+        {
+            "title": "Post-collisional, potassic and ultrapotassic magmatism of the northern Tibetan Plateau: Constraints on characteristics of the mantle source, geodynamic setting and uplift mechanisms",
+            "authors": [
+                "ZGuo",
+                "MWilson",
+                "JLiu",
+                "QMao"
+            ],
+            "journal": "J. Petrol",
+            "date": "2006",
+            "pages": {
+                "from": "1177",
+                "to": "1220"
+            }
+        },
+        {
+            "title": "U-Pb zircon geochronology of late Neoproterozoic-Early Cambrian granitoids in Iran: Implications for paleogeography, magmatism, and exhumation history of Iranian basement",
+            "authors": [
+                "JHassanzadeh",
+                "DFStockli",
+                "BKHorton",
+                "GJAxen",
+                "LDStockli",
+                "MGrove",
+                "AKSchmitt",
+                "JDWalker"
+            ],
+            "journal": "Tectonophysics",
+            "date": "2008",
+            "pages": {
+                "from": "71",
+                "to": "96"
+            }
+        },
+        {
+            "title": "Heat flow and age of the Gulf of Oman",
+            "authors": [
+                "IHutchison",
+                "KELouden",
+                "RSWhite",
+                "RPVon Herzen"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "1981",
+            "pages": {
+                "from": "252",
+                "to": "262"
+            }
+        },
+        {
+            "title": "Post-collisional Miocene adakitic volcanism in NW Iran: Geochemical and geodynamic implications",
+            "authors": [
+                "AJahangiri"
+            ],
+            "journal": "J. Asian Earth Sci",
+            "date": "2007",
+            "pages": {
+                "from": "433",
+                "to": "447"
+            }
+        },
+        {
+            "title": "Petrology of the Tertiary magmatic activity in the northern Lut area, east of Iran",
+            "authors": [
+                "DJung",
+                "JKeller",
+                "RKhorasani",
+                "CMarcks",
+                "ABaumann",
+                "PHorn"
+            ],
+            "journal": null,
+            "date": "1983",
+            "pages": {
+                "from": "285",
+                "to": "336"
+            }
+        },
+        {
+            "title": "A new parameterization of hydrous mantle melting",
+            "authors": [
+                "RFKatz",
+                "MSpiegelman",
+                "CHLangmuir"
+            ],
+            "journal": null,
+            "date": "2003",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Quaternary syn-collision magmatism from the Iran/Turkey borderlands",
+            "authors": [
+                "MKheirkhah",
+                "MBAllen",
+                "MEmami"
+            ],
+            "journal": "J. Volcanol. Geotherm. Res",
+            "date": "2009",
+            "pages": {
+                "from": "1",
+                "to": "12"
+            }
+        },
+        {
+            "title": "Structure of the Makran subduction zone from wide-angle and reflection seismic data",
+            "authors": [
+                "CKopp",
+                "JFruehn",
+                "ERFlueh",
+                "CReichert",
+                "NKukowski",
+                "JBialas",
+                "DKlaeschen"
+            ],
+            "journal": "Tectonophysics",
+            "date": "2000",
+            "pages": {
+                "from": "171",
+                "to": "191"
+            }
+        },
+        {
+            "title": "Newly identified strike-slip plate boundary in the northeastern Arabian Sea",
+            "authors": [
+                "NKukowski",
+                "TSchillhorn",
+                "ERFlueh",
+                "KHuhn"
+            ],
+            "journal": "Geology",
+            "date": "2000",
+            "pages": {
+                "from": "355",
+                "to": "358"
+            }
+        },
+        {
+            "title": "Basalts: The Poldervaart Treatise on Rocks of Basaltic Composition",
+            "authors": [
+                "HKuno"
+            ],
+            "journal": null,
+            "date": "1968",
+            "pages": {
+                "from": "623",
+                "to": "688"
+            }
+        },
+        {
+            "title": "Constraints on the depths and temperatures of basaltic magma generation on Earth and other terrestrial planets using new thermobarometers for mafic magmas",
+            "authors": [
+                "C.-TALee",
+                "PLuffi",
+                "TPlank",
+                "HDalton",
+                "WPLeeman"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2009",
+            "pages": {
+                "from": "20",
+                "to": "33"
+            }
+        },
+        {
+            "title": "The Central-Western Mediterranean: Anomalous igneous activity in an anomalous collisional tectonic setting",
+            "authors": [
+                "MLustrino",
+                "SDuggen",
+                "CLRosenberg"
+            ],
+            "journal": "Earth Sci. Rev",
+            "date": "2011",
+            "pages": {
+                "from": "1",
+                "to": "40"
+            }
+        },
+        {
+            "title": "Tracing the Indian Ocean mantle domain through time: Isotopic result from old West Indian, East Tethyan, and South Pacific seafloor",
+            "authors": [
+                "JJMahoney",
+                "RFrei",
+                "ML GTejada",
+                "X.-XMo",
+                "PTLeat",
+                "TFAgler"
+            ],
+            "journal": "J. Petrol",
+            "date": "1998",
+            "pages": {
+                "from": "1285",
+                "to": "1306"
+            }
+        },
+        {
+            "title": "The depth of seismic faulting and the upper transition from stable to unstable slip regimes",
+            "authors": [
+                "CMarone",
+                "CHScholz"
+            ],
+            "journal": "Geophys. Res. Lett",
+            "date": "1988",
+            "pages": {
+                "from": "621",
+                "to": "624"
+            }
+        },
+        {
+            "title": "The geotectonic history of the Makran and adjacent areas of southern Iran",
+            "authors": [
+                "GJ HMccall"
+            ],
+            "journal": "J. Asian Earth Sci",
+            "date": "1997",
+            "pages": {
+                "from": "517",
+                "to": "531"
+            }
+        },
+        {
+            "title": "A summary of the geology of the Iranian Makran, in The Tectonic and Climatic Evolution of the Arabian Sea Region",
+            "authors": [
+                "GJ HMccall"
+            ],
+            "journal": "Geol. Soc. Spec. Publ",
+            "date": "2002",
+            "pages": {
+                "from": "147",
+                "to": "204"
+            }
+        },
+        {
+            "title": "Cenozoic evolution of Neotethys and implications for the causes of plate motions",
+            "authors": [
+                "NMcquarrie",
+                "JMStock",
+                "CVerdel",
+                "BPWernicke"
+            ],
+            "journal": "Geophys. Res. Lett",
+            "date": "2003",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Retrodeforming the Arabia-Eurasia collision zone: Age of collision versus magnitude of continental subduction",
+            "authors": [
+                "NMcquarrie",
+                "DJ JVan Hinsbergen"
+            ],
+            "journal": "Geology",
+            "date": "2013",
+            "pages": {
+                "from": "315",
+                "to": "318"
+            }
+        },
+        {
+            "title": "A multiphase plate tectonic history of the southeast continental margin of Oman",
+            "authors": [
+                "GMountain",
+                "WIPrell"
+            ],
+            "journal": null,
+            "date": "1990",
+            "pages": {
+                "from": "725",
+                "to": "743"
+            }
+        },
+        {
+            "title": "Age, spreading rates, and spreading asymmetry of the world's ocean crust",
+            "authors": [
+                "RDM\u20ac Uller",
+                "MSdrolias",
+                "CGaina",
+                "WRRoest"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2008",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Heterogeneity in southern Central Indian Ridge MORB: Implications for ridgehot spot interaction",
+            "authors": [
+                "BJMurton",
+                "AGTindle",
+                "JAMilton",
+                "DSauter"
+            ],
+            "journal": "Geochem. Geophys. Geosyst",
+            "date": "2005",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Systematic variation of Sr-, Nd-and Pb-isotopes with time in lavas of Mauritius, R eunion hotspot",
+            "authors": [
+                "SNohda",
+                "IKaneoka",
+                "THanyu",
+                "SXu",
+                "KUto"
+            ],
+            "journal": "J. Petrol",
+            "date": "2005",
+            "pages": {
+                "from": "505",
+                "to": "522"
+            }
+        },
+        {
+            "title": "Arc-magmatism and subduction history beneath the Zagros Mountains, Iran: A new report of adakites and geodynamic consequences",
+            "authors": [
+                "JOmrani",
+                "PAgard",
+                "HWhitechurch",
+                "MBenoit",
+                "GProuteau",
+                "LJolivet"
+            ],
+            "journal": null,
+            "date": "2008",
+            "pages": {
+                "from": "380",
+                "to": "398"
+            }
+        },
+        {
+            "title": "Age, geochemical characteristics and petrogenesis of Late Cenozoic intraplate alkali basalts in the Lut-Sistan region, eastern Iran",
+            "authors": [
+                "K.-NPang",
+                "S.-LChung",
+                "MHZarrinkoub",
+                "SSMohammadi",
+                "H.-MYang",
+                "C.-HChu",
+                "H.-YLee",
+                "C.-HLo"
+            ],
+            "journal": "Chem. Geol",
+            "date": "2012",
+            "pages": {
+                "from": "40",
+                "to": "53"
+            }
+        },
+        {
+            "title": "Eocene-oligocene post-collisional magmatism in the Lut-Sistan region, eastern Iran: Magma genesis and tectonic implications",
+            "authors": [
+                "K.-NPang",
+                "S.-LChung",
+                "MHZarrinkoub",
+                "MMKhatib",
+                "SSMohammadi",
+                "H.-YChiu",
+                "C.-HChu",
+                "H.-YLee",
+                "C.-HLo"
+            ],
+            "journal": "Lithos",
+            "date": "2013",
+            "pages": {
+                "from": "234",
+                "to": "251"
+            }
+        },
+        {
+            "title": "Iranian ultrapotassic volcanism at 11 Ma signifies the initiation of post-collisional magmatism in the Arabia-Eurasia collision zone",
+            "authors": [
+                "K.-NPang",
+                "S.-LChung",
+                "MHZarrinkoub",
+                "Y.-CLin",
+                "H.-YLee",
+                "C.-HLo",
+                "MMKhatib"
+            ],
+            "journal": "Terra Nova",
+            "date": "2013",
+            "pages": {
+                "from": "405",
+                "to": "413"
+            }
+        },
+        {
+            "title": "Tectonic implications of the composition of volcanic arc magmas",
+            "authors": [
+                "JAPearce",
+                "DWPeate"
+            ],
+            "journal": "Annu. Rev. Earth Planet. Sci",
+            "date": "1995",
+            "pages": {
+                "from": "251",
+                "to": "285"
+            }
+        },
+        {
+            "title": "Geochemical evidence for subduction fluxes, mantle melting and fractional crystallization beneath the South Sandwich island arc",
+            "authors": [
+                "JAPearce",
+                "PEBaker",
+                "PKHarvey",
+                "IWLuff"
+            ],
+            "journal": "J. Petrol",
+            "date": "1995",
+            "pages": {
+                "from": "1073",
+                "to": "1109"
+            }
+        },
+        {
+            "title": "Geochemistry of Eocene calc-alkaline volcanic rocks from the Kastamonu area, Northern Turkey, Contrib",
+            "authors": [
+                "APeccerillo",
+                "SRTaylor"
+            ],
+            "journal": "Mineral. Petrol",
+            "date": "1976",
+            "pages": {
+                "from": "63",
+                "to": "81"
+            }
+        },
+        {
+            "title": "The Chagai porphyry copper belt",
+            "authors": [
+                "JPerell O",
+                "ARazique",
+                "JSchloderer",
+                "ARehman"
+            ],
+            "journal": "Econ. Geol",
+            "date": "2008",
+            "pages": {
+                "from": "1583",
+                "to": "1612"
+            }
+        },
+        {
+            "title": "Constraints from thorium/lanthanum on sediment recycling at subduction zones and the evolution of the continents",
+            "authors": [
+                "TPlank"
+            ],
+            "journal": "J. Petrol",
+            "date": "2005",
+            "pages": {
+                "from": "921",
+                "to": "944"
+            }
+        },
+        {
+            "title": "The chemical composition of subducting sediment and its consequences for the crust and mantle",
+            "authors": [
+                "TPlank",
+                "CHLangmuir"
+            ],
+            "journal": "Chem. Geol",
+            "date": "1998",
+            "pages": {
+                "from": "325",
+                "to": "394"
+            }
+        },
+        {
+            "title": "Large-scale sediment underplating in the Makran accretionary prism, southwest Pakistan",
+            "authors": [
+                "JPPlatt",
+                "JKLeggett",
+                "JYoung",
+                "HRaza",
+                "SAlam"
+            ],
+            "journal": "Geology",
+            "date": "1985",
+            "pages": {
+                "from": "507",
+                "to": "511"
+            }
+        },
+        {
+            "title": "Magmatic response to the post-accretionary orogenesis within the Alpine-Himalayan belt-Preface",
+            "authors": [
+                "\u00b4Prelevic",
+                "D",
+                "ISeghedi"
+            ],
+            "journal": "Lithos",
+            "date": "2013",
+            "pages": {
+                "from": "180",
+                "to": "181"
+            }
+        },
+        {
+            "title": "Mediterranean Tertiary lamproites derived from multiple source components in postcollisional geodynamics",
+            "authors": [
+                "\u00b4Prelevic",
+                "D",
+                "SFFoley",
+                "RRomer",
+                "SConticelli"
+            ],
+            "journal": "Geochim. Cosmochim. Acta",
+            "date": "2008",
+            "pages": {
+                "from": "2125",
+                "to": "2156"
+            }
+        },
+        {
+            "title": "The Saghand region, central Iran: U-Pb geochronology, petrogenesis and implications for Gondwana tectonics",
+            "authors": [
+                "JRamezani",
+                "RDTucker"
+            ],
+            "journal": "Am. J. Sci",
+            "date": "2003",
+            "pages": {
+                "from": "622",
+                "to": "665"
+            }
+        },
+        {
+            "title": "The transition between Makran subduction and the Zagros collision: Recent advances in its structure and active deformation, in Tectonic and Stratigraphic Evolution of Zagros and Makran During the Mesozoic-Cenozoic",
+            "authors": [
+                "VRegard",
+                "DHatzfeld",
+                "MMolinaro",
+                "CAubourg",
+                "RBayer",
+                "OBellier",
+                "FYamini-Fard",
+                "MPeyret",
+                "MAbbassi"
+            ],
+            "journal": "Geol. Soc. Spec. Publ",
+            "date": "2010",
+            "pages": {
+                "from": "43",
+                "to": "64"
+            }
+        },
+        {
+            "title": "High Sr/Y magmas reflect arc maturity, high magmatic water content, and porphyry Cu 6 Mo 6 Au potential: Examples from the Tethyan arcs of central and eastern Iran and western Pakistan",
+            "authors": [
+                "JPRichards",
+                "TSpell",
+                "ERameh",
+                "ARazique",
+                "TFletcher"
+            ],
+            "journal": "Econ. Geol",
+            "date": "2012",
+            "pages": {
+                "from": "295",
+                "to": "332"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "ALPang",
+                "V C"
+            ],
+            "journal": null,
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Composition of the continental crust",
+            "authors": [
+                "RLRudnick",
+                "SGao"
+            ],
+            "journal": null,
+            "date": "2003",
+            "pages": {
+                "from": "1",
+                "to": "64"
+            }
+        },
+        {
+            "title": "Petrochemistry and genesis of olivine basalts from small monogenetic parasitic cones of Bazman stratovolcano, Makran arc, southeastern Iran",
+            "authors": [
+                "SSaadat",
+                "CRStern"
+            ],
+            "journal": "Lithos",
+            "date": "2011",
+            "pages": {
+                "from": "607",
+                "to": "619"
+            }
+        },
+        {
+            "title": "The granite pluton of Zahedan (SE Iran): A petrological and magnetic fabric study of a syntectonic sill emplaced in a transtensional setting",
+            "authors": [
+                "MSadeghian",
+                "JLBouchez",
+                "A",
+                "RSiqueira",
+                "MVValizadeh"
+            ],
+            "journal": "J. Asian Earth Sci",
+            "date": "2005",
+            "pages": {
+                "from": "301",
+                "to": "327"
+            }
+        },
+        {
+            "title": "Essai sur la structure de l'Iran",
+            "authors": [
+                "JWSchroder"
+            ],
+            "journal": "Eclogae Geol. Helv",
+            "date": "1944",
+            "pages": {
+                "from": "37",
+                "to": "81"
+            }
+        },
+        {
+            "title": "Geochemistry and tectonic development of Cenozoic magmatism in the Carpathian-Pannonian region",
+            "authors": [
+                "ISeghedi",
+                "HDownes"
+            ],
+            "journal": "Gondwana Res",
+            "date": "2011",
+            "pages": {
+                "from": "655",
+                "to": "672"
+            }
+        },
+        {
+            "title": "Origin and assembly of the tethyside orogenic collage at the expense of Gondwana land",
+            "authors": [
+                "AM CS\u00b8eng\u20ac Or",
+                "BANatal'in",
+                ";KS\u00b8eng\u20ac Or",
+                "AM C",
+                "DAltlner",
+                "ACin",
+                "TUstaomer",
+                "KJHsu"
+            ],
+            "journal": null,
+            "date": "1988",
+            "pages": {
+                "from": "119",
+                "to": "181"
+            }
+        },
+        {
+            "title": "The structure and fault activity of the Makran accretionary prism",
+            "authors": [
+                "GSmith",
+                "LMcneill",
+                "TJHenstock",
+                "JBull"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "2012",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Thermal structure and megathrust seismogenic potential of the Makran subduction zone",
+            "authors": [
+                "GLSmith",
+                "LCMcneill",
+                "KWang",
+                "JHe",
+                "TJHenstock"
+            ],
+            "journal": "Geophys. Res. Lett",
+            "date": "2013",
+            "pages": {
+                "from": "1528",
+                "to": "1533"
+            }
+        },
+        {
+            "title": "Energy-constrained open-system magmatic processes I: General model and energy-constrained assimilation and fractional crystallization (EC-AFC) formulation",
+            "authors": [
+                "FJSpera",
+                "WABohrson"
+            ],
+            "journal": "J. Petrol",
+            "date": "2001",
+            "pages": {
+                "from": "999",
+                "to": "1018"
+            }
+        },
+        {
+            "title": "Structural history and tectonics of Iran: A review",
+            "authors": [
+                "JSt\u20ac Ocklin"
+            ],
+            "journal": null,
+            "date": "1968",
+            "pages": {
+                "from": "1229",
+                "to": "1258"
+            }
+        },
+        {
+            "title": "To each plutonic rock its proper name",
+            "authors": [
+                "AStreckeisen"
+            ],
+            "journal": "Earth Sci. Rev",
+            "date": "1976",
+            "pages": {
+                "from": "1",
+                "to": "33"
+            }
+        },
+        {
+            "title": "Chemical and isotopic systematics in ocean basalt: Implication for mantle composition and processes",
+            "authors": [
+                "S.-SSun",
+                "WFMcdonough"
+            ],
+            "journal": null,
+            "date": "1989",
+            "pages": {
+                "from": "313",
+                "to": "345"
+            }
+        },
+        {
+            "title": "Migration of fluid phases and genesis of basalt magmas in subduction zones",
+            "authors": [
+                "YTatsumi"
+            ],
+            "journal": "J. Geophys. Res",
+            "date": "1989",
+            "pages": {
+                "from": "4697",
+                "to": "4707"
+            }
+        },
+        {
+            "title": "Andesites: Orogenic Andesites and Related Rocks",
+            "authors": [
+                "RSThorpe"
+            ],
+            "journal": null,
+            "date": "1982",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "The Sistan suture zone of eastern Iran",
+            "authors": [
+                "RTirrul",
+                "IRBell",
+                "RJGriffis",
+                "VECamp"
+            ],
+            "journal": "Geol. Soc. Am. Bull",
+            "date": "1983",
+            "pages": {
+                "from": "134",
+                "to": "150"
+            }
+        },
+        {
+            "title": "Present-day crustal deformation and plate kinematics in the Middle East constrained by GPS measurements in Iran and northern Oman",
+            "authors": [
+                "PhVerdant"
+            ],
+            "journal": "Geophys. J. Int",
+            "date": "2004",
+            "pages": {
+                "from": "381",
+                "to": "398"
+            }
+        },
+        {
+            "title": "Late Cenozoic volcanism and rates of active faulting in eastern Iran",
+            "authors": [
+                "RWalker",
+                "PGans",
+                "MBAllen",
+                "JJackson",
+                "MKhatib",
+                "NMarsh",
+                "MZarrinkoub"
+            ],
+            "journal": "Geophys. J. Int",
+            "date": "2009",
+            "pages": {
+                "from": "783",
+                "to": "805"
+            }
+        },
+        {
+            "title": "The Owen basin off the south-east margin of Arabia and the evolution of the Owen fracture zone",
+            "authors": [
+                "RBWhitmarsh"
+            ],
+            "journal": "R. Astron. Soc. Geophys. J",
+            "date": "1979",
+            "pages": {
+                "from": "441",
+                "to": "470"
+            }
+        },
+        {
+            "title": "Igneous Petrogenesis",
+            "authors": [
+                "MWilson"
+            ],
+            "journal": null,
+            "date": "1989",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Major and trace element composition of the depleted MORB mantle (DMM)",
+            "authors": [
+                "RKWorkman",
+                "SRHart"
+            ],
+            "journal": "Earth Planet. Sci. Lett",
+            "date": "2005",
+            "pages": {
+                "from": "53",
+                "to": "72"
+            }
+        },
+        {
+            "title": "A paleogene extensional arc flare-up in Iran",
+            "authors": [
+                "CVerdel",
+                "BPWernicke",
+                "JHassanzadeh",
+                "BGuest"
+            ],
+            "journal": "Tectonics",
+            "date": "2011",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "Zircon U-Pb age and geochemical constraints on the origin of the Birjand ophiolite",
+            "authors": [
+                "MHZarrinkoub",
+                "K.-NPang",
+                "S.-LChung",
+                "MMKhatib",
+                "SSMohammadi",
+                "H.-YChiu",
+                "H.-YLee"
+            ],
+            "journal": null,
+            "date": "2012",
+            "pages": {
+                "from": "392",
+                "to": "405"
+            }
+        },
+        {
+            "title": "Evidence for a widespread Tethyan upper mantle with Indian-Ocean-type isotopic characteristics",
+            "authors": [
+                "S.-QZhang",
+                "JJMahoney",
+                "X.-XMo",
+                "AMGhazi",
+                "LMilani",
+                "AJCrawford",
+                "T.-YGuo",
+                "Z.-DZhao"
+            ],
+            "journal": "J. Petrol",
+            "date": "2005",
+            "pages": {
+                "from": "829",
+                "to": "858"
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "GeophysicsGeochemistry"
+            ],
+            "journal": null,
+            "date": null,
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        },
+        {
+            "title": "",
+            "authors": [
+                "ALPang",
+                "V C"
+            ],
+            "journal": null,
+            "date": "2014",
+            "pages": {
+                "from": null,
+                "to": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+2025-01-24 03:48:36,699 - Main Pipeline - INFO - Starting graph retrieval...
+2025-01-24 03:48:36,699 - Main Pipeline - INFO - Retrieving data for entity: Mantle source compositions
+2025-01-24 03:48:36,723 - Neo4j Service - ERROR - Error retrieving data from Neo4j: Cannot resolve address 9121eafe.databases.neo4j.io:7687
+2025-01-24 03:48:36,724 - Main Pipeline - INFO - Results: []
+2025-01-24 03:48:36,725 - Main Pipeline - INFO - Searching relationships with metadata value: 67922989e5f7297f1919ff34_chunk_1_0
+2025-01-24 03:48:36,725 - Neo4j Service - ERROR - Error retrieving data from Neo4j by metadata: Cannot resolve address 9121eafe.databases.neo4j.io:7687
+2025-01-24 03:48:36,726 - Main Pipeline - INFO - Metadata results: []
+2025-01-24 03:50:40,299 - Main Pipeline - INFO - Starting graph retrieval...
+2025-01-24 03:50:40,299 - Main Pipeline - INFO - Retrieving data for entity: Mantle source compositions
+2025-01-24 03:50:40,718 - Main Pipeline - INFO - Results: []
+2025-01-24 03:50:40,718 - Main Pipeline - INFO - Searching relationships with metadata value: 67922989e5f7297f1919ff34_chunk_1_0
+2025-01-24 03:50:40,811 - Main Pipeline - INFO - Metadata results: []
+2025-01-24 04:00:52,383 - Main Pipeline - INFO - Starting graph retrieval...
+2025-01-24 04:00:52,383 - Main Pipeline - INFO - Retrieving subgraph context for entity: Mantle source compositions
+2025-01-24 04:00:52,383 - Neo4j Service - ERROR - Error retrieving subgraph context for entity 'Mantle source compositions': Cannot resolve address <your-instance-id>.databases.neo4j.io:7687
+2025-01-24 04:00:52,383 - Main Pipeline - INFO - Retrieved context: {'entities': [], 'relations': []}
+2025-01-24 04:00:52,383 - Main Pipeline - INFO - Formatted context: []
+2025-01-24 04:02:42,335 - Main Pipeline - INFO - Starting graph retrieval...
+2025-01-24 04:02:42,350 - Main Pipeline - INFO - Retrieving subgraph context for entity: Mantle source compositions
+2025-01-24 04:02:43,216 - Main Pipeline - INFO - Retrieved context: {'entities': [], 'relations': []}
+2025-01-24 04:02:43,216 - Main Pipeline - INFO - Formatted context: []
+2025-01-24 04:07:20,443 - Main Pipeline - INFO - Starting graph retrieval...
+2025-01-24 04:07:20,443 - Main Pipeline - INFO - Retrieving subgraph context for entity: Paleogene magmatic activity
+2025-01-24 04:07:20,864 - Main Pipeline - INFO - Retrieved context: {'entities': ['Paleogene magmatic activity', 'Urumieh-Dohktar magmatic arc, the Alborz ranges, and the Lut-Sistan region'], 'relations': [{'subject': 'Paleogene magmatic activity', 'predicate': 'RELATION', 'object': 'Urumieh-Dohktar magmatic arc, the Alborz ranges, and the Lut-Sistan region'}, {'subject': 'Paleogene magmatic activity', 'predicate': 'RELATION', 'object': 'Urumieh-Dohktar magmatic arc, the Alborz ranges, and the Lut-Sistan region'}]}
+2025-01-24 04:07:20,866 - Main Pipeline - INFO - Formatted context: ['Paleogene magmatic activity RELATION Urumieh-Dohktar magmatic arc, the Alborz ranges, and the Lut-Sistan region', 'Paleogene magmatic activity RELATION Urumieh-Dohktar magmatic arc, the Alborz ranges, and the Lut-Sistan region']
+2025-01-24 12:24:09,019 - Main Pipeline - INFO - Starting graph retrieval...
+2025-01-24 12:24:09,019 - Main Pipeline - INFO - Retrieving subgraph context for entity: Mantle source compositions
+2025-01-24 12:24:09,346 - Main Pipeline - INFO - Retrieved context: {'entities': [], 'relations': []}
+2025-01-24 12:24:09,346 - Main Pipeline - INFO - Formatted context: []
+2025-01-24 12:25:25,410 - Main Pipeline - INFO - Starting graph retrieval...
+2025-01-24 12:25:25,410 - Main Pipeline - INFO - Retrieving subgraph context for entity: Paleogene magmatic activity
+2025-01-24 12:25:25,835 - Main Pipeline - INFO - Retrieved context: {'entities': ['Urumieh-Dohktar magmatic arc, the Alborz ranges, and the Lut-Sistan region', 'Paleogene magmatic activity'], 'relations': [{'subject': 'Paleogene magmatic activity', 'predicate': 'RELATION', 'object': 'Urumieh-Dohktar magmatic arc, the Alborz ranges, and the Lut-Sistan region'}, {'subject': 'Paleogene magmatic activity', 'predicate': 'RELATION', 'object': 'Urumieh-Dohktar magmatic arc, the Alborz ranges, and the Lut-Sistan region'}]}
+2025-01-24 12:25:25,835 - Main Pipeline - INFO - Formatted context: ['Paleogene magmatic activity RELATION Urumieh-Dohktar magmatic arc, the Alborz ranges, and the Lut-Sistan region', 'Paleogene magmatic activity RELATION Urumieh-Dohktar magmatic arc, the Alborz ranges, and the Lut-Sistan region']
+2025-01-24 12:25:52,405 - Main Pipeline - INFO - Starting graph retrieval...
+2025-01-24 12:25:52,405 - Main Pipeline - INFO - Retrieving subgraph context for entity: The model parameters
+2025-01-24 12:25:52,725 - Main Pipeline - INFO - Retrieved context: {'entities': ['an initial magma with 500 ppm Sr and 87 Sr 86 Sr of 0, a felsic assimilant with 156 ppm Sr and 87 Sr 86 Sr of 0.7157, and a mafic assimilant with 300 ppm Sr and 87 Sr 86 Sr of 0.7097', 'The model parameters'], 'relations': [{'subject': 'The model parameters', 'predicate': 'RELATION', 'object': 'an initial magma with 500 ppm Sr and 87 Sr 86 Sr of 0, a felsic assimilant with 156 ppm Sr and 87 Sr 86 Sr of 0.7157, and a mafic assimilant with 300 ppm Sr and 87 Sr 86 Sr of 0.7097'}, {'subject': 'The model parameters', 'predicate': 'RELATION', 'object': 'an initial magma with 500 ppm Sr and 87 Sr 86 Sr of 0, a felsic assimilant with 156 ppm Sr and 87 Sr 86 Sr of 0.7157, and a mafic assimilant with 300 ppm Sr and 87 Sr 86 Sr of 0.7097'}]}
+2025-01-24 12:25:52,725 - Main Pipeline - INFO - Formatted context: ['The model parameters RELATION an initial magma with 500 ppm Sr and 87 Sr 86 Sr of 0, a felsic assimilant with 156 ppm Sr and 87 Sr 86 Sr of 0.7157, and a mafic assimilant with 300 ppm Sr and 87 Sr 86 Sr of 0.7097', 'The model parameters RELATION an initial magma with 500 ppm Sr and 87 Sr 86 Sr of 0, a felsic assimilant with 156 ppm Sr and 87 Sr 86 Sr of 0.7157, and a mafic assimilant with 300 ppm Sr and 87 Sr 86 Sr of 0.7097']
+2025-01-24 14:04:31,968 - Main Pipeline - INFO - Starting graph retrieval...
+2025-01-24 14:04:31,968 - Main Pipeline - INFO - Retrieving subgraph context for entity: Explain the magmatic activity in the Paleogene period.
+2025-01-24 14:04:32,279 - Main Pipeline - INFO - Retrieved context: {'entities': [], 'relations': []}
+2025-01-24 14:04:32,280 - Main Pipeline - INFO - Formatted context: []
+2025-01-24 14:07:07,451 - Main Pipeline - INFO - Starting graph retrieval...
+2025-01-24 14:07:07,451 - Main Pipeline - INFO - Retrieving subgraph context for entity:  magmatic activity
+2025-01-24 14:07:07,756 - Main Pipeline - INFO - Retrieved context: {'entities': [], 'relations': []}
+2025-01-24 14:07:07,756 - Main Pipeline - INFO - Formatted context: []
+2025-01-24 14:08:39,948 - Main Pipeline - INFO - Starting graph retrieval...
+2025-01-24 14:08:39,949 - Main Pipeline - INFO - Retrieving subgraph context for entity: extensive magmatism
+2025-01-24 14:08:40,245 - Main Pipeline - INFO - Retrieved context: {'entities': ['Neotethyan subduction', 'extensive magmatism', 'two magmatic belts subparallel to the Bitlis-Zagros suture'], 'relations': [{'subject': 'extensive magmatism', 'predicate': 'RELATION', 'object': 'Neotethyan subduction'}, {'subject': 'extensive magmatism', 'predicate': 'RELATION', 'object': 'two magmatic belts subparallel to the Bitlis-Zagros suture'}, {'subject': 'extensive magmatism', 'predicate': 'RELATION', 'object': 'Neotethyan subduction'}, {'subject': 'extensive magmatism', 'predicate': 'RELATION', 'object': 'two magmatic belts subparallel to the Bitlis-Zagros suture'}, {'subject': 'extensive magmatism', 'predicate': 'RELATION', 'object': 'Neotethyan subduction'}, {'subject': 'extensive magmatism', 'predicate': 'RELATION', 'object': 'two magmatic belts subparallel to the Bitlis-Zagros suture'}]}
+2025-01-24 14:08:40,245 - Main Pipeline - INFO - Formatted context: ['extensive magmatism RELATION Neotethyan subduction', 'extensive magmatism RELATION two magmatic belts subparallel to the Bitlis-Zagros suture', 'extensive magmatism RELATION Neotethyan subduction', 'extensive magmatism RELATION two magmatic belts subparallel to the Bitlis-Zagros suture', 'extensive magmatism RELATION Neotethyan subduction', 'extensive magmatism RELATION two magmatic belts subparallel to the Bitlis-Zagros suture']
+2025-01-24 14:09:06,390 - Main Pipeline - INFO - Starting graph retrieval...
+2025-01-24 14:09:06,390 - Main Pipeline - INFO - Retrieving subgraph context for entity: magmatism
+2025-01-24 14:09:06,692 - Main Pipeline - INFO - Retrieved context: {'entities': ['magmatism', 'Iran during the Paleozoic'], 'relations': [{'subject': 'magmatism', 'predicate': 'RELATION', 'object': 'Iran during the Paleozoic'}, {'subject': 'magmatism', 'predicate': 'RELATION', 'object': 'Iran during the Paleozoic'}]}
+2025-01-24 14:09:06,692 - Main Pipeline - INFO - Formatted context: ['magmatism RELATION Iran during the Paleozoic', 'magmatism RELATION Iran during the Paleozoic']
